@@ -1,0 +1,13 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+title: भागाः
+contents:
+  - title: शास्त्रम्
+    contents:
+      - url: /shAstra/videos.md
+  - title: Notes Home
+    url: /../notes/
+  - title: Vishvas's home page
+    url: /../
+  - title: Blog
+    url: /assets/blog/
