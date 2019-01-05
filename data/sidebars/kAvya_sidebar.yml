@@ -5,6 +5,23 @@ contents:
   - title: शास्त्रम्
     contents:
       - url: /shAstra/videos.md
+  - title: स्वोपज्ञम्
+    contents:
+      - title: पद्यम्
+        contents:
+          - title: संयमः
+            contents:
+              - url: dir://sviiyam/padya/saMyama
+          - title: यात्रा
+            contents:
+              - url: dir://sviiyam/padya/yAtrA/
+          - title: स्तोत्रम्
+            contents:
+              - url: dir://sviiyam/padya/stotra/
+          - title: शृङ्गारम्
+            contents:
+              - url: dir://sviiyam/padya/shRngAra/
+          - url: dir://sviiyam/padya/
   - title: Notes Home
     url: /../notes/
   - title: Vishvas's home page
