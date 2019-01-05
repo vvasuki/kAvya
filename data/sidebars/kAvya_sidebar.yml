@@ -5,6 +5,13 @@ contents:
   - title: शास्त्रम्
     contents:
       - url: /shAstra/videos.md
+  - title: टीकाः
+    contents:
+      - title: पद्यम्
+        contents:
+          - title: कालिदासः
+            contents:
+              - url: dir://TIkA/padya/kAlidAsa
   - title: स्वोपज्ञम्
     contents:
       - title: पद्यम्
