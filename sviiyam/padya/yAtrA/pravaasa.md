@@ -10,4 +10,3 @@ title: प्रवास-काव्यम्
 
 [अत्र](https://docs.google.com/document/d/1_OI-gmCOzNTh8Thfbm_RB4-KKKAq7xxiolIpU3ankM8/pub)।
 
-## डोय्चदेशप्रवासः।
