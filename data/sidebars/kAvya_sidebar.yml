@@ -11,7 +11,12 @@ contents:
         contents:
           - title: कालिदासः
             contents:
-              - url: dir://TIkA/padya/kAlidAsa
+              - title: रघुवंशम्
+                contents:
+                  - url: dir://TIkA/padya/kAlidAsa/raghuvaMsha
+              - title: मेघदूतम्
+                contents:
+                  - url: dir://TIkA/padya/kAlidAsa/meghadUta
   - title: स्वोपज्ञम्
     contents:
       - title: पद्यम्
