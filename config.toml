@@ -4,6 +4,7 @@ title = "काव्ये विश्वासटिप्पणयः"
 theme = "sanskrit-documentation-theme-hugo"
 publishDir = "docs"
 disablePathToLower = true
+canonifyURLs = true
 [params]
   githubEditMePathBase = "https://github.com/vvasuki/kAvya/edit/master/content/"
   contactLink = "https://github.com/vvasuki/kAvya/issues/new"
