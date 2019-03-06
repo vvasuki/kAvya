@@ -34,4 +34,4 @@ deploy:
         host: github.com
     - lukevivier/gh-pages:
             token: $GIT_TOKEN
-            basedir: docs
+            basedir: build_github
