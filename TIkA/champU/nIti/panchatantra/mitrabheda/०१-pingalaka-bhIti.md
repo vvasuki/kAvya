@@ -25,11 +25,20 @@ practice_weight: 0
 तत्र दमनकोऽब्रवीत् -  
 भद्र करटक अयं तावदस्मत्स्वामी पिङ्गलक उदकग्रहणार्थं यमुनाकच्छमवतीर्य स्थितः । स किंनिमित्तं पिपासाकुलोऽपि निवृत्त्य व्यूहरचनां विधाय दौर्मनस्येनाभिभूतोऽत्र वटतले स्थितः । 
 
-### अव्यापाराद् वारणम्
 करटक आह -  
 भद्र किमावयोरनेन व्यापारेण । उक्तञ्च यतः -
-<div class="js_include" url="../upakathAH/kIlotpATi-vAnara.md"  newLevelForH1="4" includeTitle="true"> </div>  
+<div class="js_include" url="../upakathAH/kIlotpATi-vAnara.md"  newLevelForH1="3" includeTitle="true"> </div>  
 आवयोर्भक्षितशेष आहारोऽस्त्येव । तत् किमनेन व्यापारेण ।
 
-### अकुत्सितजीवन-प्रशंसा
+दमनक आह - "तत् किं भवानाहारार्थी केवलमेव । तन्न युक्तम् ।"
+
+<div class="js_include" url="../upadeshAH/bhavya-jIvana.md"  newLevelForH1="3" includeTitle="true"> </div>  
+
+करटक आह - आवां तावदप्रधानौ तत्किमावयोरनेन व्यापरेण?
+
+<div class="js_include" url="../upadeshAH/mantraNa-auchitya.md"  newLevelForH1="3" includeTitle="true"> </div>  
+
+दमनक आह - मा मैवं वद ।
+
+<div class="js_include" url="../upadeshAH/rAja-sevA-stuti.md"  newLevelForH1="3" includeTitle="true"> </div>  
 
