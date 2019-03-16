@@ -32,15 +32,15 @@ practice_weight: 0
 
 दमनक आह - "तत् किं भवानाहारार्थी केवलमेव । तन्न युक्तम् ।"
 
-<div class="js_include" url="../upadeshAH/bhavya-jIvana.md"  newLevelForH1="3" includeTitle="true"> </div>  
+<div class="js_include" url="../upadeshAH/artha/bhavya-jIvana.md"  newLevelForH1="3" includeTitle="true"> </div>  
 
 करटक आह - आवां तावदप्रधानौ तत्किमावयोरनेन व्यापरेण?
 
-<div class="js_include" url="../upadeshAH/mantraNa-auchitya.md"  newLevelForH1="3" includeTitle="true"> </div>  
+<div class="js_include" url="../upadeshAH/mantra/mantraNa-auchitya.md"  newLevelForH1="3" includeTitle="true"> </div>  
 
 दमनक आह - मा मैवं वद ।
 
-<div class="js_include" url="../upadeshAH/rAja-sevA-stuti.md"  newLevelForH1="3" includeTitle="true"> </div>  
+<div class="js_include" url="../upadeshAH/sevA/rAja-sevA-stuti.md"  newLevelForH1="3" includeTitle="true"> </div>  
 
 करटक आह - अथ भवान्किं कर्तुमनाः ?
 
@@ -60,22 +60,22 @@ practice_weight: 0
 
 श्रूयतां तच्चेदम् -
 
-<div class="js_include" url="../upadeshAH/sevA-nIti.md"  newLevelForH1="3" includeTitle="true"> </div> 
+<div class="js_include" url="../upadeshAH/sevA/sevA-nIti.md"  newLevelForH1="3" includeTitle="true"> </div> 
 
 करटक आह - अथ भवांस्तत्र गत्वा किं तावत्प्रथमं
 वक्ष्यति तत्तावदुच्यताम् ।
 
 दमनक आह -
 
-<div class="js_include" url="../upadeshAH/vAk-paTutA.md"  newLevelForH1="3" includeTitle="true"> </div> 
+<div class="js_include" url="../upadeshAH/mantra/vAk-paTutA.md"  newLevelForH1="3" includeTitle="true"> </div> 
 
 करटक आह -
 
-<div class="js_include" url="../upadeshAH/sevA-kAThinya.md"  newLevelForH1="3" includeTitle="true"> </div> 
+<div class="js_include" url="../upadeshAH/sevA/sevA-kAThinya.md"  newLevelForH1="3" includeTitle="true"> </div> 
 
 दमनक आह - सत्यमेतत्परम् । किं तु -
 
-<div class="js_include" url="../upadeshAH/svAmi-vashIkaraNa.md"  newLevelForH1="3" includeTitle="true"> </div> 
+<div class="js_include" url="../upadeshAH/sevA/svAmi-vashIkaraNa.md"  newLevelForH1="3" includeTitle="true"> </div> 
 
 करटक आह - यद्येवमभिमतं तर्हि शिवास्ते पन्थानः
 सन्तु । यथाभिलषितमनुष्ठीयताम् । सोऽपि प्रणम्य
