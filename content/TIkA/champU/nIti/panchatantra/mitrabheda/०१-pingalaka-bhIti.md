@@ -62,3 +62,21 @@ practice_weight: 0
 
 <div class="js_include" url="../upadeshAH/sevA-nIti.md"  newLevelForH1="3" includeTitle="true"> </div> 
 
+करटक आह - अथ भवांस्तत्र गत्वा किं तावत्प्रथमं
+वक्ष्यति तत्तावदुच्यताम् ।
+
+दमनक आह -
+
+<div class="js_include" url="../upadeshAH/vAk-paTutA.md"  newLevelForH1="3" includeTitle="true"> </div> 
+
+करटक आह -
+
+<div class="js_include" url="../upadeshAH/sevA-kAThinya.md"  newLevelForH1="3" includeTitle="true"> </div> 
+
+दमनक आह - सत्यमेतत्परम् । किं तु -
+
+<div class="js_include" url="../upadeshAH/svAmi-vashIkaraNa.md"  newLevelForH1="3" includeTitle="true"> </div> 
+
+करटक आह - यद्येवमभिमतं तर्हि शिवास्ते पन्थानः
+सन्तु । यथाभिलषितमनुष्ठीयताम् । सोऽपि प्रणम्य
+पिङ्गलकाभिमुखं प्रतस्थे ।
