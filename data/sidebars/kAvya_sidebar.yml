@@ -30,6 +30,12 @@ contents:
                   - title: मित्रभेदः
                     contents:
                       - url: dir://TIkA/champU/nIti/panchatantra/mitrabheda/
+                  - title: उपकथाः
+                    contents:
+                      - url: dir://TIkA/champU/nIti/panchatantra/upakathAH/
+                  - title: उपदेशाः
+                    contents:
+                      - url: dir://TIkA/champU/nIti/panchatantra/upadeshAH/
   - title: स्वोपज्ञम्
     contents:
       - title: पद्यम्
