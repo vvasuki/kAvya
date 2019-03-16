@@ -20,11 +20,11 @@ practice_weight: 0
 ## वणिक्चिन्ता
 तद्यथानुश्रूयते । अस्ति दक्षिणात्ये जनपदे महिलारोप्यं नाम नगरम् । तत्र धर्मोपार्जितभूरिविभवो वर्धमानको नाम वणिक्पुत्रो बभूव । तस्य कदाचिद्रात्रौ शय्यारूढस्य चिन्ता समुत्पन्ना । यत्प्रभूतेऽपि वित्तेऽर्थोपायाश्चिन्तनीयाः कर्तव्याश्चेति । यत उक्तञ्च -
 
-<div class="js_include" url="../upadeshAH/arthaprashaMsA.md"  newLevelForH1="3" includeTitle="true"> </div>  
+<div class="js_include" url="../upadeshAH/artha/arthaprashaMsA.md"  newLevelForH1="3" includeTitle="true"> </div>  
 
-<div class="js_include" url="../upadeshAH/arthArjana-upAyAH.md"  newLevelForH1="3" includeTitle="true"> </div>  
+<div class="js_include" url="../upadeshAH/artha/arthArjana-upAyAH.md"  newLevelForH1="3" includeTitle="true"> </div>  
 
-<div class="js_include" url="../upadeshAH/vANijya-vibhAgAH.md"  newLevelForH1="3" includeTitle="true"> </div>  
+<div class="js_include" url="../upadeshAH/artha/vANijya-vibhAgAH.md"  newLevelForH1="3" includeTitle="true"> </div>  
 
 
 

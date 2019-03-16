@@ -32,7 +32,15 @@ contents:
                       - url: dir://TIkA/champU/nIti/panchatantra/mitrabheda/
                   - title: उपकथाः
                     contents:
-                      - url: dir://TIkA/champU/nIti/panchatantra/upakathAH/
+                      - title: सेवा
+                        contents:
+                          - url: dir://TIkA/champU/nIti/panchatantra/upakathAH/sevA/
+                      - title: मन्त्रः
+                        contents:
+                          - url: dir://TIkA/champU/nIti/panchatantra/upakathAH/mantra/
+                      - title: अर्थः
+                        contents:
+                          - url: dir://TIkA/champU/nIti/panchatantra/upakathAH/artha/
                   - title: उपदेशाः
                     contents:
                       - url: dir://TIkA/champU/nIti/panchatantra/upadeshAH/
