@@ -20,6 +20,16 @@ contents:
               - title: मेघदूतम्
                 contents:
                   - url: dir://TIkA/padya/kAlidAsa/meghadUta
+      - title: चम्पू
+        contents:
+          - title: नीतिः
+            contents:
+              - title: पञ्चतन्त्रम्
+                contents:
+                  - url: dir://TIkA/champU/nIti/panchatantra/
+                  - title: मित्रभेदः
+                    contents:
+                      - url: dir://TIkA/champU/nIti/panchatantra/mitrabheda/
   - title: स्वोपज्ञम्
     contents:
       - title: पद्यम्
