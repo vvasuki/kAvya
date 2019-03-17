@@ -20,6 +20,11 @@ contents:
               - title: मेघदूतम्
                 contents:
                   - url: dir://TIkA/padya/kAlidAsa/meghadUta
+          - title: महाभारतम्
+            contents:
+              - title: ०१
+                contents:
+                  - url: dir://TIkA/padya/purANa/mahAbhArata-kumbhakoNa/01
       - title: चम्पू
         contents:
           - title: नीतिः
