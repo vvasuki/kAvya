@@ -4,7 +4,10 @@ title: भागाः
 contents:
   - title: शास्त्रम्
     contents:
-      - url: /shAstra/videos.md
+      - url: dir://shAstra/
+      - title: पद्यम्
+        contents:
+          - url: dir://shAstra/alankAra/
   - title: टीकाः
     contents:
       - title: पद्यम्
