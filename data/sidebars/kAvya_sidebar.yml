@@ -28,6 +28,13 @@ contents:
               - title: ०१
                 contents:
                   - url: dir://TIkA/padya/purANa/mahAbhArata-kumbhakoNa/01
+          - title: रामायणम्
+            contents:
+              - title: बालकाण्डम्
+                contents:
+                  - title: ०१
+                    contents:
+                      - url: dir://TIkA/padya/purANa/rAmAyaNa/bAlakANDa/01
       - title: चम्पू
         contents:
           - title: नीतिः
