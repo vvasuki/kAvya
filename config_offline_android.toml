@@ -1,0 +1,11 @@
+baseURL = "file:///storage/emulated/0/notesData/kAvya/"
+languageCode = "en-us"
+title = "काव्ये विश्वासटिप्पणयः"
+theme = "sanskrit-documentation-theme-hugo"
+publishDir = "build_offline_android"
+disablePathToLower = true
+[params]
+  githubEditMePathBase = "https://github.com/vvasuki/kAvya/edit/master/content/"
+  contactLink = "https://github.com/vvasuki/kAvya/issues/new"
+  env = "production"
+  disqusShortcode = "vvasuki-site"
