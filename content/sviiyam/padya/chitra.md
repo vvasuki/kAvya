@@ -1,5 +1,6 @@
 ---
 title: चित्रबन्धः‎
+unicode_script: devanagari
 ---
 
 ## खड्ग-बन्धः
