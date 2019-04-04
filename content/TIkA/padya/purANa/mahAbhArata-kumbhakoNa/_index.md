@@ -7,6 +7,9 @@ unicode_script: devanagari
 ### BORI Critical edition
 सुक्थङ्करपाठे [ऽत्र](http://bombay.indology.info/mahabharata/text/UD/MBh01.txt)।
 
+### गीतामुद्रणशालापाठः
+- [१](https://archive.org/stream/mahabharata01ramauoft#page/572/mode/1up)।
+
 ### कुम्भकोणपाठः
 चित्रीकृतग्रन्थसङ्ग्रहो [ऽत्र](https://archive.org/details/mahAbhArata-kumbhakoNam)।  
 उट्टङ्कितपाठः सदोषो [ऽत्र](https://sanskritdocuments.org/mirrors/mahabharata/mahabharata-sarit.html)।
