@@ -5,7 +5,10 @@ emphasis_as_inline_comments: true
 practice_weight: 0  
 ---  
 
-मुद्रितप्रतिर् अत्र [archive link](https://archive.org/details/mahAbhArata-kumbhakoNam/page/n13)। 
+## परिचयः
+- कुम्भकोणपाठे [ऽत्र](https://archive.org/details/mahAbhArata-kumbhakoNam/page/n13), [अत्र च](https://sanskritdocuments.org/mirrors/mahabharata/mbhK/mahabharata-k-01-sa.html)।
+- सुक्थङ्करपाठे [ऽत्र](http://bombay.indology.info/mahabharata/text/UD/MBh01.txt)।
+- गीताप्रेस्पाठे [ऽत्र](https://archive.org/stream/mahabharata01ramauoft#page/564/mode/2up)।
   
 ## मङ्गलाचरणम्।।  
   
