@@ -26,39 +26,27 @@ contents:
           - title: महाभारतम्
             contents:
               - url: /TIkA/padya/purANa/mahAbhArata-kumbhakoNa/
-              - title: ०१ आदि
-                contents:
-                  - url: dir://TIkA/padya/purANa/mahAbhArata-kumbhakoNa/01
           - title: रामायणम्
             contents:
               - title: बालकाण्डम्
                 contents:
-                  - url: dir://TIkA/padya/purANa/rAmAyaNa/bAlakANDa/
+                  - url: /TIkA/padya/purANa/rAmAyaNa/
       - title: चम्पू
         contents:
           - title: नीतिः
             contents:
               - title: पञ्चतन्त्रम्
                 contents:
-                  - url: dir://TIkA/champU/nIti/panchatantra/
+                  - url: /TIkA/champU/nIti/panchatantra/
                   - title: मित्रभेदः
                     contents:
                       - url: dir://TIkA/champU/nIti/panchatantra/mitrabheda/
                   - title: उपकथाः
                     contents:
-                      - url: dir://TIkA/champU/nIti/panchatantra/upakathAH/
+                      - url: /TIkA/champU/nIti/panchatantra/upakathAH/
                   - title: उपदेशाः
                     contents:
-                      - title: सेवा
-                        contents:
-                          - url: dir://TIkA/champU/nIti/panchatantra/upadeshAH/sevA/
-                      - title: मन्त्रः
-                        contents:
-                          - url: dir://TIkA/champU/nIti/panchatantra/upadeshAH/mantra/
-                      - title: अर्थः
-                        contents:
-                          - url: dir://TIkA/champU/nIti/panchatantra/upadeshAH/artha/
-                      - url: dir://TIkA/champU/nIti/panchatantra/upadeshAH/
+                      - url: /TIkA/champU/nIti/panchatantra/upadeshAH/
   - title: स्वोपज्ञम्
     contents:
       - title: पद्यम्
