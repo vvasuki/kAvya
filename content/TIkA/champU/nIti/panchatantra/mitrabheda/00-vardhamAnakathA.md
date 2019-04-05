@@ -1,5 +1,5 @@
 ---
-title: ०० वर्धमानकयात्रा
+title: १-०० वर्धमानकयात्रा
 unicode_script: devanagari
 emphasis_as_inline_comments: true
 practice_weight: 0

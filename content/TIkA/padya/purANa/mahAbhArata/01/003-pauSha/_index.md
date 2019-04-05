@@ -62,3 +62,9 @@ practice_weight: 0
 स तथा भ्रातॄन्सन्दिश्य तक्षशिलां प्रत्यभिप्रतस्थे॥  
 तं च देशं वशे स्थापयामास॥  
 
+<div class="js_include" url="01-dhaumya-shixA.md"  newLevelForH1="2" includeTitle="true"> </div>  
+
+<div class="js_include" url="02-uttanka-shixA.md"  newLevelForH1="2" includeTitle="true"> </div>  
+
+<div class="js_include" url="03-sarpasatrachodanA.md"  newLevelForH1="2" includeTitle="true"> </div>  
+
