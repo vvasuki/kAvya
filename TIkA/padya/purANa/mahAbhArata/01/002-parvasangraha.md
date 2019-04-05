@@ -1,5 +1,5 @@
 ---  
-title: ००२ पर्वसङ्ग्रहपर्व 
+title: ०१-००२ पर्वसङ्ग्रहपर्व 
 unicode_script: devanagari  
 emphasis_as_inline_comments: true  
 practice_weight: 0  
