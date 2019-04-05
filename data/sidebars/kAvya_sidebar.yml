@@ -37,7 +37,7 @@ contents:
               - url: /TIkA/padya/purANa/rAmAyaNa/
               - title: बालकाण्डम्
                 contents:
-                  - url: /TIkA/padya/purANa/rAmAyaNa/bAlakANDa/
+                  - url: dir://TIkA/padya/purANa/rAmAyaNa/bAlakANDa/
       - title: चम्पू
         contents:
           - title: नीतिः
@@ -45,7 +45,7 @@ contents:
               - title: पञ्चतन्त्रम्
                 contents:
                   - url: /TIkA/champU/nIti/panchatantra/
-                  - title: मित्रभेदः
+                  - title: १-मित्रभेदः
                     contents:
                       - url: dir://TIkA/champU/nIti/panchatantra/mitrabheda/
                   - title: उपकथाः
