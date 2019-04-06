@@ -29,6 +29,9 @@ contents:
               - title: ०१ आदि.
                 contents:
                   - url: dir://TIkA/padya/purANa/mahAbhArata/01/
+                  - title: ००१ अनुक्रमणिका.
+                    contents:
+                      - url: dir://TIkA/padya/purANa/mahAbhArata/01/001-anukramaNikA/
                   - title: ००३ पौष.
                     contents:
                       - url: dir://TIkA/padya/purANa/mahAbhArata/01/003-pauSha/
