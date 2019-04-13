@@ -1,6 +1,7 @@
 ---
-title: १-००१ सङ्क्षेपरामायणम्
+title: 001 सङ्क्षेपरामायणम्
 unicode_script: devanagari
+english_title: 001 nArada briefs vAlmIki about rAma rAmAyaNa in a nutshell
 ---
 
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive
