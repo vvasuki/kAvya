@@ -86,6 +86,9 @@ contents:
             contents:
               - url: dir://sviiyam/padya/shRngAra/
           - url: dir://sviiyam/padya/
+      - title: गद्यम्
+        contents:
+            - url: dir://sviiyam/gadya/
   - title: Notes Home
     url: /../notes/
   - title: Vishvas's home page
