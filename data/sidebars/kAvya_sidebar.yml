@@ -50,9 +50,24 @@ contents:
           - title: रामायणम्
             contents:
               - url: /TIkA/padya/purANa/rAmAyaNa/
-              - title: बालकाण्डम्
+              - title: ०१ बाल.
                 contents:
-                  - url: dir://TIkA/padya/purANa/rAmAyaNa/bAlakANDa/
+                  - url: dir://TIkA/padya/purANa/rAmAyaNa/1_bAla/
+              - title: ०२ अयोध्या.
+                contents:
+                  - url: dir://TIkA/padya/purANa/rAmAyaNa/2_ayodhyA/
+              - title: ०३ अरण्य.
+                contents:
+                  - url: dir://TIkA/padya/purANa/rAmAyaNa/3_araNya/
+              - title: ०४ किष्किन्धा.
+                contents:
+                  - url: dir://TIkA/padya/purANa/rAmAyaNa/4_kiShkindhA/
+              - title: ०५ सुन्दर.
+                contents:
+                  - url: dir://TIkA/padya/purANa/rAmAyaNa/5_sundara/
+              - title: ०६ युद्ध.
+                contents:
+                  - url: dir://TIkA/padya/purANa/rAmAyaNa/6_yuddha/
       - title: चम्पू
         contents:
           - title: नीतिः
