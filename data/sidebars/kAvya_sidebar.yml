@@ -47,11 +47,17 @@ contents:
                   - title: ०१४ राज्यलाभ.
                     contents:
                       - url: dir://TIkA/padya/purANa/mahAbhArata/01/014-vidurAgama-rAjyalAbha/
-#          - title: रामायणम्
-#            contents:
+          - title: रामायणम्
+            contents:
 #              - url: /TIkA/padya/purANa/rAmAyaNa/
-#              - title: ०१ बाल.
-#                contents:
+              - title: ०१ बाल.
+                contents:
+                  - title: ०१ कथामुखम्
+                    contents:
+                      - url: dir://TIkA/padya/purANa/rAmAyaNa/1_bAla/01-kathAmukha
+                  - title: ०२ पुत्रकामः
+                    contents:
+                      - url: dir://TIkA/padya/purANa/rAmAyaNa/1_bAla/02-putrakAma
 #                  - url: dir://TIkA/padya/purANa/rAmAyaNa/1_bAla/
 #              - title: ०२ अयोध्या.
 #                contents:
