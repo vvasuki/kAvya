@@ -1,7 +1,7 @@
 ---
 title: संस्कृतम्
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 संस्कृतस्याभवद्रक्षा कथं कस्माद् विचिन्त्यताम्।  

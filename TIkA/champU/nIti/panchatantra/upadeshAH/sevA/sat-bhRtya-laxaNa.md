@@ -1,7 +1,7 @@
 ---
 title: सद्भृत्यलक्षणम्
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 practice_weight: 0
 ---
 

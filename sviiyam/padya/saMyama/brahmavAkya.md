@@ -1,7 +1,7 @@
 ---
 title: ब्रह्मवाक्यम्
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 "अहं ब्रह्मास्मि" वाक्यं वै भणित्वानन्तरे क्षणे।  

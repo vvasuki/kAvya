@@ -1,7 +1,7 @@
 ---
 title: १-०२ पिङ्गलकाश्वासनम्
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 practice_weight: 0
 ---
 

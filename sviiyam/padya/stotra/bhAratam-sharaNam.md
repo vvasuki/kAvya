@@ -1,7 +1,7 @@
 ---
 title: शरणं भव्याद्भुतं भारतम्
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 दिनम् \- मे २०१४  

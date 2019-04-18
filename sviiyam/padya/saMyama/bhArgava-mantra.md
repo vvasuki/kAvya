@@ -1,7 +1,7 @@
 ---
 title: भार्गवाग्निः
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 [![](https://i.imgur.com/gBBeUoH.jpg)](https://i.imgur.com/gBBeUoH.jpg)  

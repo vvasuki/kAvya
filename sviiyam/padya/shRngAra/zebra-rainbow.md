@@ -1,7 +1,7 @@
 ---
 title: जीब्रेन्द्रधनुषोर् वर्णनम्
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 

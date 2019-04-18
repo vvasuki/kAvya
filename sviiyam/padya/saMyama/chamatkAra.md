@@ -1,7 +1,7 @@
 ---
 title: चमत्कारः
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 कालः \- २०१४ डिसेम्बरमासः  

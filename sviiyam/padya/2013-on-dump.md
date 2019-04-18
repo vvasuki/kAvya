@@ -1,7 +1,7 @@
 ---
 title: प्रकीर्णम्
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
   
 ## कुदृष्टिः  
