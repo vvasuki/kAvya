@@ -1,7 +1,7 @@
 ---
 title: चण्डीपादः
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 छन्दः \- स्वागता।

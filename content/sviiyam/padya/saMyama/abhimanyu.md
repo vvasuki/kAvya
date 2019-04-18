@@ -1,7 +1,7 @@
 ---
 title: अभिमन्युः
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 दिनम् \- Nov 14 2013  
 छन्दः \- अनुष्टुभ्  

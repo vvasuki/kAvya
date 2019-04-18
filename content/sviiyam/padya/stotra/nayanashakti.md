@@ -1,7 +1,7 @@
 ---
 title: नयनशक्त्युपासनम् 
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 छन्दः \- द्रुतविलम्बितम्।

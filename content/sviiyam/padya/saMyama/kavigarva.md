@@ -1,7 +1,7 @@
 ---
 title: कविगर्वकुलिशम्
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 मार्गशीर्षः २०१७    
 अनाचारं सदाचारम् अधर्मं धर्ममुत्तमम्।  

@@ -1,7 +1,7 @@
 ---
 title: वैराग्यम्
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 जगत्सर्वं महायन्त्रम् महाकालेन चोदितम्।  

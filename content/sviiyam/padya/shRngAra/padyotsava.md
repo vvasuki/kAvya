@@ -1,7 +1,7 @@
 ---
 title: गणेशवृन्दे पद्योस्तवः
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 दिनम् \- Mar 20 2014  
