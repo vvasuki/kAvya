@@ -1,5 +1,5 @@
 ---
-title: _Intro and miscellenia
+title: +Intro and miscellenia
 ---
 
 ## Tech tips

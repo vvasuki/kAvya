@@ -1,4 +1,4 @@
 ---
-title: _उपदेशाः
+title: +उपदेशाः
 unicode_script: devanagari
 ---
