@@ -1,5 +1,5 @@
 ---  
-title: ०४-०२८ गरुडभक्षः
+title: ०४-०२७ दास्य-निवारण-चिन्ता
 unicode_script: devanagari
 ---  
 
