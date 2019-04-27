@@ -1,5 +1,5 @@
 ---  
-title: ०४-०३४ दास्यसमाप्तिः
+title: ०३४ दास्यसमाप्तिः
 unicode_script: devanagari
 ---  
 

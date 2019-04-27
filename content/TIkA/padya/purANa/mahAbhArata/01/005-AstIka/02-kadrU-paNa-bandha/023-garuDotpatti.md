@@ -1,5 +1,5 @@
 ---  
-title: ०४-०२३ गरुडोत्पत्तिः
+title: ०२३ गरुडोत्पत्तिः
 unicode_script: devanagari
 ---  
 

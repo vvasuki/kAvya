@@ -1,5 +1,5 @@
 ---  
-title: ०४-०१५ आस्तीकोत्पत्तिः
+title: ०१५ आस्तीकोत्पत्तिः
 unicode_script: devanagari
 ---  
 

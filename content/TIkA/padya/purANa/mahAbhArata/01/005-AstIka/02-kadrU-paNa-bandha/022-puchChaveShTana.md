@@ -1,5 +1,5 @@
 ---  
-title: ०४-०२२ पुच्छवेष्टनम्
+title: ०२२ पुच्छवेष्टनम्
 unicode_script: devanagari
 ---  
 

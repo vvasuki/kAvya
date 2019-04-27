@@ -1,5 +1,5 @@
 ---  
-title: ०४-०३३ विष्णुसंयोगः
+title: ०३३ विष्णुसंयोगः
 unicode_script: devanagari
 ---  
 

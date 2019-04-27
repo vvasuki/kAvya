@@ -1,5 +1,5 @@
 ---  
-title: ०४-०१४ जरत्कारु-विवाहः
+title: ०१४ जरत्कारु-विवाहः
 unicode_script: devanagari
 ---  
 

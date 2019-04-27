@@ -1,5 +1,5 @@
 ---  
-title: ०४-०२५ काद्रवसेवा
+title: ०२५ काद्रवसेवा
 unicode_script: devanagari
 ---  
 

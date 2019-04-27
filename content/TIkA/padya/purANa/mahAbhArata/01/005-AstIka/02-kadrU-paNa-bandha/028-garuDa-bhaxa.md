@@ -1,5 +1,5 @@
 ---  
-title: ०४-०२८ गरुडभक्षः
+title: ०२८ गरुडभक्षः
 unicode_script: devanagari
 ---  
 

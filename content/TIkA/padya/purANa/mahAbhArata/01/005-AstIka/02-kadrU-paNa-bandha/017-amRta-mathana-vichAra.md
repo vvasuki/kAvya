@@ -1,5 +1,5 @@
 ---  
-title: ०४-०१७ अमृतमथनविचारः
+title: ०१७ अमृतमथनविचारः
 unicode_script: devanagari
 ---  
 

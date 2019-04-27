@@ -1,5 +1,5 @@
 ---  
-title: ०४-०१६ काश्यपोद्भवः
+title: ०१६ काश्यपोद्भवः
 unicode_script: devanagari
 ---  
 

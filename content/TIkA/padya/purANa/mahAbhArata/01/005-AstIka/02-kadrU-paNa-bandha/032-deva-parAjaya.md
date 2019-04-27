@@ -1,5 +1,5 @@
 ---  
-title: ०४-०३२ देवपराजयः
+title: ०३२ देवपराजयः
 unicode_script: devanagari
 ---  
 
