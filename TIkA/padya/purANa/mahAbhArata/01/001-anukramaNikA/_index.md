@@ -1,5 +1,5 @@
 ---  
-title: +०१-००१ अनुक्रमणिका  
+title: +००१ अनुक्रमणिका  
 unicode_script: devanagari  
   
 practice_weight: 0  
