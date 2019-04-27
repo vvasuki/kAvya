@@ -1,5 +1,5 @@
 ---  
-title: ०४-०४० परीक्षित्-पापम्
+title: ०४० परीक्षित्-पापम्
 unicode_script: devanagari
 ---  
 

@@ -1,5 +1,5 @@
 ---  
-title: ०४-०३६ शेषकथा
+title: ०३६ शेषकथा
 unicode_script: devanagari
 ---  
 

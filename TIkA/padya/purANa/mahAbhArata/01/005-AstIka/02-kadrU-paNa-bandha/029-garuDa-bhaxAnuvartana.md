@@ -1,5 +1,5 @@
 ---  
-title: ०४-०२९ गरुडभक्षानुवर्तनम्
+title: ०२९ गरुडभक्षानुवर्तनम्
 unicode_script: devanagari
 ---  
 

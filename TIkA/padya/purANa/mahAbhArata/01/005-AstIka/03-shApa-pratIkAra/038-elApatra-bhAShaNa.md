@@ -1,5 +1,5 @@
 ---  
-title: ०४-०३८ एलापत्रभाषणम्
+title: ०३८ एलापत्रभाषणम्
 unicode_script: devanagari
 ---  
 

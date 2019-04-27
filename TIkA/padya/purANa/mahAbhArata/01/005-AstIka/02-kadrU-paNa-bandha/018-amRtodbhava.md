@@ -1,5 +1,5 @@
 ---  
-title: ०४-०१८ अमृतोद्भवः
+title: ०१८ अमृतोद्भवः
 unicode_script: devanagari
 ---  
 

@@ -1,5 +1,5 @@
 ---  
-title: ०४-०३७ सर्पमन्त्रणम्
+title: ०३७ सर्पमन्त्रणम्
 unicode_script: devanagari
 ---  
 

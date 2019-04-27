@@ -1,5 +1,5 @@
 ---  
-title: ०४-०३१ गरुडराजत्वम्
+title: ०३१ गरुडराजत्वम्
 unicode_script: devanagari
 ---  
 

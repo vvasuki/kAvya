@@ -1,5 +1,5 @@
 ---  
-title: ०४-०२१ समुद्रगमनम्
+title: ०२१ समुद्रगमनम्
 unicode_script: devanagari
 ---  
 

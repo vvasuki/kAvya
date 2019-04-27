@@ -1,5 +1,5 @@
 ---  
-title: ०४-०२४ अरुणनियोगः
+title: ०२४ अरुणनियोगः
 unicode_script: devanagari
 ---  
 

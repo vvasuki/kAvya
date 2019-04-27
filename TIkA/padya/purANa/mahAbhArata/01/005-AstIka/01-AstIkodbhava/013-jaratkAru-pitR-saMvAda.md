@@ -1,5 +1,5 @@
 ---  
-title: ०४-०१३ जरत्कारु-पितृसंवादः
+title: ०१३ जरत्कारु-पितृसंवादः
 unicode_script: devanagari
 ---  
 

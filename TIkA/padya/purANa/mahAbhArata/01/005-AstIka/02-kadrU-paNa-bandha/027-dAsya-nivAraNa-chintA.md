@@ -1,5 +1,5 @@
 ---  
-title: ०४-०२७ दास्य-निवारण-चिन्ता
+title: ०२७ दास्य-निवारण-चिन्ता
 unicode_script: devanagari
 ---  
 

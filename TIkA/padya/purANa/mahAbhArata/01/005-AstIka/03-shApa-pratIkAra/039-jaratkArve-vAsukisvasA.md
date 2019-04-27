@@ -1,5 +1,5 @@
 ---  
-title: ०४-०३९ जरत्कार्वे वासुकिस्वसा
+title: ०३९ जरत्कार्वे वासुकिस्वसा
 unicode_script: devanagari
 ---  
 

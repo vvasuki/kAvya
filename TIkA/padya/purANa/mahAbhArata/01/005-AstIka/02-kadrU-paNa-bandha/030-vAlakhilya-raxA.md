@@ -1,5 +1,5 @@
 ---  
-title: ०४-०३० वालखिल्यरक्षा
+title: ०३० वालखिल्यरक्षा
 unicode_script: devanagari
 ---  
 

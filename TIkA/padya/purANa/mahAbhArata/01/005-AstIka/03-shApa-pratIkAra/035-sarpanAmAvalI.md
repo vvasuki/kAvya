@@ -1,5 +1,5 @@
 ---  
-title: ०४-०३५ सर्पनामावली
+title: ०३५ सर्पनामावली
 unicode_script: devanagari
 ---  
 

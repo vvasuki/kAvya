@@ -1,5 +1,5 @@
 ---  
-title: ०४-०१९ दैत्यपराजयः
+title: ०१९ दैत्यपराजयः
 unicode_script: devanagari
 ---  
 

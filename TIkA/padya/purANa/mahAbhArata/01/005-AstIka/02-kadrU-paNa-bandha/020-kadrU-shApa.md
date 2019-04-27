@@ -1,5 +1,5 @@
 ---  
-title: ०४-०२० कद्रूशापः
+title: ०२० कद्रूशापः
 unicode_script: devanagari
 ---  
 

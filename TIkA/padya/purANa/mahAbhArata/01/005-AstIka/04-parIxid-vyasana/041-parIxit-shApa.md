@@ -1,5 +1,5 @@
 ---  
-title: ०४-०४१ परीक्षित्-शापः
+title: ०४१ परीक्षित्-शापः
 unicode_script: devanagari
 ---  
 
