@@ -41,9 +41,12 @@ contents:
                   - title: ००५ आस्तीक.
                     contents:
                       - url: dir://TIkA/padya/purANa/mahAbhArata/01/005-AstIka/
-                  - title: ००८ सम्भव.
+                  - title: ००६ अंशावतरण.
                     contents:
-                      - url: dir://TIkA/padya/purANa/mahAbhArata/01/008-sambhava/
+                      - url: dir://TIkA/padya/purANa/mahAbhArata/01/006-aMshAvatarana/
+                  - title: ००७ सम्भव.
+                    contents:
+                      - url: dir://TIkA/padya/purANa/mahAbhArata/01/007-sambhava/
                   - title: ०१३ वैवाहिक.
                     contents:
                       - url: dir://TIkA/padya/purANa/mahAbhArata/01/013-vaivAhika/
