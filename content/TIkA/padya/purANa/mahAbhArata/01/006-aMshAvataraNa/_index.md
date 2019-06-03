@@ -1,4 +1,4 @@
 ---
-title: +०६ अंशावतरणपर्व
+title: +००६ अंशावतरणपर्व
 unicode_script: devanagari
 ---

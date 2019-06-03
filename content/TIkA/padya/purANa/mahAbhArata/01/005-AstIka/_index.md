@@ -1,4 +1,4 @@
 ---
-title: +०५ आस्तीकपर्व
+title: +००५ आस्तीकपर्व
 unicode_script: devanagari
 ---
