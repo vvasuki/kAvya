@@ -1,9 +1,9 @@
----  
+---
 title: +००३ पौषपर्व 
 unicode_script: devanagari  
   
 practice_weight: 0  
----  
+---
 
 ## परिचयः
 - कुम्भकोणपाठे [ऽत्र](https://archive.org/details/mahAbhArata-kumbhakoNam/page/n13), [अत्र च](https://sanskritdocuments.org/mirrors/mahabharata/mbhK/mahabharata-k-01-sa.html)।
