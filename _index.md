@@ -1,4 +1,4 @@
----    
+---
 title: +काव्यम्  
 unicode_script: devanagari  
   
@@ -6,7 +6,7 @@ outputs:
   - html
   - rss
   - json
----    
+---
 
 अत्र काव्यास्वादनं स्वओपज्ञकाव्यप्रस्तुतिश्च।
 
