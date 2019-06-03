@@ -1,4 +1,5 @@
 ---
-title: ०६४ व्यासोत्पत्तिः
+title: १०५ गङ्गा-पुत्र-हननम्
 unicode_script: devanagari
+
 ---

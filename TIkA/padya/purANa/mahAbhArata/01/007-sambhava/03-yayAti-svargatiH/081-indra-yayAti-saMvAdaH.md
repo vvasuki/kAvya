@@ -1,4 +1,5 @@
 ---
-title: ०६४ व्यासोत्पत्तिः
+title: ०८१ इन्द्र-ययाति-संवादः
 unicode_script: devanagari
+
 ---

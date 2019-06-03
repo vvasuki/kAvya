@@ -1,4 +1,5 @@
 ---
-title: ०६४ व्यासोत्पत्तिः
+title: ०८४ पुनर्जन्म-प्रकार-कथा
 unicode_script: devanagari
+
 ---

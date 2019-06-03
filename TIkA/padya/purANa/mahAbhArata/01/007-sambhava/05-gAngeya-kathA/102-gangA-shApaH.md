@@ -1,4 +1,5 @@
 ---
-title: ०६४ व्यासोत्पत्तिः
+title: १०२ गङ्गा-शापः
 unicode_script: devanagari
+
 ---

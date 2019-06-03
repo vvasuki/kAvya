@@ -1,4 +1,5 @@
 ---
-title: ०६४ व्यासोत्पत्तिः
+title: ११९ गान्धारी-विवाहः
 unicode_script: devanagari
+
 ---

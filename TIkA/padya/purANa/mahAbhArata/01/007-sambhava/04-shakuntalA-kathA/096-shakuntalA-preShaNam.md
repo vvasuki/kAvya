@@ -1,4 +1,5 @@
 ---
-title: ०६४ व्यासोत्पत्तिः
+title: ०९६ शकुन्तला-प्रेषणम्
 unicode_script: devanagari
+
 ---

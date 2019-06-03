@@ -1,4 +1,5 @@
 ---
-title: ०६४ व्यासोत्पत्तिः
+title: १०७ देवदत्त-प्राप्तिः
 unicode_script: devanagari
+
 ---

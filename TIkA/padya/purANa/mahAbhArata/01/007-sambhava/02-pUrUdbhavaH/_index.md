@@ -1,4 +1,5 @@
 ---
-title: +०८ सम्भवपर्व
+title: +०२ पूरूद्भवः
 unicode_script: devanagari
+
 ---

@@ -1,4 +1,5 @@
 ---
-title: ०६४ व्यासोत्पत्तिः
+title: ०८३ अष्टक-संवादः
 unicode_script: devanagari
+
 ---

@@ -1,4 +1,5 @@
 ---
-title: ०६४ व्यासोत्पत्तिः
+title: ११३ नियोग-प्रस्तावः
 unicode_script: devanagari
+
 ---

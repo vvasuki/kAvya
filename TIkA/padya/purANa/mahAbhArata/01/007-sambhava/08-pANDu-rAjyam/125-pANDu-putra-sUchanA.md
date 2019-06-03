@@ -1,4 +1,5 @@
 ---
-title: ०६४ व्यासोत्पत्तिः
+title: १२५ पाण्डु-पुत्र-सूचना
 unicode_script: devanagari
+
 ---

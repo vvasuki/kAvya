@@ -1,4 +1,5 @@
 ---
-title: ०६४ व्यासोत्पत्तिः
+title: ०८६ प्रतर्दन-संवादः
 unicode_script: devanagari
+
 ---

@@ -1,4 +1,5 @@
 ---
-title: ०६४ व्यासोत्पत्तिः
+title: ११८ पाण्डु-राज्यम्
 unicode_script: devanagari
+
 ---

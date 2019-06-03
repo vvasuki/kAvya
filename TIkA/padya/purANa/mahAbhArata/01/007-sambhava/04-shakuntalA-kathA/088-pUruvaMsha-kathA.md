@@ -1,4 +1,5 @@
 ---
-title: ०६४ व्यासोत्पत्तिः
+title: ०८८ पूरुवंश-कथा
 unicode_script: devanagari
+
 ---

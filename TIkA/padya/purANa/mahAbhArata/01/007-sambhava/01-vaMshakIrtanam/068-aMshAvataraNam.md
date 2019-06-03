@@ -1,4 +1,5 @@
 ---
-title: ०६४ व्यासोत्पत्तिः
+title: ०६८ अंशावतरणम्
 unicode_script: devanagari
+
 ---

@@ -1,4 +1,5 @@
 ---
-title: ०६४ व्यासोत्पत्तिः
+title: ०७१ कच-देवयानी-शापः
 unicode_script: devanagari
+
 ---

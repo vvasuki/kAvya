@@ -1,4 +1,5 @@
 ---
-title: ०६४ व्यासोत्पत्तिः
+title: ११६ माण्डव्य-कथा
 unicode_script: devanagari
+
 ---

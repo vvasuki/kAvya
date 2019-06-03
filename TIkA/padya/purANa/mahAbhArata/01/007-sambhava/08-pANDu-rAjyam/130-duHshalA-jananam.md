@@ -1,4 +1,5 @@
 ---
-title: ०६४ व्यासोत्पत्तिः
+title: १३० दुःशला-जननम्
 unicode_script: devanagari
+
 ---

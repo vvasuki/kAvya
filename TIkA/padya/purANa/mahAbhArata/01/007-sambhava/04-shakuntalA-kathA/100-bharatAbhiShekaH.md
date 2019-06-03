@@ -1,4 +1,5 @@
 ---
-title: ०६४ व्यासोत्पत्तिः
+title: १०० भरताभिषेकः
 unicode_script: devanagari
+
 ---

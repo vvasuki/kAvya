@@ -1,4 +1,5 @@
 ---
-title: +०८ सम्भवपर्व
+title: +०८ पाण्डु-राज्यम्
 unicode_script: devanagari
+
 ---
