@@ -1,4 +1,5 @@
 ---
-title: ०६४ व्यासोत्पत्तिः
+title: ०९० दुष्यन्तारण्यगतिः
 unicode_script: devanagari
+
 ---

@@ -1,4 +1,5 @@
 ---
-title: ०६४ व्यासोत्पत्तिः
+title: ०६६ दक्षकन्यावंशावली
 unicode_script: devanagari
+
 ---

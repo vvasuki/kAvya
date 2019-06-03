@@ -1,4 +1,5 @@
 ---
-title: ०६४ व्यासोत्पत्तिः
+title: ०७० कच-कथा
 unicode_script: devanagari
+
 ---

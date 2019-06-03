@@ -1,4 +1,5 @@
 ---
-title: ०६४ व्यासोत्पत्तिः
+title: ०९८ शकुन्तला-विवादः
 unicode_script: devanagari
+
 ---

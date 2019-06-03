@@ -1,4 +1,5 @@
 ---
-title: ०६४ व्यासोत्पत्तिः
+title: ०७६ ययाति-पुत्रोत्पत्तिः
 unicode_script: devanagari
+
 ---

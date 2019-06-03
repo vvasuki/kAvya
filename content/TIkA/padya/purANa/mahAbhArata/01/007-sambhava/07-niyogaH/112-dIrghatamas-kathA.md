@@ -1,4 +1,5 @@
 ---
-title: ०६४ व्यासोत्पत्तिः
+title: ११२ दीर्घतमस्-कथा
 unicode_script: devanagari
+
 ---

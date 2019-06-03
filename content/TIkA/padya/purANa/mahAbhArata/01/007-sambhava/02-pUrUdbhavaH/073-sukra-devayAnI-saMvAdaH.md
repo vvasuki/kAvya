@@ -1,4 +1,5 @@
 ---
-title: ०६४ व्यासोत्पत्तिः
+title: ०७३ सुक्र-देवयानी-संवादः
 unicode_script: devanagari
+
 ---

@@ -1,4 +1,5 @@
 ---
-title: ०६४ व्यासोत्पत्तिः
+title: ०८७ ययाति-द्वितीय-स्वर्गतिः
 unicode_script: devanagari
+
 ---

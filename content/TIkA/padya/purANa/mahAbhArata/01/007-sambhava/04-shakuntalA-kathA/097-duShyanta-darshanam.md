@@ -1,4 +1,5 @@
 ---
-title: ०६४ व्यासोत्पत्तिः
+title: ०९७ दुष्यन्त-दर्शनम्
 unicode_script: devanagari
+
 ---

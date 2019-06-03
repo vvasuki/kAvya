@@ -1,4 +1,5 @@
 ---
-title: ०६४ व्यासोत्पत्तिः
+title: १२७ व्युषिताश्व-कथा
 unicode_script: devanagari
+
 ---

@@ -1,4 +1,5 @@
 ---
-title: ०६४ व्यासोत्पत्तिः
+title: ०७४ शर्मिष्ठा-दास्यम्
 unicode_script: devanagari
+
 ---

@@ -1,4 +1,5 @@
 ---
-title: ०६४ व्यासोत्पत्तिः
+title: १२१ कुन्ती-विवाहः
 unicode_script: devanagari
+
 ---

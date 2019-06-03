@@ -1,4 +1,5 @@
 ---
-title: ०६४ व्यासोत्पत्तिः
+title: १२६ गान्धारी-गर्भः
 unicode_script: devanagari
+
 ---

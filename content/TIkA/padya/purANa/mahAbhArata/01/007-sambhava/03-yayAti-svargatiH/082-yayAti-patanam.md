@@ -1,4 +1,5 @@
 ---
-title: ०६४ व्यासोत्पत्तिः
+title: ०८२ ययाति-पतनम्
 unicode_script: devanagari
+
 ---

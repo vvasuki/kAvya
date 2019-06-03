@@ -1,4 +1,5 @@
 ---
-title: +०८ सम्भवपर्व
+title: १३६ पाण्डु-संस्कारः
 unicode_script: devanagari
+
 ---

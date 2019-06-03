@@ -1,4 +1,5 @@
 ---
-title: ०६४ व्यासोत्पत्तिः
+title: १२४ पाण्डु-तपस्या
 unicode_script: devanagari
+
 ---

@@ -1,4 +1,5 @@
 ---
-title: ०६४ व्यासोत्पत्तिः
+title: १०६ वसु-शापः
 unicode_script: devanagari
+
 ---

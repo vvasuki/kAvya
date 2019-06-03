@@ -1,4 +1,5 @@
 ---
-title: +०८ सम्भवपर्व
+title: +०७ नियोगः
 unicode_script: devanagari
+
 ---

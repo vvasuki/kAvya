@@ -1,4 +1,5 @@
 ---
-title: ०६४ व्यासोत्पत्तिः
+title: ०८५ आश्रम-विवरणम्
 unicode_script: devanagari
+
 ---

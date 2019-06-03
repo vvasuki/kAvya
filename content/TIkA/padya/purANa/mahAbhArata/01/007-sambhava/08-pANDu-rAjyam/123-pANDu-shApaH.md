@@ -1,4 +1,5 @@
 ---
-title: ०६४ व्यासोत्पत्तिः
+title: १२३ पाण्डु-शापः
 unicode_script: devanagari
+
 ---
