@@ -28,31 +28,31 @@ contents:
               - url: /TIkA/padya/purANa/mahAbhArata/
               - title: ०१ आदि.
                 contents:
-                  - url: dir://TIkA/padya/purANa/mahAbhArata/01/
+                  - url: dir://TIkA/padya/purANa/mahAbhArata/01-Adi/
                   - title: ००१ अनुक्रमणिका.
                     contents:
-                      - url: dir://TIkA/padya/purANa/mahAbhArata/01/001-anukramaNikA/
+                      - url: dir://TIkA/padya/purANa/mahAbhArata/01-Adi/001-anukramaNikA/
                   - title: ००३ पौष.
                     contents:
-                      - url: dir://TIkA/padya/purANa/mahAbhArata/01/003-pauSha/
+                      - url: dir://TIkA/padya/purANa/mahAbhArata/01-Adi/003-pauSha/
                   - title: ००४ पौलोम.
                     contents:
-                      - url: dir://TIkA/padya/purANa/mahAbhArata/01/004-pauloma/
+                      - url: dir://TIkA/padya/purANa/mahAbhArata/01-Adi/004-pauloma/
                   - title: ००५ आस्तीक.
                     contents:
-                      - url: dir://TIkA/padya/purANa/mahAbhArata/01/005-AstIka/
+                      - url: dir://TIkA/padya/purANa/mahAbhArata/01-Adi/005-AstIka/
                   - title: ००६ अंशावतरण.
                     contents:
-                      - url: dir://TIkA/padya/purANa/mahAbhArata/01/006-aMshAvatarana/
+                      - url: dir://TIkA/padya/purANa/mahAbhArata/01-Adi/006-aMshAvatarana/
                   - title: ००७ सम्भव.
                     contents:
-                      - url: dir://TIkA/padya/purANa/mahAbhArata/01/007-sambhava/
+                      - url: dir://TIkA/padya/purANa/mahAbhArata/01-Adi/007-sambhava/
                   - title: ०१३ वैवाहिक.
                     contents:
-                      - url: dir://TIkA/padya/purANa/mahAbhArata/01/013-vaivAhika/
+                      - url: dir://TIkA/padya/purANa/mahAbhArata/01-Adi/013-vaivAhika/
                   - title: ०१४ राज्यलाभ.
                     contents:
-                      - url: dir://TIkA/padya/purANa/mahAbhArata/01/014-vidurAgama-rAjyalAbha/
+                      - url: dir://TIkA/padya/purANa/mahAbhArata/01-Adi/014-vidurAgama-rAjyalAbha/
           - title: रामायणम्
             contents:
 #              - url: /TIkA/padya/purANa/rAmAyaNa/
