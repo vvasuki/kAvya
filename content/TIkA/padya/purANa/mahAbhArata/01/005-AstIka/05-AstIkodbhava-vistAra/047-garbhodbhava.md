@@ -1,7 +1,7 @@
----  
+---
 title: ०४७ गर्भोद्भवः
 unicode_script: devanagari
----  
+---
 
 ## 1.47. अध्यायः 047
 

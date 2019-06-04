@@ -1,7 +1,7 @@
----  
+---
 title: ०५८ आस्तीक-वरलाभः
 unicode_script: devanagari
----  
+---
 
 ## 1.58. अध्यायः 058
 

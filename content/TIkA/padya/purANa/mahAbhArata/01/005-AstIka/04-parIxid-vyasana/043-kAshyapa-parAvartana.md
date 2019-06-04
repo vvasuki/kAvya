@@ -1,7 +1,7 @@
----  
+---
 title: ०४३ काश्यप-परावर्तनम्
 unicode_script: devanagari
----  
+---
 
 ## परिचयः
 

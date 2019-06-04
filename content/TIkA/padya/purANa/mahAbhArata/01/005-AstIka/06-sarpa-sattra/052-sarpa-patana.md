@@ -1,7 +1,7 @@
----  
+---
 title: ०५२ सर्प-पतनम्
 unicode_script: devanagari
----  
+---
 
 ## 1.52. अध्यायः 052
 
