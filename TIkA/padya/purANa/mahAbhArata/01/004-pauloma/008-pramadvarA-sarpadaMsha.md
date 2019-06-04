@@ -1,7 +1,7 @@
----  
+---
 title: ०४-००८ प्रमद्वरासर्पदंशः
 unicode_script: devanagari
----  
+---
 
 ## परिचयः
 - कुम्भकोणपाठे [ऽत्र](https://archive.org/details/mahAbhArata-kumbhakoNam/page/n369), [अत्र च](https://sanskritdocuments.org/mirrors/mahabharata/mbhK/mahabharata-k-01-sa.html)।
