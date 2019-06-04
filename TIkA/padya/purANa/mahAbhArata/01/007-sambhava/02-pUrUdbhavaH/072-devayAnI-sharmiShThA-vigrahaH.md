@@ -1,12 +1,8 @@
 ---
 title: ०७२ देवयानी-शर्मिष्ठा-विग्रहः
+unicode_script: devanagari
 
 ---
----  
-title: ०८-०७२ देवयानीशर्मिष्ठाविग्रहः
-unicode_script: devanagari
----  
-
 ## परिचयः
 - कुम्भकोणपाठे [ऽत्र](https://archive.org/details/mahAbhArata-kumbhakoNam/page/n369), [अत्र च](https://sanskritdocuments.org/mirrors/mahabharata/mbhK/mahabharata-k-01-sa.html)।
 - सुक्थङ्करपाठे [ऽत्र](http://bombay.indology.info/mahabharata/text/UD/MBh01.txt)।
