@@ -1,5 +1,5 @@
 ---
-title: +००७ सम्भवपर्व
+title: +००७ सम्भव
 unicode_script: devanagari
 
 ---
