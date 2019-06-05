@@ -28,31 +28,31 @@ contents:
               - url: /TIkA/padya/purANa/mahAbhArata/
               - title: ०१ आदि.
                 contents:
-                  - url: dir://TIkA/padya/purANa/mahAbhArata/01-Adi/
+                  - url: dir://TIkA/padya/purANa/mahAbhArata/01-Adi-parva/
                   - title: ००१ अनुक्रमणिका.
                     contents:
-                      - url: dir://TIkA/padya/purANa/mahAbhArata/01-Adi/001-anukramaNikA/
+                      - url: dir://TIkA/padya/purANa/mahAbhArata/01-Adi-parva/001-anukramaNikA-parva/
                   - title: ००३ पौष.
                     contents:
-                      - url: dir://TIkA/padya/purANa/mahAbhArata/01-Adi/003-pauSha/
+                      - url: dir://TIkA/padya/purANa/mahAbhArata/01-Adi-parva/003-pauSha-parva/
                   - title: ००४ पौलोम.
                     contents:
-                      - url: dir://TIkA/padya/purANa/mahAbhArata/01-Adi/004-pauloma/
+                      - url: dir://TIkA/padya/purANa/mahAbhArata/01-Adi-parva/004-pauloma-parva/
                   - title: ००५ आस्तीक.
                     contents:
-                      - url: dir://TIkA/padya/purANa/mahAbhArata/01-Adi/005-AstIka/
+                      - url: dir://TIkA/padya/purANa/mahAbhArata/01-Adi-parva/005-AstIka-parva/
                   - title: ००६ अंशावतरण.
                     contents:
-                      - url: dir://TIkA/padya/purANa/mahAbhArata/01-Adi/006-aMshAvatarana/
+                      - url: dir://TIkA/padya/purANa/mahAbhArata/01-Adi-parva/006-aMshAvatarana-parva/
                   - title: ००७ सम्भव.
                     contents:
-                      - url: dir://TIkA/padya/purANa/mahAbhArata/01-Adi/007-sambhava/
+                      - url: dir://TIkA/padya/purANa/mahAbhArata/01-Adi-parva/007-sambhava-parva/
                   - title: ०१३ वैवाहिक.
                     contents:
-                      - url: dir://TIkA/padya/purANa/mahAbhArata/01-Adi/013-vaivAhika/
+                      - url: dir://TIkA/padya/purANa/mahAbhArata/01-Adi-parva/013-vaivAhika-parva/
                   - title: ०१४ राज्यलाभ.
                     contents:
-                      - url: dir://TIkA/padya/purANa/mahAbhArata/01-Adi/014-vidurAgama-rAjyalAbha/
+                      - url: dir://TIkA/padya/purANa/mahAbhArata/01-Adi-parva/014-vidurAgama-rAjyalAbha-parva/
           - title: रामायणम्
             contents:
 #              - url: /TIkA/padya/purANa/rAmAyaNa/
