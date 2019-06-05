@@ -1,4 +1,5 @@
 ---
-title: +०२ सभापर्व
+title: +०२ सभा
 unicode_script: devanagari
+
 ---
