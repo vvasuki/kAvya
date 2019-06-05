@@ -1,5 +1,5 @@
 ---
-title: २२० दुर्योधनोपाय
+title: २२० दुर्योधनोपायः
 unicode_script: devanagari
 
 ---

@@ -1,5 +1,5 @@
 ---
-title: २१७
+title: २१७ धार्तराष्ट्र-मन्त्रणम्
 unicode_script: devanagari
 
 ---

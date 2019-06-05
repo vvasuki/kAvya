@@ -1,5 +1,5 @@
 ---
-title: २१४
+title: २१४ पाण्डवाद्युत्पत्तिः
 unicode_script: devanagari
 
 ---
