@@ -1,5 +1,5 @@
 ---
-title: २१८
+title: २१८ दुर्योधनादि-पराजयः
 unicode_script: devanagari
 
 ---
