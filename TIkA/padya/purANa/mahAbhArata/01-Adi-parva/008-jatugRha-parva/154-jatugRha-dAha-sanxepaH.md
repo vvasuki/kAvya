@@ -1,5 +1,5 @@
 ---
-title: १५४ जतुगृह-दाह-सन्क्षेपः
+title: १५४ जतुगृह-दाह-सङ्क्षेपः
 unicode_script: devanagari
 
 ---
