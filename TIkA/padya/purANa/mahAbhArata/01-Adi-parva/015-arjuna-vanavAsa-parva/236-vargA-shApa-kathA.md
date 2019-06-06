@@ -1,5 +1,5 @@
 ---
-title: +०१५ अर्जुन-वनवास-पर्व
+title: २३६ वर्गा-शाप-कथा
 unicode_script: devanagari
 
 ---
