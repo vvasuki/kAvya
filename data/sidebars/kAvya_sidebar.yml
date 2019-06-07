@@ -53,6 +53,12 @@ contents:
                   - title: ०१४ राज्यलाभ.
                     contents:
                       - url: dir://TIkA/padya/purANa/mahAbhArata/01-Adi-parva/014-vidurAgama-rAjyalAbha-parva/
+                  - title: ०१८ खाण्डवदाह.
+                    contents:
+                      - url: dir://TIkA/padya/purANa/mahAbhArata/01-Adi-parva/018-khANDavadAha-parva/
+                  - title: ०१९ मयदर्शन.
+                    contents:
+                      - url: dir://TIkA/padya/purANa/mahAbhArata/01-Adi-parva/019-mayadarshana-parva/
           - title: रामायणम्
             contents:
 #              - url: /TIkA/padya/purANa/rAmAyaNa/
