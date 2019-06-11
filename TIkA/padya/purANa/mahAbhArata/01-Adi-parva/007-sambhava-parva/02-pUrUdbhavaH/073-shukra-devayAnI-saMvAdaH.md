@@ -1,5 +1,5 @@
 ---
-title: ०७३ सुक्र-देवयानी-संवादः
+title: ०७३ शुक्र-देवयानी-संवादः
 unicode_script: devanagari
 
 ---
