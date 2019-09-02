@@ -86,6 +86,12 @@ contents:
 #              - title: ०६ युद्ध.
 #                contents:
 #                  - url: dir://TIkA/padya/purANa/rAmAyaNa/6_yuddha/
+          - title: भागवतम्
+            contents:
+              - url: dir://TIkA/padya/purANa/bhAgavata/
+          - title: सुश्रुतसंहिता
+            contents:
+              - url: dir://TIkA/padya/purANa/sushruta-saMhitA/
       - title: चम्पू
         contents:
           - title: नीतिः
