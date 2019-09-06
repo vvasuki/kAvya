@@ -10,8 +10,7 @@ Good videos are less tedious on the eyes than books - though they often signific
 
   
 
-###   
-Self-contained videos vs series:
+### Self-contained videos vs series:
 
 A series of videos (movies or TV series) is akin to a novel, whereas a self-contained video is akin to a short story. The latter allows greater ability to explore issurs, build characters - they tend to be more intellectually satisfying.
 
