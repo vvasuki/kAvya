@@ -98,6 +98,9 @@ contents:
               - title: ०२ मध्यमचरितम्
                 contents:
                   - url: dir://TIkA/padya/purANa/chaNDI-pAThaH/02-madhyama-charitam
+              - title: ०३ उत्तरचरितम्
+                contents:
+                  - url: dir://TIkA/padya/purANa/chaNDI-pAThaH/03-uttara-charitam
           - title: भागवतम्
             contents:
               - url: dir://TIkA/padya/purANa/bhAgavata/
