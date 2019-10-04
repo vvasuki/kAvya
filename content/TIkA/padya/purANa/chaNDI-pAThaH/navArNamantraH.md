@@ -1,5 +1,5 @@
 ---
-title: नवार्णमन्त्रः
+title: ००७ नवार्णमन्त्रः
 unicode_script: devanagari
 ---
 

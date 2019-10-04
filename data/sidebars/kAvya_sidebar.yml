@@ -89,6 +89,15 @@ contents:
 #              - title: ०६ युद्ध.
 #                contents:
 #                  - url: dir://TIkA/padya/purANa/rAmAyaNa/6_yuddha/
+          - title: चण्डीपाठः
+            contents:
+              - url: dir://TIkA/padya/purANa/chaNDI-pAThaH/
+              - title: ०१ प्रथमचरितम्
+                contents:
+                  - url: dir://TIkA/padya/purANa/chaNDI-pAThaH/01-prathama-charitam
+              - title: ०२ मध्यमचरितम्
+                contents:
+                  - url: dir://TIkA/padya/purANa/chaNDI-pAThaH/02-madhyama-charitam
           - title: भागवतम्
             contents:
               - url: dir://TIkA/padya/purANa/bhAgavata/

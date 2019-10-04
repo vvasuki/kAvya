@@ -1,5 +1,5 @@
 ---
-title: चण्ड्यर्गलास्तोत्रम्
+title: ००२ चण्ड्यर्गलास्तोत्रम्
 unicode_script: devanagari
 ---
 
