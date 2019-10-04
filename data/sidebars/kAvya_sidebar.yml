@@ -91,16 +91,16 @@ contents:
 #                  - url: dir://TIkA/padya/purANa/rAmAyaNa/6_yuddha/
           - title: चण्डीपाठः
             contents:
-              - url: dir://TIkA/padya/purANa/chaNDI-pAThaH/
+              - url: dir://TIkA/padya/purANa/durgA-saptashatI/
               - title: ०१ प्रथमचरितम्
                 contents:
-                  - url: dir://TIkA/padya/purANa/chaNDI-pAThaH/01-prathama-charitam
+                  - url: dir://TIkA/padya/purANa/durgA-saptashatI/01-prathama-charitam
               - title: ०२ मध्यमचरितम्
                 contents:
-                  - url: dir://TIkA/padya/purANa/chaNDI-pAThaH/02-madhyama-charitam
+                  - url: dir://TIkA/padya/purANa/durgA-saptashatI/02-madhyama-charitam
               - title: ०३ उत्तरचरितम्
                 contents:
-                  - url: dir://TIkA/padya/purANa/chaNDI-pAThaH/03-uttara-charitam
+                  - url: dir://TIkA/padya/purANa/durgA-saptashatI/03-uttara-charitam
           - title: भागवतम्
             contents:
               - url: dir://TIkA/padya/purANa/bhAgavata/
