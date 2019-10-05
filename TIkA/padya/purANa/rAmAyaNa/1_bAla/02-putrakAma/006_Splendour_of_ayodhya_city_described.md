@@ -1,5 +1,5 @@
 ---
-title: 006 Splendour of ayodhya city described
+title: 006 राजानुशासनम्
 title_english: 006 Splendour of ayodhya city described
 
 ---

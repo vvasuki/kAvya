@@ -1,5 +1,5 @@
 ---
-title: 075 Legends of shiva and vishnu bows
+title: 075 शिवधनुर्वृत्तान्तम्
 title_english: 075 Legends of shiva and vishnu bows
 
 ---

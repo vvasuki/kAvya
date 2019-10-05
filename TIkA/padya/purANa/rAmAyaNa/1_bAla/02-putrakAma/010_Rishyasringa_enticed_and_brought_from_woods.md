@@ -1,5 +1,5 @@
 ---
-title: 010 Rishyasringa enticed and brought from woods
+title: 010 ऋष्यशृङ्गकथा
 title_english: 010 Rishyasringa enticed and brought from woods
 
 ---

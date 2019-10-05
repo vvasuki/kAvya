@@ -1,5 +1,5 @@
 ---
-title: 012 dasaratha readies to perform asvamedha ritual
+title: 012 अश्वमेधारम्भः
 title_english: 012 dasaratha readies to perform asvamedha ritual
 
 ---

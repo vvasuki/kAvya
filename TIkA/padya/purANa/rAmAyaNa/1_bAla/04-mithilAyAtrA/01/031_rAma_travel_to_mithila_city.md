@@ -1,6 +1,6 @@
 ---
-title: 031 rAma safeguards vishvAmitra s vedic ritual
-title_english: 031 rAma safeguards vishvAmitra s vedic ritual
+title: 031 मिथिला-प्रस्थानम्
+title_english: 031 rAma travel to mithila city
 
 ---
 अथ ताम् रजनीम् तत्र कृतार्थौ राम लक्षणौ ।  

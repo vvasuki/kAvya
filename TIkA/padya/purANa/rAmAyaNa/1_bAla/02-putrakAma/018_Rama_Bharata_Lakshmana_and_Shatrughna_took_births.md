@@ -1,5 +1,5 @@
 ---
-title: 018 Rama Bharata Lakshmana and Shatrughna took births
+title: 018 रामजन्म
 title_english: 018 Rama Bharata Lakshmana and Shatrughna took births
 
 ---

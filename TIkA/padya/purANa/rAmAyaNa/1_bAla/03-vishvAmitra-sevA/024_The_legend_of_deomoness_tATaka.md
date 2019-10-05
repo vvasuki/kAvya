@@ -1,5 +1,5 @@
 ---
-title: 024 The legend of deomoness tATaka
+title: 024 कामाश्रमदर्शनम्
 title_english: 024 The legend of deomoness tATaka
 
 ---

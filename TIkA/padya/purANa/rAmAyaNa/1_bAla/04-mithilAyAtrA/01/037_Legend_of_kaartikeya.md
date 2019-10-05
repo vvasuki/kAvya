@@ -1,5 +1,5 @@
 ---
-title: 037 Legend of kaartikeya
+title: 037 स्कन्दोत्पत्तिः
 title_english: 037 Legend of kaartikeya
 
 ---

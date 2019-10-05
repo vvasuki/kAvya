@@ -1,5 +1,5 @@
 ---
-title: 068 janaka sends message to ayodhya
+title: 068 दशरथागतिः
 title_english: 068 janaka sends message to ayodhya
 
 ---

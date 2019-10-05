@@ -1,5 +1,5 @@
 ---
-title: 005 City ayodhya detailed
+title: 005 अयोध्यावर्णनम्
 title_english: 005 City ayodhya detailed
 
 ---

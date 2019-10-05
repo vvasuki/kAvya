@@ -1,5 +1,5 @@
 ---
-title: 074 parashu rAma s arrival
+title: 074 परशुरामागमनम्
 title_english: 074 parashu rAma s arrival
 
 ---

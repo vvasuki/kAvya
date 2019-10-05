@@ -1,5 +1,5 @@
 ---
-title: 013 ashva medha begun sage vashiSTa s arrangements
+title: 013 यज्ञशाला-प्रवेशः
 title_english: 013 ashva medha begun sage vashiSTa s arrangements
 
 ---

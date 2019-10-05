@@ -1,5 +1,5 @@
 ---
-title: 019 Sage vishvamitra s arrival to take rAma along with him to guard ritual
+title: 019 विश्वामित्रकृत-रामयाचना
 title_english: 019 Sage vishvamitra s arrival to take rAma along with him to guard
   ritual
 

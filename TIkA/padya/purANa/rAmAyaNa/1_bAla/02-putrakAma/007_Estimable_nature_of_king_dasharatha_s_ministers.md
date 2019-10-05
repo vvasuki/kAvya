@@ -1,5 +1,5 @@
 ---
-title: 007 Estimable nature of king dasharatha s ministers
+title: 007 मन्त्रिगुणगौरवम्
 title_english: 007 Estimable nature of king dasharatha s ministers
 
 ---

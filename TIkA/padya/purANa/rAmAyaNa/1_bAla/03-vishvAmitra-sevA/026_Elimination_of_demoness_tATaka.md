@@ -1,5 +1,5 @@
 ---
-title: 026 Elimination of demoness tATaka
+title: 026 ताटकावधः
 title_english: 026 Elimination of demoness tATaka
 
 ---

@@ -1,5 +1,5 @@
 ---
-title: 008 King dasharatha proposes Vedic ritual for progeny
+title: 008 अश्वमेधसन्नाहः
 title_english: 008 King dasharatha proposes Vedic ritual for progeny
 
 ---

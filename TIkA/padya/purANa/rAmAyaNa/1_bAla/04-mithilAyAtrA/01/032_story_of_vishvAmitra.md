@@ -1,6 +1,6 @@
 ---
-title: 032 rAma savel to mithila city
-title_english: 032 rAma savel to mithila city
+title: 032 कैशिकवंशकथा
+title_english: 032 Story of vishvAmitra 
 
 ---
 ब्रह्म योनिर् महान् आसीत् कुशो नाम महातपाः ।  
