@@ -1,5 +1,5 @@
 ---
-title: १०
+title: १० शुम्भवधः
 unicode_script: devanagari
 ---
 
