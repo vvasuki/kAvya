@@ -1,5 +1,5 @@
 ---
-title: 071 janaka s lineage detailed
+title: 071 जनककुलवर्णनम्
 title_english: 071 janaka s lineage detailed
 
 ---

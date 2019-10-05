@@ -1,5 +1,5 @@
 ---
-title: 021 Ire of sage vishvamitra vashiShTha appeases dasharatha
+title: 021 वसिष्ठवचनाद् रामप्रेषणम्
 title_english: 021 Ire of sage vishvamitra vashiShTha appeases dasharatha
 
 ---

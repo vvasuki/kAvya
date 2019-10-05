@@ -1,6 +1,6 @@
 ---
-title: 029 Legend of vAmana narrated
-title_english: 029 Legend of vAmana narrated
+title: 029 सिद्धाश्रमगमनम्
+title_english: 029 Legend of siddha Ashrama
 
 ---
 अथ तस्य अप्रमेयस्य वचनम् परिपृच्छतः ।  

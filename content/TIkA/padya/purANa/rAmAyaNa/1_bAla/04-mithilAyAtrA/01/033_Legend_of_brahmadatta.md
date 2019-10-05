@@ -1,5 +1,5 @@
 ---
-title: 033 Legend of brahmadatta
+title: 033 कुशनाभकन्योद्वाहः
 title_english: 033 Legend of brahmadatta
 
 ---

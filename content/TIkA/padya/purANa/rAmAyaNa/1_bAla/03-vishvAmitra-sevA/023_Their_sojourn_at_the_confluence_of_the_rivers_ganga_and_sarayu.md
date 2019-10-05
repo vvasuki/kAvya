@@ -1,5 +1,5 @@
 ---
-title: 023 Their sojourn at the confluence of the rivers ganga and sarayu
+title: 023 बलातिबलप्राप्तिः
 title_english: 023 Their sojourn at the confluence of the rivers ganga and sarayu
 
 ---

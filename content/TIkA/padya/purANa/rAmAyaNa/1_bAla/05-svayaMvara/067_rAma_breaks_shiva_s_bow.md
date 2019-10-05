@@ -1,5 +1,5 @@
 ---
-title: 067 rAma breaks shiva s bow
+title: 067 शिवधनुर्भङ्गः
 title_english: 067 rAma breaks shiva s bow
 
 ---

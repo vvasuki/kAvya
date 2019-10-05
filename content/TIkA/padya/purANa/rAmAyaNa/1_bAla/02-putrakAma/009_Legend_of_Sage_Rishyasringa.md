@@ -1,5 +1,5 @@
 ---
-title: 009 Legend of Sage Rishyasringa
+title: 009 राज-सूत-संवादः
 title_english: 009 Legend of Sage Rishyasringa
 
 ---

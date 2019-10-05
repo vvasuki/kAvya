@@ -1,5 +1,5 @@
 ---
-title: 036 Legend of Uma and her curse
+title: 036 उमामाहत्यम्
 title_english: 036 Legend of Uma and her curse
 
 ---

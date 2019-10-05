@@ -1,6 +1,6 @@
 
 ---
-title: 015 Rishyashringa officiates putrakAmeShTi ritual for dasharatha
+title: 015 पुत्रकामेष्टिः रावणवधचिन्ता
 title_english: 015 Rishyashringa officiates putrakAmeShTi ritual for dasharatha
 
 ---

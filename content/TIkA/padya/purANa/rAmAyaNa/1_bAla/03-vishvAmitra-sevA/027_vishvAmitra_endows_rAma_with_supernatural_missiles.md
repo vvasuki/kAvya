@@ -1,5 +1,5 @@
 ---
-title: 027 vishvAmitra endows rAma with supernatural missiles
+title: 027 रामायास्त्रप्रदानम्
 title_english: 027 vishvAmitra endows rAma with supernatural missiles
 
 ---

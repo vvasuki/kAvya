@@ -1,5 +1,5 @@
 ---
-title: 017 brahma orders gods to spawn forest rangers vAnarA s
+title: 017 ऋक्षवानरोत्पत्तिः
 title_english: 017 brahma orders gods to spawn forest rangers vAnarA s
 
 ---

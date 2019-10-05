@@ -1,5 +1,5 @@
 ---
-title: 076 parashu rAma s pride is hurt
+title: 076 जामदग्न्यपराजयः
 title_english: 076 parashu rAma s pride is hurt
 
 ---

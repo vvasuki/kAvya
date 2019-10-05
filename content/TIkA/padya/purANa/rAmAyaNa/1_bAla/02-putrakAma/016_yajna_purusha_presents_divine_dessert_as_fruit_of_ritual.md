@@ -1,5 +1,5 @@
 ---
-title: 016 yajna purusha presents divine dessert as fruit of ritual
+title: 016 पायसप्रदानम्
 title_english: 016 yajna purusha presents divine dessert as fruit of ritual
 
 ---

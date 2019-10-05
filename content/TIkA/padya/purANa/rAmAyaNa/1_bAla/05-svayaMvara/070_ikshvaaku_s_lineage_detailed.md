@@ -1,5 +1,5 @@
 ---
-title: 070 ikshvaaku s lineage detailed
+title: 070 दशरथवंशकथनम्
 title_english: 070 ikshvaaku s lineage detailed
 
 ---

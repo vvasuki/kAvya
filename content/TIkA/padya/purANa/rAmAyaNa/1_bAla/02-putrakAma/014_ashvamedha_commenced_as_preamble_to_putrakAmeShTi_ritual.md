@@ -1,5 +1,5 @@
 ---
-title: 014 ashvamedha commenced as preamble to putrakAmeShTi ritual
+title: 014 अश्वमेधयजनम्
 title_english: 014 ashvamedha commenced as preamble to putrakAmeShTi ritual
 
 ---

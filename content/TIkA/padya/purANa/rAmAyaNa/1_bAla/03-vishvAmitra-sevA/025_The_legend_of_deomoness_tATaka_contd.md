@@ -1,5 +1,5 @@
 ---
-title: 025 The legend of deomoness tATaka contd
+title: 025  ताटकावधप्रेरणा
 title_english: 025 The legend of deomoness tATaka contd
 
 ---

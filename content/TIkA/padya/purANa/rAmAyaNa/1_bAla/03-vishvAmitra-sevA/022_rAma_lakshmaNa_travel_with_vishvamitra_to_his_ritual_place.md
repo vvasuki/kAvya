@@ -1,5 +1,5 @@
 ---
-title: 022 rAma lakshmaNa travel with vishvamitra to his ritual place
+title: 022 रामलक्ष्मणनिष्क्रमणम्
 title_english: 022 rAma lakshmaNa travel with vishvamitra to his ritual place
 
 ---

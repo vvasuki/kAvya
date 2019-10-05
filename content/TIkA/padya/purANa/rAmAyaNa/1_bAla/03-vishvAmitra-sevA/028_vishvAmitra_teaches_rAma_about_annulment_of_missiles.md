@@ -1,5 +1,5 @@
 ---
-title: 028 vishvAmitra teaches rAma about annulment of missiles
+title: 028 अस्त्रसंहारोपदेशः
 title_english: 028 vishvAmitra teaches rAma about annulment of missiles
 
 ---

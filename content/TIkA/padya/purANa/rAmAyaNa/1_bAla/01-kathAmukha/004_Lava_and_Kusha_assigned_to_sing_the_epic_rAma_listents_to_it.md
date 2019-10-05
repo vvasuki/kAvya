@@ -1,5 +1,5 @@
 ---
-title: 004 Lava and Kusha assigned to sing the epic rAma listents to it
+title: 004 रामायणगानम्
 title_english: 004 Lava and Kusha assigned to sing the epic rAma listents to it
 
 ---

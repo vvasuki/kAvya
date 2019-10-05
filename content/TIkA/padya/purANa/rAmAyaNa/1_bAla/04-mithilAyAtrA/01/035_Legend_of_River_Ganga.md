@@ -1,5 +1,5 @@
 ---
-title: 035 Legend of River Ganga
+title: 035 गङ्गोत्पत्तिः
 title_english: 035 Legend of River Ganga
 
 ---

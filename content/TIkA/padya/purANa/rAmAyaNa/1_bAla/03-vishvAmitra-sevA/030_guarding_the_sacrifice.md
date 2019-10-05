@@ -1,6 +1,6 @@
 ---
-title: 030 Legend of siddha Ashrama
-title_english: 030 Legend of siddha Ashrama
+title: 030 यज्ञरक्षणम्
+title_english: 030 rAma safeguards vishvAmitra s vedic ritual
 
 ---
 अथ तौ देश कालज्ञौ राजपुत्रौ अरिंदमौ ।  

@@ -1,5 +1,5 @@
 ---
-title: 011 dasaratha brings Rishyasringa to ayodhya
+title: 011 ऋष्यशृङ्गागमनम्
 title_english: 011 dasaratha brings Rishyasringa to ayodhya
 
 ---

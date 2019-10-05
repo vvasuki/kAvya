@@ -1,5 +1,5 @@
 ---
-title: 066 Legend of shiva s bow
+title: 066 शिवधनुर्दर्शनम्
 title_english: 066 Legend of shiva s bow
 
 ---

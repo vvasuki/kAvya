@@ -1,5 +1,5 @@
 ---
-title: 034 Legend of vishvamitra s ancestry
+title: 034 विश्वामित्रवंशकथा
 title_english: 034 Legend of vishvamitra s ancestry
 
 ---
