@@ -3,6 +3,8 @@ title: ०९ निशुम्भवधः
 unicode_script: devanagari
 ---
 
+<div class="audioEmbed"  caption="" src="https://archive.org/download/durgA-saptashatI/09-nishumbha-vadhaH.mp3"></div>
+
 ## ध्यानम् 
 ॐ  
 बन्धूककाञ्चननिभं रुचिराक्षमालां पाशाङ्कुशौ च वरदां निजबाहुदण्डै:।  

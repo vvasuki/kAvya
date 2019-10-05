@@ -3,6 +3,8 @@ title: ००७ नवार्णमन्त्रः
 unicode_script: devanagari
 ---
 
+<div class="audioEmbed"  caption="" src="https://archive.org/download/durgA-saptashatI/00-4-navArNa-mantraH.mp3"></div>
+
 ## मूलमन्त्रः
 ॥ऐं ह्रीं क्लीं चामुण्डायै विच्चे॥
 

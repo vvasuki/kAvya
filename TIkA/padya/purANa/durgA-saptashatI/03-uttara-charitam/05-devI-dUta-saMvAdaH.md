@@ -3,6 +3,8 @@ title: ०५ देवीदूतसंवादः
 unicode_script: devanagari
 ---
 
+<div class="audioEmbed"  caption="" src="https://archive.org/download/durgA-saptashatI/05-devI-dUta-saMvAdaH.mp3"></div>
+
 ## विनियोगः
 ॐ अस्य श्रीउत्तरचरित्रस्य रुद्र ॠषिः, महासरस्वती देवताः, अनुष्टुप् छन्दः, भीमा शक्तिः, भ्रामरी बीजम्, सुर्यस्तत्त्वम्, सामवेद स्वरुपम्, महासरस्वतीप्रीत्यर्थे उत्तरचरित्रपाठे विनियोगः।  
 

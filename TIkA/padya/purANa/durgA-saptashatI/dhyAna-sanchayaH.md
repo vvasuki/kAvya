@@ -3,6 +3,8 @@ title: ध्यान-सञ्चयः
 unicode_script: devanagari
 ---
 
+<div class="audioEmbed"  caption="" src="https://archive.org/download/durgA-saptashatI/00-5-dhyAna-sanchayaH.mp"></div>
+
 
 खड्गं चक्रगदेषुचापपरिधान् शूलं भुशुण्डीं शिरः,  
 शङ्खं सन्दधतीं करैस्त्रिनयनां सर्वाङ्गभूषावृताम्।  

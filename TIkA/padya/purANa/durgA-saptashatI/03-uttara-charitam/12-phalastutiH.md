@@ -3,6 +3,8 @@ title: १२ फलस्तुतिः
 unicode_script: devanagari
 ---
 
+<div class="audioEmbed"  caption="" src="https://archive.org/download/durgA-saptashatI/12-phalastutiH.mp3"></div>
+
 ## ध्यानम्
 ॐ  
 विद्युद्दामसमप्रभां मृगपतिस्कन्धस्थितां भीषणां,

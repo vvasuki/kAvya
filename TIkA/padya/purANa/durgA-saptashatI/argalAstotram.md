@@ -3,6 +3,8 @@ title: ००२ चण्ड्यर्गलास्तोत्रम्
 unicode_script: devanagari
 ---
 
+<div class="audioEmbed"  caption="" src="https://archive.org/download/durgA-saptashatI/00-2-argalAstotram.mp3"></div>
+
 ## प्रस्तावः
 अथ अर्गलास्तोत्रम्
 ॐ अस्य श्रीअर्गलास्तोत्रमन्त्रस्य विष्णुरृषिः, अनुष्टुप् छन्दः,

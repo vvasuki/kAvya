@@ -3,6 +3,9 @@ title: ०८ रक्तबीजवधः
 unicode_script: devanagari
 ---
 
+<div class="audioEmbed"  caption="" src="https://archive.org/download/durgA-saptashatI/08-raktabhIjavadhaH.mp3"></div>
+
+
 ## ध्यानम् 
 ॐ  
 अरुणां करुणातरङ्गिताक्षीं धृतपाशाङ्कुशबाणचापहस्ताम्।  

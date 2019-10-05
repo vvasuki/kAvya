@@ -3,6 +3,7 @@ title: ००५ ब्रह्मस्तुतिः
 tags: [तन्त्रोक्त-रात्रिसूक्तम्]
 ---
 
+<div class="audioEmbed"  caption="" src="https://archive.org/download/durgA-saptashatI/brahma-stutiH.mp3"></div>
 
 
 विश्वेश्वरीं जगद्धात्रीं स्थितिसंहारकारिणीम् ।  

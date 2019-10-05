@@ -4,6 +4,9 @@ tags: [देवीसूक्तम्]
 unicode_script: devanagari
 ---
  
+<div class="audioEmbed"  caption="" src="https://archive.org/download/durgA-saptashatI/deva-prArthanA.mp3"></div>
+<div class="audioEmbed"  caption="" src="https://archive.org/download/durgA-saptashatI/deva-prArthanA-finale.mp3"></div>
+
 देवा ऊचुः॥८॥
 
 नमो देव्यै महादेव्यै शिवायै सततं नमः।  

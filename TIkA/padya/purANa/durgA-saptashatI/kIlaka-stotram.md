@@ -3,6 +3,8 @@ title: ००३ कीलकस्तोत्रम्
 unicode_script: devanagari
 ---
 
+<div class="audioEmbed"  caption="" src="https://archive.org/download/durgA-saptashatI/00-3-kIlakam.mp3"></div>
+
 ## प्रस्तावः
 अथ कीलकस्तोत्रम्॥
 अस्य श्री कीलकमन्त्रस्य शिव ऋषिः अनुष्टुप्छन्दः श्री महासरस्वती देवता  

@@ -3,6 +3,8 @@ title: १३ सुरथवैश्ययोर्वरप्रदानम
 unicode_script: devanagari
 ---
 
+<div class="audioEmbed"  caption="" src="https://archive.org/download/durgA-saptashatI/13-rAja-vaishya-varaH.mp3"></div>
+
 ## ध्यानम्
 ॐ  
 बालार्कमण्डलाभासां चतुर्बाहुं त्रिलोचनाम्।  

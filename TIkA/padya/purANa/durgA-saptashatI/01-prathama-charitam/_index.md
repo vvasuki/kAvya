@@ -3,6 +3,9 @@ title: ०१ मधुकैटभवधः
 unicode_script: devanagari
 ---
 
+<div class="audioEmbed"  caption="" src="https://archive.org/download/durgA-saptashatI/01-prathama-charitam.mp3"></div>
+
+
 ## न्यासः
 अस्य श्रीप्रथमचरित्रस्य ब्रह्मा ऋषिः । महाकाली देवता । गायत्री छन्दः । नन्दा शक्तिः। रक्तदन्तिका बीजम् । अग्निस्तत्त्वम् । ऋग्वेदः स्वरूपम् । श्रीमहाकालीप्रीत्यर्थे प्रथमचरित्रजपे विनियोगः । 
 
