@@ -3,6 +3,8 @@ title: ०६ धूम्रलोचनवधः
 unicode_script: devanagari
 ---
 
+<div class="audioEmbed"  caption="" src="https://archive.org/download/durgA-saptashatI/06-dhUmralochanavadhaH.mp3"></div>
+
 ## ध्यानम् 
 ॐ नागाधीश्वरविष्टरां फणिफणोत्तंसोरुरत्नावली-  
 भास्वद्देहलतां दिवाकरनिभां नेत्रत्रयोद्भासिताम्।  

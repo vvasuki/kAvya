@@ -3,6 +3,8 @@ title: ००१ चण्डीकवचम्
 unicode_script: devanagari
 ---
 
+<div class="audioEmbed"  caption="" src="https://archive.org/download/durgA-saptashatI/00-1-kavacham.mp3"></div>
+
 श्रीगणेशाय नमः ।  
 अस्य श्रीचण्डीकवचस्य ब्रह्मा ऋषिः , अनुष्टुप् छन्दः ,
 चामुण्डा देवता , अङ्गन्यासोक्तमातरो बीजम् ,

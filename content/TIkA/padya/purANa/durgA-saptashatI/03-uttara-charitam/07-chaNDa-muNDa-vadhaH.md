@@ -3,6 +3,8 @@ title: ०७ चण्डमुण्डवधः
 unicode_script: devanagari
 ---
 
+<div class="audioEmbed"  caption="" src="https://archive.org/download/durgA-saptashatI/07-chaNDa-muNDa-vadhaH.mp3"></div>
+
 ## ध्यानम् 
 ध्यायेयं रत्नपीठे शुककलपठितं शृण्वतीं श्यामलाङ्गीं,  
 न्यस्तैकाङि्घ्रं सरोजे शशिशकलधरां वल्लकीं वादयन्तीम्।  

@@ -3,6 +3,8 @@ title: मालनुतिः
 unicode_script: devanagari
 ---
 
+<div class="audioEmbed"  caption="" src="https://archive.org/download/durgA-saptashatI/00-6-mALA-nutiH.mp3 "></div>
+
 ऐं ह्रीं अक्षमालायै नमः ।
 
 महामाये महामाले  

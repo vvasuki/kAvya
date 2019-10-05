@@ -3,6 +3,8 @@ title: ०४ स्तुतिः
 unicode_script: devanagari
 ---
 
+<div class="audioEmbed"  caption="" src="https://archive.org/download/durgA-saptashatI/04-shakrAdistutiH.mp3"></div>
+
 
 ## ध्यानम् 
 ॐ कालाभ्राभां कटाक्षैररिकुलभयदां मौलिबद्धेन्दुरेखां,  

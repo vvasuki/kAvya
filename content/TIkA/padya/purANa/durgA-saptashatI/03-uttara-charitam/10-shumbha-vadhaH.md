@@ -3,6 +3,8 @@ title: १० शुम्भवधः
 unicode_script: devanagari
 ---
 
+<div class="audioEmbed"  caption="" src="https://archive.org/download/durgA-saptashatI/10-shumbha-vadhaH.mp3"></div>
+
 ## ध्यानम् 
 ॐ  
 उत्तप्तहेमरुचिरां रविचन्द्रवह्निनेत्रां धनुश्शरयुताङ्कुशपाशशूलम्।  

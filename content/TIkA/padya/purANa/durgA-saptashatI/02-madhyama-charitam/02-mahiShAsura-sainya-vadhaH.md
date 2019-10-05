@@ -3,6 +3,9 @@ title: ०२ महिषासुरसैन्यवधः
 unicode_script: devanagari
 ---
 
+
+<div class="audioEmbed"  caption="" src="https://archive.org/download/durgA-saptashatI/02-mahiShAsurasainya-vadhaH.mp3"></div>
+
 ## विनियोगः
 ॐ मध्यमचरित्रस्य विष्णुर्ॠषिः, महालक्ष्मीर्देवता, उष्णिक् छ्न्दः, शाकम्भरी शक्तिः, दुर्गा बीजम्, वायुस्तत्त्वम्, यजुर्वेदः स्वरुपम्, श्रीमहालक्ष्मीप्रीत्यर्थेजपे विनियोगः।  
 

@@ -3,6 +3,8 @@ title: ११ देवीस्तुतिः
 unicode_script: devanagari
 ---
 
+<div class="audioEmbed"  caption="" src="https://archive.org/download/durgA-saptashatI/11-devI-stutiH.mp3"></div>
+
 ## ध्यानम् 
 ॐ  
 बालरविद्युतिमिन्दुकिरीटां तुङ्‌गकुचां नयनत्रययुक्ताम्।  
