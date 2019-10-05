@@ -1,5 +1,5 @@
 ---
-title: ०३
+title: ०३ महिषासुरवधः
 unicode_script: devanagari
 ---
 

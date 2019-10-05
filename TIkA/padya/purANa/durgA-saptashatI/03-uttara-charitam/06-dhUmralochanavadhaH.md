@@ -1,5 +1,5 @@
 ---
-title: ०६
+title: ०६ धूम्रलोचनवधः
 unicode_script: devanagari
 ---
 

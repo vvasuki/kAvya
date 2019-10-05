@@ -1,5 +1,5 @@
 ---
-title: १२
+title: १२ फलस्तुतिः
 unicode_script: devanagari
 ---
 

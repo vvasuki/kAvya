@@ -1,5 +1,5 @@
 ---
-title: १३
+title: १३ सुरथवैश्ययोर्वरप्रदानम्
 unicode_script: devanagari
 ---
 

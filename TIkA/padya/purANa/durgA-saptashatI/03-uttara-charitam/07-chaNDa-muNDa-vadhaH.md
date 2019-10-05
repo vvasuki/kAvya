@@ -1,5 +1,5 @@
 ---
-title: ०७
+title: ०७ चण्डमुण्डवधः
 unicode_script: devanagari
 ---
 

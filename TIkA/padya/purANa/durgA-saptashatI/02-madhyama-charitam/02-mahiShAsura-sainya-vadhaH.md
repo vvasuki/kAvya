@@ -1,5 +1,5 @@
 ---
-title: ०२
+title: ०२ महिषासुरसैन्यवधः 
 unicode_script: devanagari
 ---
 
