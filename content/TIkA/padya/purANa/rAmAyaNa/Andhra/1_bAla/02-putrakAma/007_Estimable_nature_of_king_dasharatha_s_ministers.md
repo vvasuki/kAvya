@@ -4,8 +4,6 @@ title_english: 007 Estimable nature of king dasharatha s ministers
 
 ---
 
-
-
   
 तस्यामात्या गुणैरासन्निक्ष्वाकोस्तु महात्मनः।  
 मन्त्रज्ञाश्चेङ्गितज्ञाश्च नित्यं प्रियहिते रताः ॥ 1.7.1 ॥   
