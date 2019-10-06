@@ -3,9 +3,6 @@ title: 014 अश्वमेधयजनम्
 title_english: 014 ashvamedha commenced as preamble to putrakAmeShTi ritual
 
 ---
-
-
-
   
 अथ संवत्सरे पूर्णे तस्मिन् प्राप्ते तुरङ्गमे।  
 सरय्वाश्चोत्तरे तीरे राज्ञो यज्ञोऽभ्यवर्तत ॥ 1.14.1 ॥   
@@ -131,4 +128,5 @@ title_english: 014 ashvamedha commenced as preamble to putrakAmeShTi ritual
 प्रणम्य तस्मै प्रयतो नृपेन्द्र ।  
 जगाम हर्षं परमं महात्मा  
 तम्मुध्यश्रृङ्गं पुनरप्युवाच ॥ १-१४-६०)  
+
 इति वाल्मीकिरामायणे आदिकाव्ये बालकाण्डे चतुर्दशः सर्गः ॥
