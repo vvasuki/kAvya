@@ -73,6 +73,26 @@ contents:
                   - title: ०२ पुत्रकामः
                     contents:
                       - url: dir://TIkA/padya/purANa/rAmAyaNa/Andhra/1_bAla/02-putrakAma
+                  - title: ०३ विश्वामित्रसेवा
+                    contents:
+                      - url: dir://TIkA/padya/purANa/rAmAyaNa/Andhra/1_bAla/03-vishvAmitra-sevA
+                  - title: ०४ मिथिलायात्रा
+                    contents:
+                      - title: ०१
+                        contents:
+                          - url: dir://TIkA/padya/purANa/rAmAyaNa/Andhra/1_bAla/04-mithilAyAtrA/01
+                      - title: ०२ सागरकथा
+                        contents:
+                          - url: dir://TIkA/padya/purANa/rAmAyaNa/Andhra/1_bAla/04-mithilAyAtrA/02-sagara-kathA
+                      - title: ०३
+                        contents:
+                          - url: dir://TIkA/padya/purANa/rAmAyaNa/Andhra/1_bAla/04-mithilAyAtrA/03
+                      - title: ०४ विश्वामित्रकथा
+                        contents:
+                          - url: dir://TIkA/padya/purANa/rAmAyaNa/Andhra/1_bAla/04-mithilAyAtrA/04-vishvAmitra-kathA
+                  - title: ०५ स्वयंवरः
+                    contents:
+                      - url: dir://TIkA/padya/purANa/rAmAyaNa/Andhra/1_bAla/05-svayaMvara
 #                  - url: dir://TIkA/padya/purANa/rAmAyaNa/Andhra/1_bAla/
 #              - title: ०२ अयोध्या.
 #                contents:
