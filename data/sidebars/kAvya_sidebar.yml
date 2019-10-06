@@ -69,26 +69,26 @@ contents:
                 contents:
                   - title: ०१ कथामुखम्
                     contents:
-                      - url: dir://TIkA/padya/purANa/rAmAyaNa/1_bAla/01-kathAmukha
+                      - url: dir://TIkA/padya/purANa/rAmAyaNa/Andhra/1_bAla/01-kathAmukha
                   - title: ०२ पुत्रकामः
                     contents:
-                      - url: dir://TIkA/padya/purANa/rAmAyaNa/1_bAla/02-putrakAma
-#                  - url: dir://TIkA/padya/purANa/rAmAyaNa/1_bAla/
+                      - url: dir://TIkA/padya/purANa/rAmAyaNa/Andhra/1_bAla/02-putrakAma
+#                  - url: dir://TIkA/padya/purANa/rAmAyaNa/Andhra/1_bAla/
 #              - title: ०२ अयोध्या.
 #                contents:
-#                  - url: dir://TIkA/padya/purANa/rAmAyaNa/2_ayodhyA/
+#                  - url: dir://TIkA/padya/purANa/rAmAyaNa/Andhra/2_ayodhyA/
 #              - title: ०३ अरण्य.
 #                contents:
-#                  - url: dir://TIkA/padya/purANa/rAmAyaNa/3_araNya/
+#                  - url: dir://TIkA/padya/purANa/rAmAyaNa/Andhra/3_araNya/
 #              - title: ०४ किष्किन्धा.
 #                contents:
-#                  - url: dir://TIkA/padya/purANa/rAmAyaNa/4_kiShkindhA/
+#                  - url: dir://TIkA/padya/purANa/rAmAyaNa/Andhra/4_kiShkindhA/
 #              - title: ०५ सुन्दर.
 #                contents:
-#                  - url: dir://TIkA/padya/purANa/rAmAyaNa/5_sundara/
+#                  - url: dir://TIkA/padya/purANa/rAmAyaNa/Andhra/5_sundara/
 #              - title: ०६ युद्ध.
 #                contents:
-#                  - url: dir://TIkA/padya/purANa/rAmAyaNa/6_yuddha/
+#                  - url: dir://TIkA/padya/purANa/rAmAyaNa/Andhra/6_yuddha/
           - title: चण्डीपाठः
             contents:
               - url: dir://TIkA/padya/purANa/durgA-saptashatI/
