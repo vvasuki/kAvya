@@ -1,5 +1,5 @@
 ---
-title: 055 vishvamitra ruins vashiSTHa s hermitage
+title: 055 विश्वामित्रास्त्रमोक्षणम्
 title_english: 055 vishvamitra ruins vashiSTHa s hermitage
 
 ---

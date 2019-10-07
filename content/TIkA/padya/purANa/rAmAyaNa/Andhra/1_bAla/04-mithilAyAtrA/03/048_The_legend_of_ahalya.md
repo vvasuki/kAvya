@@ -1,5 +1,5 @@
 ---
-title: 048 The legend of ahalya
+title: 048 अहल्याचरितम्
 title_english: 048 The legend of ahalya
 
 ---

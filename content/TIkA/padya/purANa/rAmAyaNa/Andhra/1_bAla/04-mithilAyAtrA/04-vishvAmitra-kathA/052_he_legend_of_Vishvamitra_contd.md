@@ -1,5 +1,5 @@
 ---
-title: 052 he legend of Vishvamitra contd
+title: 052 वसिष्ठ-विश्वामित्र-संवादः
 title_english: 052 he legend of Vishvamitra contd
 
 ---

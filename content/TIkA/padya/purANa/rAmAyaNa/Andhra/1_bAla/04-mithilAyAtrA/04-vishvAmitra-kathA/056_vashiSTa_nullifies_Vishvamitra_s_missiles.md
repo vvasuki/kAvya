@@ -1,5 +1,5 @@
 ---
-title: 056 vashiSTa nullifies Vishvamitra s missiles
+title: 056 वसिष्ठ-विश्वामित्र-सङ्घर्षः
 title_english: 056 vashiSTa nullifies Vishvamitra s missiles
 
 ---

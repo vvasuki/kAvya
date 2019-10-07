@@ -1,5 +1,5 @@
 ---
-title: 047 The legend of Seven maruts wind gods
+title: 047 मरुदुत्पत्तिः
 title_english: 047 The legend of Seven maruts wind gods
 
 ---

@@ -1,5 +1,5 @@
 ---
-title: 059 trishanku undertakes Vedic ritual
+title: 059 वसिष्ठपुत्रशपनम्
 title_english: 059 trishanku undertakes Vedic ritual
 
 ---

@@ -1,5 +1,5 @@
 ---
-title: 053 vishvamitra tries to gain kaamadhenu
+title: 053 शबला-याचना
 title_english: 053 vishvamitra tries to gain kaamadhenu
 
 ---

@@ -1,5 +1,5 @@
 ---
-title: 050 Redemption of ahalya from her curse cont
+title: 050 मिथिला-गतिः
 title_english: 050 Redemption of ahalya from her curse cont
 
 ---

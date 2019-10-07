@@ -1,5 +1,5 @@
 ---
-title: 057 The Legend of trishanku
+title: 057 त्रिशङ्कोर् यजनप्रार्थना
 title_english: 057 The Legend of trishanku
 
 ---

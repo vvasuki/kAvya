@@ -1,5 +1,5 @@
 ---
-title: 043 River ganga s descent onto earth
+title: 043 गङ्गावतारः
 title_english: 043 River ganga s descent onto earth
 
 ---

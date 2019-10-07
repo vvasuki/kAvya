@@ -1,5 +1,5 @@
 ---
-title: 042 king bhageeratha s effort to bring river ganga ion to the earth
+title: 042 भगीरथ-यत्नः
 title_english: 042 king bhageeratha s effort to bring river ganga ion to the earth
 
 ---
