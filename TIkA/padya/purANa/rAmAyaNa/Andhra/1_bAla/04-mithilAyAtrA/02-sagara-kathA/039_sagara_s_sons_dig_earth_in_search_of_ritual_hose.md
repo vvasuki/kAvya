@@ -1,5 +1,5 @@
 ---
-title: 039 sagara s sons dig earth in search of ritual hose
+title: 039 सगराश्वमेधः
 title_english: 039 sagara s sons dig earth in search of ritual hose
 
 ---

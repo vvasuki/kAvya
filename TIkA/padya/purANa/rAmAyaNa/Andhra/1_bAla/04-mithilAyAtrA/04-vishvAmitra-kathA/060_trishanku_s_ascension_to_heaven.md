@@ -1,5 +1,5 @@
 ---
-title: 060 trishanku s ascension to heaven
+title: 060 त्रिशङ्कुस्वर्गप्राप्तिः
 title_english: 060 trishanku s ascension to heaven
 
 ---

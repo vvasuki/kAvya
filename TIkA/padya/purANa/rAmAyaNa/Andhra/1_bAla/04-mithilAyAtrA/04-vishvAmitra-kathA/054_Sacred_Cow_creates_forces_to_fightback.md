@@ -1,5 +1,5 @@
 ---
-title: 054 Sacred Cow creates forces to fightback
+title: 054 शबलापहरणम्
 title_english: 054 Sacred Cow creates forces to fightback
 
 ---

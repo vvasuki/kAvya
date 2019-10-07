@@ -1,5 +1,5 @@
 ---
-title: 040 Sage kapila burns the sons of sagara
+title: 040 सगर-सुत-विनाशः
 title_english: 040 Sage kapila burns the sons of sagara
 
 ---

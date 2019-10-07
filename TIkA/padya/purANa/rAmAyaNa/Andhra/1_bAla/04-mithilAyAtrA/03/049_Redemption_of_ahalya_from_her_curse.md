@@ -1,5 +1,5 @@
 ---
-title: 049 Redemption of ahalya from her curse
+title: 049 अहल्याशापविमोचनम्
 title_english: 049 Redemption of ahalya from her curse
 
 ---

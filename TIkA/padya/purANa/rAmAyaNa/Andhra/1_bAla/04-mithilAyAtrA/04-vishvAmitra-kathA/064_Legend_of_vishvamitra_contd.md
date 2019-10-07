@@ -1,5 +1,5 @@
 ---
-title: 064 Legend of vishvamitra contd
+title: 064 रम्भा-शाप-प्राप्तिः
 title_english: 064 Legend of vishvamitra contd
 
 ---

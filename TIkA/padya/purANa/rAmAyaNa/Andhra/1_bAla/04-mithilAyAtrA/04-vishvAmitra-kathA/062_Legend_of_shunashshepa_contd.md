@@ -1,5 +1,5 @@
 ---
-title: 062 Legend of shunashshepa contd
+title: 062 अम्बरीशयज्ञः
 title_english: 062 Legend of shunashshepa contd
 
 ---

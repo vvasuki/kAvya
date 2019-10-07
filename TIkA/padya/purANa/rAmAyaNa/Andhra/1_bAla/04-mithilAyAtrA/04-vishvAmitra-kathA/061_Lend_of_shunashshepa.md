@@ -1,6 +1,6 @@
 ---
-title: 061 Lend of shunashshepa
-title_english: 061 Lend of shunashshepa
+title: 061 शुनःशेफकथा
+title_english: 061 Legend of shunashshepa
 
 ---
 विश्वामित्रो महातेजाः प्रस्थितान् वीक्ष्य तान् ऋषीन् ।  

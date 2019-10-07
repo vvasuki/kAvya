@@ -1,5 +1,5 @@
 ---
-title: 065 Legend of vishvamitra concluded
+title: 065 विश्वामित्र-ब्रह्मर्षित्व-प्राप्तिः
 title_english: 065 Legend of vishvamitra concluded
 
 ---

@@ -1,5 +1,5 @@
 ---
-title: 051 The legend of vishvamitra
+title: 051 विश्वामित्र-वंश-वर्णनम्
 title_english: 051 The legend of vishvamitra
 
 ---

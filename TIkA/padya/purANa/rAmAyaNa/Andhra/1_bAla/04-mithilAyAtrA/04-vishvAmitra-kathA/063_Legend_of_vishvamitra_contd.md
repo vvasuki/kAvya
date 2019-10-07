@@ -1,5 +1,5 @@
 ---
-title: 063 Legend of vishvamitra contd
+title: 063 विश्वामित्रतपोनाशः
 title_english: 063 Legend of vishvamitra contd
 
 ---

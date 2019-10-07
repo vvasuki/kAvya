@@ -1,5 +1,5 @@
 ---
-title: 058 trishanku seeks shelter of vishvamitra
+title: 058 त्रिशङ्कुशापः
 title_english: 058 trishanku seeks shelter of vishvamitra
 
 ---

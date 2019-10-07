@@ -1,5 +1,5 @@
 ---
-title: 046 Lady diti seeks for a son to kill Indra
+title: 046 दितिकथा
 title_english: 046 Lady diti seeks for a son to kill Indra
 
 ---
