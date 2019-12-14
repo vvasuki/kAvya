@@ -204,7 +204,7 @@ unicode_script: devanagari
 तुष्टाव योगनिद्रां तामेकाग्रहृदयः स्थितः।  
 विबोधनार्थाय हरेर्हरिनेत्रकृतालयाम्॥७०॥
 
-<div class="js_include" url="../brahma-stutiH.md"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="../brahma-stutiH.md"  newLevelForH1="3" includeTitle="true"> </div>  
 
 ## देवीक्रिया
 ऋषिरुवाच॥८८॥
