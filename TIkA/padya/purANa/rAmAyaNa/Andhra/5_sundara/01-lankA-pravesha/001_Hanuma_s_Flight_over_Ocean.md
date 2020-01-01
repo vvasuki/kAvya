@@ -3,6 +3,7 @@ title: 001 Hanuma s Flight over Ocean
 title_english: 001 Hanuma s Flight over Ocean
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-001-Hanuma_s_Flight_over_Ocean.mp3"></div>
 ततो रावणनीतायाः सीतायाः शत्रुकर्शनः ।  
 इयेष पदमन्वेष्टुं चारणाचरिते पथि ॥५-१-१  
 दुष्करं निष्प्रतिद्वन्द्वं चिकीर्षन् कर्म वानरः ।  

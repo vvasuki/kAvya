@@ -3,6 +3,7 @@ title: 039 Rama mildly admonishes Sugreeva
 title_english: 039 Rama mildly admonishes Sugreeva
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-039-Vanarasena_Samkhya_Nivedanam.mp3"></div>
 इति ब्रुवाणम् सुग्रीवम् रामो धर्मभृताम् वरः ।  
 बाहुभ्याम् संपरिष्वज्य प्रत्युवाच कृतांजलिम् ॥ ३-३९-१  
 यत् इन्द्रो वर्षते वर्षम् न तत् चित्रम् भविष्यति ।  

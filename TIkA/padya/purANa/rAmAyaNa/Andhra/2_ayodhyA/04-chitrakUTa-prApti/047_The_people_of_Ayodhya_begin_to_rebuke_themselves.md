@@ -3,6 +3,7 @@ title: 047 The people of Ayodhya begin to rebuke themselves
 title_english: 047 The people of Ayodhya begin to rebuke themselves
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-047-Pouranam_Prathya_Gamanam.mp3"></div>
 प्रभातायाम् तु शर्वर्याम् पौराः ते राघवो विना ।  
 शोक उपहत निश्चेष्टा बभूवुर् हत चेतसः ॥ २-४७-१  
 शोकज अश्रु परिद्यूना वीक्षमाणाः ततः ततः ।  

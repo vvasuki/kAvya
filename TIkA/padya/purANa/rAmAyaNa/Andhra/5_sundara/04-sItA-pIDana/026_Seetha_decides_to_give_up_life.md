@@ -3,6 +3,7 @@ title: 026 Seetha decides to give up life
 title_english: 026 Seetha decides to give up life
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-026-Seetha_decides_to_give_up_life.mp3"></div>
 प्रसक्ताश्रुमुखी त्वेवं ब्रुवती जनकात्मजा ।  
 अधोगतमुखी बाला विलप्तुमुपचक्रमे ॥ ५-२६-१  
 उन्मत्तेव प्रमत्तेव भ्रान्तचित्तेव शोचती ।  

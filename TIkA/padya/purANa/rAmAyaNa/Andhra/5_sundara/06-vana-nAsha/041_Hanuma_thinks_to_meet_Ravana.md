@@ -3,6 +3,7 @@ title: 041 Hanuma thinks to meet Ravana
 title_english: 041 Hanuma thinks to meet Ravana
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-041-Hanuma_thinks_to_meet_Ravana.mp3"></div>
 स च वाग्भिः प्रशस्ताभिः गमिष्यन् पूजितः तया ।  
 तस्मात् देशात् अपक्रम्य चिन्तयामास वानरः ॥ ५-४१-१  
 अल्प शेषम् इदम् कार्यम् दृष्टा इयम् असित ईक्षणा ।  

@@ -3,6 +3,7 @@ title: 027 Sharana describes the individual strength of the army
 title_english: 027 Sharana describes the individual strength of the army
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-027-Sharana_describes_the_individual_strength_of_the_army_0.mp3"></div>
 तांस्तु ते सम्प्रक्ष्यामि प्रेक्षमाणस्य यूथपान् ।  
 राघव अर्थे पराक्रान्ता ये न रक्षन्ति जीवितम् ॥ ६-२७-१  
 स्निग्धा यस्य बहु श्यामा बाला लान्गूलम् आश्रिताः ।  

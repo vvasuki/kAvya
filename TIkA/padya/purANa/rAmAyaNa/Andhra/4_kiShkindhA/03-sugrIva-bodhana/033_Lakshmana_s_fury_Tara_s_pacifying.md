@@ -3,6 +3,7 @@ title: 033 Lakshmana s fury Tara s pacifying
 title_english: 033 Lakshmana s fury Tara s pacifying
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-033-Tharaya_Lakshmana_Prasadhanam.mp3"></div>
 अथ प्रतिसंआदिष्टो लक्ष्मणः परवीरहा ।  
 प्रविवेश गुहाम् रम्याम् किष्किंधाम् राम शासनात् ॥ ४-३३-१  
 द्वारस्था हरयः तत्र महाकाया महाबलाः ।  

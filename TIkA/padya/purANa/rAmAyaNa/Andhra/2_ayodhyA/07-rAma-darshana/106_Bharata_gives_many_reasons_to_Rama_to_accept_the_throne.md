@@ -3,6 +3,7 @@ title: 106 Bharata gives many reasons to Rama to accept the throne
 title_english: 106 Bharata gives many reasons to Rama to accept the throne
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-106-Raajya_Sweekaarardham_Punaryaachana.mp3"></div>
 एवम् उक्त्वा तु विरते रामे वचनम् अर्थवत् ।  
 ततो मन्दाकिनीतीरे रामम् प्रकृतिवत्सलम् ॥ २-१०६-१  
 उवाच भरतः चित्रम् धार्मिको धार्मिकम् वचः ।  

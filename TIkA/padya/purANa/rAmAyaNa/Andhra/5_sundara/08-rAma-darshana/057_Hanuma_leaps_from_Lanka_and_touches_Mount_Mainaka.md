@@ -3,6 +3,7 @@ title: 057 Hanuma leaps from Lanka and touches Mount Mainaka
 title_english: 057 Hanuma leaps from Lanka and touches Mount Mainaka
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-057-Hanuma_leaps_from_Lanka_and_touches_Mount_Mainaka.mp3"></div>
 सचन्द्र कुमुदम् रम्यम् सार्क कारण्डवम् शुभम् ।  
 तिष्य श्रवण कदम्बम् अभ्र शैवल शाद्वलम् ॥ ५-५७-१  
 पुनर्वसु महामीनम् लोहित अन्ग महाग्रहम् ।  

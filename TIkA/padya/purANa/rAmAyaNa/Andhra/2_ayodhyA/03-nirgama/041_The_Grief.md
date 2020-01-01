@@ -3,6 +3,7 @@ title: 041 The Grief
 title_english: 041 The Grief
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-041-Praja_Shoka_Varnanam.mp3"></div>
 तस्मिंस्तु पुरुषव्याघ्रे विनिर्याति कृताञ्जलौ ।  
 आर्तशब्दोऽथ सम्जज्ञे स्त्रीणामन्तह्पुते तदा ॥ २-४१-१  
 अनाथस्य जनस्य अस्य दुर्बलस्य तपस्विनः ।  

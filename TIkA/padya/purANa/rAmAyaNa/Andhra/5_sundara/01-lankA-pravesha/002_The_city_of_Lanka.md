@@ -3,6 +3,7 @@ title: 002 The city of Lanka
 title_english: 002 The city of Lanka
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-002-The_city_of_Lanka.mp3"></div>
 स सागरमनाधृष्यमतिक्रम्य महाबलः ।  
 त्रिकूटशिखरे लङ्कां स्थितां स्वस्थो ददर्श ह ॥ ५-२-१  
 ततः पादपमुक्तेन पुष्पवर्षेण वीर्यवान् ।  

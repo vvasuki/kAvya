@@ -3,6 +3,7 @@ title: 017 Vali s questioning Rama s propriety
 title_english: 017 Vali s questioning Rama s propriety
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-017-Valikrutha_Rama_Ninda.mp3"></div>
 ततः शरेण अभिहतो रामेण रण कर्कशः ।  
 पपात सहसा वाली निकृत्तैव पादपः ॥ ४-१७-१  
 स भूमौ न्यस्त सर्वांगः तप्त कांचन भूषणः ।  

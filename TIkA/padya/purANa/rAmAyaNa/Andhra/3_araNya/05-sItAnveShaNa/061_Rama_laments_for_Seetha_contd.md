@@ -3,6 +3,7 @@ title: 061 Rama laments for Seetha contd
 title_english: 061 Rama laments for Seetha contd
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-061-Sitaa_Anveshanam.mp3"></div>
 दृष्ट्वा आश्रम पदम् शून्यम् रामो दशरथ आत्मजः ।  
 रहिताम् पर्णशालाम् च प्रविद्धानि आसनानि च ॥ ३-६१-१  
 अदृष्ट्वा तत्र वैदेहीम् संनिरीक्ष्य च सर्वशः ।  

@@ -3,6 +3,7 @@ title: 064 Monkeys arrive at seashore
 title_english: 064 Monkeys arrive at seashore
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-064-Monkeys_arrive_at_seashore.mp3"></div>
 आख्याता गृध्र राजेन समुत्प्लुत्य प्लवंगमाः ।  
 संगताः प्रीति संयुक्ता विनेदुः सिंह विक्रमाः ॥ ४-६४-१  
 संपातेः वचनम् श्रुत्वा हरयो रावण क्षयम् ।  

@@ -3,6 +3,7 @@ title: 016 Sugreeva s second fight and Vali s falling down
 title_english: 016 Sugreeva s second fight and Vali s falling down
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-016-Vali_Vadhaha.mp3"></div>
 ताम् एवम् ब्रुवतीम् ताराम् ताराधिप निभ आननाम् ।  
 वाली निर्भर्त्सयामास वचनम् च इदम् अब्रवीत् ॥ ४-१६-१  
 गर्जतो अस्य च सुसंरब्धम् भ्रातुः शत्रोर् विशेषतः ।  

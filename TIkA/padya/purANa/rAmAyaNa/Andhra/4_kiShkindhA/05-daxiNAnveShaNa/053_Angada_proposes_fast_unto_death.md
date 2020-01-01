@@ -3,6 +3,7 @@ title: 053 Angada proposes fast unto death
 title_english: 053 Angada proposes fast unto death
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-053-Prayo_Upavesha_Nishchayaha.mp3"></div>
 ततः ते ददृशुः घोरम् सागरम् वरुण आलयम् ।  
 अपारम् अभिगर्जन्तम् घोरैः ऊर्मिभिः आकुलम् ॥ ४-५३-१  
 मयस्य माया विहितम् गिरि दुर्गम् विचिन्वताम् ।  

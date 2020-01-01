@@ -3,6 +3,7 @@ title: 080 Construction of a high way from Ayodhya to River Ganga
 title_english: 080 Construction of a high way from Ayodhya to River Ganga
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-080-Marga_Nirmanam.mp3"></div>
 अथ भूमि प्रदेशज्ञाः सूत्र कर्म विशारदाः ।  
 स्व कर्म अभिरताः शूराः खनका यन्त्रकाः तथा ॥ २-८०-१  
 कर्म अन्तिकाः स्थपतयः पुरुषा यन्त्र कोविदाः ।  

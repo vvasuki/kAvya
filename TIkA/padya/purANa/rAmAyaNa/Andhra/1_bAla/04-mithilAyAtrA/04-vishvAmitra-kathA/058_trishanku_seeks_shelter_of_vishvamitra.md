@@ -3,6 +3,7 @@ title: 058 त्रिशङ्कुशापः
 title_english: 058 trishanku seeks shelter of vishvamitra
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-058-Thrishanku_Shapaha.mp3"></div>
 ततस्त्रिशङ्कोर्वचनं श्रुत्वा क्रोधसमन्वितम्।  
 ऋषिपुत्रशतं राम राजानमिदमब्रवीत् ॥ 1.58.1 ॥   
 

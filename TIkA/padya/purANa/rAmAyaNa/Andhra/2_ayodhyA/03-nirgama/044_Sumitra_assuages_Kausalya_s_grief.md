@@ -3,6 +3,7 @@ title: 044 Sumitra assuages Kausalya s grief
 title_english: 044 Sumitra assuages Kausalya s grief
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-044-Kousalya_Santhvanam.mp3"></div>
 विलपन्तीम् तथा ताम् तु कौसल्याम् प्रमद उत्तमाम् ।  
 इदम् धर्मे स्थिता धर्म्यम् सुमित्रा वाक्यम् अब्रवीत् ॥ २-४४-१  
 तव आर्ये सद् गुणैः युक्तः पुत्रः स पुरुष उत्तमः ।  

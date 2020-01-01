@@ -3,6 +3,7 @@ title: 027 Trijata s dream
 title_english: 027 Trijata s dream
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-027-Trijata_s_dream.mp3"></div>
 इत्युक्ताह् सीतया घोरं राक्षस्यः क्रोधमूर्छिताः ।  
 काश्चिज्जग्मुस्तदाख्यातुं रावणस्य दुरात्मनः ॥ ५-२७-१  
 ततः सीतामुपागम्य राक्षस्यो घोरदर्शनाः ।  

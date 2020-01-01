@@ -3,6 +3,7 @@ title: 069 Death of Narantaka
 title_english: 069 Death of Narantaka
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-069-Death_of_Narantaka_0.mp3"></div>
 एवम् विलपमानस्य रावणस्य दुरात्मनः ।  
 श्रुत्वा शोक अभितप्तस्य त्रिशिरा वाक्यम् अब्रवीत् ॥ ६-६९-१  
 एवम् एव महा वीर्यो हतो नस् तात मध्यमः ।  

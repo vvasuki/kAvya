@@ -3,6 +3,7 @@ title: 012 Entering the hermitage of Sage Agastya
 title_english: 012 Entering the hermitage of Sage Agastya
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-012-Agastya_Darshanam.mp3"></div>
 स प्रविश्य आश्रम पदम् लक्ष्मणो राघव अनुजः ।  
 अगस्त्य शिष्यम् आसाद्य वाक्यम् एतद् उवाच ह ॥ ३-१२-१  
 राजा दशरथो नाम ज्येष्ठः तस्य सुतो बली ।  

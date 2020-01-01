@@ -3,6 +3,7 @@ title: 002 The fearless Hanuma
 title_english: 002 The fearless Hanuma
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-002-Bhikshu_Rupena_Hanumad_Aagamanam.mp3"></div>
 तौ तु दृष्ट्वा महात्मानौ भ्रातरौ राम लक्ष्मणौ ।  
 वर आयुध धरौ वीरौ सुग्रीवः श्ङ्कितोऽभवत् ॥ ४-२-१  
 उद्विग्न हृदयः सर्वा दिशः समवलोकयन् ।  

@@ -3,6 +3,7 @@ title: 011 Ravana goes again to the assembly hall
 title_english: 011 Ravana goes again to the assembly hall
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-011-Ravana_goes_again_to_the_assembly_hall.mp3"></div>
 स बभुव कृशो राजा मैथिलीकाममोहितः ।  
 असन्मानाच्च सुहृदाम् पापः पापेन कर्मणाः ॥ ६-११-१  
 अतीतसमये काले तस्मिन्वे युधि रावणः ।  

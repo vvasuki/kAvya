@@ -3,6 +3,7 @@ title: 038 Rama decides to stay on Suvela mountain
 title_english: 038 Rama decides to stay on Suvela mountain
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-038-Rama_decides_to_stay_on_Suvela_mountain__0.mp3"></div>
 स तु कृत्वा सुवेलस्य मतिम् आरोहणम् प्रति ।  
 लक्ष्मण अनुगतो रामह् सुग्रीवम् इदम् अब्रवीत् ॥ ६-३८-१  
 विभीषणम् च धर्मज्नम् अनुरक्तम् निज़ा चरम् ।  

@@ -3,6 +3,7 @@ title: 048 Ravana tempts Seetha
 title_english: 048 Ravana tempts Seetha
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-048-Ravanena_Sita_Nirbhartha_Sanam.mp3"></div>
 एवम् ब्रुवत्याम् सीतायाम् संरब्धः परुष अक्षरम् ।  
 ललाटे भ्रुकुटीम् कृत्वा रावणः प्रति उवाच ह ॥ ३-४८-१  
 भ्राता वैश्रवणस्य अहम् सापत्नो वरवर्णिनि ।  

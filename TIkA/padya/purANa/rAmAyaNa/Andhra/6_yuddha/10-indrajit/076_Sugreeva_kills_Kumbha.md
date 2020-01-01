@@ -3,6 +3,7 @@ title: 076 Sugreeva kills Kumbha
 title_english: 076 Sugreeva kills Kumbha
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-076-Sugreeva_kills_Kumbha_0.mp3"></div>
 प्रवृत्ते सङ्कुले तस्मिन्घोरे वीरजनक्षये ।  
 अङ्गदः कम्पनं वीरमाससाद रणोत्सुकः ॥ ६-७६-१  
 आहूय सोऽङ्गदं कोपात्ताडयामास वेगितः ।  

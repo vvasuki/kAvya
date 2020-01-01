@@ -3,6 +3,7 @@ title: 060 Sumantra was unable to console Kausalya
 title_english: 060 Sumantra was unable to console Kausalya
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-060-Sumanthra_Krutha_Kousalya_Santvanam.mp3"></div>
 ततः भूत उपसृष्टा इव वेपमाना पुनः पुनः ।  
 धरण्याम् गत सत्त्वा इव कौसल्या सूतम् अब्रवीत् ॥ २-६०-१  
 नय माम् यत्र काकुत्स्थः सीता यत्र च लक्ष्मणः ।  

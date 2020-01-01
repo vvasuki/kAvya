@@ -3,6 +3,7 @@ title: 023 Tara s lament for death of Vali
 title_english: 023 Tara s lament for death of Vali
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-023-Tharayaha_Shokaha.mp3"></div>
 ततः समुपजिघ्रंती कपि राजस्य तत् मुखम् ।  
 पतिम् लोकश्रुता तारा मृतम् वचनम् अब्रवीत् ॥ ३-२३-१  
 शेषे त्वम् विषमे दुःखम् अकृत्वा वचनम् मम ।  

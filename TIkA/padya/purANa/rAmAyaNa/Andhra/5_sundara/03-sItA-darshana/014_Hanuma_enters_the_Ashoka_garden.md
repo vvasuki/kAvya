@@ -3,6 +3,7 @@ title: 014 Hanuma enters the Ashoka garden
 title_english: 014 Hanuma enters the Ashoka garden
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-014-Hanuma_enters_the_Ashoka_garden.mp3"></div>
 स मुहूर्तम् इव ध्यत्वा मनसा च अधिगम्य ताम् ।  
 अवप्लुतो महा तेजाः प्राकारम् तस्य वेश्मनः ॥ ५-१४-१  
 स तु सम्हृष्ट सर्व अन्गः प्राकारस्थो महा कपिः ।  

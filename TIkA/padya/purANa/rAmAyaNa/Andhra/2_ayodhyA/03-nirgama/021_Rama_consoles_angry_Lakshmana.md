@@ -3,6 +3,7 @@ title: 021 Rama consoles angry Lakshmana
 title_english: 021 Rama consoles angry Lakshmana
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-021-Lakshmnasya_Viryokthihi.mp3"></div>
 तथा तु विलपन्तीम् ताम् कौसल्याम् राम मातरम् ।  
 उवाच लक्ष्मणो दीनः तत् काल सदृशम् वचः ॥ २-२१-१  
 न रोचते मम अपि एतत् आर्ये यद् राघवो वनम् ।  

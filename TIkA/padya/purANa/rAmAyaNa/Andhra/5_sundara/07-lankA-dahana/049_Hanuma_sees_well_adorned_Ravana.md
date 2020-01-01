@@ -3,6 +3,7 @@ title: 049 Hanuma sees well adorned Ravana
 title_english: 049 Hanuma sees well adorned Ravana
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-049-Hanuma_sees_well-adorned_Ravana.mp3"></div>
 ततः स कर्मणा तस्य विस्मितो भीम विक्रमः ।  
 हनुमान् रोष ताम्र अक्षो रक्षो अधिपम् अवैक्षत ॥ ५-४९-१  
 भ्राजमानम् महाअर्हेण कान्चनेन विराजता ।  

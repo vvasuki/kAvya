@@ -3,6 +3,7 @@ title: 060 Sampaati narrates his legend
 title_english: 060 Sampaati narrates his legend
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-060-Sampaati_narrates_his_legend.mp3"></div>
 ततः कृत उदकम् स्नातम् तम् गृध्रम् हरि यूथपाः ।  
 उपविष्टा गिरौ रम्ये परिवार्य समन्ततः ॥ ४-६०-१  
 तम् अंगदम् उपासीनम् तैः सर्वैः हरिभिः वृतम् ।  

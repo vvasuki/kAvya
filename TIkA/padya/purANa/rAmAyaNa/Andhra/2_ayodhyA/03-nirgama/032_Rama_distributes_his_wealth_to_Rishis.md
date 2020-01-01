@@ -3,6 +3,7 @@ title: 032 Rama distributes his wealth to Rishis
 title_english: 032 Rama distributes his wealth to Rishis
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-032-Lakshmanaaya_Mamathihi.mp3"></div>
 ततः शासनम् आज्ञाय भ्रातुः शुभतरम् प्रियम् ।  
 गत्वा स प्रविवेश आशु सुयज्ञस्य निवेशनम् ॥ २-३२-१  
 तम् विप्रम् अग्नि अगारस्थम् वन्दित्वा लक्ष्मणो अब्रवीत् ।  

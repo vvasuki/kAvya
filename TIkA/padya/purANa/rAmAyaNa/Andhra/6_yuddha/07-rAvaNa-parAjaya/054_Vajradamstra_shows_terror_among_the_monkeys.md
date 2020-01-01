@@ -3,6 +3,7 @@ title: 054 Vajradamstra shows terror among the monkeys
 title_english: 054 Vajradamstra shows terror among the monkeys
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-054-Vajradamstra_shows_terror_among_the_monkeys__0.mp3"></div>
 स्वबलस्य च घातेन अङ्गदस्य बलेन च ।  
 राषसः क्रोधमाविष्टो वज्रदंष्ट्रो महाबलः ॥ ६-५४-१  
 विस्फार्य च धनुर्घोरं शक्राशनिसमप्रभम् ।  

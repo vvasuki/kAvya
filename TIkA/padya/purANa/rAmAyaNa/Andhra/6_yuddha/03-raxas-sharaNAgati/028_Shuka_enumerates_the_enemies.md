@@ -3,6 +3,7 @@ title: 028 Shuka enumerates the enemies
 title_english: 028 Shuka enumerates the enemies
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-028-Shuka_enumerates_the_enemies_0.mp3"></div>
 सारणस्य वचः श्रुत्वा रावणम् राक्षस अधिपम् ।  
 बलम् आलोकयन् सर्वम् शुको वाक्यम् अथ अब्रवीत् ॥ ६-२८-१  
 स्थितान् पश्यसि यान् एतान् मत्तान् इव महाद्विपान् ।  

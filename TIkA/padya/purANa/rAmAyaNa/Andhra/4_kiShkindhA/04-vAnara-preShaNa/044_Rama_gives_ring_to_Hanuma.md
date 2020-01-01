@@ -3,6 +3,7 @@ title: 044 Rama gives ring to Hanuma
 title_english: 044 Rama gives ring to Hanuma
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-044-Hanumathe_Ramena_Mudrikaa_Pradanam.mp3"></div>
 विशेषेण तु सुग्रीवो हनूमति अर्थम् उक्तवान् ।  
 स हि तस्मिन् हरि श्रेष्ठे निश्चितार्थो अर्थ साधने ॥ ४-४४-१  
 अब्रवीत् च हनूमंतम् विक्रंतम् अनिल आत्मजम् ।  

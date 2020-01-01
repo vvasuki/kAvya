@@ -3,7 +3,7 @@ title: 020 दशरथविज्ञापना
 title_english: 020 dasharatha s dissent to spare rAma s servicees
 
 ---
-
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-020-Dhasharatha_Vignaapana.mp3"></div>
 तच्छ्रुत्वा राजशार्दूलो विश्वामित्रस्य भाषितम्।  
 मुहूर्तमिव निःसञ्ज्ञः सञ्ज्ञावानिदमब्रवीत् ॥ 1.20.1 ॥   
 

@@ -3,6 +3,7 @@ title: 004 Rama fixes an auspicious hour for the departure
 title_english: 004 Rama fixes an auspicious hour for the departure
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-004-Rama_fixes_an_auspicious_hour_for_the_departure_.mp3"></div>
 श्रुत्वा हनूमतो वाक्यम् यथावद् अनुपूर्वशः ।  
 ततो अब्रवीन् महातेजा रामः सत्य पराक्रमः ॥ ६-४-१  
 याम् निवेदयसे लंकाम् पुरीम् भीमस्य रक्षसः ।  

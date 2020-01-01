@@ -3,6 +3,7 @@ title: 041 Rama sends Angada to Ravana
 title_english: 041 Rama sends Angada to Ravana
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-041-Rama_sends_Angada_to_Ravana_0.mp3"></div>
 अथ तस्मिन् निमित्तानि दृष्ट्वा लक्ष्मण पूर्वजः ।  
 सुग्रीवम् सम्परिष्वज्य रामो वचनमब्रवीत् ॥ ६-४१-१  
 असंमन्त्य्र मया सार्थम् तदिदम् साहसं कृतम् ।  

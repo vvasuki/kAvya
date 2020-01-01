@@ -3,6 +3,7 @@ title: 113 Hanuma informs Seetha about Rama s victory
 title_english: 113 Hanuma informs Seetha about Rama s victory
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-113-Hanuma_informs_Seetha_about_Rama_s_victory__0.mp3"></div>
 इति प्रतिसमादिष्टो हनूमान्मारुतात्मजः ।  
 प्रविवेश पुरीं लङ्कां पूज्यमानो निशाचरैः ॥६-११३-१  
 प्रविश्य च पुरीं लङ्कामनुङ्ञ्प्य विभीषणम् ।  

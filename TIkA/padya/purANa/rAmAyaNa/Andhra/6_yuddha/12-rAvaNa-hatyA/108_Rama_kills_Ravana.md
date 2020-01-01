@@ -3,6 +3,7 @@ title: 108 Rama kills Ravana
 title_english: 108 Rama kills Ravana
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-108-Rama_kills_Ravana_0.mp3"></div>
 अथ सस्मारयामास मातली राघवं तदा ।  
 अजानन्निव किं वीर त्वमेनमनुवर्तसे ॥ ६-१०८-१  
 विसृजास्मै वधाय त्वमस्त्रं पैतामहं प्रभो ।  

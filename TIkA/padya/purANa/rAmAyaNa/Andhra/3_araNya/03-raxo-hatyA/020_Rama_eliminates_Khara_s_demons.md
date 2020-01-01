@@ -3,6 +3,7 @@ title: 020 Rama eliminates Khara s demons
 title_english: 020 Rama eliminates Khara s demons
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-020-Chaturdhasha_Rakshasa_Samharaha.mp3"></div>
 ततः शूर्पणखा घोरा राघव आश्रमम् आगता ।  
 रक्षसान् आचचक्षे तौ भ्रातरौ सह सीतया ॥ ३-२०-१  
 ते रामम् पर्ण शालायाम् उपविष्टम् महाबलम् ।  

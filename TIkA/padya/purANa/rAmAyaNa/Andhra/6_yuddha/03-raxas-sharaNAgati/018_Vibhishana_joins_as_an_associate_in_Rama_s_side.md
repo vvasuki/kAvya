@@ -3,6 +3,7 @@ title: 018 Vibhishana joins as an associate in Rama s side
 title_english: 018 Vibhishana joins as an associate in Rama s side
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-018-Vibhishana_joins_as_an_associate_in_Rama_s_side.mp3"></div>
 अथ रामः प्रसन्न आत्मा श्रुत्वा वायु सुतस्य ह ।  
 प्रत्यभाषत दुर्धर्षः श्रुतवान् आत्मनि स्थितम् ॥६-१८-१  
 मम अपि तु विवक्षा अस्ति काचित् प्रति विभीषणम् ।  

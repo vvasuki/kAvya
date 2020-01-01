@@ -3,6 +3,7 @@ title: 011 Kaikeyi s evil boons
 title_english: 011 Kaikeyi s evil boons
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-011-Kaikeyyaha_Varayaachana.mp3"></div>
 तं मन्मथशरैर्विद्धं कामवेगवशानुगम् ।  
 उवाच पृथिवीपालं कैकेयी दारुणं वचः ॥ २-११-१  
 नास्मि विप्रकृता देव केन चिन्नावमानिता ।  

@@ -3,6 +3,7 @@ title: 046 Ravana applauds his son for his daring act
 title_english: 046 Ravana applauds his son for his daring act
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-046-Ravana_applauds_his_son_for_his_daring_act_0.mp3"></div>
 ततो द्याम् पृथिवीम् चैव वीक्षमाणा वन ओकसः ।  
 ददृशुः सम्ततौ बाणैर् भ्रातरौ राम लक्ष्मणौ ॥ ६-४६-१  
 वृष्ट्वा इव उपरते देवे कृत कर्मणि राक्षसे ।  

@@ -3,6 +3,7 @@ title: 022 Ravana gives deadline
 title_english: 022 Ravana gives deadline
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-022-Ravana_gives_deadline.mp3"></div>
 सीताय वचनं श्रुत्वा परुषं राक्षसेश्वरः ।  
 प्रत्युवाच ततः सीतां विप्रियं प्रियदर्शनम् ॥ ५-२२-१  
 यथा यथा सान्त्वयिता वश्यः स्त्रीणां तथा तथा ।  

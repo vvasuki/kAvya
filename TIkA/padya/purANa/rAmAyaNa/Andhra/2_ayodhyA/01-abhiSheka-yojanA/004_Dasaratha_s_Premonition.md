@@ -3,6 +3,7 @@ title: 004 Dasaratha s Premonition
 title_english: 004 Dasaratha s Premonition
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-004-Ramaya_Dasharatha_Syopadeshaha.mp3"></div>
 गतेष्वथ नृपो भूयः पौरेषु सह मन्त्रिभिः ।  
 मन्त्रयुत्वा ततश्चक्रे निश्चयज्ञः स निश्चयम् ॥ २-४-१  
 श्व एव पुष्यो भविता श्वोऽभिषेच्यस्तु मे सुतः ।  

@@ -3,6 +3,7 @@ title: 070 Kabandha s overlong arms are cut off
 title_english: 070 Kabandha s overlong arms are cut off
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-070-Kabandhena_Saha_Yudhdham.mp3"></div>
 तौ तु तत्र स्थितौ दृष्ट्वा भ्रातरौ राम लक्ष्मणौ ।  
 बाहु पाश परिक्षिप्तौ कबन्धो वाक्यम् अब्रवीत् ॥ ३-७०-१  
 तिष्ठतः किम् नु माम् दृष्ट्वा क्षुधा आर्तम् क्षत्रिय ऋषभौ ।  

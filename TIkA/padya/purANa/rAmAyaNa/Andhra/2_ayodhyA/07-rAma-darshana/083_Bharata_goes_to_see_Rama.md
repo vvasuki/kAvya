@@ -3,6 +3,7 @@ title: 083 Bharata goes to see Rama
 title_english: 083 Bharata goes to see Rama
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-083-Shrungi_Berapure_Bharathaa_Vasaha.mp3"></div>
 ततः समुत्थितः काल्यम् आस्थाय स्यन्दन उत्तमम् ।  
 प्रययौ भरतः शीघ्रम् राम दर्शन कान्क्षया ॥ २-८३-१  
 अग्रतः प्रययुस् तस्य सर्वे मन्त्रि पुरोधसः ।  

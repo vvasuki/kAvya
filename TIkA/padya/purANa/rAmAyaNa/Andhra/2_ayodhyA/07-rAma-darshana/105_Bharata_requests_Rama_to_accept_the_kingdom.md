@@ -3,6 +3,7 @@ title: 105 Bharata requests Rama to accept the kingdom
 title_english: 105 Bharata requests Rama to accept the kingdom
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-105-Ramam_Prathi_Bharathasya_Pradhanaa.mp3"></div>
 ततः पुरुष सिम्हानाम् वृतानाम् तैः सुहृद् गणैः ।  
 शोचताम् एव रजनी दुह्खेन व्यत्यवर्तत ॥ २-१०५-१  
 रजन्याम् सुप्रभातायाम् भ्रातरः ते सुहृद् वृताः ।  

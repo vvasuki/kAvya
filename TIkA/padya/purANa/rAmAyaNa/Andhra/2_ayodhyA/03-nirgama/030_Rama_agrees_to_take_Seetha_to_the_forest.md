@@ -3,6 +3,7 @@ title: 030 Rama agrees to take Seetha to the forest
 title_english: 030 Rama agrees to take Seetha to the forest
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-030-Vanagama_Naanugnaa.mp3"></div>
 सान्त्व्यमाना तु रामेण मैथिली जनक आत्मजा ।  
 वन वास निमित्ताय भर्तारम् इदम् अब्रवीत् ॥ २-३०-१  
 सा तम् उत्तम सम्विग्ना सीता विपुल वक्षसम् ।  

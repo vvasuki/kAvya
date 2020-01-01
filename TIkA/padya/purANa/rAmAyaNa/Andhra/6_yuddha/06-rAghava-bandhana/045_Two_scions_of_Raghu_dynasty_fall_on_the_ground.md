@@ -3,6 +3,7 @@ title: 045 Two scions of Raghu dynasty fall on the ground
 title_english: 045 Two scions of Raghu dynasty fall on the ground
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-045-Two_scions_of_Raghu_dynasty_fall_on_the_ground_0.mp3"></div>
 स तस्य गतिम् अन्विच्चन् राज पुत्रह् प्रतापवान् ।  
 दिदेश अतिबलो रामो दश वानर यूथपान् ॥ ६-४५-१  
 द्वौ सुषेणस्य दायादौ नीलम् च प्लवग ऋषभम् ।  

@@ -3,6 +3,7 @@ title: 025  ताटकावधप्रेरणा
 title_english: 025 The legend of deomoness tATaka contd
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-025-ThaataKaavadha_Preranaa.mp3"></div>
 अथ तस्याप्रमेयस्य मुनेर्वचनमुत्तमम्।  
 श्रुत्वा पुरुषशार्दूलः प्रत्युवाच शुभां गिरम् ॥ 1.25.1 ॥   
 अल्पवीर्या यदा यक्षाः श्रूयन्ते मुनिपुङ्गव।  

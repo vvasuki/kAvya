@@ -3,7 +3,7 @@ title: 002 ब्रह्मागमनम्
 title_english: 002 vAlmIki gets divine guidance to compile the epic
 
 ---
-
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-002-Brahma_Aagamanam.mp3"></div>
 नारदस्य तु तद्वाक्यं श्रुत्वा वाक्यविशारदः।  
 पूजयामास धर्मात्मा सहशिष्यो महामुनिः।।1.2.1।।  
 यथावत्पूजितस्तेन देवर्षिर्नारदस्तदा।  

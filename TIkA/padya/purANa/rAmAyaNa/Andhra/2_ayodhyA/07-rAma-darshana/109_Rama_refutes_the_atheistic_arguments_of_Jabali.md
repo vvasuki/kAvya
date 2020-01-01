@@ -3,6 +3,7 @@ title: 109 Rama refutes the atheistic arguments of Jabali
 title_english: 109 Rama refutes the atheistic arguments of Jabali
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-109-Jabali_Matha_Nirakaranam.mp3"></div>
 जाबालेः तु वचः श्रुत्वा रामः सत्य आत्मनाम् वरः ।  
 उवाच परया युक्त्या स्व बुद्ध्या च अविपन्नया ॥ २-१०९-१  
 भवान् मे प्रिय काम अर्थम् वचनम् यद् इह उक्तवान् ।  

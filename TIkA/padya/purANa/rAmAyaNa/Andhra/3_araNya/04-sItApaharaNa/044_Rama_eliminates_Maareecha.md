@@ -3,6 +3,7 @@ title: 044 Rama eliminates Maareecha
 title_english: 044 Rama eliminates Maareecha
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-044-Maaricha_Vadhaha.mp3"></div>
 तथा तु तम् समादिश्य भ्रातरम् रघुनंदनः ।  
 बबन्ध असिम् महातेजा जांबूनदमयः त्सरुम् ॥ ३-४४-१  
 ततः त्रि विनतम् चापम् आदाय आत्म विभूषणम् ।  

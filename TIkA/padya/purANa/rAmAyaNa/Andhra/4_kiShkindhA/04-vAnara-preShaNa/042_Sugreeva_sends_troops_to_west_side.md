@@ -3,6 +3,7 @@ title: 042 Sugreeva sends troops to west side
 title_english: 042 Sugreeva sends troops to west side
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-042-Prathicheem_Prathi_Sushena_Preshanam.mp3"></div>
 ततः प्रस्थाप्य सुग्रीवः तान् हरीन् दक्षिणाम् दिशम् ।  
 अब्रवित् मेघ संकाशम् सुशेषणम् नाम वानरम् । ४-४२-१  
 तारायाः पितरम् राजा श्वशुरम् भीम विक्रमम् ।  

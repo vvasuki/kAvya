@@ -3,6 +3,7 @@ title: 018 Rama s elucidation of dharma to vali
 title_english: 018 Rama s elucidation of dharma to vali
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-018-Ramena_Valivadha_Samardhanam.mp3"></div>
 इति उक्तः प्रश्रितम् वाक्यम् धर्म अर्थ सहितम् हितम् ।  
 परुषम् वालिना रामो निहतेन विचेतसा ॥ ४-१८-१  
 तम् निष्प्रभम् इव आदित्यम् मुक्त तोयम् इव अंबुदम् ।  

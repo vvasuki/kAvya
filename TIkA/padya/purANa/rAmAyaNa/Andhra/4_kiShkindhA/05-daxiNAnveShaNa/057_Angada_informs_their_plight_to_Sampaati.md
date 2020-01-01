@@ -3,6 +3,7 @@ title: 057 Angada informs their plight to Sampaati
 title_english: 057 Angada informs their plight to Sampaati
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-057-Angada_informs_their_plight_to_Sampaati.mp3"></div>
 शोकात् भ्रष्ट स्वरम् अपि श्रुत्वा ते हरि यूथपाः ।  
 श्रद्दधुः न एव तत् वाक्यम् कर्मणा तस्य शन्किताः ॥ ४-५७-१  
 ते प्रायम् उपविष्टाः तु दृष्ट्वा गृध्रम् प्लवंगमाः ।  

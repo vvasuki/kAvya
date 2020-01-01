@@ -3,6 +3,7 @@ title: 068 Vasishta instructs messengers to call Bharata and Satrughna
 title_english: 068 Vasishta instructs messengers to call Bharata and Satrughna
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-068-Bharathaya_dutha_Preshanam.mp3"></div>
 तेषाम् तत् वचनम् श्रुत्वा वसिष्ठः प्रत्युवाच ह ।  
 मित्र अमात्य गणान् सर्वान् ब्राह्मणांस् तान् इदम् वचः ॥ २-६८-१  
 यद् असौ मातुल कुले पुरे राज गृहे सुखी ।  

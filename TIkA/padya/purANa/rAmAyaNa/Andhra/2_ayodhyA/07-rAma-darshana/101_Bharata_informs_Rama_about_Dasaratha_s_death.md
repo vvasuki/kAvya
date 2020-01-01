@@ -3,6 +3,7 @@ title: 101 Bharata informs Rama about Dasaratha s death
 title_english: 101 Bharata informs Rama about Dasaratha s death
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-101-Dasharatha_Niryana_Kathanam_.mp3"></div>
 तम् तु रामः समाश्वास्य भ्रातरम् गुरु वत्सलम् ।  
 लक्ष्मणेन सह भ्रात्रा प्रष्टुम् समुपचक्रमे ॥ २-१०१-१  
 किम् एतद् इग्च्छेयम् अहम् श्रोतुम् प्रव्याहृतम् त्वया ।  

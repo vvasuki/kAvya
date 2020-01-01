@@ -3,6 +3,7 @@ title: 005 Festivities in Ayodhya
 title_english: 005 Festivities in Ayodhya
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-005-Vasista_Krutha_Vrathadeshaha.mp3"></div>
 सन्दिश्य रामं नृपतिः श्वोभाविन्यभिषेचने ।  
 पुरोहितं समाहूय वसिष्ठमिदमब्रवीत् ॥ २-५-१  
 गच्छोपवासं काकुत्थ्सं कारयाद्य तपोधन ।  

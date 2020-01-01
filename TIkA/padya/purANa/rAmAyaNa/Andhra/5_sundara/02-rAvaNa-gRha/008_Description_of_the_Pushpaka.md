@@ -3,6 +3,7 @@ title: 008 Description of the Pushpaka
 title_english: 008 Description of the Pushpaka
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-008-Description_of_the_Pushpaka.mp3"></div>
 स तस्य मध्ये भवनस्य संस्थितम् ।  
 महद्विमानम् मणिवज्रचित्रितम् ।  
 प्रतप्तजाम्बूनदजालकृत्रिमम् ।  

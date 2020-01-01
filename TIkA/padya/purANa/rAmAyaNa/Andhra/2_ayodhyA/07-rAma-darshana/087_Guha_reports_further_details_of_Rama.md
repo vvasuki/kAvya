@@ -3,6 +3,7 @@ title: 087 Guha reports further details of Rama
 title_english: 087 Guha reports further details of Rama
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-087-Rama_Charitha_Prasthavaha.mp3"></div>
 गुहस्य वचनम् श्रुत्वा भरतो भृशम् अप्रियम् ।  
 ध्यानम् जगाम तत्र एव यत्र तत् श्रुतम् अप्रियम् ॥ २-८७-१  
 सुकुमारो महा सत्त्वः सिम्ह स्कन्धो महा भुजः ।  

@@ -3,6 +3,7 @@ title: 026 Rama eliminates Dushana and his army
 title_english: 026 Rama eliminates Dushana and his army
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-026-Dooshana_Vadhaha.mp3"></div>
 दूषणः तु स्वकम् सैन्यम् हन्यमानम् विलोक्य च ।  
 संदिदेश महाबाहुः भीम वेगान् निशाचरान् ॥ ३-२६-१  
 राक्षसान् पंच साहस्रान् समरेषु अनिवर्तिनः ।  

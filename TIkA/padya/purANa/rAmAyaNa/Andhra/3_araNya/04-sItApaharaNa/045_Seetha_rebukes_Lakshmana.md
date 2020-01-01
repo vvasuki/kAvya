@@ -3,6 +3,7 @@ title: 045 Seetha rebukes Lakshmana
 title_english: 045 Seetha rebukes Lakshmana
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-045-Sitaa_Durvachanath_Lakshamana_Nirgamanam.mp3"></div>
 आर्तस्वरम् तु तम् भर्तुः विज्ञाय सदृशम् वने ।  
 उवाच लक्ष्मणम् सीता गच्छ जानीहि राघवम् ॥ ३-४५-१  
 न हि मे जीवितम् स्थाने हृदयम् वा अवतिष्ठते ।  

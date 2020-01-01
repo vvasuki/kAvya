@@ -3,6 +3,7 @@ title: 064 Dasaratha continued to narrate to Kausalya
 title_english: 064 Dasaratha continued to narrate to Kausalya
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-064-Dashratha_Mruthihi.mp3"></div>
 वधमप्रतिरूपम् तु महर्षेस्तस्य राघवः ।  
 विलपन्ने व धर्मात्मा कौसल्याम् पुन रब्रवीत् ॥ २-६४-१  
 तत् अज्ञानान् महत् पापम् कृत्वा सम्कुलित इन्द्रियः ।  

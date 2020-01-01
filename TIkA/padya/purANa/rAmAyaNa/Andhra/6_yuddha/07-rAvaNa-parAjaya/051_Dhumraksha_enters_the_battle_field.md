@@ -3,6 +3,7 @@ title: 051 Dhumraksha enters the battle field
 title_english: 051 Dhumraksha enters the battle field
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-051-Dhumraksha_enters_the_battle_field_0.mp3"></div>
 तेषाम् सुतुमुलम् शब्दम् वानराणाम् तरस्विनाम् ।  
 नर्दताम् राक्षसैह् सार्धम् तदा शुश्राव रावणः ॥ ६-५१-१  
 स्निग्ध गम्भीर निर्घोषम् श्रुत्वा स निनदम् भृशम् ।  

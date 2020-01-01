@@ -3,6 +3,7 @@ title: 015 Hanuma sees Seetha
 title_english: 015 Hanuma sees Seetha
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-015-Hanuma_sees_Seetha.mp3"></div>
 स वीक्षमाणः तत्रस्थो मार्गमाणः च मैथिलीम् ।  
 अवेक्षमाणः च महीम् सर्वाम् ताम् अन्ववैक्षत ॥ ५-१५-१  
 सन्तान कलताभिः च पादपैर् उपशोभिताम् ।  

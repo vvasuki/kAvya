@@ -3,6 +3,7 @@ title: 056 Seetha reprimands Ravana
 title_english: 056 Seetha reprimands Ravana
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-056-Sitaaya_Rama_Parakrama_Varnanam.mp3"></div>
 सा तथा उक्ता तु वैदेही निर्भया शोक कर्शिता ।  
 तृणम् अन्तरतः कृत्वा रावणम् प्रति अभाषत ॥ ३-५६-१  
 राजा दशरथो नाम धर्म सेतुः इव अचलः ।  

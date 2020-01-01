@@ -3,6 +3,7 @@ title: 118 The fire god appears in person from the burning pyre
 title_english: 118 The fire god appears in person from the burning pyre
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-118-The_fire-god_appears_in_person_from_the_burning_pyre_0.mp3"></div>
 एतच्छ्रुत्वा शुभं वाक्यं पितामहसमीरितम् ।  
 अङ्केनादाय वैदेहीमुत्पपात विभावसुः ॥ ६-११८-१  
 विधूयाथ चितां तां तु विअदेहीं हव्यवाहनः ।  

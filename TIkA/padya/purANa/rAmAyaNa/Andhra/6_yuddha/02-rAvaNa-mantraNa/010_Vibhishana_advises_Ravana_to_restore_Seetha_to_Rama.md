@@ -3,6 +3,7 @@ title: 010 Vibhishana advises Ravana to restore Seetha to Rama
 title_english: 010 Vibhishana advises Ravana to restore Seetha to Rama
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-010-Vibhishana_advises_Ravana_to_restore_Seetha_to_Rama.mp3"></div>
 ततः प्रत्युषसि प्राप्ते प्राप्तधर्मार्थनिश्चयः ।  
 राक्षसाधिपतेर्वेश्म भीमकर्मा विभीषणः ॥ ६-१०-१  
 शैलाग्रचयसम्काशम् शैलशृज्~गमिवोन्नतम् ।  

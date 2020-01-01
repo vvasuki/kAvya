@@ -3,6 +3,7 @@ title: 033 Seetha antecedents to Hanuma
 title_english: 033 Seetha antecedents to Hanuma
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-033-Seetha_antecedents_to_Hanuma.mp3"></div>
 सोऽवतीर्य द्रुमात्तस्माद्विद्रुमप्रतिमाननः ।  
 विनीतवेषः कृपणः प्रणिपत्योपसृत्य च ॥ ५-३३-१  
 ताम् अब्रवीन् महातेजा हनूमान् मारुत आत्मजः ।  

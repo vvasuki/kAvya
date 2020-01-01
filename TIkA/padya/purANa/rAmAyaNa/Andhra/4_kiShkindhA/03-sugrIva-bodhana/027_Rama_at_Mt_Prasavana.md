@@ -3,6 +3,7 @@ title: 027 Rama at Mt Prasavana
 title_english: 027 Rama at Mt Prasavana
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-027-Ramasya_Prasravana_Girinivasaha.mp3"></div>
 अभिषिक्ते तु सुग्रीवे प्रविष्टे वानरे गुहाम् ।  
 आजगाम सह भ्रात्रा रामः प्रस्रवणम् गिरिम् ॥ ४-२७-१  
 शार्दूल मृग संघुष्टम् सिंहैः भीम रवैः वृतम् ।  

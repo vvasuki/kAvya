@@ -3,6 +3,7 @@ title: 017 Rama s arrival at royal court
 title_english: 017 Rama s arrival at royal court
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-017-Rama_Gamanam.mp3"></div>
 स रमो रथमास्थाय सम्प्रहृष्टसुहृञनः ।  
 पताकाध्वजसंपन्नं महार्हगुरुधूपितम् ॥ २-१७-१  
 अपश्यन्नगरं श्रीमान् नानाजनसमाकुलम् ।  

@@ -3,6 +3,7 @@ title: 023 Ogres frighten Seetha
 title_english: 023 Ogres frighten Seetha
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-023-Ogres_frighten_Seetha.mp3"></div>
 इत्युक्त्वा मैथिलीं राजा रावणः शत्रुरावणः ।  
 संदिश्य च ततः सर्वा राक्षसीर्निर्जगाम ह ॥ ५-२३-१  
 निष्क्रन्ते राक्षसेन्द्र तु पुनरन्तःपुरं गते ।  

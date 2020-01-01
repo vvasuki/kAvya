@@ -3,6 +3,7 @@ title: 067 Kumbhakarna was slain in battle
 title_english: 067 Kumbhakarna was slain in battle
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-067-Kumbhakarna_was_slain_in_battle__0.mp3"></div>
 ते निवृत्ता महाकायाः श्रुत्वाङ्गदवचस्तदा ।  
 नैष्ठिकीं बुद्धिमास्थाय सर्वे सम्ग्रामकांक्षिणः ॥ ६-६६-१  
 समुदीरितवीर्यास्ते समारोपितविक्रमाः ।  

@@ -3,6 +3,7 @@ title: 060 Rama laments for Seetha s separation
 title_english: 060 Rama laments for Seetha s separation
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-060-Rama_Lakshmanayoho_Parnashala_Agamanam.mp3"></div>
 भृशम् आव्रजमानस्य तस्य अधो वाम लोचनम् ।  
 प्रास्फुरत् च अस्खलत् रामो वेपथुः च अस्य जायते ॥ ३-६०-१  
 उपालक्ष्य निमित्तानि सो अशुभानि मुहुर् मुहुः ।  

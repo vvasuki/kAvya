@@ -3,6 +3,7 @@ title: 043 Lure of the Golden Deer
 title_english: 043 Lure of the Golden Deer
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-043-Swarna_Mruga_Grahanaardham_Rama_Agamanam.mp3"></div>
 सा तम् संप्रेक्ष्य सुश्रोणी कुसुमानि विचिन्वती ।  
 हेम राजत वर्णाभ्याम् पार्श्वाभ्याम् उपशोभितम् ॥ ३-४३-१  
 प्रहृष्टा च अनवद्यान्गी मृष्ट हाटक वर्णिनी ।  

@@ -3,6 +3,7 @@ title: 036 Siddhartha tries to persuade Kaikeyi
 title_english: 036 Siddhartha tries to persuade Kaikeyi
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-036-Sidhdhardasya_Kaikeyyupadeshaha.mp3"></div>
 ततः सुमन्त्रम् ऐक्ष्वाकः पीडितः अत्र प्रतिज्ञया ।  
 सबाष्पम् अतिनिह्श्वस्य जगाद इदम् पुनः पुनः ॥ २-३६-१  
 सूत रत्न सुसम्पूर्णा चतुर् विध बला चमूः ।  

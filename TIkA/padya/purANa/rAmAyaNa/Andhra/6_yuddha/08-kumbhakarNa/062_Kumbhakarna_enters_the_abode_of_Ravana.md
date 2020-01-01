@@ -3,6 +3,7 @@ title: 062 Kumbhakarna enters the abode of Ravana
 title_english: 062 Kumbhakarna enters the abode of Ravana
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-062-Kumbhakarna_enters_the_abode_of_Ravana_0.mp3"></div>
 स तु राक्षसशार्दूलो निद्रामदसमाकुलः ।  
 राजमार्गम् श्रिया जुष्टम् ययौ विपुलविक्रमः ॥ ६-६२-१  
 राक्षसानाम् सहस्रैश्च वृतः परमदुर्जयः ।  

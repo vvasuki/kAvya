@@ -3,6 +3,7 @@ title: 035 Tara appeases Lakshmana
 title_english: 035 Tara appeases Lakshmana
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-035-Tharaya_Lakshmana_Santhvanam.mp3"></div>
 तथा ब्रुवाणम् सौमित्रिम् प्रदीप्तम् इव तेजसा ।  
 अब्रवीत् लक्ष्मणम् तारा तारा अधिप निभ आनना ॥ ४-३५-१  
 न एवम् लक्ष्मण वक्तव्यो न अयम् परुषम् अर्हति ।  

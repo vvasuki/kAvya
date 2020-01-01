@@ -3,6 +3,7 @@ title: 032 Seetha sees the illusory head and bow
 title_english: 032 Seetha sees the illusory head and bow
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-032-Seetha_sees_the_illusory_head_and_bow_0.mp3"></div>
 सा सीता तच्चिरो दृष्ट्वा तच् च कार्मुकम् उत्तमम् । ।  
 सुग्रीव प्रतिसंसर्गम् आख्यातम् च हनूमता ॥ ६-३२-१  
 नयने मुख वर्णम् च भर्तुस् तत् सदृशम् मुखम् ।  

@@ -3,6 +3,7 @@ title: 048 Ravana sends his son Indrajit
 title_english: 048 Ravana sends his son Indrajit
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-048-Ravana_sends_his_son_Indrajit.mp3"></div>
 ततस्तु रक्षोधितिर्महात्म ।  
 हनूमताक्षे निहते कुमारे ।  
 मनः समाधाय स देवकल्पम् ।  

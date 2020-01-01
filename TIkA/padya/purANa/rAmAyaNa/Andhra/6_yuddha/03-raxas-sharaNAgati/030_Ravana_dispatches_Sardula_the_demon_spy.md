@@ -3,6 +3,7 @@ title: 030 Ravana dispatches Sardula the demon spy
 title_english: 030 Ravana dispatches Sardula the demon spy
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-030-Ravana_dispatches_Sardula_the_demon-spy_1.mp3"></div>
 ततस्तमक्षोभ्य बलम् लंका अधिपतये चराः ।  
 सुवेले राघवम् शैले निविष्टम् प्रत्यवेदयन् ॥ ६-३०-१  
 चाराणाम् रावणः श्रुत्वा प्राप्तम् रामम् महाबलम् ।  

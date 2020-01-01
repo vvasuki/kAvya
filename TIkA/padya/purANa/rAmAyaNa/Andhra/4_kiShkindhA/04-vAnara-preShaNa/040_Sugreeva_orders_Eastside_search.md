@@ -3,6 +3,7 @@ title: 040 Sugreeva orders Eastside search
 title_english: 040 Sugreeva orders Eastside search
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-040-Pracheem_Prathi_Vanara_Preshanam.mp3"></div>
 अथ राजा समृद्ध अर्थः सुग्रीवः प्लवगेश्वरः ।  
 उवाच नरशार्दूलम् रामम् परबलार्दनम् ॥ ४-४०-१  
 आगता विनिविष्टाः च बलिनः कामरूपिणः ।  

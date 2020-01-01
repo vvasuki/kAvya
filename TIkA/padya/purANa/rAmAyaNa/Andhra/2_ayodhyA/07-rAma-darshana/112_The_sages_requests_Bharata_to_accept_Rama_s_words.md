@@ -3,6 +3,7 @@ title: 112 The sages requests Bharata to accept Rama s words
 title_english: 112 The sages requests Bharata to accept Rama s words
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-112-Padukaa_Pradaanam.mp3"></div>
 तम् अप्रतिम तेजोभ्याम् भ्रातृभ्याम् रोम हर्षणम् ।  
 विस्मिताः सम्गमम् प्रेक्ष्य समवेता महर्षयः ॥ २-११२-१  
 अन्तर् हिताः तु ऋषि गणाः सिद्धाः च परम ऋषयः ।  

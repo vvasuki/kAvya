@@ -3,6 +3,7 @@ title: 013 Saptajana hermitage
 title_english: 013 Saptajana hermitage
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-013-Saptha_Jana_Shrama_Varnanam_0.mp3"></div>
 ऋश्यमूकात् स धर्मात्मा किष्किन्धाम् लक्ष्मण अग्रजः ।  
 जगाम सह सुग्रीवो वालि विक्रम पालिताम् ॥ ४-१३-१  
 समुद्यम्य महत् चापम् रामः कांचन भूषितम् ।  

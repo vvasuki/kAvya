@@ -3,6 +3,7 @@ title: 103 Rama fainted away after hearing the news of his father s death
 title_english: 103 Rama fainted away after hearing the news of his father s death
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-103-Rama_Deenam_Shokaha.mp3"></div>
 ताम् श्रुत्वा करुणां वाचं पितुर्मरणसंहिताम् ।  
 राघवो भरतेनोक्तां बभूव गतचेतनः ॥ २-१०३-१  
 तं तु वज्रमिवोत्सृष्टमाहवे दानवारिणा ।  

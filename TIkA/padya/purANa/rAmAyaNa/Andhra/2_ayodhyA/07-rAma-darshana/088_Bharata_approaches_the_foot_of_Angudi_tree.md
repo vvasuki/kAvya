@@ -3,6 +3,7 @@ title: 088 Bharata approaches the foot of Angudi tree
 title_english: 088 Bharata approaches the foot of Angudi tree
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-088-Bharatha_Prathignaa.mp3"></div>
 तत् श्रुत्वा निपुणम् सर्वम् भरतः सह मन्त्रिभिः ।  
 इन्गुदी मूलम् आगम्य राम शय्याम् अवेक्ष्य ताम् ॥ २-८८-१  
 अब्रवीद् जननीः सर्वा इह तेन महात्मना ।  

@@ -3,6 +3,7 @@ title: 042 Female demons enquires Seetha about Hanuma
 title_english: 042 Female demons enquires Seetha about Hanuma
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-042-Female-demons_enquires_Seetha_about_Hanuma.mp3"></div>
 ततः पक्षि निनादेन वृक्ष भन्ग स्वनेन च ।  
 बभूवुः त्रास सम्भ्रान्ताः सर्वे लन्का निवासिनः ॥ ५-४२-१  
 विद्रुताः च भय त्रस्ता विनेदुः मृग पक्षुणः ।  

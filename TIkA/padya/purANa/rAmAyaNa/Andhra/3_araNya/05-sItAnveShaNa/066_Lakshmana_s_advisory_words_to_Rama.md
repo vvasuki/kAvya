@@ -3,6 +3,7 @@ title: 066 Lakshmana s advisory words to Rama
 title_english: 066 Lakshmana s advisory words to Rama
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-066-Rama_Sama_Shwasanam.mp3"></div>
 तम् तथा शोक संतप्तम् विलपंतम् अनाथवत् ।  
 मोहेन महता आविष्टम् परिद्यूनम् अचेतनम् ॥ ४-६६-१  
 ततः सौमित्रिः आश्वास्य मुहूर्तात् इव लक्ष्मणः ।  

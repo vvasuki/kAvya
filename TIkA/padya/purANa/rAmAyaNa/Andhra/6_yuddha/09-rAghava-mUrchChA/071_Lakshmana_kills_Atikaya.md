@@ -3,6 +3,7 @@ title: 071 Lakshmana kills Atikaya
 title_english: 071 Lakshmana kills Atikaya
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-071-Lakshmana_kills_Atikaya_0.mp3"></div>
 स्वबलम् व्यथितम् दृष्ट्वा तुमुलं लोमहर्षणम् ।  
 भ्रातॄंश्च निहतान्दृष्ट्वा शक्रतुल्यपराक्रमान् ॥ ६-७१-१  
 पितृव्यौ चापि सन्दृश्य समरे संनिषूदितौ ।  

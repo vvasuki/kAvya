@@ -3,6 +3,7 @@ title: 031 Lakshmana s fury
 title_english: 031 Lakshmana s fury
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-031-Ramena_Lakshmana_Preshanam.mp3"></div>
 स कामिनम् दीनम् अदीन सत्त्वः  
 शोक अभिपन्नम् समुदीर्ण कोपम् ।  
 नरेन्द्र सूनुर् नरदेव पुत्रम्  
