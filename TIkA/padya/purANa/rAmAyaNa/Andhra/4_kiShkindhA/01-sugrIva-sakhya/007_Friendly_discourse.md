@@ -3,7 +3,9 @@ title: 007 Friendly discourse
 title_english: 007 Friendly discourse
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-007-Rama_Sugreevayoho_Sahayya_Prathigna_0.mp3"></div>
+
 एवम् उक्तः तु सुग्रीवः रामेण आर्तेन वानरः ।  
 अब्रवीत् प्राञ्जलिः वाक्यम् सबाष्पम् बाष्प गद्गदः ॥ ४-७-१  
 न जाने निलयम् तस्य सर्वथा पाप रक्षसः ।  

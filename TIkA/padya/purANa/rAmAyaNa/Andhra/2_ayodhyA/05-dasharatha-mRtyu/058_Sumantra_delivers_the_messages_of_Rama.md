@@ -3,7 +3,9 @@ title: 058 Sumantra delivers the messages of Rama
 title_english: 058 Sumantra delivers the messages of Rama
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-058-Rama_Sandesha_Nivedanam.mp3"></div>
+
 प्रत्याश्वस्तः यदा राजा मोहात् प्रत्यागतः पुनः ।  
 थाजुहाव तम् सूतम् राम वृत्त अन्त कारणात् ॥ २-५८-१  
 तदा सूतो महाराज कृताञ्जलिरुपस्थितः।  

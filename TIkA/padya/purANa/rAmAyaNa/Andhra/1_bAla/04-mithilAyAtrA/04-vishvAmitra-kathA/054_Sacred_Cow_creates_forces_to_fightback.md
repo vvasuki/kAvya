@@ -3,7 +3,9 @@ title: 054 शबलापहरणम्
 title_english: 054 Sacred Cow creates forces to fightback
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-054-Shabala_Paharanam.mp3"></div>
+
 कामधेनुं वसिष्ठोऽपि यदा न त्यजते मुनिः।  
 तदास्य शबलां राम विश्वामित्रोऽन्वकर्षत ॥ 1.54.1 ॥   
 नीयमाना तु शबला राम राज्ञा महात्मना।  

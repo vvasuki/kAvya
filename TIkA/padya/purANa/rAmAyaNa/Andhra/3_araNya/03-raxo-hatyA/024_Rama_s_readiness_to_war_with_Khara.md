@@ -3,7 +3,9 @@ title: 024 Rama s readiness to war with Khara
 title_english: 024 Rama s readiness to war with Khara
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-024-Ramasya_Yudhdhodhyogaha.mp3"></div>
+
 आश्रमम् प्रति याते तु खरे खर पराक्रमे ।  
 तान् एव औत्पातिकान् रामः सह भ्रात्रा ददर्श ह ॥ ३-२४-१  
 तान् उत्पातान् महाघोरान् रामो दृष्ट्वा अति अमर्षण ।  

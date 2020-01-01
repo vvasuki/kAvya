@@ -3,7 +3,9 @@ title: 031 मिथिला-प्रस्थानम्
 title_english: 031 rAma travel to mithila city
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-031-Mithila_Prasthanam.mp3"></div>
+
 अथ तां रजनीं तत्र कृतार्थौ रामलक्ष्मणौ।  
 ऊषतुर्मुदितौ वीरौ प्रहृष्टेनान्तरात्मना ॥ 1.31.1 ॥   
 प्रभातायां तु शर्वर्यां कृतपौर्वाह्णिकक्रियौ।  

@@ -3,7 +3,9 @@ title: 017 ऋक्षवानरोत्पत्तिः
 title_english: 017 brahma orders gods to spawn forest rangers vAnarA s
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-017-Ruksha_Vaanarothpaththi.mp3"></div>
+
 पुत्रत्वं तु गते विष्णौ राज्ञस्तस्य महात्मनः।  
 उवाच देवताः सर्वाः स्वयम्भूर्भगवानिदम् ॥ 1.17.1 ॥   
 सत्यसन्धस्य वीरस्य सर्वेषां नो हितैषिणः।  

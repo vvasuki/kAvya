@@ -3,7 +3,9 @@ title: 039 Maareecha further advises Ravana
 title_english: 039 Maareecha further advises Ravana
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-039-Sahayya_Karana_Nirakaranam.mp3"></div>
+
 एवम् अस्मि तदा मुक्तः कथंचित् तेन संयुगे ।  
 इदानीम् अपि यत् वृत्तम् तत् शृउणुष्व यत् उत्तरम् ॥ ४-३९-१  
 राक्षाभ्याम् अहम् द्वाभ्याम् अनिर्विण्णः तथा कृतः ।  

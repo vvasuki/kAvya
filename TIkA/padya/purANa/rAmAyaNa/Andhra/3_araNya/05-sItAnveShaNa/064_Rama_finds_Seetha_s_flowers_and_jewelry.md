@@ -3,7 +3,9 @@ title: 064 Rama finds Seetha s flowers and jewelry
 title_english: 064 Rama finds Seetha s flowers and jewelry
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-064-Rama_Santhapaha.mp3"></div>
+
 स दीनो दीनया वाचा लक्ष्मणम् वाक्यम् अब्रवीत् ।  
 शीघ्रम् लक्ष्मण जानीहि गत्वा गोदावरीम् नदीम् ॥ ३-६४-१  
 अपि गोदावरीम् सीता पद्मानि आनयितुम् गता ।  

@@ -3,7 +3,9 @@ title: 046 Ravana praises Seetha s beauty
 title_english: 046 Ravana praises Seetha s beauty
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-046-Thapasvi_Roopena_Ravana_Agamanam.mp3"></div>
+
 तया परुषम् उक्तः तु कुपितो राघव अनुजः ।  
 स विकांक्षन् भृशम् रामम् प्रतस्थे न चिरात् इव ॥ ३-४६-१  
 तदा आसाद्य दशग्रीवः क्षिप्रम् अंतरम् आस्थितः ।  

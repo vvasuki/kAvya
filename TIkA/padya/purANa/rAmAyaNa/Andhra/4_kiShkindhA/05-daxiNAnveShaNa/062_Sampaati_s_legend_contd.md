@@ -3,7 +3,9 @@ title: 062 Sampaati s legend contd
 title_english: 062 Sampaati s legend contd
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-062-Sampaati_s_legend_[contd.].mp3"></div>
+
 एवम् उक्त्वा मुनिश्रेष्ठम् अरुदम् भृश दुःखितः ।  
 अथ ध्यात्वा मुहूर्तम् तु भगवान् इदम् अब्रवीत् ॥ ४-६२-१  
 पक्षौ च ते प्रपक्षौ च पुनः अन्यौ भविष्यतः ।  

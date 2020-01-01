@@ -3,7 +3,9 @@ title: 027 Elimination of Trishira
 title_english: 027 Elimination of Trishira
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-027-Thrishiro_Vadhaha.mp3"></div>
+
 खरम् तु राम अभिमुखम् प्रयांतम् वाहिनी पतिः ।  
 राक्षसः त्रिशिरा नाम संनिपत्य इदम् अब्रवीत् ॥ ३-२७-१  
 माम् नियोजय विक्रांतम् त्वम् निवर्तस्व साहसात् ।  

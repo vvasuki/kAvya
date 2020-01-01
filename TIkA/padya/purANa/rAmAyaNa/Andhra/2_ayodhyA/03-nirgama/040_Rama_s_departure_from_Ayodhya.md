@@ -3,7 +3,9 @@ title: 040 Rama s departure from Ayodhya
 title_english: 040 Rama s departure from Ayodhya
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-040-Jana_Kroshaha.mp3"></div>
+
 अथ रामः च सीता च लक्ष्मणः च कृत अन्जलिः ।  
 उपसम्गृह्य राजानम् चक्रुर् दीनाः प्रदक्षिणम् ॥ २-४०-१  
 तम् च अपि समनुज्ञाप्य धर्मज्ञः सीतया सह ।  

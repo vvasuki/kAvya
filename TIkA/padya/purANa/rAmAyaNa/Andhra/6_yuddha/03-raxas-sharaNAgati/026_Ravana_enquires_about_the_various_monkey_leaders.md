@@ -3,7 +3,9 @@ title: 026 Ravana enquires about the various monkey leaders
 title_english: 026 Ravana enquires about the various monkey leaders
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-026-Ravana_enquires_about_the_various_monkey_leaders_0.mp3"></div>
+
 तद् वचः पथ्यम् अक्लीबम् सारणेन अभिभाषितम् ।  
 निशम्य रावणो राजा प्रत्यभाषत सारणम् ॥ ६-२६-१  
 यदि माम् अभियुन्जीरन् देव गन्धर्व दानवाः ।  

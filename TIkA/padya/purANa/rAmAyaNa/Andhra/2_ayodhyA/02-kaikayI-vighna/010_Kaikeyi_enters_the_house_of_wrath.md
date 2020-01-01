@@ -3,7 +3,9 @@ title: 010 Kaikeyi enters the house of wrath
 title_english: 010 Kaikeyi enters the house of wrath
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-010-Dasharatha_Pradhanaa.mp3"></div>
+
 विदर्शिता यदा देवी कुब्जया पापया भृशम् ।  
 तदा शेते स्म सा भूमौ दिग्धविद्धेव किन्नरी ॥ २-१०-१  
 निश्चित्य मनसा कृत्यम् सा सम्यगिति भामिनी ।  

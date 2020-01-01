@@ -3,7 +3,9 @@ title: 030 Autumn Sharad R itu eulogised
 title_english: 030 Autumn Sharad R itu eulogised
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-030-Sharadvaranam_Rama_Vilapshcha.mp3"></div>
+
 गुहाम् प्रविष्टे सुग्रीवे विमुक्ते गगने घनैः ।  
 वर्ष रात्रे स्थितो रामः काम शोक अभिपीडितः ॥ ४-३०-१  
 पाण्डुरम् गगनम् दृष्ट्वा विमलम् चन्द्र मण्डलम् ।  

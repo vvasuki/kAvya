@@ -3,7 +3,9 @@ title: 086 Guha narrates Bharata about Rama s stay
 title_english: 086 Guha narrates Bharata about Rama s stay
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-086-Guhena_Rama_Vruththantha_Kathanam.mp3"></div>
+
 आचचक्षे अथ सद्भावम् लक्ष्मणस्य महात्मनः ।  
 भरताय अप्रमेयाय गुहो गहन गोचरः ॥ २-८६-१  
 तम् जाग्रतम् गुणैर् युक्तम् वर चाप इषु धारिणम् ।  

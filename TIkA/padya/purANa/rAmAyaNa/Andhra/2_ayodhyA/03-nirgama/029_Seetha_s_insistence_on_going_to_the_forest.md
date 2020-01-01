@@ -3,7 +3,9 @@ title: 029 Seetha s insistence on going to the forest
 title_english: 029 Seetha s insistence on going to the forest
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-029-Sita_Vanagamana_Vignapthihi.mp3"></div>
+
 एतत् तु वचनम् श्रुत्वा सीता रामस्य दुह्खिता ।  
 प्रसक्त अश्रु मुखी मन्दम् इदम् वचनम् अब्रवीत् ॥ २-२९-१  
 ये त्वया कीर्तिता दोषा वने वस्तव्यताम् प्रति ।  

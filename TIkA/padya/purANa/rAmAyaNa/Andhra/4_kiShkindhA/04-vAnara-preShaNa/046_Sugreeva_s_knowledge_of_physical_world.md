@@ -3,7 +3,9 @@ title: 046 Sugreeva s knowledge of physical world
 title_english: 046 Sugreeva s knowledge of physical world
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-046-_Dundubhi_Vruthanthaha.mp3"></div>
+
 गतेषु वानरेन्द्रेषु रामः सुग्रीवम् अब्रवीत् ।  
 कथम् भवान् विजानीते सर्वम् वै मण्डलम् भुवः ॥ ४-४६-१  
 सुग्रीवः च ततो रामम् उवाच प्रणत आत्मवान् ।  

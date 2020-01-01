@@ -3,7 +3,9 @@ title: 064 Hanuma apprises of the discovery of Seetha
 title_english: 064 Hanuma apprises of the discovery of Seetha
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-064-Hanuma_apprises_of_the_discovery_of_Seetha.mp3"></div>
+
 सुग्रीवेण एवम् उक्तः तु हृष्टो दधि मुखः कपिः ।  
 राघवम् लक्ष्मणम् चैव सुग्रीवम् च अभ्यवादयत् ॥ ५-६४-१  
 स प्रणम्य च सुग्रीवम् राघवौ च महाबलौ ।  

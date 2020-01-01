@@ -3,7 +3,9 @@ title: 007 मन्त्रिगुणगौरवम्
 title_english: 007 Estimable nature of king dasharatha s ministers
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-007-Mantriguna_Gouravam.mp3"></div>
+
   
 तस्यामात्या गुणैरासन्निक्ष्वाकोस्तु महात्मनः।  
 मन्त्रज्ञाश्चेङ्गितज्ञाश्च नित्यं प्रियहिते रताः ॥ 1.7.1 ॥   

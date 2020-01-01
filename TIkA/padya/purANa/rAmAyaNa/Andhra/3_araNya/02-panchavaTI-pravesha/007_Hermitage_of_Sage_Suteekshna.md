@@ -3,7 +3,9 @@ title: 007 Hermitage of Sage Suteekshna
 title_english: 007 Hermitage of Sage Suteekshna
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-007-Rama_-_Sutheekshnana_Samvadaha.mp3"></div>
+
 रामः तु सहितः भ्रात्रा सीतया च परंतपः ।  
 सुतीक्ष्णस्य आश्रम पदम् जगाम सह तैः द्विजैः ॥ ३-७-१  
 स गत्वा दीर्घम् अध्वानम् नदीः तीर्त्वा बहु उदकाः ।  

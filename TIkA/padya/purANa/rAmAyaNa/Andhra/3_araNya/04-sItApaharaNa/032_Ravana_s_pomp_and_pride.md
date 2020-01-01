@@ -3,7 +3,9 @@ title: 032 Ravana s pomp and pride
 title_english: 032 Ravana s pomp and pride
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-032-Shoorpanakakrutha_Ravana_Bala_Stuthi.mp3"></div>
+
 ततः शूर्पणखा दृष्ट्वा सहस्राणि चतुर्दश ।  
 हतानि एकेन रामेण रक्षसाम् भीम कर्मणाम् ॥ ३-३२-१  
 दूषणम् च खरम् चैव हतम् त्रिशिरसम् रणे ।  

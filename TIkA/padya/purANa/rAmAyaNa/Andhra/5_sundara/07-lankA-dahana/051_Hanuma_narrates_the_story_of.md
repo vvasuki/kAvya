@@ -3,7 +3,9 @@ title: 051 Hanuma narrates the story of
 title_english: 051 Hanuma narrates the story of
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-051-Hanuma_narrates_the_story_of.mp3"></div>
+
 तम् समीक्ष्य महासत्त्वम् सत्त्ववान् हारि सत्तमः ।  
 वाक्यम् अर्थवत् अव्यग्रः तम् उवाच दश आननम् ॥ ५-५१-१  
 अहम् सुग्रीव संदेशात् इह प्राप्तः तव आलयम् ।  

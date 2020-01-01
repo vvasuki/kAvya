@@ -3,7 +3,9 @@ title: 076 जामदग्न्यपराजयः
 title_english: 076 parashu rAma s pride is hurt
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-076-Jaama_Dagnya_Parajayaha.mp3"></div>
+
 श्रुत्वा तत् जामदग्न्यस्य वाक्यम् दाशरथिः तदा ।  
 गौरवात् यंत्रित कथः पितू रामम् अथ अब्रवीत् ॥ १-७६-१  
 कृतवान् अस्मि यत् कर्म श्रुतवान् असि भार्गव ।  

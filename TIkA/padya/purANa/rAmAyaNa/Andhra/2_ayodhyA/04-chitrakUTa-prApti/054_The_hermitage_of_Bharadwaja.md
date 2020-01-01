@@ -3,7 +3,9 @@ title: 054 The hermitage of Bharadwaja
 title_english: 054 The hermitage of Bharadwaja
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-054-Bharadvaja_Shramagamanam.mp3"></div>
+
 ते तु तस्मिन् महा वृक्षौषित्वा रजनीम् शिवाम् ।  
 विमले अभ्युदिते सूर्ये तस्मात् देशात् प्रतस्थिरे ॥ २-५४-१  
 यत्र भागीरथी गन्गा यमुनाम् अभिवर्तते ।  

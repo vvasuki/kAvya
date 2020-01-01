@@ -3,7 +3,9 @@ title: 053 Seetha denounces Ravana s misdeeds
 title_english: 053 Seetha denounces Ravana s misdeeds
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-053-Ravana_Nindaa.mp3"></div>
+
 खम् उत्पतन्तम् तम् दृष्ट्वा मैथिली जनक आत्मजा ।  
 दुःखिता परम उद्विग्ना भये महति वर्तिनी ॥ ३-५३-१  
 रोष रोदन ताम्राक्षी भीमाक्षम् राक्षस अधिपम् ।  

@@ -3,7 +3,9 @@ title: 117 Rama decides to leave Chitrakuta Mountain
 title_english: 117 Rama decides to leave Chitrakuta Mountain
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-117-Athryaa_Shrama_Gamanam.mp3"></div>
+
 राघवः तु अपयातेषु तपस्विषु विचिन्तयन् ।  
 न तत्र अरोचयद् वासम् कारणैर् बहुभिः तदा ॥ २-११७-१  
 इह मे भरतो दृष्टो मातरः च सनागराः ।  

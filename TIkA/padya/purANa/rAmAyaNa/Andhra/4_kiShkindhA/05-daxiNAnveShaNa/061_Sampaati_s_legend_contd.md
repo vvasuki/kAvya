@@ -3,7 +3,9 @@ title: 061 Sampaati s legend contd
 title_english: 061 Sampaati s legend contd
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-061-Sampaati_s_legend_[contd.].mp3"></div>
+
 ततः तत् दारुणम् कर्म दुष्करम् साहसात् कृतम् ।  
 आचचक्षे मुनेः सर्वम् सूर्य अनुगमनम् तथा ॥ ४-६१-१  
 भगवन् व्रण युक्तत्वात् लज्जया च अकुल इन्द्रियः ।  

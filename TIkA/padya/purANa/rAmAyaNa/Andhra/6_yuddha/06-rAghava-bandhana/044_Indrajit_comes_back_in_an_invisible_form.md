@@ -3,7 +3,9 @@ title: 044 Indrajit comes back in an invisible form
 title_english: 044 Indrajit comes back in an invisible form
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-044-Indrajit_comes_back_in_an_invisible_form_0.mp3"></div>
+
 युध्यताम् एव तेषाम् तु तदा वानर रक्षसाम् ।  
 रविर् अस्तम् गतो रात्रिह् प्रवृत्ता प्राण हारिणी ॥ ६-४४-१  
 अन्योन्यम् बद्ध वैराणाम् घोराणाम् जयम् इच्चताम् ।  

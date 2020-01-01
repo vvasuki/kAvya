@@ -3,7 +3,9 @@ title: 082 Bharata refuses to rob the throne from Rama
 title_english: 082 Bharata refuses to rob the throne from Rama
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-082-Ramanayanaaya_Bharatha_Prasthanam.mp3"></div>
+
 ताम् आर्य गण सम्पूर्णाम् भरतः प्रग्रहाम् सभाम् ।  
 ददर्श बुद्धि सम्पन्नः पूर्ण चन्द्राम् निशाम् इव ॥ २-८२-१  
 आसनानि यथा न्यायम् आर्याणाम् विशताम् तदा ।  

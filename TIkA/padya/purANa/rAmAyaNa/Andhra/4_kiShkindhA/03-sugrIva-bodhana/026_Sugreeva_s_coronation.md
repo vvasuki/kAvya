@@ -3,7 +3,9 @@ title: 026 Sugreeva s coronation
 title_english: 026 Sugreeva s coronation
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-026-Angada_Youvarajyabhishekaha.mp3"></div>
+
 ततः शोक अभिसंतप्तम् सुग्रीवम् क्लिन्न वासनम् ।  
 शाखा मृग महामात्राः परिवार्य उपतस्थिरे ॥ ४-२६-१  
 अभिगम्य महाबाहुम् रामम् अक्लिष्ट कारिणम् ।  

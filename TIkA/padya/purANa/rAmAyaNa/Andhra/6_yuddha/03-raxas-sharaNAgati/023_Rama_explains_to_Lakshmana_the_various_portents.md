@@ -3,7 +3,9 @@ title: 023 Rama explains to Lakshmana the various portents
 title_english: 023 Rama explains to Lakshmana the various portents
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-023-Rama_explains_to_Lakshmana_the_various_portents.mp3"></div>
+
 निमित्तानि निमित्तज्ञो दृष्ट्वा लक्ष्मणपूर्वजः ।  
 सौमित्रिम् सम्परिष्वज्य इदम् वचनम्ब्रवीत् ॥ ६-२१-१  
 परिगृह्योदकम् शीतम् वनानि फलवन्ति च ।  

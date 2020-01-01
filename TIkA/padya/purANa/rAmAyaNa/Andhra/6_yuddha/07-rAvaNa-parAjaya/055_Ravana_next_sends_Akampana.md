@@ -3,7 +3,9 @@ title: 055 Ravana next sends Akampana
 title_english: 055 Ravana next sends Akampana
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-055-Ravana_next_sends_Akampana_0.mp3"></div>
+
 वज्रदम्र अक्षम् निहतम् श्रुत्वा रावणो राक्षस ईश्वरः ।  
 बल अध्यक्षम् उवाच इदम् कृत अन्जलिम् उपस्थितम् ॥ ६-५५-१  
 शीघ्रम् निर्यान्तु दुर्धर्षा राक्षसा भीम विक्रमाः ।  

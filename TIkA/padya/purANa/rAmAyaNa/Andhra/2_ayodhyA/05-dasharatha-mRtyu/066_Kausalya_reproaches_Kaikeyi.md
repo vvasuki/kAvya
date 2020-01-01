@@ -3,7 +3,9 @@ title: 066 Kausalya reproaches Kaikeyi
 title_english: 066 Kausalya reproaches Kaikeyi
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-066-Raja_Sharirasya_Thailakata_Hanikshepaha.mp3"></div>
+
 तम् अग्निम् इव संशान्तम् अम्बु हीनम् इव अर्णवम् ।  
 हतप्रभम् इव आदित्यम् स्वर्गथम् प्रेक्ष्य भूमिपम् ॥ २-६६-१  
 कौसल्या बाष्प पूर्ण अक्षी विविधम् शोक कर्शिता ।  

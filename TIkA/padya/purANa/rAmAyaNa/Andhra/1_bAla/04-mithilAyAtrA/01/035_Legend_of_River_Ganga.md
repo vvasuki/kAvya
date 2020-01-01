@@ -3,7 +3,9 @@ title: 035 गङ्गोत्पत्तिः
 title_english: 035 Legend of River Ganga
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-035-Gangothpathi_Varnavam.mp3"></div>
+
 उपास्य रात्रिशेषं तु शोणाकूले महर्षिभिः।  
 निशायां सुप्रभातायां विश्वामित्रोऽभ्यभाषत ॥ 1.35.1 ॥   
 सुप्रभाता निशा राम पूर्वा सन्ध्या प्रवर्तते।  

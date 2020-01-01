@@ -3,7 +3,9 @@ title: 035 Seetha asks Sarama about Ravana s decision
 title_english: 035 Seetha asks Sarama about Ravana s decision
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-035-Seetha_asks_Sarama_about_Ravana_s_decision__0.mp3"></div>
+
 तेन शन्ख विमिश्रेण भेरी शब्देन राघवः ।  
 उपयतो महा बाहू रामह् पर पुरम् जयः ॥ ६-३५-१  
 तम् निनादम् निशम्य अथ रावणो राक्षस ईश्वरः ।  

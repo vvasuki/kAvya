@@ -3,7 +3,9 @@ title: 036 Ravana seeks Mareecha s help
 title_english: 036 Ravana seeks Mareecha s help
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-036-Sahayyartham_Ravana_Prathana.mp3"></div>
+
 मारीच श्रूयताम् तात वचनम् मम भाषतः ।  
 आर्तो अस्मि मम च आर्तस्य भवान् हि परमा गतिः ॥ ३-३६-१  
 जानीषे त्वम् जनस्थाने भ्राता यत्र खरो मम ।  

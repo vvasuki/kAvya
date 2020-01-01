@@ -3,7 +3,9 @@ title: 009 Seetha concerned about Sri Rama s vow to kill demons
 title_english: 009 Seetha concerned about Sri Rama s vow to kill demons
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-009-Sitaya_Aayudhanyasa_Pradhana.mp3"></div>
+
 सुतीक्ष्णेन अभ्यनुज्ञातम् प्रस्थितम् रघु नन्दनम् ।  
 हृद्यया स्निग्धया वाचा भर्तारम् इदम् अब्रवीत् ॥ ३-९-१  
 अधर्मम् तु सुसूक्ष्मेण विधिना प्राप्यते महान् ।  

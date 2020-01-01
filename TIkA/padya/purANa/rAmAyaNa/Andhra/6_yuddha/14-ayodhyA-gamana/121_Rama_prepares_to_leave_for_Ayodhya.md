@@ -3,7 +3,9 @@ title: 121 Rama prepares to leave for Ayodhya
 title_english: 121 Rama prepares to leave for Ayodhya
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-121-Rama_prepares_to_leave_for_Ayodhya_0.mp3"></div>
+
 तां रात्रिमुषितं रामं सुखोदितमरिंदमम् ।  
 अब्रवीत् प्राञ्जलिर्वाक्यं जयम् पृष्ट्वा विभीषणः ॥ ६-१२१-१  
 स्नानानि चाङ्गारागाणि वस्त्राण्याभरणानि च ।  

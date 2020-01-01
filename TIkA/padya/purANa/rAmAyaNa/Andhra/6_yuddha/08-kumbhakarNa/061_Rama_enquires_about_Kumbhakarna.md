@@ -3,7 +3,9 @@ title: 061 Rama enquires about Kumbhakarna
 title_english: 061 Rama enquires about Kumbhakarna
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-061-Rama_enquires_about_Kumbhakarna__0.mp3"></div>
+
 ततो रामो महातेजा धनुरादाय वीर्यवान् ।  
 किरीटिनम् महाकायम् कुम्भकर्णम् ददर्श ह ॥ ६-६१-१  
 तम् दृष्ट्वा राक्षसश्रेष्ठम् पर्वताकारदर्शनम् ।  

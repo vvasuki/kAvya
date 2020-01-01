@@ -3,7 +3,9 @@ title: 057 Rama meets Lakshmana
 title_english: 057 Rama meets Lakshmana
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-057-Ramena_Durnimiththa_Darshanam.mp3"></div>
+
 राक्षसम् मृग रूपेण चरन्तम् काम रूपिणम् ।  
 निहत्य रामो मारीचम् तूर्णम् पथि न्यवर्तत ॥ ३-५७-१  
 तस्य संत्वरमाणस्य द्रष्टु कामस्य मैथिलीम् ।  

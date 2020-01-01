@@ -3,7 +3,9 @@ title: 015 Sumantra arrives at Sri Rama s chambers
 title_english: 015 Sumantra arrives at Sri Rama s chambers
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-015-Sumanthrasya_Ramagruha_Gamanam_.mp3"></div>
+
 ते तु ताम् रजनीम् उष्य ब्राह्मणा वेद पारगाः ।  
 उपतस्थुर् उपस्थानम् सह राज पुरोहिताः ॥ २-१५-१  
 अमात्या बल मुख्याः च मुख्या ये निगमस्य च ।  

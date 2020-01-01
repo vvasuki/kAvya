@@ -3,7 +3,9 @@ title: 113 Keeping Rama s sandals on his head Bharata ascends his chariot
 title_english: 113 Keeping Rama s sandals on his head Bharata ascends his chariot
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-113-Bharathasya_Prathi_Nivartham.mp3"></div>
+
 ततः शिरसि कृत्वा तु पादुके भरतः तदा ।  
 आरुरोह रथम् हृष्टः शत्रुघ्नेन समन्वितः ॥ २-११३-१  
 वसिष्ठो वामदेवः च जाबालिः च दृढ व्रतः ।  

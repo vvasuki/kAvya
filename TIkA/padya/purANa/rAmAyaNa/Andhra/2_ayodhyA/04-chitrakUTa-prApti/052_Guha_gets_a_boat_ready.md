@@ -3,7 +3,9 @@ title: 052 Guha gets a boat ready
 title_english: 052 Guha gets a boat ready
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-052-Gangaa_Tharanam_Sumantra_Visarjanam_cha.mp3"></div>
+
 प्रभातायाम् तु शर्वर्याम् पृथु वृक्षा महा यशाः ।  
 उवाच रामः सौमित्रिम् लक्ष्मणम् शुभ लक्षणम् ॥ २-५२-१  
 भास्कर उदय कालो अयम् गता भगवती निशा ।  

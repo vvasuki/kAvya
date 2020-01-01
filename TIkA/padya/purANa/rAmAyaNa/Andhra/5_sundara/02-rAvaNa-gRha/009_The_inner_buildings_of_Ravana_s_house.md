@@ -3,7 +3,9 @@ title: 009 The inner buildings of Ravana s house
 title_english: 009 The inner buildings of Ravana s house
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-009-The_inner_buildings_of_Ravana_s_house.mp3"></div>
+
 तस्य आलय वरिष्ठस्य मध्ये विपुलम् आयतम् ।  
 ददर्श भवन श्रेष्ठम् हनूमान् मारुत आत्मजः ॥ ५-९-१  
 अर्ध योजन विस्तीर्णम् आयतम् योजनम् हि तत् ।  

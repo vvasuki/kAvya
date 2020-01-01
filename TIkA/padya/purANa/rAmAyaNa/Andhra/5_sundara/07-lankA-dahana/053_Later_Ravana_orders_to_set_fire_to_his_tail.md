@@ -3,7 +3,9 @@ title: 053 Later Ravana orders to set fire to his tail
 title_english: 053 Later Ravana orders to set fire to his tail
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-053-Later_Ravana_orders_to_set_fire_to_his_tail.mp3"></div>
+
 तस्य तत् वचनम् श्रुत्वा दशग्रीवो महाबलः ।  
 देश काल हितम् वाक्यम् भ्रातुः उत्तमम् अब्रवीत् ॥ ५-५३-१  
 सम्यग् उक्तम् हि भवता दूत वध्या विगर्हिता ।  

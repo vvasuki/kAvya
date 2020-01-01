@@ -3,7 +3,9 @@ title: 095 Rama and Seetha spend some time at Mandakini River
 title_english: 095 Rama and Seetha spend some time at Mandakini River
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-095-Mandakini_Soundaryam_Adhika_Pataha.mp3"></div>
+
 अथ शैलाद् विनिष्क्रम्य मैथिलीम् कोसल ईश्वरः ।  
 अदर्शयत् शुभ जलाम् रम्याम् मन्दाकिनीम् नदीम् ॥ २-९५-१  
 अब्रवीच् च वर आरोहाम् चारु चन्द्र निभ आननाम् ।  

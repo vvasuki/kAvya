@@ -3,7 +3,9 @@ title: 074 Bharata then promises that he would bring Rama back
 title_english: 074 Bharata then promises that he would bring Rama back
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-074-Kaikeyee_Garhanam.mp3"></div>
+
 ताम् तथा गर्हयित्वा तु मातरम् भरतः तदा ।  
 रोषेण महता आविष्टः पुनर् एव अब्रवीद् वचः ॥ २-७४-१  
 राज्यात् भ्रंशस्व कैकेयि नृशंसे दुष्ट चारिणि ।  

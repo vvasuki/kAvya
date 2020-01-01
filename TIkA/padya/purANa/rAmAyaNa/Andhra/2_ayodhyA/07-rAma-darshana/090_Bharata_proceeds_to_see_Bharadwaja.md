@@ -3,7 +3,9 @@ title: 090 Bharata proceeds to see Bharadwaja
 title_english: 090 Bharata proceeds to see Bharadwaja
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-090-Bharadwaja_Darshanam.mp3"></div>
+
 द्भरद्वाज आश्रमम् दृष्ट्वा क्रोशाद् एव नर ऋषभः ।  
 बलम् सर्वम् अवस्थाप्य जगाम सह मन्त्रिभिः ॥ २-९०-१  
 पद्भ्याम् एव हि धर्मज्नो न्यस्त शस्त्र परिग्च्छदः ।  

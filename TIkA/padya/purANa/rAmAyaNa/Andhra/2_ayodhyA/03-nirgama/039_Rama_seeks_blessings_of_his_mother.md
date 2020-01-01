@@ -3,7 +3,9 @@ title: 039 Rama seeks blessings of his mother
 title_english: 039 Rama seeks blessings of his mother
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-039-Vana_Prastanam.mp3"></div>
+
 रामस्य तु वचः श्रुत्वा मुनि वेष धरम् च तम् ।  
 समीक्ष्य सह भार्याभी राजा विगत चेतनः ॥ २-३९-१  
 न एनम् दुह्खेन सम्तप्तः प्रत्यवैक्षत राघवम् ।  

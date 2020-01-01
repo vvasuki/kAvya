@@ -3,7 +3,9 @@ title: 058 Rama anguishes for Seetha s aloneness
 title_english: 058 Rama anguishes for Seetha s aloneness
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-058-Rama_Shokaha.mp3"></div>
+
 स दृष्ट्वा लक्ष्मणम् दीनम् शून्यम् दशरथ आत्मजः ।  
 पर्यपृच्छत धर्माअत्मा वैदेहीम् आगतम् विना ॥ ३-५८-१  
 प्रस्थितम् दण्डक अरण्यम् या माम् अनुजगाम ह ।  

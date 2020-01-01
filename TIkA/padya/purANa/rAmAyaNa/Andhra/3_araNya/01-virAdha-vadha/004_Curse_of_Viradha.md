@@ -3,7 +3,9 @@ title: 004 Curse of Viradha
 title_english: 004 Curse of Viradha
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-004-Viradha_Vadhaha.mp3"></div>
+
 ह्रियमाणौ तु काकुत्स्थौ दृष्ट्वा सीता रघूत्तमौ ।  
 उच्चैः स्वरेण चुक्रोश प्रगृह्य सु महाभुजौ ॥ ३-४-१  
 एष दाशरथी रामः सत्यवान् शीलवान् शुचिः ।  

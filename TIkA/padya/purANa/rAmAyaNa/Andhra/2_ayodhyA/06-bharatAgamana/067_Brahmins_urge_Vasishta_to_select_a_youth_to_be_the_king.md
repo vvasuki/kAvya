@@ -3,7 +3,9 @@ title: 067 Brahmins urge Vasishta to select a youth to be the king
 title_english: 067 Brahmins urge Vasishta to select a youth to be the king
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-067-Arajaka_Desha_Varnanam.mp3"></div>
+
 आक्रन्दितनिरानन्दा सास्रकम्ठजनाविला ।  
 आयोध्यायामतितता सा व्यतीयाय शर्वरी ॥ २-६७-१  
 व्यतीतायाम् तु शर्वर्याम् आदित्यस्य उदये ततः ।  

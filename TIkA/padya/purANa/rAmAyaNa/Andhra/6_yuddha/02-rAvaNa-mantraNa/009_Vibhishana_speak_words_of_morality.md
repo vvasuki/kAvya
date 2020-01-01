@@ -3,7 +3,9 @@ title: 009 Vibhishana speak words of morality
 title_english: 009 Vibhishana speak words of morality
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-009-Vibhishana_speak_words_of_morality.mp3"></div>
+
 ततो निकुम्भो रभसः सूर्य शत्रुर् महाबलः ।  
 सुप्तघ्नो यज्ञ कोपः च महापार्श्वो महाउअरः ॥ ६-९-१  
 अग्नि केतुः च दुर्धर्षो रश्मि केतुः च राक्षसः ।  

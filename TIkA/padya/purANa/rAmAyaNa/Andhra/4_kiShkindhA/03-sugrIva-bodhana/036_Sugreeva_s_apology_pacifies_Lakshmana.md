@@ -3,7 +3,9 @@ title: 036 Sugreeva s apology pacifies Lakshmana
 title_english: 036 Sugreeva s apology pacifies Lakshmana
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-036-Sugreeva_Krutham_Lakshmana_Samashvasanam.mp3"></div>
+
 इति उक्तः तारया वाक्यम् प्रश्रितम् धर्म संहितम् ।  
 मृदु स्वभावः सौमित्रिः प्रतिजग्राह तत् वचः ॥ ४-३६-१  
 तस्मिन् प्रतिगृहीते तु वाक्ये हरि गण ईश्वरः ।  

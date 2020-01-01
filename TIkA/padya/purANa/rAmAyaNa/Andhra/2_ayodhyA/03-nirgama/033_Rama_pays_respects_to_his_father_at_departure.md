@@ -3,7 +3,9 @@ title: 033 Rama pays respects to his father at departure
 title_english: 033 Rama pays respects to his father at departure
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-033-Pithur_Dharshanaartham_Gamanam.mp3"></div>
+
 दत्त्वा तु सह वैदेह्या ब्राह्मणेभ्यो धनम् बहु ।  
 जग्मतुः पितरम् द्रष्टुम् सीतया सह राघवौ ॥ २-३३-१  
 ततो गृहीते दुष्प्रेक्ष्येअशोभेताम् तदा आयुधे ।  

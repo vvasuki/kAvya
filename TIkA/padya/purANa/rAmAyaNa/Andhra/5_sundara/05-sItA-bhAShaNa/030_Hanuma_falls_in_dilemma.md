@@ -3,7 +3,9 @@ title: 030 Hanuma falls in dilemma
 title_english: 030 Hanuma falls in dilemma
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-030-Hanuma_falls_in_dilemma.mp3"></div>
+
 हनुमान् अपि विक्रान्तः सर्वम् शुश्राव तत्त्वतः ।  
 सीतायाः त्रिजटायाः च राक्षसीनाम् च तर्जनम् ॥ ५-३०-१  
 अवेक्षमाणः ताम् देवीम् देवताम् इव नन्दने ।  

@@ -3,7 +3,9 @@ title: 021 Hanuma consoles Tara
 title_english: 021 Hanuma consoles Tara
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-021-Hanumatha_Thara_Santvanam.mp3"></div>
+
 ततो निपतिताम् ताराम् च्युताम् ताराम् इव अंबरात् ।  
 शनैः आश्वासयामास हनूमान् हरि यूथपः ॥ ४-२१-१  
 गुण दोष कृतम् जंतुः स्वकर्म फल हेतुकम् ।  

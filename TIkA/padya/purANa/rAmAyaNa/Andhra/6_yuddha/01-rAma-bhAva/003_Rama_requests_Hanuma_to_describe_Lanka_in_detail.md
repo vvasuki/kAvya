@@ -3,7 +3,9 @@ title: 003 Rama requests Hanuma to describe Lanka in detail
 title_english: 003 Rama requests Hanuma to describe Lanka in detail
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-003-Rama_requests_Hanuma_to_describe_Lanka_in_detail.mp3"></div>
+
 सुग्रीवस्य वचः श्रुत्वा हेतुमत् परम अर्थवित् ।  
 प्रतिजग्राह काकुत्स्थो हनूमन्तम् अथ अब्रवीत् ॥ ६-३-१  
 तरसा सेतु बन्धेन सागर उच्चोषणेन वा ।  

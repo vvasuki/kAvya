@@ -3,7 +3,9 @@ title: 068 दशरथागतिः
 title_english: 068 janaka sends message to ayodhya
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-068-Dasharatha_Agamanam.mp3"></div>
+
 जनकेन समादिष्टा दूताः ते क्लान्त वाहनाः ।  
 त्रि रात्रम् उषिता मार्गे ते अयोध्याम् प्राविशन् पुरीम् ॥ १-६८-१  
 ते राज वचनात् गत्वा राजवेश्म प्रवेशिताः ।  

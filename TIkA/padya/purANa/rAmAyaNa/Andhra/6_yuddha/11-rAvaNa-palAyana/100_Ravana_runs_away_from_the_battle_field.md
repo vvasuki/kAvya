@@ -3,7 +3,9 @@ title: 100 Ravana runs away from the battle field
 title_english: 100 Ravana runs away from the battle field
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-100-Ravana_runs_away_from_the_battle-field_0.mp3"></div>
+
 तस्मिन्प्रतिहतेअस्त्रे तु रावणो राक्षसाधिपः ।  
 क्रोधन् च द्विगुणं चक्रे क्रोधाच्चास्त्रमनन्तरम् ॥ ६-१००-१  
 मयेन विहितन् रौद्रमन्यदस्त्रं महाद्युतिः ।  

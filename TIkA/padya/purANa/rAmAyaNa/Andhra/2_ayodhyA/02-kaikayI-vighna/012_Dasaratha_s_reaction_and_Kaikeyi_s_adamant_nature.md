@@ -3,7 +3,9 @@ title: 012 Dasaratha s reaction and Kaikeyi s adamant nature
 title_english: 012 Dasaratha s reaction and Kaikeyi s adamant nature
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-012-Kaikeyyu_Palambhaha.mp3"></div>
+
 ततः श्रुत्वा महाराजः कैकेय्या दारुणम् वचः ।  
 चिन्तामभिसमापेदे मुहूर्तम् प्रतताप च ॥ २-१२-१  
 किम् नु मे यदि वा स्वप्नश्चित्तमोहोओऽपि वामम ।  

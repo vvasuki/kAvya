@@ -3,7 +3,9 @@ title: 065 Kumbhakarna rebukes Mahodara
 title_english: 065 Kumbhakarna rebukes Mahodara
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-065-Kumbhakarna_rebukes_Mahodara___0.mp3"></div>
+
 स तथोक्तस्तु निर्भर्त्स्य कुम्भकर्णो महोदरम् ।  
 अब्रवीद्राक्षसश्रेष्ठं भ्रातरम् रावणं ततः ॥ ६-६५-१  
 सोऽहम् तव भयं घोरम् वधात्तस्य दुरात्मनः ।  

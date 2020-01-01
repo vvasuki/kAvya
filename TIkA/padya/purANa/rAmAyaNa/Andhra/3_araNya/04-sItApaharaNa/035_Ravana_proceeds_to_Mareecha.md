@@ -3,7 +3,9 @@ title: 035 Ravana proceeds to Mareecha
 title_english: 035 Ravana proceeds to Mareecha
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-035-Maaricham_Prathi_Punaha_Ravana_Agamanam.mp3"></div>
+
 ततः शूर्पणखा वाक्यम् तत् श्रुत्वा रोम हर्षणम् ।  
 सचिवान् अभ्यनुज्ञाय कार्यम् बुद्ध्वा जगाम ह ॥ ३-३५-१  
 तत् कार्यम् अनुगम्यांतर् यथावत् उपलभ्य च ।  

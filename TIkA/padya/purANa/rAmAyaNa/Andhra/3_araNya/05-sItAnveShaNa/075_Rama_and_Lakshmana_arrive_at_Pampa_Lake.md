@@ -3,7 +3,9 @@ title: 075 Rama and Lakshmana arrive at Pampa Lake
 title_english: 075 Rama and Lakshmana arrive at Pampa Lake
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-075-Rama_Lakshmanayoho_Pampaa_Darshanam.mp3"></div>
+
 दिवम् तु तस्याम् यातायाम् शबर्याम् स्वेन तेजसा ।  
 लक्ष्मणेन सह भ्रात्रा चिन्तयामास राघवः ॥ ३-७५-१  
 चिंतयित्वा तु धर्मात्मा प्रभावम् तम् महात्मनाम् ।  

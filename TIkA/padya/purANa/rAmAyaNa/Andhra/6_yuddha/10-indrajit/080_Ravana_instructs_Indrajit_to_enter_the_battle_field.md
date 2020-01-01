@@ -3,7 +3,9 @@ title: 080 Ravana instructs Indrajit to enter the battle field
 title_english: 080 Ravana instructs Indrajit to enter the battle field
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-080-Ravana_instructs_Indrajit_to_enter_the_battle_field._0.mp3"></div>
+
 मकराक्षंहतं श्रुत्वा रावणः समितिंजयः ।  
 रोषेण महताविष्टो दन्तान् कटकटाय्य च ॥ ६-८०-१  
 कोपितश्च तदा तत्र किं कार्यमिति चिन्तयन् ।  

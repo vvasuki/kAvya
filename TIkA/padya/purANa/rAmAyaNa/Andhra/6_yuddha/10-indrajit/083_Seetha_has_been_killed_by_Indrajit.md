@@ -3,7 +3,9 @@ title: 083 Seetha has been killed by Indrajit
 title_english: 083 Seetha has been killed by Indrajit
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-083-Seetha_has_been_killed_by_Indrajit_0.mp3"></div>
+
 राघवश्चापि विपुलं तं राक्षसवनौकसाम् ।  
 श्रुत्वा सङ्ग्रामनिर्घोषं जाम्बवन्तमुवाच ह ॥ ६-८३-१  
 सौम्य नूनं हनुमता कृतं कर्म सुदुष्करम् ।  

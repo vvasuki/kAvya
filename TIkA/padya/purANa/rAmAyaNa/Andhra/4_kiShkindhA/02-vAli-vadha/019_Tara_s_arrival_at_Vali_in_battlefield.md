@@ -3,7 +3,9 @@ title: 019 Tara s arrival at Vali in battlefield
 title_english: 019 Tara s arrival at Vali in battlefield
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-019-Tharaya_Aagamanam.mp3"></div>
+
 स वानर महाराजः शयानः शर पीडितः ।  
 प्रत्युक्तो हेतुमद् वाक्यैः न उत्तरम् प्रत्यपद्यत ॥ ४-१९-१  
 अश्मभिः परिभिन्न अंगः पादपैर् आहतो भृशम् ।  

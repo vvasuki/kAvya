@@ -3,7 +3,9 @@ title: 119 Seetha shows the gifts of Anasuya to Rama
 title_english: 119 Seetha shows the gifts of Anasuya to Rama
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-119-Ramasya_Dandakaranya_Praveshaha.mp3"></div>
+
 अनसूया तु धर्मज्ना श्रुत्वा ताम् महतीम् कथाम् ।  
 पर्यष्वजत बाहुभ्याम् शिरस्य् आघ्राय मैथिलीम् ॥ २-११९-१  
 व्यक्त अक्षर पदम् चित्रम् भाषितम् मधुरम् त्वया ।  

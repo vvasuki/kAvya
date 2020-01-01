@@ -3,7 +3,9 @@ title: 010 Sri Rama s reply to Seetha
 title_english: 010 Sri Rama s reply to Seetha
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-010-Ramena_Kshatra_Dharma_Nirupanam.mp3"></div>
+
 वाक्यम् एतत् तु वैदेह्या व्याहृतम् भर्तृ भक्त्या ।  
 श्रुत्वा धर्मे स्थितो रामः प्रत्युवाच जानकीम् ॥ ४-१०-१  
 हितम् उक्तम् त्वया देवि स्निग्धया सदृशम् वचः ।  

@@ -3,7 +3,9 @@ title: 067 Rama spots wing clipped Jataayu
 title_english: 067 Rama spots wing clipped Jataayu
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-067-Jataayuvaa_Sitaa_Vruthantha_Kathanam.mp3"></div>
+
 पूर्वजो अपि उक्त मात्रः तु लक्ष्मणेन सुभाषितम् ।  
 सार ग्राही महासारम् प्रतिजग्राह राघवः ॥ ३-६७-१  
 स निगृह्य महाबाहुः प्रवृद्धम् रोषम् आत्मनः ।  

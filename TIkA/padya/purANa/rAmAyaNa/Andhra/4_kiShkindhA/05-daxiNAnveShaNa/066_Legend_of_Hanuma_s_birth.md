@@ -3,7 +3,9 @@ title: 066 Legend of Hanuma s birth
 title_english: 066 Legend of Hanuma s birth
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-066-Legend_of_Hanuma_s_birth.mp3"></div>
+
 अनेक शत साहस्रीम् विषण्णाम् हरि वाहिनीम् ।  
 जांबवान् समुदीक्ष्य एवम् हनुमंतम् अथ अब्रवीत् ॥ ४-६६-१  
 वीर वानर लोकस्य सर्व शास्त्र विदाम् वर ।  

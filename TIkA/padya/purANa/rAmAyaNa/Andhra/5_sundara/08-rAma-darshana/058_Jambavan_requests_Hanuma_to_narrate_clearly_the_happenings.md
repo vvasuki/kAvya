@@ -3,7 +3,9 @@ title: 058 Jambavan requests Hanuma to narrate clearly the happenings
 title_english: 058 Jambavan requests Hanuma to narrate clearly the happenings
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-058-Jambavan_requests_Hanuma_to_narrate_clearly_the_happenings.mp3"></div>
+
 ततः तस्य गिरेः शृन्गे महाइन्द्रस्य महाबलाः ।  
 हनुमत् प्रमुखाः प्रीतिम् हरयो जग्मुः उत्तमाम् ॥ ५-५८-१  
 तम् ततः प्रतिसम्हृष्टः प्रीतिमन्तम् महाकपिम् ।  

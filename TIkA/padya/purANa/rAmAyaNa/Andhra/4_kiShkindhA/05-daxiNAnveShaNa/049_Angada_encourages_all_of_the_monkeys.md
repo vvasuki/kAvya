@@ -3,7 +3,9 @@ title: 049 Angada encourages all of the monkeys
 title_english: 049 Angada encourages all of the monkeys
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-049-Lodhra_Saptha_Parna_Vanaanveshana.mp3"></div>
+
 अथ अंगदः तदा सर्वान् वानरान् इदम् अब्रवीत् ।  
 परिश्रान्तो महा प्राज्ञः समाश्वास्य शनैर् वचः ॥ ४-४९-१  
 वनानि गिरयो नद्यो दुर्गाणि गहनानि च ।  

@@ -3,7 +3,9 @@ title: 024 Tara Sugreeva s resolve to die with Valii
 title_english: 024 Tara Sugreeva s resolve to die with Valii
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-024-Sugreeva_Vilapaha_Thara_Santvanam_Cha.mp3"></div>
+
 तम् आशु वेगेन दुरासदेन तु अभिप्लुताम् शोक महार्णवेन ।  
 पश्यन् तदा वालि अनुजः तरस्वी भ्रात्रुः वधेन अप्रतिमेन तेपे ॥ ४-२४-१  
 स बाष्प पूर्णेन मुखेन् पश्यन् क्षणेन निर्विण्ण मना मनस्वी ।  

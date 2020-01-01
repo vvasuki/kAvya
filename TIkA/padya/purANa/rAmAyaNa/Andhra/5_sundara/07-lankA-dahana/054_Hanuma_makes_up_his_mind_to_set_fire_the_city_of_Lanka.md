@@ -3,7 +3,9 @@ title: 054 Hanuma makes up his mind to set fire the city of Lanka
 title_english: 054 Hanuma makes up his mind to set fire the city of Lanka
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-054-Hanuma_makes_up_his_mind_to_set_fire_the_city of Lanka.mp3"></div>
+
 वीक्षमाणः ततो लन्काम् कपिः कृत मनो रथः ।  
 वर्धमान समुत्साहः कार्य शेषम् अचिन्तयत् ॥ ५-५४-१  
 किम् नु खल्व् अविशिष्टम् मे कर्तव्यम् इह साम्प्रतम् ।  

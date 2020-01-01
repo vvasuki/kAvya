@@ -3,7 +3,9 @@ title: 021 Surpanakha reports demons death to Khara
 title_english: 021 Surpanakha reports demons death to Khara
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-021-Kharamthike_Shoorpanakaa_Shokaha_.mp3"></div>
+
 स पुनः पतिताम् दृष्ट्वा क्रोधात् शूर्पणखाम् खरः ।  
 उवाच व्यक्तता वाचा ताम् अनर्थ अर्थम् आगताम् ॥ ३-२१-१  
 मया तु इदानीम् शूराः ते राक्षसा पिशित अशनाः ।  

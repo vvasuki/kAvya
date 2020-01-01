@@ -3,7 +3,9 @@ title: 013 Sage Agastya directs Sri Rama to Panchavati
 title_english: 013 Sage Agastya directs Sri Rama to Panchavati
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-013-Agastya_Rama_Samvadaha.mp3"></div>
+
 राम प्रीतो अस्मि भद्रम् ते परितुष्टो अस्मि लक्ष्मण ।  
 अभिवादयितुम् यन् माम् प्राप्तौ स्थः सह सीतया ॥ ३-१३-१  
 अध्व श्रमेण वाम् खेदो बाधते प्रचुर श्रमः ।  

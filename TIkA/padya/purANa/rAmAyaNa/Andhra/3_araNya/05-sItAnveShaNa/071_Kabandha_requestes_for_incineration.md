@@ -3,7 +3,9 @@ title: 071 Kabandha requestes for incineration
 title_english: 071 Kabandha requestes for incineration
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-071-Kabandhena_Swa_Vruththantha_Kathanam.mp3"></div>
+
 पुरा राम महाबाहो महाबल पराक्रम ।  
 रूपम् आसीत् मम अचिंत्यम् त्रिषु लोकेषु विश्रुतम् ॥ ३-७१-१  
 यथा सूर्यस्य सोमस्य शक्रस्य च यथा वपुः ।  

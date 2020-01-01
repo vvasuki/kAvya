@@ -3,7 +3,9 @@ title: 063 विश्वामित्रतपोनाशः
 title_english: 063 Legend of vishvamitra contd
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-063-Vishvamithra_Thapobhamgaha.mp3"></div>
+
 पूर्णे वर्षसहस्रे तु व्रतस्नातं महामुनिम्।  
 अभ्यागच्छन् सुराः सर्वे तपःफलचिकीर्षवः ॥ 1.63.1 ॥   
 अब्रवीत् सुमहातेजा ब्रह्मा सुरुचिरं वचः।  
