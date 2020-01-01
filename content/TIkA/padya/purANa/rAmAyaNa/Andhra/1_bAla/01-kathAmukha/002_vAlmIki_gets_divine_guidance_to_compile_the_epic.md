@@ -1,5 +1,5 @@
 ---
-title: 002 vAlmIki gets divine guidance to compile the epic
+title: 002 ब्रह्मागमनम्
 title_english: 002 vAlmIki gets divine guidance to compile the epic
 
 ---
