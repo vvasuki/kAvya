@@ -3,6 +3,7 @@ title: 038 Maareecha s good word to Ravana
 title_english: 038 Maareecha s good word to Ravana
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-038-RamaGuna_Varnanam.mp3"></div>
 कदाचित् अपि अहम् वीर्यात् पर्यटन् पृथिवीम् इमाम् ।  
 बलम् नाग सहस्रस्य धारयन् पर्वतोपमः ॥ ३-३८-१  
 नील जीमूत संकाशः तप्त कांचन कुण्डलः ।  

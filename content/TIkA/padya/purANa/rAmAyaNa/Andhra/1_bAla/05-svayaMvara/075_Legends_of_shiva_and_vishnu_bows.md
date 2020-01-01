@@ -3,6 +3,7 @@ title: 075 शिवधनुर्वृत्तान्तम्
 title_english: 075 Legends of shiva and vishnu bows
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-075-Parashu_Ramena_Shivadhanur_Vruththtantha_Kathanam.mp3"></div>
 राम दाशरथे वीर वीर्यम् ते श्रूयते अद्भुतम् ।  
 धनुषो भेदनम् चैव निखिलेन मया श्रुतम् ॥ १-७५-१  
 तत् अद्भुतम् अचिंत्यम् च भेदनम् धनुषः तथा ।  

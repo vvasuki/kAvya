@@ -3,6 +3,7 @@ title: 085 Bharata thanks Guha for his hospitality
 title_english: 085 Bharata thanks Guha for his hospitality
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-085-Guha_Krutham_Marga_Darshanam.mp3"></div>
 एवमुक्तस्तु भरतो निषादाधिपतिं गुहम् ।  
 प्रत्युवाच महाप्राज्ञो वाक्यं हेत्वर्थसंहितम् ॥ २-८५-१  
 ऊर्जितः खलु ते कामः कृतःमम गुरोह् सखे।  

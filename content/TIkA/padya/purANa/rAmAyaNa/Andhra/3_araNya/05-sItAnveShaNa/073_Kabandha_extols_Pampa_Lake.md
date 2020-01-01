@@ -3,6 +3,7 @@ title: 073 Kabandha extols Pampa Lake
 title_english: 073 Kabandha extols Pampa Lake
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-073-Sugreeva_Stana_Marga_Darshanam.mp3"></div>
 दर्शयित्वा रामाय सीतायाः प्रैमार्गने ।  
 वाक्यम् अन्वर्थम् अर्थज्ञः कबंधः पुनः अब्रवीत् ॥ ३-७३-१  
 एष राम शिवः पंथा यत्र एते पुष्पिता द्रुमाः ।  

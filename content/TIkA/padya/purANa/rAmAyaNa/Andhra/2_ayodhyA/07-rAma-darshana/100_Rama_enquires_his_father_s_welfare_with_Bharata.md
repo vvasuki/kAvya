@@ -3,6 +3,7 @@ title: 100 Rama enquires his father s welfare with Bharata
 title_english: 100 Rama enquires his father s welfare with Bharata
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-100-Ramasya_Kushala_Prashnaha.mp3"></div>
 जटिलं चीरवसनं प्राञ्जलिं पतितं भुवि ।  
 ददर्श रामो दुर्दर्शं युगान्ते भास्करं यथा ॥ २-१००-१  
 कथं चिदभिविज्ञाय विवर्णवदनं कृशम् ।  

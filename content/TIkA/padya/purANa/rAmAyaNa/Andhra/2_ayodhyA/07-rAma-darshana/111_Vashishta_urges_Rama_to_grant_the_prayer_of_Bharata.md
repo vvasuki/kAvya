@@ -3,6 +3,7 @@ title: 111 Vashishta urges Rama to grant the prayer of Bharata
 title_english: 111 Vashishta urges Rama to grant the prayer of Bharata
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-111-Rama_Bharatha_Samvadaha.mp3"></div>
 वसिष्ठः तु तदा रामम् उक्त्वा राज पुरोहितः ।  
 अब्रवीद् धर्म सम्युक्तम् पुनर् एव अपरम् वचः ॥ २-१११-१  
 पुरुषस्य इह जातस्य भवन्ति गुरवः त्रयः ।  

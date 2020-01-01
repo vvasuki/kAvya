@@ -3,6 +3,7 @@ title: 065 Monkeys fear to jump the ocean
 title_english: 065 Monkeys fear to jump the ocean
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-065-Monkeys_fear_to_jump_the_ocean.mp3"></div>
 अथ अंगद वचः श्रुत्वा सर्वे ते वानर उत्तमाः ।  
 स्वम् स्वम् गतौ समुत्साहम् ऊचुः तत्र यथा क्रमम् ॥ ४-६५-१  
 गजो गवाक्षो गवयः शरभो गंधमादनः ।  

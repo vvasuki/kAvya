@@ -3,6 +3,7 @@ title: 019 Seetha in Ashoka garden
 title_english: 019 Seetha in Ashoka garden
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-019-Seetha_in_Ashoka_garden.mp3"></div>
 तस्मिन्नेव ततः काले राजपुत्री त्वनिन्दिता ।  
 रूपयौवनसम्पन्नं भूषणोत्तमभूषितम् ॥ ५-१९-१  
 ततो दृष्ट्वैव वैदेही रावणम् राक्षसाधिपम् ।  

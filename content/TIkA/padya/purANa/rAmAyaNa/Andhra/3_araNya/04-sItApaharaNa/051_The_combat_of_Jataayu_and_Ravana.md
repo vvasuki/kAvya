@@ -3,6 +3,7 @@ title: 051 The combat of Jataayu and Ravana
 title_english: 051 The combat of Jataayu and Ravana
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-051-Jataayu_Ravana_Yudhdham.mp3"></div>
 इति उक्तः क्रोध ताम्राक्षः तप्त कांचन कुण्डलः ।  
 राक्षसेन्द्रो अभिदुद्राव पतगेन्द्रम् अमर्षणः ॥ ३-५१-१  
 स संप्रहारः तुमुलः तयोः तस्मिन् महा मृधे ।  

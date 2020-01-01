@@ -3,6 +3,7 @@ title: 054 Hanuma advises Angada
 title_english: 054 Hanuma advises Angada
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-054-Hanuma_advises_Angada.mp3"></div>
 तथा ब्रुवति तारे तु तारा अधिपति वर्चसि ।  
 अथ मेने हृतम् राज्यम् हनुमान् अंगदेन तत् ॥ ४५४१  
 बुद्ध्या हि अष्ट अंगया युक्तम् चतुर् बल समन्वितम् ।  

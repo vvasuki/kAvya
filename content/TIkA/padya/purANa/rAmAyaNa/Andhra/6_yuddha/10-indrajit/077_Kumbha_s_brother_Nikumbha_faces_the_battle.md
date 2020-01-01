@@ -3,6 +3,7 @@ title: 077 Kumbha s brother Nikumbha faces the battle
 title_english: 077 Kumbha s brother Nikumbha faces the battle
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-077-Kumbha_s_brother,_Nikumbha_faces_the_battle_0.mp3"></div>
 निकुम्भो भ्रातरं दृष्ट्वा सुग्रीवेण निपातितम् ।  
 प्रदहन्निव कोपेन वानरेन्द्रमुदैक्षत ॥ ६-७७-१  
 ततः स्रग्दामसंनद्धं दत्तपञ्चाङ्गुलम् शुभम् ।  

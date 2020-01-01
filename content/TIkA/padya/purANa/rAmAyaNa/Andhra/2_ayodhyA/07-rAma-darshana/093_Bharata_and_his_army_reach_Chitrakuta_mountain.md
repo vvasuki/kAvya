@@ -3,6 +3,7 @@ title: 093 Bharata and his army reach Chitrakuta mountain
 title_english: 093 Bharata and his army reach Chitrakuta mountain
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-093-Rama_Shrama_Darshanam.mp3"></div>
 तया महत्या यायिन्या ध्वजिन्या वन वासिनः ।  
 अर्दिता यूथपा मत्ताः सयूथाः सम्प्रदुद्रुवुः ॥ २-९३-१  
 ऋक्षाः पृषत सम्घाः च रुरवः च समन्ततः ।  

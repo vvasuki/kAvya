@@ -3,6 +3,7 @@ title: 031 Akampana s repot to Ravana
 title_english: 031 Akampana s repot to Ravana
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-031-Ravana_Maaricha_Samvadhaha.mp3"></div>
 त्वरमणः ततो गत्वा जनस्थानात् अकंपनः ।  
 प्रविश्य लंकाम् वेगेन रावणम् वाक्यम् अब्रवीत् ॥ ३-३१-१  
 जनस्थान स्थिता राजन् रक्षसा बहवो हताः ।  

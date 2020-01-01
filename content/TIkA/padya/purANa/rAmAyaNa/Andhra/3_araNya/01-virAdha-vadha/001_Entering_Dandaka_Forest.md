@@ -3,6 +3,7 @@ title: 001 Entering Dandaka Forest
 title_english: 001 Entering Dandaka Forest
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-001-Rusheenam_Abhaya_Prathanam.mp3"></div>
 ॐ शान्ति शान्ति शान्तिः  
 प्रविश्य तु महारण्यं दण्डकारण्यमात्मवान् ।  
 रामो ददर्श दुर्धर्षस्तापसाश्रममण्डलम् ॥ ३-१-१  

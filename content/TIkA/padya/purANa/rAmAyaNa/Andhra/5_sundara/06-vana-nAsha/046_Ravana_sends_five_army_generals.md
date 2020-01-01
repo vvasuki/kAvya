@@ -3,6 +3,7 @@ title: 046 Ravana sends five army generals
 title_english: 046 Ravana sends five army generals
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-046-Ravana_sends_five_army-generals.mp3"></div>
 हतान् मन्त्रि सुतान् बुद्ध्वा वानरेण महात्मना ।  
 रावणः सम्वृत आकारः चकार मतिम् उत्तमाम् ॥ ५-४६-१  
 स विरूप अक्ष यूप अक्षौ दुर्धरम् चैव राक्षसम् ।  

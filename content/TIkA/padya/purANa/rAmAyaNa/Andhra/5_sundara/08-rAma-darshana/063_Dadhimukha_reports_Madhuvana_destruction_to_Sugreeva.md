@@ -3,6 +3,7 @@ title: 063 Dadhimukha reports Madhuvana destruction to Sugreeva
 title_english: 063 Dadhimukha reports Madhuvana destruction to Sugreeva
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-063-Dadhimukha_reports_Madhuvana_destruction_to_Sugreeva.mp3"></div>
 ततो मूर्ध्ना निपतितम् वानरम् वानर ऋषभः ।  
 दृष्ट्वा एव उद्विग्न हृदयो वाक्यम् एतत् उवाच ह ॥ ५-६३-१  
 उत्तिष्ठ उत्तिष्ठ कस्मात् त्वम् पादयोः पतितो मम ।  

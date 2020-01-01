@@ -3,6 +3,7 @@ title: 017 Vibhishana reaches Rama s places
 title_english: 017 Vibhishana reaches Rama s places
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-017-Vibhishana_reaches_Rama_s_places.mp3"></div>
 इति उक्त्वा परुषम् वाक्यम् रावणम् रावण अनुजः ।  
 आजगाम मुहूर्तेन यत्र रामः सलक्ष्मणः ॥६-१७-१  
 तम् मेरु शिखर आकारम् दीप्ताम् इव शत ह्रदाम् ।  

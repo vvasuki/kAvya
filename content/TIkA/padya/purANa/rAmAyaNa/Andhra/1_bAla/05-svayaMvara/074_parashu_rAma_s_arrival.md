@@ -3,6 +3,7 @@ title: 074 परशुरामागमनम्
 title_english: 074 parashu rAma s arrival
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-074-Parushu_Ramaa_Gamanam.mp3"></div>
 अथ रात्र्याम् व्यतीतायाम् विश्वामित्रो महामुनिः ।  
 आपृष्ट्वा तौ च राजानौ जगाम उत्तर पर्वतम् ॥ १-७४-१  
 विश्वामित्रो गते राजा वैदेहम् मिथिला अधिपम् ।  

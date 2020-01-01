@@ -3,6 +3,7 @@ title: 025 Rama s war with Khara s demons
 title_english: 025 Rama s war with Khara s demons
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-025-Ramena_Kharasainya_Samharaha.mp3"></div>
 अवष्टब्ध धनुम् रामम् क्रुद्धम् च रिपु घातिनम् ।  
 ददर्श आश्रमम् आगम्य खरः सह पुरःसरैः ॥ ३-२५-१  
 तम् दृष्ट्वा सगुणम् चापम् उद्यम्य खर निःस्वनम् ।  

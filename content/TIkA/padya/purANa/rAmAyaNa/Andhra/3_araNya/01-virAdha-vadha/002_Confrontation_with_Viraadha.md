@@ -3,6 +3,7 @@ title: 002 Confrontation with Viraadha
 title_english: 002 Confrontation with Viraadha
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-002-Viradhena_Sita_Apaharanam.mp3"></div>
 कृत आतिथ्योऽथ रामस्तु सूर्यस्य उदयनम् प्रति ।  
 आमंत्र्य स मुनीम् तत् सर्वान् वनम् एव अन्वगाहत ॥ ३-२-१  
 नाना मृग गण आकीर्णम् ऋक्ष शार्दूल सेवितम् ।  

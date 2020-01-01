@@ -3,6 +3,7 @@ title: 003 Hanuma meets Sri Rama
 title_english: 003 Hanuma meets Sri Rama
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-003-Hanumatha_Sugreeva_Vruththantha_Kathanam_0.mp3"></div>
 वचो विज्ञाय हनुमान् सुग्रीवस्य महात्मनः ।  
 पर्वतात् ऋष्यमूकात् तु पुप्लुवे यत्र राघवौ ॥ ४-३-१  
 कपि रूपम् परित्यज्य हनुमान् मारुतात्मजः ।  

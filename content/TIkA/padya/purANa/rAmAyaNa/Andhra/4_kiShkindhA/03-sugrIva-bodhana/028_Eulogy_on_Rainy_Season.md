@@ -3,6 +3,7 @@ title: 028 Eulogy on Rainy Season
 title_english: 028 Eulogy on Rainy Season
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-028-Pravrud_Varnanam.mp3"></div>
 स तदा वालिनम् हत्वा सुग्रीवम् अभिषिच्य च ।  
 वसन् माल्यवतः पृष्टे रामो लक्ष्मणम् अब्रवीत् ॥ ३-२८-१  
 अयम् स कालः संप्राप्तः समयो अद्य जल आगमः ।  

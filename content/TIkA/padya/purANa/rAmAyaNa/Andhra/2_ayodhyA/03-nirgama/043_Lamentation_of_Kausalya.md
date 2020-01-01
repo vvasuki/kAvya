@@ -3,6 +3,7 @@ title: 043 Lamentation of Kausalya
 title_english: 043 Lamentation of Kausalya
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-043-Kousalya_Kroshaha.mp3"></div>
 ततः समीक्ष्य शयने सन्नम् शोकेन पार्थिवम् ।  
 कौसल्या पुत्र शोक आर्ता तम् उवाच मही पतिम् ॥ २-४३-१  
 राघवो नर शार्दूल विषम् उप्त्वा द्विजिह्ववत् ।  

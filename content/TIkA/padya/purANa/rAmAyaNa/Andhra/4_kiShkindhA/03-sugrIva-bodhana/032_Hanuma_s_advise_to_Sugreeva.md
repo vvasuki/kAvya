@@ -3,6 +3,7 @@ title: 032 Hanuma s advise to Sugreeva
 title_english: 032 Hanuma s advise to Sugreeva
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-032-Hanumatha_Sugreeva_Bodhanam.mp3"></div>
 अंगदस्य वचः श्रुत्वा सुग्रीवः सचिवैः सह ।  
 लक्ष्मणम् कुपितम् श्रुत्वा मुमोच आसनम् आत्मवान् ॥ ४-३२-१  
 स च तान् अब्रवीत् वाक्यम् निश्चित्य गुरु लाघवम् ।  

@@ -3,6 +3,7 @@ title: 006 Approach of Sages and Hermits
 title_english: 006 Approach of Sages and Hermits
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-006-Ramasya_Rakshovadha_Prathignaa.mp3"></div>
 शरभङ्गे दिवम् प्राप्ते मुनि संघाः समागताः ।  
 अभ्यगच्छन्त काकुत्स्थम् रामम् ज्वलित तेजसम् ॥ ३-६-१  
 वैखानसा वालखिल्याः संप्रक्षाला मरीचिपाः ।  

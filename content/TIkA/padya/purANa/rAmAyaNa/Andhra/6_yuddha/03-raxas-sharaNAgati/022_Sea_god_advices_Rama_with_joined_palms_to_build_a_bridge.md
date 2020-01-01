@@ -3,6 +3,7 @@ title: 022 Sea god advices Rama with joined palms to build a bridge
 title_english: 022 Sea god advices Rama with joined palms to build a bridge
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-022-Sea-god_advices_Rama_with_joined_palms_to_build_a_bridge.mp3"></div>
 अथोवाच रघुश्रेष्ठः सागरम् दारुणम् वचः ।  
 अद्य त्वाम् शोषयिष्यामि सपातालम् महार्णव ॥ २-२२-१  
 शरनिर्दग्धतोयस्य परिशुष्कस्य सागर ।  

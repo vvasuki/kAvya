@@ -3,6 +3,7 @@ title: 063 Dasaratha narrates his sin to Kausalya
 title_english: 063 Dasaratha narrates his sin to Kausalya
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-063-Dashrathena_Poorvakrutha_Balavadha_Kathanam.mp3"></div>
 प्रतिबुद्धो मुहुर् तेन शोक उपहत चेतनः ।  
 अथ राजा दशरथः स चिन्ताम् अभ्यपद्यत ॥ २-६३-१  
 राम लक्ष्मणयोः चैव विवासात् वासव उपमम् ।  

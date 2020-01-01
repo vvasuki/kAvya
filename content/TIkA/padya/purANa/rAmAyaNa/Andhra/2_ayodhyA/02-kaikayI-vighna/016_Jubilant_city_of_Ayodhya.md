@@ -3,6 +3,7 @@ title: 016 Jubilant city of Ayodhya
 title_english: 016 Jubilant city of Ayodhya
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-016-Rama_Prasthanam.mp3"></div>
 स तदंतःपुरद्वारं समतीत्य जनाकुलम् ।  
 प्रविविक्तां ततः कक्ष्यामाससाद पुराणवित् ॥ २-१६-१  
 प्रास कार्मुक बिभ्रद्भिर् युवभिर् मृष्ट कुण्डलैः ।  

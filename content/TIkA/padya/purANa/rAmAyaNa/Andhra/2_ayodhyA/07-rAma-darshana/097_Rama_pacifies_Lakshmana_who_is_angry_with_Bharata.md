@@ -3,6 +3,7 @@ title: 097 Rama pacifies Lakshmana who is angry with Bharata
 title_english: 097 Rama pacifies Lakshmana who is angry with Bharata
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-097-Lakshmana_Pari_Santvanam.mp3"></div>
 सुसम्रब्धम् तु सौमित्रिम् लक्ष्मणम् क्रोध मूर्चितम् ।  
 रामः तु परिसान्त्व्य अथ वचनम् च इदम् अब्रवीत् ॥ २-९७-१  
 किम् अत्र धनुषा कार्यम् असिना वा सचर्मणा ।  

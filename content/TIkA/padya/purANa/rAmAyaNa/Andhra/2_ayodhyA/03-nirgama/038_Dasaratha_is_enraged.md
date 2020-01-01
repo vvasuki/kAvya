@@ -3,6 +3,7 @@ title: 038 Dasaratha is enraged
 title_english: 038 Dasaratha is enraged
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-038-_Ramena_Dashratha_Prathana.mp3"></div>
 तस्याम् चीरम् वसानायाम् नाथवत्याम् अनाथवत् ।  
 प्रचुक्रोश जनः सर्वो धिग् त्वाम् दशरथम् तु इति ॥ २-३८-१  
 तेन तत्र प्रणादेन दुःखितस्स महीपतिः ।  

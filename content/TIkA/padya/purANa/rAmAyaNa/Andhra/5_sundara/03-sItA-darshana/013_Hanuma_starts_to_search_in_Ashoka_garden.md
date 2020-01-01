@@ -3,6 +3,7 @@ title: 013 Hanuma starts to search in Ashoka garden
 title_english: 013 Hanuma starts to search in Ashoka garden
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-013-Hanuma_starts_to_search_in_Ashoka_garden.mp3"></div>
 विमानात् तु सुसम्क्रम्य प्राकारम् हरि यूथपः ।  
 हनूमान् वेगवान् आसीद् यथा विद्युद् घन अन्तरे ॥ ५-१३-१  
 सम्परिक्रम्य हनुमान् रावणस्य निवेशनान् ।  

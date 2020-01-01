@@ -3,6 +3,7 @@ title: 010 Banishment of Sugreeva by Vali
 title_english: 010 Banishment of Sugreeva by Vali
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-010-Vaathiva_Sugreeva_Nirvasanam_0.mp3"></div>
 ततः क्रोध समाविष्टम् सम्रब्धम् तम् उपागतम् ।  
 अहम् प्रसादयान् चक्रे भ्रातरम् हित काम्यया ॥ ४-१०-१  
 दिष्ट्या असि कुशली प्राप्तो निहतः च त्वया रिपुः ।  

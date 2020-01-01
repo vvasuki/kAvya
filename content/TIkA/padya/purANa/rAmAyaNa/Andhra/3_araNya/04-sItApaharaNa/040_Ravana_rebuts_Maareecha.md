@@ -3,6 +3,7 @@ title: 040 Ravana rebuts Maareecha
 title_english: 040 Ravana rebuts Maareecha
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-040-RavanaKrutham_Maarivha_Nirbhartha_Sanam.mp3"></div>
 मारीचस्य तु तत् वाक्यम् क्षमम् युक्तम् च रावणः ।  
 उक्तो न प्रतिजग्राह मर्तु काम इव औषधम् ॥ ३-४०-१  
 तम् पथ्य हित वक्तारम् मारीचम् राक्षसाधिपः ।  

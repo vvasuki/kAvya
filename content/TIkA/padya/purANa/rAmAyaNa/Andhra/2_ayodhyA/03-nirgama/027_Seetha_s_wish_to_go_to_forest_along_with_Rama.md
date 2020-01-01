@@ -3,6 +3,7 @@ title: 027 Seetha s wish to go to forest along with Rama
 title_english: 027 Seetha s wish to go to forest along with Rama
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-027-Sitayaaha_Vanagamana_Nishchayaha.mp3"></div>
 एवम् उक्ता तु वैदेही प्रिय अर्हा प्रिय वादिनी ।  
 प्रणयात् एव सम्क्रुद्धा भर्तारम् इदम् अब्रवीत् ॥ २-२७-१  
 किमिदम् भाषसे राम वाक्यम् लघुतया ध्रुवम् ।  

@@ -3,6 +3,7 @@ title: 065 Dasaratha passes away
 title_english: 065 Dasaratha passes away
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-065-Anthaha_Purashokaha.mp3"></div>
 अथ रात्र्याम् व्यतीतायाम् प्रातर् एव अपरे अहनि ।  
 वन्दिनः पर्युपातिष्ठंस् तत् पार्थिव निवेशनम् ॥ २-६५-१  
 सूताः परमसंस्काराः मङ्गळाश्चोओत्तमश्रुताः ।  

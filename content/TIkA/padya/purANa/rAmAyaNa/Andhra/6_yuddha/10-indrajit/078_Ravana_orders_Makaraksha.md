@@ -3,6 +3,7 @@ title: 078 Ravana orders Makaraksha
 title_english: 078 Ravana orders Makaraksha
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-078-Ravana_orders_Makaraksha_0.mp3"></div>
 निकुम्भं निहतं श्रुत्वा कुम्भम् च विनिपातितम् ।  
 रावणः परमामर्षी प्रजज्वालानलो यथा ॥ ६-७८-१  
 नैरृतः क्रोधशोकाभ्यां द्वाभ्यां तु परिमूर्चितः ।  

@@ -3,6 +3,7 @@ title: 041 Maareecha dissuades Ravana
 title_english: 041 Maareecha dissuades Ravana
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-041-Maaricho_Upadeshaha.mp3"></div>
 आज्ञप्तो रावणेन इत्थम् प्रतिकूलम् च राजवत् ।  
 अब्रवीत् परुषम् वाक्यम् निःशन्को राक्षसाधिपम् ॥ ३-४१-१  
 केन अयम् उपदिष्टः ते विनाशः पाप कर्मणा ।  

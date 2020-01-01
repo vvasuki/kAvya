@@ -3,6 +3,7 @@ title: 037 Maareecha s advise to Ravana
 title_english: 037 Maareecha s advise to Ravana
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-037-Maarichakruthaha_Ravana_Bodhaha.mp3"></div>
 तत् श्रुत्वा राक्षसेन्द्रस्य वाक्यम् वाक्य विशारदः ।  
 प्रत्युवाच महाप्राज्ञो मारीचो राक्षसेश्वरम् ॥ ३-३७-१  
 सुलभाः पुरुषा राजन् सततम् प्रिय वादिनः ।  

@@ -3,6 +3,7 @@ title: 041 Sugreeva sends Vanara s to Southward
 title_english: 041 Sugreeva sends Vanara s to Southward
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-041-Dakshina_Disham_Prathi_Hanumadadi_Preshanam.mp3"></div>
 ततः प्रस्थाप्य सुग्रीवः तन् महत् वानरम् बलम् ।  
 दक्षिणाम् प्रेषयामास वानरान् अभिलक्षितान् ॥ ४-४१-१  
 नीलम् अग्नि सुतम् चैव हनूमन्तम् च वानरम् ।  

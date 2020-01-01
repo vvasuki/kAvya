@@ -3,6 +3,7 @@ title: 001 Sri Rama at Pampa Lake lamenting for Seetha
 title_english: 001 Sri Rama at Pampa Lake lamenting for Seetha
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-001-Rama_Vilapaha.mp3"></div>
 स ताम् पुष्करिणीम् गत्वा पद्म उत्पल झषाकुलाम् ।  
 रामः सौमित्रि सहितो विललाप अकुलेन्द्रियः ॥ ४-१-१  
 तत्र दृष्ट्वैवा ताम् हर्षात् इन्द्रियाणि चकम्पिरे ।  

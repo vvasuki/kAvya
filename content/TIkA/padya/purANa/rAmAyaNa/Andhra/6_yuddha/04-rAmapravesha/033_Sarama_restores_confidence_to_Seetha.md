@@ -3,6 +3,7 @@ title: 033 Sarama restores confidence to Seetha
 title_english: 033 Sarama restores confidence to Seetha
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-033-Sarama_restores_confidence_to_Seetha__0.mp3"></div>
 सीताम् तु मोहिताम् दृष्ट्वा सरमा नाम राक्षसी ।  
 आससाद आशु वैदेहीम् प्रियाम् प्रणयिनी सखी ॥ ६-३३-१  
 मोहिताम् राक्षसेन्द्रेण सीताम् परमदुःखिताम् ।  

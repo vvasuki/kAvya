@@ -3,6 +3,7 @@ title: 003 Viradha attacks Sri Rama and Lakshmana
 title_english: 003 Viradha attacks Sri Rama and Lakshmana
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-003-Rama_Viradha_Yudhdham.mp3"></div>
 अथ उवाच पुनर् वाक्यम् विराधः पूरयन् वनम् ।  
 पृच्छतो मम हि ब्रूतम् कौ युवाम् क्व गमिष्यथः ॥ ३-३-१  
 तम् उवाच ततो रामो राक्षसम् ज्वलित आननम् ।  

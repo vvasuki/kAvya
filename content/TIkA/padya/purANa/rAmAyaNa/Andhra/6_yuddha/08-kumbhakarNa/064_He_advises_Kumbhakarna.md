@@ -3,6 +3,7 @@ title: 064 He advises Kumbhakarna
 title_english: 064 He advises Kumbhakarna
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-064-He_advises_Kumbhakarna_0.mp3"></div>
 तदुक्तमतिकायस्य बलिनो बाहुशालिनः ।  
 कुम्भकर्णस्य वचनम् श्रुत्वोवाच महोदरः ॥ ६-६४-१  
 कुम्भकर्णकुले जातो धृष्टः प्राकृतदर्शनः ।  

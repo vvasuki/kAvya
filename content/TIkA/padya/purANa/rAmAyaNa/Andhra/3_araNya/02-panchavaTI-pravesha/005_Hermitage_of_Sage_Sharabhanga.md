@@ -3,6 +3,7 @@ title: 005 Hermitage of Sage Sharabhanga
 title_english: 005 Hermitage of Sage Sharabhanga
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-005-Sharabhangasya_Agni_Praveshaha.mp3"></div>
 हत्वा तु तम् भीम बलम् विराधम् राक्षसम् वने ।  
 ततः सीताम् परिष्वज्य समाश्वास्य च वीर्यवान् ॥ ३-५-१  
 अब्रवीत् भ्रातरम् रामो लक्ष्मणम् दीप्त तेजसम् ।  

@@ -3,6 +3,7 @@ title: 058 Vibhishana explains the prowess of Prahasta
 title_english: 058 Vibhishana explains the prowess of Prahasta
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-058-Vibhishana_explains_the_prowess_of_Prahasta_0.mp3"></div>
 ततः प्रहस्तं निर्यान्तम् दृष्ट्वा रणकृतोद्यमम् ।  
 उवाच पस्मितं रामो विभीषणमरिंदमः ॥ ६-५८-१  
 क एष सुमहाकायो बलेन महता वृतः ।  

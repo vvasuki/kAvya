@@ -3,6 +3,7 @@ title: 028 Seetha recollects the time limit
 title_english: 028 Seetha recollects the time limit
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-028-Seetha_recollects_the_time_limit.mp3"></div>
 सा राक्षसेन्द्रस्य वचो निशम्य ।  
 तद्रावणस्याप्रियमप्रियार्ता ।  
 सीता वितत्रास यथा वनान्ते ।  

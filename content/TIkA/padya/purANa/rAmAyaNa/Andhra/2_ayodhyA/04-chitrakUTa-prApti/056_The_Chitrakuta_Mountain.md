@@ -3,6 +3,7 @@ title: 056 The Chitrakuta Mountain
 title_english: 056 The Chitrakuta Mountain
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-056-Chitrakoota_Darshanam.mp3"></div>
 अथ रात्र्याम् व्यतीतायाम् अवसुप्तम् अनन्तरम् ।  
 प्रबोधयाम् आस शनैः लक्ष्मणम् रघु नन्दनः ॥ २-५६-१  
 सौमित्रे शृणु वन्यानाम् वल्गु व्याहरताम् स्वनम् ।  

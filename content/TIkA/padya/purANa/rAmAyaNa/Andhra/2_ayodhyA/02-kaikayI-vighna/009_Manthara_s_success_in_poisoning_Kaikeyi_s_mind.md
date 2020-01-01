@@ -3,6 +3,7 @@ title: 009 Manthara s success in poisoning Kaikeyi s mind
 title_english: 009 Manthara s success in poisoning Kaikeyi s mind
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-009-Kaikeyyaha_Krodhagara_Praveshaha.mp3"></div>
 एवमुक्ता तु कैकेयी कोपेन ज्वलितानना ।  
 दीर्घमुष्टम् विनिःश्वस्य मन्थरामिदम् अब्रवीत् ॥ ९-२-१  
 अद्य राममितः क्षिप्रं वनं प्रस्थापयाम्यहम् ।  

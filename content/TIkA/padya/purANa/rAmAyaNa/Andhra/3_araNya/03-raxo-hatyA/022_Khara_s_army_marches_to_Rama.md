@@ -3,6 +3,7 @@ title: 022 Khara s army marches to Rama
 title_english: 022 Khara s army marches to Rama
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-022-Kharasya_Yudhdha_Sidhathaa.mp3"></div>
 एवम् आधर्षितः शूरः शूर्पणख्या खरः ततः ।  
 उवाच रक्षसाम् मध्ये खरः खरतरम् वचः ॥ ३-२२-१  
 तव अपमान प्रभवः क्रोधो अयम् अतुलो मम ।  

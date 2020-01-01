@@ -1,8 +1,9 @@
 ---
 title: 032 कैशिकवंशकथा
-title_english: 032 Story of vishvAmitra 
+title_english: 032 Story of vishvAmitra
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-032-Koushika_Vamsha_Katha.mp3"></div>
 ब्रह्मयोनिर्महानासीत् कुशो नाम महातपाः।  
 अक्लिष्टव्रतधर्मज्ञः सज्जनप्रतिपूजकः ॥ 1.32.1 ॥   
 (स महात्मा कुलीनायां युक्तायां सुमहाबलान् ।)  

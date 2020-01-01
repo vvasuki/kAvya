@@ -3,6 +3,7 @@ title: 059 Dasaratha falls unconscious
 title_english: 059 Dasaratha falls unconscious
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-059-Dasharatha_Vilapaha.mp3"></div>
 मम तु अश्वा निवृत्तस्य न प्रावर्तन्त वर्त्मनि ।  
 उष्णम् अश्रु विमुन्चन्तः रामे सम्प्रस्थिते वनम् ॥ २-५९-१  
 उभाभ्याम् राज पुत्राभ्याम् अथ कृत्वा अहम् ज्ञलिम् ।  

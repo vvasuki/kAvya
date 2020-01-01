@@ -3,6 +3,7 @@ title: 068 Hanuma conveys to Rama that Seetha expressed a grave doubt
 title_english: 068 Hanuma conveys to Rama that Seetha expressed a grave doubt
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-068-Seetha_expressed_her_grave_doubt.mp3"></div>
 अथ अहम् उत्तरम् देव्या पुनः उक्तः ससम्भ्रमम् ।  
 तव स्नेहान् नर व्याघ्र सौहार्यात् अनुमान्य च ॥ ५-६८-१  
 एवम् बहु विधम् वाच्यो रामो दाशरथिः त्वया ।  

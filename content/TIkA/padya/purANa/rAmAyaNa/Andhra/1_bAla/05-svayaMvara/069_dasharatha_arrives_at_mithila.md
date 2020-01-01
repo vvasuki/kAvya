@@ -3,6 +3,7 @@ title: 069 जनक-दशरथ-संवादः
 title_english: 069 dasharatha arrives at mithila
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-069-Janaka_Dasharatha_Samvadhaha.mp3"></div>
 ततो रात्र्याम् व्यतीतायाम् स उपाध्यायः स बान्धवः ।  
 राजा दशरथो हृष्टः सुमंत्रम् इदम् अब्रवीत् ॥ १-६९-१  
 अद्य सर्वे धन अध्यक्षा धनम् आदाय पुष्कलम् ।  

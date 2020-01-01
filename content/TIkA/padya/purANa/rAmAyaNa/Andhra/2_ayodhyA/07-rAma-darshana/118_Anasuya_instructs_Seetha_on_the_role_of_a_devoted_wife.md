@@ -3,6 +3,7 @@ title: 118 Anasuya instructs Seetha on the role of a devoted wife
 title_english: 118 Anasuya instructs Seetha on the role of a devoted wife
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-118-Anasuyayaa_AAbharana_Daanam.mp3"></div>
 सा तु एवम् उक्ता वैदेही अनसूयान् असूयया ।  
 प्रतिपूज्य वचो मन्दम् प्रवक्तुम् उपचक्रमे ॥ २-११८-१  
 न एतद् आश्चर्यम् आर्याया यन् माम् त्वम् अनुभाषसे ।  

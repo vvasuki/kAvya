@@ -3,6 +3,7 @@ title: 032 Seetha is shocked to see Hanuma
 title_english: 032 Seetha is shocked to see Hanuma
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-032-Seetha_is_shocked_to_see_Hanuma.mp3"></div>
 ततः शाखा अन्तरे लीनम् दृष्ट्वा चलित मानसा ।  
 वेष्टितार्जुनवस्त्रम् तं विद्युत्सम्घातपिङ्गलम् ॥ ॥ ५-३२-१  
 सा ददर्श कपिम् तत्र प्रश्रितम् प्रिय वादिनम् ।  

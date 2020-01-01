@@ -3,6 +3,7 @@ title: 092 Ravana feels distressed over his son s death
 title_english: 092 Ravana feels distressed over his son s death
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-092-Ravana_feels_distressed_over_his_son_s_death_0.mp3"></div>
 ततः पौलस्त्य सचिवाः श्रुत्वा चेन्द्रजितं हतम् ।  
 आचचक्षुरभिज्ञाय दशग्रीवाय सव्यथाः ॥ ९२-६-१  
 युद्धे हतो महाराज लक्ष्मणेन तवात्मजः ।  

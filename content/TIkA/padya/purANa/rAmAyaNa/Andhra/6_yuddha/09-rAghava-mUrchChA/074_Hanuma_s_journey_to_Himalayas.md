@@ -3,6 +3,7 @@ title: 074 Hanuma s journey to Himalayas
 title_english: 074 Hanuma s journey to Himalayas
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-074-_Hanuma_s_journey_to_Himalayas_0.mp3"></div>
 तयोस्तदा सादितयो रणाग्रे ।  
 मुमोह सैन्यं हरियूथपानाम् ।  
 सुग्रीवनीलाङ्गदजाम्बवन्तो ।  

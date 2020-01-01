@@ -3,6 +3,7 @@ title: 020 Tara s lamentation for Vali s death
 title_english: 020 Tara s lamentation for Vali s death
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-020-Thara_Vilapaha.mp3"></div>
 राम चाप विसृष्टेन शरेण अंतकरेण तम् ।  
 दृष्ट्वा विनिहतम् भूमौ तारा ताराधिप आनना ॥ ४-२०-१  
 सा समासाद्य भर्तारम् पर्यष्वजत भामिनी ।  

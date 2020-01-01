@@ -3,6 +3,7 @@ title: 115 Bharata expresses his desire to proceed to Nandigrama village
 title_english: 115 Bharata expresses his desire to proceed to Nandigrama village
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-115-Nandigrama_Nivasaha.mp3"></div>
 ततो निक्षिप्य मातृऋः स अयोध्यायाम् दृढ व्रतः ।  
 भरतः शोक सम्तप्तो गुरून् इदम् अथ अब्रवीत् ॥ २-११५-१  
 नन्दि ग्रामम् गमिष्यामि सर्वान् आमन्त्रये अद्य वः ।  

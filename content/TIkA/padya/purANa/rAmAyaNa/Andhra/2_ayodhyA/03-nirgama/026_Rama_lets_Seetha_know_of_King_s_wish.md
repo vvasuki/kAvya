@@ -3,6 +3,7 @@ title: 026 Rama lets Seetha know of King s wish
 title_english: 026 Rama lets Seetha know of King s wish
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-026-Sita_Rama_Samvadaha.mp3"></div>
 अभिवाद्य तु कौसल्याम् रामः सम्प्रस्थितः वनम् ।  
 कृत स्वस्त्ययनो मात्रा धर्मिष्ठे वर्त्मनि स्थितः ॥ २-२६-१  
 विराजयन् राज सुतः राज मार्गम् नरैः वृतम् ।  

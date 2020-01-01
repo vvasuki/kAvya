@@ -3,6 +3,7 @@ title: 073 Rama and Lakshmana fell unconscious
 title_english: 073 Rama and Lakshmana fell unconscious
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-073-Rama_and_Lakshmana_fell_unconscious_0.mp3"></div>
 ततो हतान्राक्षसपुङ्गवांस्तान् ।  
 देवान्तकादित्रिशिरोऽतिकायान् ।  
 रक्षोगणास्तत्र हतावशिष्टास् ।  

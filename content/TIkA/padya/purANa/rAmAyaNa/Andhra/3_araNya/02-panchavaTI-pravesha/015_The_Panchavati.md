@@ -3,6 +3,7 @@ title: 015 The Panchavati
 title_english: 015 The Panchavati
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-015-Panchavatyam_Parnashala_Nirmanam.mp3"></div>
 ततः पंचवटीम् गत्वा नाना व्याल मृगायुताम् ।  
 उवाच भ्रातरम् रामो लक्ष्मणम् दीप्त तेजसम् ॥ ३-१५-१  
 आगताः स्म यथा उद्दिष्टम् यम् देशम् मुनिः अब्रवीत् ।  

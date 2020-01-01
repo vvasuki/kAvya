@@ -3,6 +3,7 @@ title: 039 To urge and Lakshmana
 title_english: 039 To urge and Lakshmana
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-039-To_urge_and_Lakshmana.mp3"></div>
 मणिम् दत्त्वा ततः सीता हनूमन्तम् अथ अब्रवीत् ।  
 अभिज्ञानम् अभिज्ञातम् एतत् रामस्य तत्त्वतः ॥ ५-३९-१  
 मणिम् तु दृष्ट्वा रामो वै त्रयाणाम् संस्मरिष्यति ।  

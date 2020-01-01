@@ -3,6 +3,7 @@ title: 038 Hanuma asks Seetha to give him a token of remembrance
 title_english: 038 Hanuma asks Seetha to give him a token of remembrance
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-038-Hanuma_asks_Seetha_to_give_him_a_token_of_remembrance.mp3"></div>
 ततः स कपि शार्दूलः तेन वाक्येन हर्षितः ।  
 सीताम् उवाच तत् श्रुत्वा वाक्यम् वाक्य विशारदः ॥ ५-३८-१  
 युक्त रूपम् त्वया देवि भाषितम् शुभ दर्शने ।  

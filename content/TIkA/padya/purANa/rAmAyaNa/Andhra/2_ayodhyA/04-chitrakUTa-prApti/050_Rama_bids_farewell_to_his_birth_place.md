@@ -3,6 +3,7 @@ title: 050 Rama bids farewell to his birth place
 title_english: 050 Rama bids farewell to his birth place
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-050-Gangatheere_Guhasamagamaha.mp3"></div>
 विशालान् कोसलान् रम्यान् यात्वा लक्ष्मण पूर्वजः ।  
 अयोध्याभिमुखो धीमान् प्राञ्ञ्लिर्वाक्वमब्रवीत् ॥ २-५०-१  
 आपृच्छे त्वाम् पुरीश्रेष्ठे काकुत्स्थपरिपालिते ।  

@@ -3,6 +3,7 @@ title: 046 Rama passes the night on the banks of Tamasa river
 title_english: 046 Rama passes the night on the banks of Tamasa river
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-046-Pouran_Vihaya_Ramadeenam_Gamanam_.mp3"></div>
 ततः तु तमसा तीरम् रम्यम् आश्रित्य राघवः ।  
 सीताम् उद्वीक्ष्य सौमित्रिम् इदम् वचनम् अब्रवीत् ॥ २-४६-१  
 इयम् अद्य निशा पूर्वा सौमित्रे प्रस्थिता वनम् ।  

@@ -3,6 +3,7 @@ title: 033 Shurpanakha accuses Ravana
 title_english: 033 Shurpanakha accuses Ravana
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-033-Ravana_Nirbhartha_Sanaa.mp3"></div>
 ततः शूर्पणखा दीना रावणम् लोक रावणम् ।  
 अमात्य मध्ये संक्रुद्धा परुषम् वाक्यम् अब्रवीत् ॥ ३-३३-१  
 प्रमत्तः काम भोगेषु स्वैर वृत्तो निरंकुशः ।  

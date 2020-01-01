@@ -3,6 +3,7 @@ title: 012 Hanuma s depression
 title_english: 012 Hanuma s depression
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-012-Hanuma_s_depression.mp3"></div>
 स तस्य मध्ये भवनस्य वानरो ।  
 लता ग्ऱ्हामः चित्र गृहान् निशा गृहान् ।  
 जगाम सीताम् प्रति दर्शन उत्सुको ।  

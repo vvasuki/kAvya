@@ -3,6 +3,7 @@ title: 071 Bharata reaches the city of Ayodhya
 title_english: 071 Bharata reaches the city of Ayodhya
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-071-Ayodhyaa_Gamanam.mp3"></div>
 स प्रान् मुखो राज गृहात् अभिनिर्याय वीर्यवान् ।  
 ततः सुदामाम् द्युतिमान् सम्तीर्वावेक्ष्य ताम् नदीम् ॥ २-७१-१  
 ह्लादिनीम् दूर पाराम् च प्रत्यक् स्रोतः तरन्गिणीम् ।  

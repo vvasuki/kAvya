@@ -3,6 +3,7 @@ title: 029 Ravana reprimands Shuka and Sarana
 title_english: 029 Ravana reprimands Shuka and Sarana
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-029-Ravana_reprimands_Shuka_and_Sarana_0.mp3"></div>
 शुकेन तु समाख्यातांस् तान् दृष्ट्वा हरि यूथपान् ।  
 लक्ष्मणम् च महावीर्यम् भुजम् रामस्य दक्षिणम् ॥ २-२९-१  
 समीपस्थम् च रामस्य भ्रातरम् स्वम् विभीषणम् ।  

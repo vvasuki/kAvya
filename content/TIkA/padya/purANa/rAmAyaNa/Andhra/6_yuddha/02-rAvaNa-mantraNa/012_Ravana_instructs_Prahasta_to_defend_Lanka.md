@@ -3,6 +3,7 @@ title: 012 Ravana instructs Prahasta to defend Lanka
 title_english: 012 Ravana instructs Prahasta to defend Lanka
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-012-Ravana_instructs_Prahasta_to_defend_Lanka.mp3"></div>
 स ताम् परिषदम् कृत्स्नाम् समीक्ष्य समितिम्जयः ।  
 प्रबोधयामास तदा प्रहस्तम् वाहिनीपतिम् ॥ ६-१२-१  
 सेनापते यथा ते स्युः कृतविद्याश्चतुर्विधाः ।  

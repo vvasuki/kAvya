@@ -3,6 +3,7 @@ title: 099 Bharata beholds Rama s hermitage and approaches it
 title_english: 099 Bharata beholds Rama s hermitage and approaches it
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-099-Sri_Rama_Darshanam.mp3"></div>
 निविष्टायाम् तु सेनायाम् उत्सुको भरतः तदा ।  
 जगाम भ्रातरम् द्रष्टुम् शत्रुघ्नम् अनुदर्शयन् ॥ २-९९-१  
 ऋषिम् वसिष्ठम् संदिश्य मातृऋर् मे शीघ्रम् आनय ।  

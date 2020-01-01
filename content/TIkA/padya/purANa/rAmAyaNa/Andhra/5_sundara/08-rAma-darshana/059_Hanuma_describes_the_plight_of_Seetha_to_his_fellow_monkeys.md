@@ -3,6 +3,7 @@ title: 059 Hanuma describes the plight of Seetha to his fellow monkeys
 title_english: 059 Hanuma describes the plight of Seetha to his fellow monkeys
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-059-Hanuma_describes_the_plight_of_Seetha_to_his_fellow_monkeys.mp3"></div>
 एतत् आख्यानम् तत् सर्वम् हनूमान् मारुत आत्मजः ।  
 भूयः समुपचक्राम वचनम् वक्तुम् उत्तरम् ॥ ५-५९-१  
 सफलो राघव उद्योगः सुग्रीवस्य च सम्भ्रमः ।  

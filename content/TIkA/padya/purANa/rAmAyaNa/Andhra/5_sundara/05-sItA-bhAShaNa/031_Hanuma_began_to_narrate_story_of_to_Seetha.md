@@ -3,6 +3,7 @@ title: 031 Hanuma began to narrate story of to Seetha
 title_english: 031 Hanuma began to narrate story of to Seetha
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-031-Hanuma_began_to_narrate_story_of_to_Seetha.mp3"></div>
 एवम् बहु विधाम् चिन्ताम् चिन्तयित्व महाकपिः ।  
 संश्रवे मधुरम् वाक्यम् वैदेह्या व्याजहार ह ॥ ५-३१-१  
 राजा दशरथो नाम रथ कुन्जर वाजिनाम् ।  

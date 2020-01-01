@@ -3,6 +3,7 @@ title: 034 Lakshmana upbraids Sugreeva
 title_english: 034 Lakshmana upbraids Sugreeva
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-034-Lakshmana_Krutham_Sugreeva_Tharjanam.mp3"></div>
 तम् अप्रतिहतम् क्रुद्धम् प्रविष्टम् पुरुषर्षभम् ।  
 सुग्रीवो लक्ष्मणम् दृष्ट्वा बभूव व्यथित इन्द्रियः ॥ ४-३४-१  
 क्रुद्धम् निःश्वसमानम् तम् प्रदीप्तम् इव तेजसा ।  

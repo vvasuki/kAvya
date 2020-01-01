@@ -3,6 +3,7 @@ title: 049 Vibhishana approaches Rama
 title_english: 049 Vibhishana approaches Rama
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-049-Vibhishana_approaches_Rama_0.mp3"></div>
 घोरेण शर बन्धेन बद्धौ दशरथ आत्मजौ ।  
 निश्वसन्तौ यथा नागौ शयानौ रुधिर उक्षितौ ॥ ६-४९-१  
 सर्वे ते वानर श्रेष्ठाह् ससुग्रीवा महा बलाः ।  

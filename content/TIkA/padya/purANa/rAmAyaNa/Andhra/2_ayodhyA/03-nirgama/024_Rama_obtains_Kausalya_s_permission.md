@@ -3,6 +3,7 @@ title: 024 Rama obtains Kausalya s permission
 title_english: 024 Rama obtains Kausalya s permission
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-024-Ramasya_Kousalyopadeshaha.mp3"></div>
 तम् समीक्ष्य तु अवहितम् पितुर् निर्देश पालने ।  
 कौसल्या बाष्प सम्रुद्धा वचो धर्मिष्ठम् अब्रवीत् ॥ २-२४-१  
 अदृष्ट दुह्खो धर्मात्मा सर्व भूत प्रियम् वदः ।  

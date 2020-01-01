@@ -3,6 +3,7 @@ title: 045 The war cries of monkey soldiers
 title_english: 045 The war cries of monkey soldiers
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-045-Vanarasena_Prasthanam.mp3"></div>
 सर्वाः च आहूय सुग्रीवः प्लवगान् प्लवगर्षभः ।  
 समस्तान् च अब्रवीत् राजा राम कार्यार्थ सिद्धये ॥ ४-४५-१  
 एवम् एतत् विचेतव्यम् भवद्भिः वानरोत्तमैः ।  

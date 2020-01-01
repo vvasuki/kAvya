@@ -3,6 +3,7 @@ title: 050 Jataayu s confrontation with Ravana
 title_english: 050 Jataayu s confrontation with Ravana
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-050-Jataayu_Krutha_Ravana_Nirodhaha.mp3"></div>
 तम् शब्दम् अवसुप्तस्य जटायुः अथ शुश्रुवे ।  
 निरैक्षत् रावणम् क्षिप्रम् वैदेहीम् च ददर्श सः ॥ ३-५०-१  
 ततः पर्वत शृंग आभः तीक्ष्ण तुण्डः खग उत्तमः ।  

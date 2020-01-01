@@ -3,6 +3,7 @@ title: 102 Ravana gets severely hurt
 title_english: 102 Ravana gets severely hurt
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-102-Ravana_gets_severely_hurt_0.mp3"></div>
 लक्ष्मणेन तु तद्वाक्यमुक्तन् श्रुत्वा स राघवः ।  
 संदधे परवीरघ्नो धनुरादाय वीर्यवान् ॥ ६-१०२-१  
 रावणाय शरान्घोरान्विससर्ज चमूमुखे ।  

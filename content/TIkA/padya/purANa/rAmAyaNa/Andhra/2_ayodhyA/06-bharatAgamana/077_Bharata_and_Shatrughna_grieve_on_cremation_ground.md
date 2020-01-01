@@ -3,6 +3,7 @@ title: 077 Bharata and Shatrughna grieve on cremation ground
 title_english: 077 Bharata and Shatrughna grieve on cremation ground
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-077-Bharatha_Shatrugna_Vilapaha.mp3"></div>
 ततः दश अहे अतिगते कृत शौचो नृप आत्मजः ।  
 द्वादशे अहनि सम्प्राप्ते श्राद्ध कर्माणि अकारयत् ॥ २-७७-१  
 ब्राह्मणेभ्यो ददौ रत्नम् धनम् अन्नम् च पुष्कलम् ।  

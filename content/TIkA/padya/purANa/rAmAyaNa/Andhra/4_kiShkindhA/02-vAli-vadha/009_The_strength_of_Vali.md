@@ -3,6 +3,7 @@ title: 009 The strength of Vali
 title_english: 009 The strength of Vali
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-009-Sugreevena_Vairakarana_Kathanam_0.mp3"></div>
 वाली नाम मम भ्राता ज्येष्ठः शत्रु निषूदनः ।  
 पितुः बहुमतः नित्यम् मम च अपि तथा पुरा ॥ ४-९-१  
 पितरि उपरते तस्मिन् ज्येष्ठो अयम् इति मंत्रिभिः ।  

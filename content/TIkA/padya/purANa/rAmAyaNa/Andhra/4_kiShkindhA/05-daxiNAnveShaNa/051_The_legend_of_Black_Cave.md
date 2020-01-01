@@ -3,6 +3,7 @@ title: 051 The legend of Black Cave
 title_english: 051 The legend of Black Cave
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-051-Swayam_Prabha_Vruthantha_Kathanam.mp3"></div>
 इति उक्त्वा हनुमान् तत्र पुनः कृष्ण अजिन अंबराम् ।  
 अब्रवीत् ताम् महाभागाम् तापसीम् धर्म चारिणीम् ॥ ४-५१-१  
 इदम् प्रविष्टाः सहसा बिलम् तिमिर संवृतम् ।  

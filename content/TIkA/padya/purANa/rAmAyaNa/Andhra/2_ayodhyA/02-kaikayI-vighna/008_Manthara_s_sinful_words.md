@@ -3,6 +3,7 @@ title: 008 Manthara s sinful words
 title_english: 008 Manthara s sinful words
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-008-Mandthara_Durbhodhaha.mp3"></div>
 मन्थरा त्वभ्यसूयैनामुत्सृज्याभरणं च तत्।  
 उवाचेदं ततो वाक्यं कोपदुःखसमन्विता ॥ २-८-१  
 हर्षं किमिदमस्थाने कृतवत्यसि बालिशे ।  

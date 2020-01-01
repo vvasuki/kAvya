@@ -3,6 +3,7 @@ title: 055 Ravana entices Seetha to marry him
 title_english: 055 Ravana entices Seetha to marry him
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-055-Sitaam_Prathi_Ravana_Darpookthihi.mp3"></div>
 संदिश्य राक्षसान् घोरान् रावणो अष्टौ महाबलान् ।  
 आत्मानम् बुद्धि वैक्लव्यात् कृत कृत्यम् अमन्यत ॥ ३-५५-१  
 स चिंतयानो वैदेहीम् काम बाण संप्रपीडितः ।  

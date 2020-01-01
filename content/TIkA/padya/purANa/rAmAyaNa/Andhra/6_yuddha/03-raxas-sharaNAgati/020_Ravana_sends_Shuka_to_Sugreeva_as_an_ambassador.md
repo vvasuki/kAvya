@@ -3,6 +3,7 @@ title: 020 Ravana sends Shuka to Sugreeva as an ambassador
 title_english: 020 Ravana sends Shuka to Sugreeva as an ambassador
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-020-Ravana_sends_Shuka_to_Sugreeva_as_an_ambassador.mp3"></div>
 ततो निविष्टाम् ध्वजिनीम् सुग्रीवेणाभिपालिताम् ।  
 ददर्श राक्षसोऽभ्येत्य शार्दूलो नाम वीर्यवान् ॥ ६-२०-१  
 चारो राक्षसराजस्य रावणस्य दुरात्मनः ।  

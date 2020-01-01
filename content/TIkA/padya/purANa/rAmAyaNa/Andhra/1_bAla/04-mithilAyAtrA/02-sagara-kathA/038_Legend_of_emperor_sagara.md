@@ -3,6 +3,7 @@ title: 038 सगरकथा
 title_english: 038 Legend of emperor sagara
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-038-Sagaro_Pakhyanam_.mp3"></div>
 तां कथां कौशिको रामे निवेद्य कुशिकात्मजः।  
 पुनरेवापरं वाक्यं काकुत्स्थमिदमब्रवीत् ॥ 1.38.1 ॥   
 

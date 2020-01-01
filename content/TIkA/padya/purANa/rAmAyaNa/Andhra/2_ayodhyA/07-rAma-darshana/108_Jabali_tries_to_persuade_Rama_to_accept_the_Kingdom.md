@@ -3,6 +3,7 @@ title: 108 Jabali tries to persuade Rama to accept the Kingdom
 title_english: 108 Jabali tries to persuade Rama to accept the Kingdom
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-108-Jabalehe_Rajaneethihi.mp3"></div>
 आश्वासयन्तम् भरतम् जाबालिर् ब्राह्मण उत्तमः ।  
 उवाच रामम् धर्मज्नम् धर्म अपेतम् इदम् वचः ॥ २-१०८-१  
 साधु राघव मा भूत् ते बुद्धिर् एवम् निरर्थका ।  

@@ -3,6 +3,7 @@ title: 001 Rama The Hero
 title_english: 001 Rama The Hero
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-001-Ramaguna_Varnanam.mp3"></div>
 गच्छता मातुलकुलं भरतेन तदाऽनघः ।  
 शत्रुघ्नो नित्यशत्रुघ्नो नीतः प्रीतिपुरस्कृतः ॥ २-१-१  
 स तत्र न्यवसद्भ्रात्रा सह सत्कारसत्कृतः ।  

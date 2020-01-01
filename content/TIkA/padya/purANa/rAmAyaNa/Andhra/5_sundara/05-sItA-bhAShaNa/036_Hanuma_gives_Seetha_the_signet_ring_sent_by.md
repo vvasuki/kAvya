@@ -3,6 +3,7 @@ title: 036 Hanuma gives Seetha the signet ring sent by
 title_english: 036 Hanuma gives Seetha the signet ring sent by
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-036-Hanuma_gives_Seetha,_the_signet_ring_sent_by.mp3"></div>
 भूय एव महातेजा हनूमान् मारुत आत्मजः ।  
 अब्रवीत् प्रश्रितम् वाक्यम् सीता प्रत्यय कारणात् ॥ ५-३६-१  
 वानरो अहम् महाभागे दूतो रामस्य धीमतः ।  

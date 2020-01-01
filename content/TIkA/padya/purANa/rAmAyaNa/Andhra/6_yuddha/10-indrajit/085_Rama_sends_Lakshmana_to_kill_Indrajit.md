@@ -3,6 +3,7 @@ title: 085 Rama sends Lakshmana to kill Indrajit
 title_english: 085 Rama sends Lakshmana to kill Indrajit
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-085-Rama_sends_Lakshmana_to_kill_Indrajit_0.mp3"></div>
 तत्तस्य वचनं श्रुत्वा राघवः शोककश्मितः ।  
 नोपधारयते व्यक्तं यदुक्तं तेन रक्षसा ॥ ६-८५-१  
 ततो धैर्यमवष्टभ्य रामः परपुरंजयः ।  

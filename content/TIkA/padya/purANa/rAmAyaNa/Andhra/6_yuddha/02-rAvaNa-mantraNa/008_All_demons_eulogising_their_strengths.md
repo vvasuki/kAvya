@@ -3,6 +3,7 @@ title: 008 All demons eulogising their strengths
 title_english: 008 All demons eulogising their strengths
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-008-All_demons_eulogising_their_strengths.mp3"></div>
 ततो नील अम्बुद निभः प्रहस्तो नाम राक्षसः ।  
 अब्रवीत् प्राञ्जलिर् वाक्यम् शूरः सेना पतिस्तदा ॥ ६-८-१  
 देव दानव गन्धर्वाः पिशाचपतगौरगाः ।  

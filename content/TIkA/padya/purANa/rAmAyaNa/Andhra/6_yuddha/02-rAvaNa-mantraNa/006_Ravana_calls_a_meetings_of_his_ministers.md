@@ -3,6 +3,7 @@ title: 006 Ravana calls a meetings of his ministers
 title_english: 006 Ravana calls a meetings of his ministers
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-006-Ravana_calls_a_meetings_of_his_ministers.mp3"></div>
 लंकायाम् तु कृतम् कर्म घोरम् दृष्ट्वा भव आवहम् ।  
 राक्षस इन्द्रो हनुमता शक्रेण इव महात्मना ॥ ६-६-१  
 अब्रवीद् राक्षसान् सर्वान् ह्रिया किंचिद् अवान् मुखः ।  

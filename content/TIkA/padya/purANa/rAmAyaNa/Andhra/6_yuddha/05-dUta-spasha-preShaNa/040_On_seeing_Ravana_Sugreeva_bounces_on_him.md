@@ -3,6 +3,7 @@ title: 040 On seeing Ravana Sugreeva bounces on him
 title_english: 040 On seeing Ravana Sugreeva bounces on him
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-040-On_seeing_Ravana_Sugreeva_bounces_on_him_0.mp3"></div>
 ततो रामः सुवेलाग्रं योजनद्वयमण्डलम् ।  
 उपारोहत्ससुग्रीवो हरियूथैः समन्वितः ॥ ६-४०-१  
 स्थित्वा मुहूर्तं तत्रैव दिशो दश विलोकयन् ।  

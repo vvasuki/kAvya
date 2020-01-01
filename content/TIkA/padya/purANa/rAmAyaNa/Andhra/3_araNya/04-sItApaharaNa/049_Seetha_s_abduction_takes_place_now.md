@@ -3,6 +3,7 @@ title: 049 Seetha s abduction takes place now
 title_english: 049 Seetha s abduction takes place now
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-049-Sitaa_Apaharnam.mp3"></div>
 सीताया वचनम् श्रुत्वा दशग्रीवः प्रतापवान् ।  
 हस्ते हस्तम् समाहत्य चकार सुमहत् वपुः ॥ ३-४९-१  
 स मैथिलीम् पुनः वाक्यम् बभाषे वाक्य कोविदः ।  

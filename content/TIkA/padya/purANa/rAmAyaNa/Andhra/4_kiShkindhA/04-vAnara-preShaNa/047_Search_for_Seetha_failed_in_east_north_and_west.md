@@ -3,6 +3,7 @@ title: 047 Search for Seetha failed in east north and west
 title_english: 047 Search for Seetha failed in east north and west
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-047-Thridigbhyaha_Vanara_Prathyagamanam.mp3"></div>
 दर्शनार्थम् तु वैदेह्याः सर्वतः कपि कुंजराः ।  
 व्यादिष्टाः कपि राजेन यथा उक्तम् जग्मुर् अंजसा ॥ ४-४७-१  
 ते सरांसि सरित् कक्षान् आकाशम् नगराणि च ।  

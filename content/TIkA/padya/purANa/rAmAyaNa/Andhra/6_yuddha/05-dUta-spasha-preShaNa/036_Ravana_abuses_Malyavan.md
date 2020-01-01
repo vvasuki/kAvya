@@ -3,6 +3,7 @@ title: 036 Ravana abuses Malyavan
 title_english: 036 Ravana abuses Malyavan
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-036-Ravana_abuses_Malyavan__0.mp3"></div>
 तत्तु माल्यवतो वाक्यम् हितम् उक्तम् दज़ आननः ।  
 न मर्षयति दुष्ट अत्मा कालस्य वज़म् आगतः ॥ ६-३६-१  
 स बद्ध्वा भ्रु कुटिम् वक्त्रे क्रोधस्य वज़म् आगतः ।  

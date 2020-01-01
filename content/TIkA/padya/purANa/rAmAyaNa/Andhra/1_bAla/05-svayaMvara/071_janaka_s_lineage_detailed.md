@@ -3,6 +3,7 @@ title: 071 जनककुलवर्णनम्
 title_english: 071 janaka s lineage detailed
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-071-Janaka_Kula_Vruththanthaha.mp3"></div>
 एवम् ब्रुवाणम् जनकः प्रत्युवाच कृतांजलिः ।  
 श्रोतुम् अर्हसि भद्रम् ते कुलम् नः परिकीर्तितम् ॥ १-७१-१  
 प्रदाने हि मुनि श्रेष्ठ कुलम् निरवशेषतः ।  

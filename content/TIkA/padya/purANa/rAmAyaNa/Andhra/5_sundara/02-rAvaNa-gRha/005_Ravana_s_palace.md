@@ -3,6 +3,7 @@ title: 005 Ravana s palace
 title_english: 005 Ravana s palace
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-005-Ravana_s_palace.mp3"></div>
 ततः स मध्यंगतमंशुमन्तं ।  
 ज्योत्स्नावितानम् महदुद्वमन्तम् ।  
 ददर्श धीमान् दिवि भानुमन्तम् ।  

@@ -3,6 +3,7 @@ title: 045 विशाला-गतिः
 title_english: 045 The legend of churning Milk Ocean
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-045-Vishala_Gamanam.mp3"></div>
 विश्वामित्रवचः श्रुत्वा राघवः सहलक्ष्मणः।  
 विस्मयं परमं गत्वा विश्वामित्रमथाब्रवीत् ॥ 1.45.1 ॥   
 

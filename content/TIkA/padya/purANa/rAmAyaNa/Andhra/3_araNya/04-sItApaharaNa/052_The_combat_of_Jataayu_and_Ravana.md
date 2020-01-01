@@ -3,6 +3,7 @@ title: 052 The combat of Jataayu and Ravana
 title_english: 052 The combat of Jataayu and Ravana
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-052-Sitaa_Vilapaha.mp3"></div>
 सा तु तारा अधिप मुखी रावणेन निरीक्ष्य तम् ।  
 गृध्र राजम् विनिहतम् विललाप सुदुःखिता ॥ ३-५२-१  
 निमित्तम् लक्षणम् स्वप्नम् शकुनि स्वर दर्शनम् ।  

@@ -3,6 +3,7 @@ title: 037 स्कन्दोत्पत्तिः
 title_english: 037 Legend of kaartikeya
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-037-Skandoth_Paththi.mp3"></div>
 तप्यमाने तपो देवे देवाः सर्षिगणाः पुरा।  
 सेनापतिमभीप्सन्तः पितामहमुपागमन् ॥ 1.37.1 ॥   
 

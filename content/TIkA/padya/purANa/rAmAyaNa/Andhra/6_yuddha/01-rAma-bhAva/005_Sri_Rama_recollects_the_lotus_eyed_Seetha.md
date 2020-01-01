@@ -3,6 +3,7 @@ title: 005 Sri Rama recollects the lotus eyed Seetha
 title_english: 005 Sri Rama recollects the lotus eyed Seetha
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-005-Sri_Rama_recollects_the_lotus-eyed_Seetha.mp3"></div>
 सा तु नीलेन विधिवत् स्वारक्षा सुसमाहिता ।  
 सागरस्य उत्तरे तीरे साधु सेना विनिएशिता ॥ ६-५-१  
 मैन्दः च द्विविधः च उभौ तत्र वानर पुम्गवौ ।  

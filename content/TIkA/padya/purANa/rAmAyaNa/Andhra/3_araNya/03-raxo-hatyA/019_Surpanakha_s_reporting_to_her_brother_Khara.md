@@ -3,6 +3,7 @@ title: 019 Surpanakha s reporting to her brother Khara
 title_english: 019 Surpanakha s reporting to her brother Khara
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-019-Kharaya_Angavairupya_Kathanam.mp3"></div>
 ताम् तथा पतिताम् दृष्ट्वा विरूपाम् शोणित उक्षिताम् ।  
 भगिनीम् क्रोध संतप्तः खरः पप्रच्छ्ह राक्षसः ॥ ३-१९-१  
 उत्तिष्ठ तावत् आख्याहि प्रमोहम् जहि संभ्रमम् ।  

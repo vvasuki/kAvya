@@ -3,6 +3,7 @@ title: 029 Khara s fight with Rama
 title_english: 029 Khara s fight with Rama
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-029-Khara_Nribhartha_Sanam.mp3"></div>
 खरम् तु विरथम् रामो गदा पाणिम् अवस्थितम् ।  
 मृदु पूर्वम् महातेजाः परुषम् वाक्यम् अब्रवीत् ॥ ३-२९-१  
 गज अश्व रथ संबाधे बले महति तिष्ठता ।  

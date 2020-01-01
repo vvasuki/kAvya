@@ -3,6 +3,7 @@ title: 029 Seetha experiences some good omens
 title_english: 029 Seetha experiences some good omens
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-029-Seetha_experiences_some_good_omens.mp3"></div>
 तथा गताम् ताम् व्यथिताम् अनिन्दिताम् ।  
 व्यपेत हर्षाम् परिदीन मानसाम् ।  
 शुभाम् निमित्तानि शुभानि भेजिरे ।  

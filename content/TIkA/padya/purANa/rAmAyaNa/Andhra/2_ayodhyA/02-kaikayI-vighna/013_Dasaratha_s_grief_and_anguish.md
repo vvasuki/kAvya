@@ -3,6 +3,7 @@ title: 013 Dasaratha s grief and anguish
 title_english: 013 Dasaratha s grief and anguish
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-013-Dasharadhasya_Vaiklabyam.mp3"></div>
 अतदर्हं महाराजं शयानम् सयानमतथोचितम् ।  
 ययातिमिव पुण्यान्ते देवलोकात्परिच्युतम् ॥ २-१३-१  
 अनर्थरूपा सिद्धार्था ह्यभीता भयदर्शिनी ।  

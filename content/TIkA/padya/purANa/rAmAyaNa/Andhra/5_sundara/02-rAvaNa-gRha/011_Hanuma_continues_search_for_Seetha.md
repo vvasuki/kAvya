@@ -3,6 +3,7 @@ title: 011 Hanuma continues search for Seetha
 title_english: 011 Hanuma continues search for Seetha
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-011-Hanuma_continues_search_for_Seetha.mp3"></div>
 अवधूय च ताम् बुद्धिम् बभूव अवस्थितः तदा ।  
 जगाम च अपराम् चिन्ताम् सीताम् प्रति महा कपिः ॥ ५-११-१  
 न रामेण वियुक्ता सा स्वप्तुम् अर्हति भामिनी ।  

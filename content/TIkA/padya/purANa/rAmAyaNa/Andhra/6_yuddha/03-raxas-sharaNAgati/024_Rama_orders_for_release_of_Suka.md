@@ -3,6 +3,7 @@ title: 024 Rama orders for release of Suka
 title_english: 024 Rama orders for release of Suka
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-024-Rama_orders_for_release_of_Suka_0.mp3"></div>
 सा वीरसमिती राज्ञा विरराज व्यवस्थिता ।  
 शशिना शुभिनक्षत्रा पौर्णमासीव शारदी ॥ ६-२४-१  
 प्रचचाल च वेगेन त्रस्ता चैव वसुन्धरा ।  

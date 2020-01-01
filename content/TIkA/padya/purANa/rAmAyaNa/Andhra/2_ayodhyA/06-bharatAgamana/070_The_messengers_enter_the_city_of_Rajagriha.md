@@ -3,6 +3,7 @@ title: 070 The messengers enter the city of Rajagriha
 title_english: 070 The messengers enter the city of Rajagriha
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-070-Bharathasya_Nishakramanam.mp3"></div>
 भरते ब्रुवति स्वप्नम् दूताः ते क्लान्त वाहनाः ।  
 प्रविश्य असह्य परिखम् रम्यम् राज गृहम् पुरम् ॥ २-७०-१  
 समागम्य तु राज्ञा च राज पुत्रेण च अर्चिताः ।  

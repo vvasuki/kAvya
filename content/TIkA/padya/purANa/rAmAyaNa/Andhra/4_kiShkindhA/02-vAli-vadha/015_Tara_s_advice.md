@@ -3,6 +3,7 @@ title: 015 Tara s advice
 title_english: 015 Tara s advice
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-015-Tharo_Upadeshaha.mp3"></div>
 अथ तस्य निनादम् तम् सुग्रीवस्य महात्मनः ।  
 शुश्राव अन्तःपुर गतो वाली भ्रातुर् अमर्षणः ॥ ४-१५-१  
 श्रुत्वा तु तस्य निनदम् सर्वभूत प्रकंपनम् ।  

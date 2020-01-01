@@ -3,6 +3,7 @@ title: 005 Oath of friendship
 title_english: 005 Oath of friendship
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-005-Rama_Sugreeva_Sakhyam_0.mp3"></div>
 ऋश्यमूकात् तु हनुमान् गत्वा तम् मलयम् गिरिम् ।  
 आचचक्षे तदा वीरौ कपि राजाय राघवौ ॥ ४-५-१  
 अयम् रामो महाप्राज्ञ संप्राप्तो दृढ विक्रमः ।  

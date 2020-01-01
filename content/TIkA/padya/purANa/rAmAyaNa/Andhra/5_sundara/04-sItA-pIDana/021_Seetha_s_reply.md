@@ -3,6 +3,7 @@ title: 021 Seetha s reply
 title_english: 021 Seetha s reply
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-021-Seetha_s_reply.mp3"></div>
 तस्य तद्वचनम् श्रुत्वा सीता रौद्रस्य रक्षसः ।  
 आर्ता दीनस्वरा दीनम् प्रत्युवाच ततः शनैः ॥ ५-२१-१  
 दुःखार्ता रुदती सीता वेपमाना तपस्विनी ।  

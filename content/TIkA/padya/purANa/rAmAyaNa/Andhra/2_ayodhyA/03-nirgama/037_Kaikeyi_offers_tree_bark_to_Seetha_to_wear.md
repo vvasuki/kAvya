@@ -3,6 +3,7 @@ title: 037 Kaikeyi offers tree bark to Seetha to wear
 title_english: 037 Kaikeyi offers tree bark to Seetha to wear
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-037-Chira_Paridhanam.mp3"></div>
 महा मात्र वचः श्रुत्वा रामः दशरथम् तदा ।  
 अन्वभाषत वाक्यम् तु विनयज्ञो विनीतवत् ॥ २-३७-१  
 त्यक्त भोगस्य मे राजन् वने वन्येन जीवतः ।  

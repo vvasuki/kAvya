@@ -3,6 +3,7 @@ title: 042 Maareecha turns into Golden Deer
 title_english: 042 Maareecha turns into Golden Deer
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-042-Suvarna_Mruga_Rupadharanam.mp3"></div>
 एवम् उक्त्वा तु परुषम् मारीचो रावणम् ततः ।  
 गच्छावः इति अब्रवीत् दीनो भयात् रात्रिम् चर प्रभोः ॥ ३-४२-१  
 दृष्टाः च अहम् पुनः तेन शर चाप असि धारिणा ।  

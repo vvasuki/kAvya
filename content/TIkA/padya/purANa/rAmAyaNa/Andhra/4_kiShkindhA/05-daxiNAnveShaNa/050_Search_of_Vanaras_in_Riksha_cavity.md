@@ -3,6 +3,7 @@ title: 050 Search of Vanaras in Riksha cavity
 title_english: 050 Search of Vanaras in Riksha cavity
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-050-Rukshabila_Praveshaha_.mp3"></div>
 सह तारा अंगदाभ्याम् तु संगम्य हनुमान् कपिः ।  
 विचिनोति च विन्ध्यस्य गुहाः च गहनानि च ॥ ४-५०-१  
 सिंह शार्दूल जुष्टाः च गुहाः च परितः तथा ।  

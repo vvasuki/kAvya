@@ -3,6 +3,7 @@ title: 018 Ravana comes to Seetha
 title_english: 018 Ravana comes to Seetha
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-018-Ravana_comes_to_Seetha_.mp3"></div>
 तथा विप्रेक्षमाणस्य वनम् पुष्पितपादपम् ।  
 विचिन्वतश्च वैदेहीम् किंचिच्चेषा निशाभवत् ॥ ५-१८-१  
 षडङ्गवेदविदुषाम् क्रतुप्रवरयाजिनाम् ।  

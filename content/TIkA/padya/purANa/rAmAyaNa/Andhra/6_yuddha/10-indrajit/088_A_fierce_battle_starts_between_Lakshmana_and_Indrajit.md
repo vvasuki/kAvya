@@ -3,6 +3,7 @@ title: 088 A fierce battle starts between Lakshmana and Indrajit
 title_english: 088 A fierce battle starts between Lakshmana and Indrajit
 
 ---
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-088-A_fierce_battle_starts_between_Lakshmana_and_Indrajit_0.mp3"></div>
 विभीषणवचः श्रुत्वा रावणिः क्रोधमूर्चितः ।  
 अब्रवीत् परुषं वाक्यं वेगेनाभ्युत्पपात च ॥ ८८-६-१  
 उद्यतायुधनिस्त्रिंशो रथे सुसमलंकृते ।  
