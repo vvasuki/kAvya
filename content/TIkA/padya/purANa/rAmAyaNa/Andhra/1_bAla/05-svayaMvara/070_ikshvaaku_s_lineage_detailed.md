@@ -3,7 +3,9 @@ title: 070 दशरथवंशकथनम्
 title_english: 070 ikshvaaku s lineage detailed
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-070-Dasharatha_Vamsha_Varnavam.mp3"></div>
+
 ततः प्रभाते जनकः कृत कर्मा महर्षिभिः ।  
 उवाच वाक्यम् वाक्यज्ञः शतानंदम् पुरोहितम् ॥ १-७०-१  
 भ्राता मम महातेजा यवीयान् अतिधार्मिकः ।  

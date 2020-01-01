@@ -3,7 +3,9 @@ title: 025 Vali s funeral ritual
 title_english: 025 Vali s funeral ritual
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-025-Rama_Santvanam.mp3"></div>
+
 स सुग्रीवम् च ताराम् च स अंगदाम् सह लक्ष्मणः ।  
 समान शोकः काकुत्स्थः सांत्वयन् इदम् अब्रवीत् ॥ ४-२५-१  
 न शोक परितापेन श्रेयसा युज्यते मृतः ।  

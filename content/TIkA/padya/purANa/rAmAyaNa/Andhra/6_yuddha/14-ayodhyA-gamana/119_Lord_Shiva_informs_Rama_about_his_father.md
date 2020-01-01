@@ -3,7 +3,9 @@ title: 119 Lord Shiva informs Rama about his father
 title_english: 119 Lord Shiva informs Rama about his father
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-119-Lord_Shiva_informs_Rama_about_his_father_0.mp3"></div>
+
 एतच्छ्रुत्वा शुभं वाक्यं राघवेण सुभाषितम् ।  
 इदं शुभतरं वाक्यं व्याजहार महेश्वरः ॥ ६-११९-१  
 पुष्कराक्ष महाबाहो महावक्षः परन्तप ।  

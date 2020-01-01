@@ -3,7 +3,9 @@ title: 006 Sugreeva s narration of the abduction
 title_english: 006 Sugreeva s narration of the abduction
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-006-Sita_Abharana_Darshanam_0.mp3"></div>
+
 पुनरेव अब्रवीत् प्रीतः राघवम् रघुनन्दनम् ।  
 अयम् आख्याति ते राम सेवकः मन्त्रि सत्तमः ॥ ४-६-१  
 हनुमान् यन् निमित्तम् त्वम् निर्जनम् वनम् आगतः ।  

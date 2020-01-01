@@ -3,7 +3,9 @@ title: 016 पायसप्रदानम्
 title_english: 016 yajna purusha presents divine dessert as fruit of ritual
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-016-Payasa_Pradhaanam.mp3"></div>
+
 ततो नारायणो विष्णुर्नियुक्तः सुरसत्तमैः।  
 जानन्नपि सुरानेवं श्लक्ष्णं वचनमबव्रीत् ॥ 1.16.1 ॥   
 उपायः को वधे तस्य राक्षसाधिपतेस्सुराः।  

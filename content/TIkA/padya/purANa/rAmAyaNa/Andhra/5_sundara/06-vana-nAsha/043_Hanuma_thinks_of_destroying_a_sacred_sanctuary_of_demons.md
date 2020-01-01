@@ -3,7 +3,9 @@ title: 043 Hanuma thinks of destroying a sacred sanctuary of demons
 title_english: 043 Hanuma thinks of destroying a sacred sanctuary of demons
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-043-Hanuma_thinks_of_destroying_a_sacred_sanctuary_of_demons.mp3"></div>
+
 ततः स किम्करान् हत्वा हनूमान् ध्यानम् आस्थितः ।  
 वनम् भग्नम् मया चैत्य प्रासादो न विनाशितः ॥ ५-४३-१  
 तस्मात् प्रासादम् अपि एवम् इमम् विध्वंसयामि अहम् ।  

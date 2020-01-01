@@ -3,7 +3,9 @@ title: 023 Lakshmana s angry words
 title_english: 023 Lakshmana s angry words
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-023-Lakshmana_Santhvanam.mp3"></div>
+
 इति ब्रुवति रामे तु लक्ष्मणो अधः शिरा मुहुः ।  
 श्रुत्वा मध्यम् जगाम इव मनसा दुह्ख हर्षयोह् ॥ २-२३-१  
 तदा तु बद्ध्वा भ्रुकुटीम् भ्रुवोर् मध्ये नर ऋषभ ।  

@@ -3,7 +3,9 @@ title: 022 Vali s death time advises
 title_english: 022 Vali s death time advises
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-022-Vali_Maranam.mp3"></div>
+
 वीक्षमाणः तु मंदासुः सर्वतो मंदम् उच्छ्वसन् ।  
 आदौ एव तु सुग्रीवम् ददर्श अनुजम् अग्रतः ॥ ४-२२-१  
 तम् प्राप्त विजयम् वाली सुग्रीवम् प्लवग ईश्वरम् ।  

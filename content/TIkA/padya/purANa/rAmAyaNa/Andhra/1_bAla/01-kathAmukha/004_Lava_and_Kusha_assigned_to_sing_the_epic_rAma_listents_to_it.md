@@ -3,7 +3,9 @@ title: 004 रामायणगानम्
 title_english: 004 Lava and Kusha assigned to sing the epic rAma listents to it
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-004-Ramayana_Gaanam.mp3"></div>
+
 प्राप्तराज्यस्य रामस्य वाल्मीकिर्भगवानृषिः।  
 चकार चरितं कृत्स्नं विचित्रपदमात्मवान्।।1.4.1।।  
 चतुर्विंशत्सहस्राणि श्लोकानामुक्तवानृषिः।  

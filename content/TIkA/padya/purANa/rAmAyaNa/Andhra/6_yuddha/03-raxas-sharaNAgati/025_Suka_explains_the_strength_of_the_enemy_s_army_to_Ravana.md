@@ -3,7 +3,9 @@ title: 025 Suka explains the strength of the enemy s army to Ravana
 title_english: 025 Suka explains the strength of the enemy s army to Ravana
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-025-Suka_explains_the_strength_of_the_enemy_s_army_to_Ravana_0.mp3"></div>
+
 सबले सागरम् तीर्णे रामे दशरथ आत्मजे ।  
 अमात्यौ रावणः श्रीमान् अब्रवीत् शुक सारणौ ॥ ६-२५-१  
 समग्रम् सागरम् तीर्णम् दुस्तरम् वानरम् बलम् ।  

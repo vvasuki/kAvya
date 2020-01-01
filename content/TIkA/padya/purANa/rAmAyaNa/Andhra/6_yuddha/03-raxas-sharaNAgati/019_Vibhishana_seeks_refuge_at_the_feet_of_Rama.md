@@ -3,7 +3,9 @@ title: 019 Vibhishana seeks refuge at the feet of Rama
 title_english: 019 Vibhishana seeks refuge at the feet of Rama
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-019-Vibhishana_seeks_refuge_at_the_feet_of_Rama.mp3"></div>
+
 राघवेन अभये दत्ते सम्नतो रावण अनुजः ।  
 विभीषणो महाप्राज्ञो भूमिम् समवलोकयत् ॥ ६-१९-१  
 खात् पपात अवनिम् हृष्टो भक्तैर् अनुचरैः सह ।  

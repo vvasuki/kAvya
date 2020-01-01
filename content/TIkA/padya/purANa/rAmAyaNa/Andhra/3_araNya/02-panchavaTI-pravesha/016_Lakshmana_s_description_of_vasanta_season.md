@@ -3,7 +3,9 @@ title: 016 Lakshmana s description of vasanta season
 title_english: 016 Lakshmana s description of vasanta season
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-016-Hemantharthu_Varnanam.mp3"></div>
+
 वसतः तस्य तु सुखम् राघवस्य महात्मनः ।  
 शरद् व्यपाये हेमंतऋतुर् इष्टः प्रवर्तत ॥ ४-१६-१  
 स कदाचित् प्रभातायाम् शर्वर्याम् रघुनंदनः ।  

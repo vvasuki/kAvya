@@ -3,7 +3,9 @@ title: 007 The wicked Manthara
 title_english: 007 The wicked Manthara
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-007-Mandthara_Manthranam.mp3"></div>
+
 ज्ञातिदासी यतो जाता कैकेय्या तु सहोषिता ।  
 प्रासादं चन्द्रसङ्काशमारुरोह यदृच्छया ॥ २-७-१  
 सिक्तराजपथां कृत्स्नां प्रकीर्णकुसुमोत्कराम् ।  

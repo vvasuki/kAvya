@@ -3,7 +3,9 @@ title: 072 Kaikeyi informs Bharata about the death of Dasaratha
 title_english: 072 Kaikeyi informs Bharata about the death of Dasaratha
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-072-Bharatha_Vilapaha.mp3"></div>
+
 अपश्यंस् तु ततः तत्र पितरम् पितुर् आलये ।  
 जगाम भरतः द्रष्टुम् मातरम् मातुर् आलये ॥ २-७२-१  
 अनुप्राप्तम् तु तम् दृष्ट्वा कैकेयी प्रोषितम् सुतम् ।  

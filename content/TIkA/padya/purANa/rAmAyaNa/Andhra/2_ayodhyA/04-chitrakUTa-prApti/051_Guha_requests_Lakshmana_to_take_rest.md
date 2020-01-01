@@ -3,7 +3,9 @@ title: 051 Guha requests Lakshmana to take rest
 title_english: 051 Guha requests Lakshmana to take rest
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-051-Guha_Lakshmana_Samvadhaha.mp3"></div>
+
 तम् जाग्रतम् अदम्भेन भ्रातुर् अर्थाय लक्ष्मणम् ।  
 गुहः सम्ताप सम्तप्तः राघवम् वाक्यम् अब्रवीत् ॥ २-५१-१  
 इयम् तात सुखा शय्या त्वद् अर्थम् उपकल्पिता ।  

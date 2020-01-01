@@ -3,7 +3,9 @@ title: 070 Hanuma kills Trishira
 title_english: 070 Hanuma kills Trishira
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-070-Hanuma_kills_Trishira_0.mp3"></div>
+
 नरान्तकम् हतम् दृष्ट्वा चुक्रुशुर् नैरृतर्षभाः।  
 देवान्तकः त्रिमूर्धा च पौलस्त्यः च महोदरः॥ ६-७०-०१  
 आरूढो मेघ सम्काशम् वारण इन्द्रम् महा उदरः ।  

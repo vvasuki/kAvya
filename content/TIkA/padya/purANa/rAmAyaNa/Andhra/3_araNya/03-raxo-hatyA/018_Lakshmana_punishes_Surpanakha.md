@@ -3,7 +3,9 @@ title: 018 Lakshmana punishes Surpanakha
 title_english: 018 Lakshmana punishes Surpanakha
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-018-Shoorpanakha_Shasanam_.mp3"></div>
+
 ताम् तु शूर्पणखाम् रामः काम पाश अवपाशिताम् ।  
 स्वच्छ्हया श्लक्ष्णया वाचा स्मित पूर्वम् अथ अब्रवीत् ॥ ३-१८-१  
 कृत दारो अस्मि भवति भार्या इयम् दयिता मम ।  

@@ -3,7 +3,9 @@ title: 063 Sampaati gets new wings and flew away
 title_english: 063 Sampaati gets new wings and flew away
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-063-Sampaati_gets_new_wings_and_flew_away.mp3"></div>
+
 एतैः अन्यैः च बहुभिः वाक्यैः वाक्य विशारदः ।  
 माम् प्रशस्य अभ्यनुज्ञाप्य प्रविष्टः स स्वम् आलयम् ॥ ४-६३-१  
 कंदरात् तु विसर्पित्वा पर्वतस्य शनैः शनैः ।  

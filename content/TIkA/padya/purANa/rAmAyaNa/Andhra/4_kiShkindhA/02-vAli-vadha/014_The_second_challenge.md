@@ -3,7 +3,9 @@ title: 014 The second challenge
 title_english: 014 The second challenge
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-014-Valinam_Prathi_Yudhdha_Ahvanam.mp3"></div>
+
 सर्वे ते त्वरितम् गत्वा किष्किन्धाम् वालिनः पालिताम् ।  
 वृक्षैर् आत्मानम् आवृत्य व्यतिष्ठन् गहने वने ॥ ४-१४-१  
 विसार्य सर्वतो दृष्टिम् कानने कानन प्रियः ।  

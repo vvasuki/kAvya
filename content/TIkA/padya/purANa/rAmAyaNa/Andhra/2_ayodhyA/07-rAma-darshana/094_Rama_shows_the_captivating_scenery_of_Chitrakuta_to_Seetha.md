@@ -3,7 +3,9 @@ title: 094 Rama shows the captivating scenery of Chitrakuta to Seetha
 title_english: 094 Rama shows the captivating scenery of Chitrakuta to Seetha
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-094-Chitra_Kute_Rama_Sita_Samvadaha.mp3"></div>
+
 दीर्घ काल उषितः तस्मिन् गिरौ गिरि वन प्रियः ।  
 विदेह्याः प्रियमाकान्क्षन् स्वम् च चित्तम् विलोभयन् ॥ २-९४-१  
 अथ दाशरथिः चित्रम् चित्र कूटम् अदर्शयत् ।  

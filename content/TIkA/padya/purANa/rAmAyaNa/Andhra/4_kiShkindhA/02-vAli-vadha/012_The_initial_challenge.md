@@ -3,7 +3,9 @@ title: 012 The initial challenge
 title_english: 012 The initial challenge
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-012-Rama_Krutham_Saptha_Thala_Chedhanam.mp3"></div>
+
 एतच् च वचनम् श्रुत्वा सुग्रीवस्य सुभाषितम् ।  
 प्रत्ययार्थम् महातेजा रामो जग्राह कार्मुकम् ॥ ४-१२-१  
 स गृहीत्वा धनुर् घोरम् शरम् एकम् च मानदः ।  

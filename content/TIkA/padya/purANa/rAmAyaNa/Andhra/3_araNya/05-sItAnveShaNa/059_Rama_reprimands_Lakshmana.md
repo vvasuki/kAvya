@@ -3,7 +3,9 @@ title: 059 Rama reprimands Lakshmana
 title_english: 059 Rama reprimands Lakshmana
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-059-Lakshmana_Nindaa.mp3"></div>
+
 अथ आश्रमात् उपावृत्तम् अंतरा रघुनंदनः ।  
 परिपप्रच्छ सौमित्रिम् रामो दुःख अर्दितः पुनः ॥ ३-५९-१  
 तम् उवाच किम् अर्थम् त्वम् आगतो अपास्य मैथिलीम् ।  

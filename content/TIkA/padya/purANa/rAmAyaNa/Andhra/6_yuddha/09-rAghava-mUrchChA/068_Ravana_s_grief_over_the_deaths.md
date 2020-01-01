@@ -3,7 +3,9 @@ title: 068 Ravana s grief over the deaths
 title_english: 068 Ravana s grief over the deaths
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-068-Ravana_s_grief_over_the_deaths__0.mp3"></div>
+
 कुम्भकर्णम् हतम् दृष्ट्वा राघवेण महात्मना ।  
 राक्षसा राक्षस इन्द्राय रावणाय न्यवेदयन् ॥ ६-६८-१  
 राजन् स कालसंकाशः संयुक्तः कालकर्मणा ।  

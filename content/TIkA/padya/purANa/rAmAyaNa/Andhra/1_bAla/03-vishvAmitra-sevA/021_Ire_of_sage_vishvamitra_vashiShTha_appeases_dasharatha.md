@@ -3,7 +3,9 @@ title: 021 वसिष्ठवचनाद् रामप्रेषणम�
 title_english: 021 Ire of sage vishvamitra vashiShTha appeases dasharatha
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-021-Vasistavachanath_Rama_Preshanam.mp3"></div>
+
 तच्छ्रुत्वा वचनं तस्य स्नेहपर्याकुलाक्षरम्।  
 समन्युः कौशिको वाक्यं प्रत्युवाच महीपतिम् ॥ 1.21.1 ॥   
 

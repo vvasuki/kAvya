@@ -3,7 +3,9 @@ title: 022 Rama tries to pacify Lakshmana further
 title_english: 022 Rama tries to pacify Lakshmana further
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-022-Daiva_Prabhavaha.mp3"></div>
+
 अथ तम् व्यथया दीनम् सविशेषम् अमर्षितम् ।  
 श्वसन्तम् इव नाग इन्द्रम् रोष विस्फारित ईक्षणम् ॥ २-२२-१  
 आसद्य रामः सौमित्रिम् सुह्ऱ्दम् भ्रातरम् प्रियम् ।  

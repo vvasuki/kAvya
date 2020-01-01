@@ -3,7 +3,9 @@ title: 052 Vanaras deliverance from black hole
 title_english: 052 Vanaras deliverance from black hole
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-052-Vanaraihi_Swagamana_Hethu_Kathanam.mp3"></div>
+
 अथ तान् अब्रवीत् सर्वान् विश्रांतान् हरि यूथपान् ।  
 इदम् वचनम् एकाग्रा तापसी धर्म चारिणी ॥ ४-५२-१  
 वानरा यदि वः खेदः प्रनष्टः फल भक्षणात् ।  

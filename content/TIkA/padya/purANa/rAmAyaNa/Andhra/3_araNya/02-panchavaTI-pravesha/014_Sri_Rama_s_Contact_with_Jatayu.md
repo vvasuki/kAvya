@@ -3,7 +3,9 @@ title: 014 Sri Rama s Contact with Jatayu
 title_english: 014 Sri Rama s Contact with Jatayu
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-014-Jatayusho_Vruthanthaha.mp3"></div>
+
 अथ पंचवटीम् गच्चन्न् अन्तरा रघुनन्दनः ।  
 आससाद महाकायम् गृध्रम् भीम पराक्रमम् ॥ ३-१४-१  
 तम् दृष्ट्वा तौ महाभागौ वनस्थम् राम लक्ष्मणौ ।  

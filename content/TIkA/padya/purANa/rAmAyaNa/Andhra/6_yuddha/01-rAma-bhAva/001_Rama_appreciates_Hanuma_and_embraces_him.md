@@ -3,7 +3,9 @@ title: 001 Rama appreciates Hanuma and embraces him
 title_english: 001 Rama appreciates Hanuma and embraces him
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-001-Rama_appreciates_Hanuma_and_embraces_him.mp3"></div>
+
 श्रुत्वा हनुमतो वाक्यम् यथावद्भिभाषितम् ।  
 रामः प्रीतिसमायुक्तो वाक्यमुत्तरमब्रवीत् ॥ ६-१-१  
 कृतम् हनुमता कार्यम् सुमहद्भुवि दुर्लभम् ।  

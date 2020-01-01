@@ -3,7 +3,9 @@ title: 086 Indrajit enters the battle filed again
 title_english: 086 Indrajit enters the battle filed again
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-086-Indrajit_enters_the_battle-filed_again_0.mp3"></div>
+
 अथ तस्यामवस्थायां लक्ष्मणं रावणानुजः ।  
 परेषामहितं वाक्यमर्थसाधकमब्रवीत् ॥ ६-८६-१  
 यदेतद्राक्षसानीकं मेघश्यामं विलोक्यते ।  

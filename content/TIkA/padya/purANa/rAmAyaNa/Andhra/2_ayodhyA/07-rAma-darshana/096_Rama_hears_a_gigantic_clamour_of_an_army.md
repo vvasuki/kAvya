@@ -3,7 +3,9 @@ title: 096 Rama hears a gigantic clamour of an army
 title_english: 096 Rama hears a gigantic clamour of an army
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-096-Bharatham_Prathi_Lakshmana_Vikalpaha.mp3"></div>
+
 तां तथा दर्शयित्वा तु मैथिलीं गिरिनिम्नगाम् ।  
 निषसाद गिरिप्रस्थे सीतां मांसेन चन्दयन् ॥ २-९६-१  
 इदं मेध्यमिदं स्वादु निष्टप्तमिदमग्निना ।  

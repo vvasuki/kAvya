@@ -3,7 +3,9 @@ title: 079 Makaraksha challenges Rama to fight with him
 title_english: 079 Makaraksha challenges Rama to fight with him
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-079-Makaraksha_challenges_Rama_to_fight_with_him_0.mp3"></div>
+
 निर्गतं मकराक्षं ते दृष्ट्वा वानरपुंगवाः ।  
 आप्लुत्य सहसा सर्वे योद्धुकामा व्यवस्थ्ताः ॥ ६-७९-१  
 ततः प्रवृत्तं सुमहत्तद्युद्धं रोमहर्षणम् ।  

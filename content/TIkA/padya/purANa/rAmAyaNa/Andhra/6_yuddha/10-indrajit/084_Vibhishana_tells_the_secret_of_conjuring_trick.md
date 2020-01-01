@@ -3,7 +3,9 @@ title: 084 Vibhishana tells the secret of conjuring trick
 title_english: 084 Vibhishana tells the secret of conjuring trick
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-084-Vibhishana_tells_the_secret_of_conjuring_trick_0.mp3"></div>
+
 राममाश्वासयाने तु लक्ष्मणे भ्रातृवत्सले ।  
 निक्षिप्य गुल्मान्स्वस्थाने तत्रागच्छद्विभीषणः ॥ ६-८४-१  
 नानाप्रहरणैर्वीरैश्चतुर्भिः सचिवैर्वृतः ।  

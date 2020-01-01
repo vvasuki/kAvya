@@ -3,7 +3,9 @@ title: 048 Hanuma s search for Seetha
 title_english: 048 Hanuma s search for Seetha
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-048-Vindhye_Sita_Anveshana.mp3"></div>
+
 सह तार अंगदाभ्याम् तु सहसा हनुमान् कपिः ।  
 सुग्रीवेण यथा उद्दिष्टम् तम् देशम् उपचक्रमे ॥ ४-४८-१  
 स तु दूरम् उपागम्य सर्वैः तैः कपि सत्तमैः ।  

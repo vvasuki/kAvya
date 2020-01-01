@@ -3,7 +3,9 @@ title: 053 Rama tries to send Lakshmana back to Ayodhya
 title_english: 053 Rama tries to send Lakshmana back to Ayodhya
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-053-Rama_Lakshmana_Samvadhaha.mp3"></div>
+
 स तम् वृक्षम् समासाद्य संध्याम् अन्वास्य पश्चिमाम् ।  
 रामः रमयताम् श्रेष्ठैति ह उवाच लक्ष्मणम् ॥ २-५३-१  
 अद्य इयम् प्रथमा रात्रिर् याता जन पदात् बहिः ।  

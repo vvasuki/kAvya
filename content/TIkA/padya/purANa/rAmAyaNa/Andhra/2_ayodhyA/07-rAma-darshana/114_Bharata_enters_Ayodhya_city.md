@@ -3,7 +3,9 @@ title: 114 Bharata enters Ayodhya city
 title_english: 114 Bharata enters Ayodhya city
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-114-Ayodhyaa_Praveshaha.mp3"></div>
+
 स्निग्ध गम्भीर घोषेण स्यन्दनेन उपयान् प्रभुः ।  
 अयोध्याम् भरतः क्षिप्रम् प्रविवेश महा यशाः ॥ २-११४-१  
 बिडाल उलूक चरिताम् आलीन नर वारणाम् ।  

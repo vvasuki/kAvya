@@ -3,7 +3,9 @@ title: 020 Kausalya s grief
 title_english: 020 Kausalya s grief
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-020-Kousalya_Vilapaha.mp3"></div>
+
 तस्मिंस्तु पुरुष्व्याघ्रे निष्क्रामति कृताञ्जलौ ।  
 आर्तशच्दो महान् जज्ञे स्त्रीणाम न्तःपुरे तदा ॥ २-२०-१  
 क्ऱ्^त्येष्वचोदितः पित्रा सर्वस्यान्तः पुरस्य च ।  

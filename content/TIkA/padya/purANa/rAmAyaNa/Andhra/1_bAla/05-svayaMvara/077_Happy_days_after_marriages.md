@@ -3,7 +3,9 @@ title: 077 दशरथाद्ययोध्यागमनम्
 title_english: 077 Happy days after marriages
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-077-Dasharathaadi_Naamayodhyagamanam.mp3"></div>
+
 गते रामे प्रशांतात्मा रामो दाशरथिर्धनुः ।  
 वरुणायाप्रमेयाय ददौ हस्ते महायशाः ॥ १-७७-१  
 अभिवाद्य ततो रामो वसिष्ठ प्रमुखानृषीन् ।  

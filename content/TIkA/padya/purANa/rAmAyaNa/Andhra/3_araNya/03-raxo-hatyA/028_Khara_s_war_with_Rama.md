@@ -3,7 +3,9 @@ title: 028 Khara s war with Rama
 title_english: 028 Khara s war with Rama
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-028-Rama_Khara_Yuddham.mp3"></div>
+
 निहतम् दूषणम् दृष्ट्वा रणे त्रिशिरसा सह ।  
 खरस्य अपि अभवत् त्रासो दृष्ट्वा रामस्य विक्रमम् ॥ ४-२८-१  
 स दृष्ट्वा राक्षसम् सैन्यम् अविषह्यम् महाबलम् ।  

@@ -3,7 +3,9 @@ title: 053 Ravana sends Vajradamstra
 title_english: 053 Ravana sends Vajradamstra
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-053-Ravana_sends_Vajradamstra_0.mp3"></div>
+
 धूम्राक्षं निहतम् दृष्ट्वा रावणो राक्षसेश्वरः ।  
 क्रोधेन महताविष्टो निःश्वसन्नुरगो यथा ॥ ६-५३-१  
 दीर्घमुष्टं विनिःश्वस्य क्रोधेन कलुषीकृतः ।  

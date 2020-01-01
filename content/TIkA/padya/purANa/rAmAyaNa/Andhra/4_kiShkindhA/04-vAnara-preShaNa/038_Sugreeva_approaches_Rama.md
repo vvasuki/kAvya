@@ -3,7 +3,9 @@ title: 038 Sugreeva approaches Rama
 title_english: 038 Sugreeva approaches Rama
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-038-Rama_Sugreeva_Samvadhaha.mp3"></div>
+
 प्रतिगृह्य च तत् सर्वम् उपानयम् उपाहृतम् ।  
 वानरान् सान्त्वयित्वा च सर्वान् एव व्यसर्जयत् ॥ ४-३८-१  
 विसर्जयित्वा स हरीन् सहस्रान् तान् कृत कर्मणः ।  

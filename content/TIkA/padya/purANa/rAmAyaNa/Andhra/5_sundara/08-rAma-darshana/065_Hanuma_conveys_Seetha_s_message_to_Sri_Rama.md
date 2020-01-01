@@ -3,7 +3,9 @@ title: 065 Hanuma conveys Seetha s message to Sri Rama
 title_english: 065 Hanuma conveys Seetha s message to Sri Rama
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-065-Hanuma_conveys_Seetha_s_message_to_.mp3"></div>
+
 ततः प्रस्रवणम् शैलम् ते गत्वा चित्र काननम् ।  
 प्रणम्य शिरसा रामम् लक्ष्मणम् च महाबलम् ॥ ५-६५-१  
 युव राजम् पुरः कृत्य सुग्रीवम् अभिवाद्य च ।  

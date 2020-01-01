@@ -3,7 +3,9 @@ title: 067 Hanuma asserts his capabilities to leap the ocean
 title_english: 067 Hanuma asserts his capabilities to leap the ocean
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-067-Hanuma_asserts_his_capabilities_to_leap_the_ocean.mp3"></div>
+
 तम् दृष्ट्वा जृंभमाणम् ते क्रमितुम् शत योजनम् ।  
 वेगेन आपूर्यमाणम् च सहसा वानरोत्तमम् ॥ ४-६७-१  
 सहसा शोकम् उत्सृज्य प्रहर्षेण समन्विताः ।  

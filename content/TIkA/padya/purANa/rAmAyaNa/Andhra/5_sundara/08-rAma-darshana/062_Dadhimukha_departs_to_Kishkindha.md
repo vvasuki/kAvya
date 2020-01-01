@@ -3,7 +3,9 @@ title: 062 Dadhimukha departs to Kishkindha
 title_english: 062 Dadhimukha departs to Kishkindha
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-062-Dadhimukha_departs_to_Kishkindha.mp3"></div>
+
 तान् उवाच हरि श्रेष्ठो हनूमान् वानर ऋषभः ।  
 अव्यग्र मनसो यूयम् मधु सेवत वानराः ॥ ५-६२-१  
 अहमावारयिष्यामि युष्माकम् परिपन्थिनः ।  

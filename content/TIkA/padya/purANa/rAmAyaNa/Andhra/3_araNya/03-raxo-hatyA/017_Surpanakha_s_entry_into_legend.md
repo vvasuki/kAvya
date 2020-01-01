@@ -3,7 +3,9 @@ title: 017 Surpanakha s entry into legend
 title_english: 017 Surpanakha s entry into legend
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-017-Shoorpanakha_Aagamanam.mp3"></div>
+
 कृत अभिषेको रामः तु सीता सौमित्रिर् एव च ।  
 तस्मात् गोदावरी तीरात् ततो जग्मुः स्वम् आश्रमम् ॥ ३-१७-१  
 आश्रमम् तम् उपागम्य राघवः सह लक्ष्मणः ।  

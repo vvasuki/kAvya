@@ -3,7 +3,9 @@ title: 073 सीतारामविवाहः
 title_english: 073 sItha s marriage with rAma
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-073-Sita_Rama_Vivahaha.mp3"></div>
+
 यस्मिन् तु दिवसे राजा चक्रे गो दानम् उत्तमम् ।  
 तस्मिन् तु दिवसे शूरो युधाजित् समुपेयिवान् ॥ १-७३-१  
 पुत्रः केकय राजस्य साक्षात् भरत मातुलः ।  

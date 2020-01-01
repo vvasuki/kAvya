@@ -3,7 +3,9 @@ title: 023 Khara s army face bad omens
 title_english: 023 Khara s army face bad omens
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-023-Kharena_Utpatha_Darshanam_.mp3"></div>
+
 तत् प्रयातम् बलम् घोरम् अशिवम् शोणित उदकम् ।  
 अभ्यवर्षत् महा मेघः तुमुलो गर्दभ अरुणः ॥ ३-२३-१  
 निपेतुः तुरगाः तस्य रथ युक्ता महाजवाः ।  

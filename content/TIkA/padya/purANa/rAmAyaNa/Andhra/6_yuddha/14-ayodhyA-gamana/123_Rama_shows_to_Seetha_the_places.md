@@ -3,7 +3,9 @@ title: 123 Rama shows to Seetha the places
 title_english: 123 Rama shows to Seetha the places
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-123-Rama_shows_to_Seetha_the_places_0.mp3"></div>
+
 अनुज्ञातन् तु रामेण तद्विमानमनुत्तमम् ।  
 उत्पपात महामेघः श्वसनेनोद्धतो यथा ॥ ६-१२३-१  
 पातयित्वा ततश्चक्षुः सर्वतो रघुनन्दनः ।  

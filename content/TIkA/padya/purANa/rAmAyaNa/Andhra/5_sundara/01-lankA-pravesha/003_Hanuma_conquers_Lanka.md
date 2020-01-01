@@ -3,7 +3,9 @@ title: 003 Hanuma conquers Lanka
 title_english: 003 Hanuma conquers Lanka
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-003-Hanuma_conquers_Lanka.mp3"></div>
+
 स लम्ब शिखरे लम्बे लम्ब तोयद सम्निभे ।  
 सत्त्वम् आस्थाय मेधावी हनुमान् मारुत आत्मजः ॥ ५-३-१  
 निशि लन्काम् महा सत्त्वः विवेश कपि कुन्जरः ।  

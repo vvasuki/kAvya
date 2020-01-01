@@ -3,7 +3,9 @@ title: 047 The debate of Seetha and Ravana is started
 title_english: 047 The debate of Seetha and Ravana is started
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-047-Ravanena_Swaishwarya_Kathanam.mp3"></div>
+
 रावणेन तु वैदेही तदा पृष्टा जिहीर्षुणा ।  
 परिव्राजक रूपेण शशंस आत्मानम् आत्मना ॥ ३-४७-१  
 ब्राह्मणः च अतिथिः च एष अनुक्तो हि शपेत माम् ।  

@@ -3,7 +3,9 @@ title: 075 The battle resumes
 title_english: 075 The battle resumes
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-075-The_battle_resumes_0.mp3"></div>
+
 ततोऽब्रवीन्महातेजाः सुग्रीवो वानरेश्वरः ।  
 अर्थ्यम् विज्ञापयंश्चापि हनूमन्तमिदं वचः ॥ ६-७५-१  
 यतो हतः कुम्भकर्णः कुमाराश्च निषूदिताः ।  

@@ -3,7 +3,9 @@ title: 052 Ravana orders Hanuma to be killed
 title_english: 052 Ravana orders Hanuma to be killed
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-052-Ravana_orders_Hanuma_to_be_killed.mp3"></div>
+
 तस्य तत् वचनम् श्रुत्वा वानरस्य महात्मनः ।  
 आज्ञापयत् वधम् तस्य रावणः क्रोध मूर्चितः ॥ ५-५२-१  
 वधे तस्य समाज्ञप्ते रावणेन दुरात्मना ।  

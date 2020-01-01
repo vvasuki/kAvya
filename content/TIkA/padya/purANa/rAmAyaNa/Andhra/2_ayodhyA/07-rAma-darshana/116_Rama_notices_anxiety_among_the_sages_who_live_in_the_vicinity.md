@@ -3,7 +3,9 @@ title: 116 Rama notices anxiety among the sages who live in the vicinity
 title_english: 116 Rama notices anxiety among the sages who live in the vicinity
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-116-Chitrakoote_Rushi_Rama_Samvadaha_.mp3"></div>
+
 प्रतिप्रयाते भरते वसन् रामः तपो वने ।  
 लक्षयाम् आस स उद्वेगम् अथ औत्सुक्यम् तपस्विनाम् ॥ २-११६-१  
 ये तत्र चित्र कूटस्य पुरस्तात् तापस आश्रमे ।  

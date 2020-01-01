@@ -3,7 +3,9 @@ title: 072 Kabandha advises Rama to meet Sugreeva
 title_english: 072 Kabandha advises Rama to meet Sugreeva
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-072-Sitaa_Prapthyupaya_Kathanam.mp3"></div>
+
 एवम् उक्तौ तु तौ वीरौ कबन्धेन नर ईश्वरौ ।  
 गिरि प्रदरम् आसाद्य पावकम् विससर्जतुः ॥ ३-७२-१  
 लक्ष्मणः तु महा उल्काभिः ज्वलिताभिः समन्ततः ।  

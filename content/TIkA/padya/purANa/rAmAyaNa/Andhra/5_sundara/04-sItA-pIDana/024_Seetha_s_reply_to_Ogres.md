@@ -3,7 +3,9 @@ title: 024 Seetha s reply to Ogres
 title_english: 024 Seetha s reply to Ogres
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-024-Seetha_s_reply_to_Ogres.mp3"></div>
+
 ततः सीतामुपागम्य राक्षस्यो विकृताननाः ।  
 परुषं परुषा नार्य ऊचुस्तां वाक्यमप्रियम् ॥ ५-२४-१  
 किं त्वमन्तःपुरे सीते सर्वभूतमनोहरे ।  

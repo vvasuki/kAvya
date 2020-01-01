@@ -3,7 +3,9 @@ title: 104 Vasishta advances to the hermitage of Rama
 title_english: 104 Vasishta advances to the hermitage of Rama
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-104-Rama_Kousalya_Deenam_Sambhashanam_.mp3"></div>
+
 वसिष्ठः पुरतः कृत्वा दारान् दशरथस्य च ।  
 अभिचक्राम तं देशं रामदर्शनतर्षितः ॥ २-१०४-१  
 राजपत्न्यश्च गच्छन्त्यो मन्दं मन्दाकिनीम् प्रति ।  

@@ -3,7 +3,9 @@ title: 050 मिथिला-गतिः
 title_english: 050 Redemption of ahalya from her curse cont
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-050-Mithila_Gamanam.mp3"></div>
+
 ततः प्रागुत्तरां गत्वा रामः सौमित्रिणा सह।  
 विश्वामित्रं पुरस्कृत्य यज्ञवाटमुपागमत् ॥ 1.50.1 ॥   
 

@@ -3,7 +3,9 @@ title: 072 Ravana s grief over Atikaya s death
 title_english: 072 Ravana s grief over Atikaya s death
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-072-Ravana_s_grief_over_Atikaya_s_death_0.mp3"></div>
+
 अतिकायं हतं श्रुत्वा लक्ष्मणेन महात्मना ।  
 उद्वेगमगमद्राजा वचनम् चेदमब्रवीत् ॥ ६-७१-१  
 धूम्राक्षः परमामर्षी सर्वशस्त्रभृतां वरः ।  

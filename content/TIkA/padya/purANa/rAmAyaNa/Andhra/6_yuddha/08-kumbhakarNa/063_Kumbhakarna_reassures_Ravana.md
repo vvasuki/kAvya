@@ -3,7 +3,9 @@ title: 063 Kumbhakarna reassures Ravana
 title_english: 063 Kumbhakarna reassures Ravana
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-063-Kumbhakarna_reassures_Ravana_0.mp3"></div>
+
 तस्य राक्षसराजस्य निशम्य परिदेवितम् ।  
 कुम्भकर्णो बभा षेदं वचनम् प्रजहास च ॥ ६-६३-१  
 दृष्टो दोषो हि योऽस्माभिः पुरा मन्त्रविनिर्णये ।  

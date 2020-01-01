@@ -3,7 +3,9 @@ title: 074 Shabari gets salvation
 title_english: 074 Shabari gets salvation
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-074-Shabari_Swargathihi.mp3"></div>
+
 तौ कबन्धेन तम् मार्गम् पम्पाया दर्शितम् वने ।  
 आतस्थतुः दिशम् गृह्य प्रतीचीम् नृ वर आत्मजौ ॥ ३-७४-१  
 तौ शैलेषु आचित अनेकान् क्षौद्र कल्प फल द्रुमान् ।  

@@ -3,7 +3,9 @@ title: 110 Vasishta gives details of the creation of the world to Sri Rama
 title_english: 110 Vasishta gives details of the creation of the world to Sri Rama
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-110-Vasista_Soochanam_.mp3"></div>
+
 क्रुद्धम् आज्ञाय राम तु वसिष्ठः प्रत्युवाच ह।  
 जाबालिः अपि जानीते लोकस्य अस्य गत आगतिम्॥ २-११०-१  
 निवर्तयितु कामः तु त्वाम् एतद् वाक्यम् अब्रवीत् ।  

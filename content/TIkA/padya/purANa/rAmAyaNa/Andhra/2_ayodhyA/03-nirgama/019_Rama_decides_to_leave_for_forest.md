@@ -3,7 +3,9 @@ title: 019 Rama decides to leave for forest
 title_english: 019 Rama decides to leave for forest
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-019-Vanavaasa_Prathigna.mp3"></div>
+
 तत् अप्रियम् अमित्रघ्नः वचनम् मरण उपमम् ।  
 श्रुत्वा न विव्यथे रामः कैकेयीम् च इदम् अब्रवीत् ॥ २-१९-१  
 एवम् अस्तु गमिष्यामि वनम् वस्तुम् अहम् तु अतः ।  

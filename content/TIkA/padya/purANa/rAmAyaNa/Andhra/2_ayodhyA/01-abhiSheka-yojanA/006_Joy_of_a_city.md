@@ -3,7 +3,9 @@ title: 006 Joy of a city
 title_english: 006 Joy of a city
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-006-Abhishekaartham_Janollasaha.mp3"></div>
+
 गते पुरोहिते रामः स्नातो नियतमानसः ।  
 सह पत्न्या विशालाक्ष्या नारायणमुपागमत् ॥ २-६-१  
 प्रगृह्य शिरसा पात्रं हविषो विधिवत्तदा ।  

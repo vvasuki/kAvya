@@ -3,7 +3,9 @@ title: 082 Hanuma Leads the monkey army
 title_english: 082 Hanuma Leads the monkey army
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-082-Hanuma_Leads_the_monkey_army_0.mp3"></div>
+
 श्रुत्वा तं भीमनिर्ह्रादं शक्राशनिसमस्वनम् ।  
 वीक्षमाणा दिशः सर्वा दुद्रुवुर्वानरर्षभाः ॥ ६-८२-१  
 तानुवाच ततः सर्वान्हनूमान्मारुतात्मजः ।  

@@ -3,7 +3,9 @@ title: 048 Rama s departure for the forest
 title_english: 048 Rama s departure for the forest
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-048-Shokamagnaa_Ayodhya.mp3"></div>
+
 तेषामेवम् विष्ण्णानाम्पीडितानामतीव च ।  
 बाष्पविप्लुतनेत्राणाम् सशोकानाम् मुमूर्षया ॥ २-४८-१  
 अनुगम्य निवृत्तानाम् रामम् नगर वासिनाम् ।  

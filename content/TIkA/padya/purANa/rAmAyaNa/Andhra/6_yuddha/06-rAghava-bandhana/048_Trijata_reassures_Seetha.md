@@ -3,7 +3,9 @@ title: 048 Trijata reassures Seetha
 title_english: 048 Trijata reassures Seetha
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-048-Trijata_reassures_Seetha_0.mp3"></div>
+
 भर्तारम् निहतम् दृष्ट्वा लक्ष्मणम् च महा बलम् ।  
 विललाप भृशम् सीता करुणम् शोक कर्शिता ॥ ६-४८-१  
 ऊचुर् लक्षणिका ये माम् पुत्रिण्य् अविधवा इति च ।  

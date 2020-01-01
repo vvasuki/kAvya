@@ -3,7 +3,9 @@ title: 055 विश्वामित्रास्त्रमोक्षण
 title_english: 055 vishvamitra ruins vashiSTHa s hermitage
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-055-Vishra_Mithrena_Stramokshnam.mp3"></div>
+
 ततस्तानाकुलान् दृष्ट्वा विश्वामित्रास्त्रमोहितान्।  
 वसिष्ठश्चोदयामास कामधुक्सृज योगतः ॥ 1.55.1 ॥   
 

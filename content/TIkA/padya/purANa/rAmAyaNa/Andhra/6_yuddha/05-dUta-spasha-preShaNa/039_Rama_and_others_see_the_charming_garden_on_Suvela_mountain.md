@@ -3,7 +3,9 @@ title: 039 Rama and others see the charming garden on Suvela mountain
 title_english: 039 Rama and others see the charming garden on Suvela mountain
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-039-Rama_and_others_see_the_charming_garden_on_Suvela_mountain_0.mp3"></div>
+
 ताम् रात्रिम् उषितास् तत्र सुवेले हरि पुम्गवाः ।  
 लन्कायाम् ददृशुर् वीरा वनान्य् उपवनानि च ॥ ६-३९-१  
 सम सौम्यानि रम्याणि विशालान्य् आयतानि च ।  

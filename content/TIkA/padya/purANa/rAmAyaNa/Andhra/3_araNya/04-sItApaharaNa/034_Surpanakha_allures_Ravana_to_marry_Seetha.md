@@ -3,7 +3,9 @@ title: 034 Surpanakha allures Ravana to marry Seetha
 title_english: 034 Surpanakha allures Ravana to marry Seetha
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-034-Sita_Apaharane_Ravanoththe_Janam.mp3"></div>
+
 ततः शूर्पणखाम् दृष्ट्वा ब्रुवन्तीम् परुषम् वचः ।  
 अमात्य मध्ये संकृउद्धः परिपप्रच्छ रावणः ॥ ३-३४-१  
 कः च रामः कथम् वीर्यः किम् रूपः किम् पराक्रमः ।  

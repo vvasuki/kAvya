@@ -3,7 +3,9 @@ title: 018 Kaikeyi s harsh words
 title_english: 018 Kaikeyi s harsh words
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-018-Ramena_Dashratha_Santhvanam.mp3"></div>
+
 स ददर्श आसने रामः निषण्णम् पितरम् शुभे ।  
 कैकेयी सहितम् दीनम् मुखेन परिशुष्यता ॥ २-१८-१  
 स पितुः चरणौ पूर्वम् अभिवाद्य विनीतवत् ।  

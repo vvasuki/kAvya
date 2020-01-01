@@ -3,7 +3,9 @@ title: 025 Kausalya bids farewell to Rama
 title_english: 025 Kausalya bids farewell to Rama
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-025-Kousalya_Ashirvachanam.mp3"></div>
+
 सा अपनीय तम् आयासम् उपस्पृश्य जलम् शुचि ।  
 चकार माता रामस्य मन्गलानि मनस्विनी ॥ २-२५-१  
 न शक्यसे वारयौइतुम् गच्छेदानीम् रघुत्तम ।  

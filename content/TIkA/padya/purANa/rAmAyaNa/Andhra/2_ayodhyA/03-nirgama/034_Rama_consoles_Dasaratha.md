@@ -3,7 +3,9 @@ title: 034 Rama consoles Dasaratha
 title_english: 034 Rama consoles Dasaratha
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-034-Dasharatha_Murchchaa.mp3"></div>
+
 ततःकमलपत्राक्षः श्यामो निरुपमो महान् ।  
 उवाच रामस्तम् सूतं पितुराख्याहि मामिति ॥ २-३४-१  
 स राम प्रेषितः क्षिप्रम् सम्ताप कलुष इन्द्रियः ।  

@@ -3,7 +3,9 @@ title: 037 Seetha was both delighted and depressed
 title_english: 037 Seetha was both delighted and depressed
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-037-Seetha_was_both_delighted_and_depressed.mp3"></div>
+
 सा सीता तत् वचनम् श्रुत्वा पूर्ण चन्द्र निभ आनना ।  
 हनूमन्तम् उवाच इदम् धर्म अर्थ सहितम् वचः ॥ ५-३७-१  
 अमृतम् विष संसृष्टम् त्वया वानर भाषितम् ।  

@@ -3,7 +3,9 @@ title: 068 Jataayu infoms about Ravana and dies
 title_english: 068 Jataayu infoms about Ravana and dies
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-068-Rama_Jataayu_Samvadaha.mp3"></div>
+
 रामः प्रेक्ष्य तु तम् गृध्रम् भुवि रौद्रेण पातितम् ।  
 सौमित्रिम् मित्र संपन्नम् इदम् वचनम् अब्रवीत् ॥ ३-६८-१  
 मम अयम् नूनम् अर्थेषु यतमानो विहंगमः ।  

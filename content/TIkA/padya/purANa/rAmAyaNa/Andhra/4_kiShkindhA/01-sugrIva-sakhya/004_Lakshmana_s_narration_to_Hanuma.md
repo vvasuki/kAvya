@@ -3,7 +3,9 @@ title: 004 Lakshmana s narration to Hanuma
 title_english: 004 Lakshmana s narration to Hanuma
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-004-RamaLakshmanayoho_Sugreeva_Sameepa_Nayanam_0.mp3"></div>
+
 ततः प्रहृष्टो हनुमान् कृत्यवान् इति तत् वचः ।  
 श्रुत्वा मधुर भावम् च सुग्रीवम् मनसा गतः ॥ ४-४-१  
 भाव्यो राज्यागमः तस्य सुग्रीवस्य महात्मनः ।  

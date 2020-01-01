@@ -3,7 +3,9 @@ title: 062 Rama laments for Seetha contd
 title_english: 062 Rama laments for Seetha contd
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-062-Rama_Vilapaha.mp3"></div>
+
 सीताम् अपश्यन् धर्मात्मा शोक उपहत चेतनः ।  
 विललाप महाबाहू रामः कमल लोचनः ॥ ३-६२-१  
 पश्यन् इव च ताम् सीताम् अपश्यन् मदन अर्दितः ।  

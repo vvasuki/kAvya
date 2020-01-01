@@ -3,7 +3,9 @@ title: 093 Rama destroys the troops of demons
 title_english: 093 Rama destroys the troops of demons
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-093-Rama_destroys_the_troops_of_demons_0.mp3"></div>
+
 स प्रविश्य सभान् राजा दीनः परमदुःखितः ।  
 निषसादासने मुख्ये सिन्हः क्रुद्ध इव श्वसन् ॥ ९३-६-१  
 अब्रवीच्च तदा सर्वान्बलमुख्यान्महाबलः ।  

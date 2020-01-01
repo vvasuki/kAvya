@@ -3,7 +3,9 @@ title: 059 Ravana himself appears on the battle front
 title_english: 059 Ravana himself appears on the battle front
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-059-Ravana_himself_appears_on_the_battle-front_0.mp3"></div>
+
 तस्मिन् हते राक्षस सैन्य पाले ।  
 प्लवम् गमानाम् ऋषभेण युद्धे ।  
 भीम आयुधम् सागर तुल्य वेगम् ।  

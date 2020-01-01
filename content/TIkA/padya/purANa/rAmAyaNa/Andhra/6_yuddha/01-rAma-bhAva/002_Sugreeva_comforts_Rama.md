@@ -3,7 +3,9 @@ title: 002 Sugreeva comforts Rama
 title_english: 002 Sugreeva comforts Rama
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-002-Sugreeva_comforts_Rama.mp3"></div>
+
 तम् तु शोकपरिद्यूनम् रामम् दशरथात्मजम् ।  
 उवाच वचनम् श्रीमान् सुग्रीवह् शोकनाशनम् ॥ ६-२-१  
 किम् त्वया तप्यते वीर यथान्यः प्राकृतस्तथा ।  

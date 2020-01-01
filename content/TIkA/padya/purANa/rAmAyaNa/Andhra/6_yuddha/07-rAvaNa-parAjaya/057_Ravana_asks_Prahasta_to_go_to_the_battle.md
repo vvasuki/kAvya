@@ -3,7 +3,9 @@ title: 057 Ravana asks Prahasta to go to the battle
 title_english: 057 Ravana asks Prahasta to go to the battle
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-057-Ravana_asks_Prahasta_to_go_to_the_battle_0.mp3"></div>
+
 अकम्पन वधम् श्रुत्वा क्रुद्धो वै राक्षस ईश्वरः ।  
 किंचिद् दीन मुखश् च अपि सचिवांस् तान् उदैक्षत ॥ ६-५७-१  
 स तु ध्यात्वा मुहूर्तम् तु मन्त्रिभिह् सम्विचार्य च ।  

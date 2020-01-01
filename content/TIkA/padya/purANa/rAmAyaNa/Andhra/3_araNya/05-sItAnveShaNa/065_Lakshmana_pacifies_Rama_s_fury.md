@@ -3,7 +3,9 @@ title: 065 Lakshmana pacifies Rama s fury
 title_english: 065 Lakshmana pacifies Rama s fury
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-065-Lakshmana_Krodho_Upashamanam.mp3"></div>
+
 तप्यमानम् तथा रामम् सीता हरण कर्शितम् ।  
 लोकानाम् अभवे युक्तम् सांवर्तकम् इव अनलम् ॥ ३-६५-१  
 वीक्षमाणम् धनुः सज्यम् निःश्वसंतम् पुनः पुनः ।  

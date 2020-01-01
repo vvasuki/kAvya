@@ -3,7 +3,9 @@ title: 042 Ravana commands his army to commence combat
 title_english: 042 Ravana commands his army to commence combat
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-042-Ravana_commands_his_army_to_commence_combat_0.mp3"></div>
+
 ततस् ते राक्षसास् तत्र गत्वा रावण मन्दिरम् ।  
 न्यवेदयन् पुरीम् रुद्धाम् रामेण सह वानरैः ॥ ६-४२-१  
 रुद्धाम् तु नगरीम् ज़्रुत्वा जात क्रोधो निज़ा चरः ।  

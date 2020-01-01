@@ -3,7 +3,9 @@ title: 008 Dialogue with Sage Suteekshna
 title_english: 008 Dialogue with Sage Suteekshna
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-008-Dandakavana_Nishkramanam.mp3"></div>
+
 रामः तु सह सौमित्रिः सुतीक्ष्णेन अभिपूजितः ।  
 परिणांय निशाम् तत्र प्रभाते प्रत्यबुध्यत ॥ ३-८-१  
 उत्थाय च यथा कालम् राघवः सह सीतया ।  

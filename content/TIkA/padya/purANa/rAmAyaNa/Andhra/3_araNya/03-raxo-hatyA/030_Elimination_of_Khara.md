@@ -3,7 +3,9 @@ title: 030 Elimination of Khara
 title_english: 030 Elimination of Khara
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-030-Kharasya_Vadhaha.mp3"></div>
+
 भित्त्वा तु ताम् गदाम् बाणैः राघवो धर्म वत्सलः ।  
 स्मयमानः खरम् वाक्यम् संरब्धम् इदम् अब्रवीत् ॥ ३-३०-१  
 एतत् ते बल सर्वस्वम् दर्शितम् राक्षसाधम ।  

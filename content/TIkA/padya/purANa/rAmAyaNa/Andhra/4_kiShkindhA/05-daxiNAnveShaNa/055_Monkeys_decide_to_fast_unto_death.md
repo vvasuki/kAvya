@@ -3,7 +3,9 @@ title: 055 Monkeys decide to fast unto death
 title_english: 055 Monkeys decide to fast unto death
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-055-Monkeys_decide_to_fast_unto_death.mp3"></div>
+
 श्रुत्वा हनुमतो वाक्यम् प्रश्रितम् धर्म संहितम् ।  
 स्वामि सत्कार संयुक्तम् अंगदो वाक्यम् अब्रवीत् ॥ ४-५५-१  
 स्थैर्यमात्ममनःशौचमानृशंस्यमथाअर्जवम् - यद्व -  

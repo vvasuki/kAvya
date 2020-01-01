@@ -3,7 +3,9 @@ title: 013 Mahaparsva s advise to Ravana
 title_english: 013 Mahaparsva s advise to Ravana
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-013-Mahaparsva_s_advise_to_Ravana.mp3"></div>
+
 रावणम् क्रुद्धमाज्ञाय महापार्श्वो महाबलः ।  
 मुहूर्त मनुसंचिन्त्य प्राञ्जलिर्वाक्य मब्रवीत् ॥ ६-१३-१  
 यः खल्वपि वनम् प्राप्य मृगव्यालनिषेवितम् ।  

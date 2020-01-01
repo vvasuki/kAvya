@@ -3,7 +3,9 @@ title: 010 Hanuma enters Ravana s house
 title_english: 010 Hanuma enters Ravana s house
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-010-Hanuma_enters_Ravana_s_house.mp3"></div>
+
 तत्र दिव्य उपमम् मुख्यम् स्फाटिकम् रत्न भूषितम् ।  
 अवेक्षमाणो हनुमान् ददर्श शयन आसनम् ॥ ५-१०-१  
 दान्तकाञ्चनिचित्राङ्गेर्वैश्च वरासनैः ।  

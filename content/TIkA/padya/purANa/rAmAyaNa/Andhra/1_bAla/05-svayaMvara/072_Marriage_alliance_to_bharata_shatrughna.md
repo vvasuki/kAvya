@@ -3,7 +3,9 @@ title: 072 कन्यादानं गोदानञ्च
 title_english: 072 Marriage alliance to bharata shatrughna
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-072-Kanya_Daanam_Godaanam_Cha.mp3"></div>
+
 तम् उक्तवंतम् वैदेहम् विश्वामित्रो महामुनिः ।  
 उवाच वचनम् वीरम् वसिष्ठ सहितो नृपम् ॥ १-७२-१  
 अचिंत्यानि अप्रमेयाणि कुलानि नरपुंगव ।  

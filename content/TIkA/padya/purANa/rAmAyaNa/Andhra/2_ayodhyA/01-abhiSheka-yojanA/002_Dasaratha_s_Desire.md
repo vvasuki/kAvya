@@ -3,7 +3,9 @@ title: 002 Dasaratha s Desire
 title_english: 002 Dasaratha s Desire
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-002-Ramabhisheka_Charcha.mp3"></div>
+
 ततः परिषदं सर्वामामन्त्र्य वसुधाधिपः ।  
 हितमुद्धर्षणं चैवमुवाच प्रथितं वचः ॥ २-२-१  
 दुन्धुभिस्वनकल्पेन गम्भीरेणानुनादिना ।  

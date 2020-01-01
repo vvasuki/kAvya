@@ -3,7 +3,9 @@ title: 035 Seetha asks Hanuma to describe the characteristics
 title_english: 035 Seetha asks Hanuma to describe the characteristics
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-035-Seetha_asks_Hanuma_to_describe_the_characteristics.mp3"></div>
+
 ताम् तु राम कथाम् श्रुत्वा वैदेही वानर ऋषभात् ।  
 उवाच वचनम् सान्त्वम् इदम् मधुरया गिरा ॥ ५-३५-१  
 क्व ते रामेण संसर्गः कथम् जानासि लक्ष्मणम् ।  

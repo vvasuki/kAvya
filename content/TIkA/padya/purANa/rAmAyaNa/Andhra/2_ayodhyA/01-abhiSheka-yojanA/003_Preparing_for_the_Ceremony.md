@@ -3,7 +3,9 @@ title: 003 Preparing for the Ceremony
 title_english: 003 Preparing for the Ceremony
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-003-Abhisheka_Sambhara_Samgrahanam_.mp3"></div>
+
 तेषामञ्जलिपद्मानि प्रगृहीतानि सर्वशः ।  
 प्रतिगृह्याब्रवीद्राजा तेभ्यः प्रियहितं वचः ॥ २-३-१  
 अहोऽस्मि परमप्रीतः प्रभावश्चातुलो मम ।  

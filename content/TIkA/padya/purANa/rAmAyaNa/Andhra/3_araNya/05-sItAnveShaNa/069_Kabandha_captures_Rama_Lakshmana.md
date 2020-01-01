@@ -3,7 +3,9 @@ title: 069 Kabandha captures Rama Lakshmana
 title_english: 069 Kabandha captures Rama Lakshmana
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-069-Ayomukyhaha_Karnaadi_Chchedaha.mp3"></div>
+
 कृत्वा एवम् उदकम् तस्मै प्रस्थितौ राघवौ तदा ।  
 अवेक्षन्तौ वने सीताम् जग्मतुः पश्चिमाम् दिशम् ॥ ३-६९-१  
 ताम् दिशम् दक्षिणाम् गत्वा शर चाप असि धारिणौ ।  

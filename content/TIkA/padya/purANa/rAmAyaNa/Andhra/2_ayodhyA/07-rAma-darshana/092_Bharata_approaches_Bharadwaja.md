@@ -3,7 +3,9 @@ title: 092 Bharata approaches Bharadwaja
 title_english: 092 Bharata approaches Bharadwaja
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-092-Bharatha_Prasthanam.mp3"></div>
+
 ततः ताम् रजनीम् उष्य भरतः सपरिग्च्छदः ।  
 कृत आतिथ्यो भरद्वाजम् कामाद् अभिजगाम ह ॥ २-९२-१  
 तम् ऋषिः पुरुष व्याघ्रम् प्रेक्ष्य प्रान्जलिम् आगतम् ।  

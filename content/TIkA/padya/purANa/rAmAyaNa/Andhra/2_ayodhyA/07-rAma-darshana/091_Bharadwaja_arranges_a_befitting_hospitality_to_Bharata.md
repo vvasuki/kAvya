@@ -3,7 +3,9 @@ title: 091 Bharadwaja arranges a befitting hospitality to Bharata
 title_english: 091 Bharadwaja arranges a befitting hospitality to Bharata
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-091-Bharadwajakrutha_Maathidyam.mp3"></div>
+
 कृत बुद्धिम् निवासाय तथैव स मुनिः तदा ।  
 भरतम् कैकयी पुत्रम् आतिथ्येन न्यमन्त्रयत् ॥ २-९१-१  
 अब्रवीद् भरतः तु एनम् ननु इदम् भवता कृतम् ।  

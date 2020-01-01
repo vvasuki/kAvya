@@ -3,7 +3,9 @@ title: 063 Rama laments for Seetha contd
 title_english: 063 Rama laments for Seetha contd
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-063-Lakshmanena_Rama_Samthvanam.mp3"></div>
+
 स राज पुत्र प्रिया विहीनः  
 शोकेन मोहेन च पीड्यमानः ।  
 विषादयन् भ्रातरम् आर्त रूपो  

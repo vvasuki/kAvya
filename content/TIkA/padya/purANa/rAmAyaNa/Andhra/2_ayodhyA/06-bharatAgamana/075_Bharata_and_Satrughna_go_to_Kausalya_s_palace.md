@@ -3,7 +3,9 @@ title: 075 Bharata and Satrughna go to Kausalya s palace
 title_english: 075 Bharata and Satrughna go to Kausalya s palace
 
 ---
+
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-075-Bharatha_Kousalya_Samvadaha.mp3"></div>
+
 दीर्घकालात्समुत्थाय सम्ज्ञाम् लब्ध्वा च वीर्यवान् ।  
 नेत्राभ्यामश्रुपूर्णाभ्याम् दीनामुद्वीक्ष्य मातरम् ॥ २-७५-१  
 सोऽमात्यमध्येभरतो जननीमभ्यकुत्सयत् ।  
