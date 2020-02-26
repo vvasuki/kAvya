@@ -1,5 +1,5 @@
 ---
-title: +Intro
+title: +स्वोपज्ञम्
 ---
 
 ## Tech tips
