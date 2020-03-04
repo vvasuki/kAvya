@@ -8,12 +8,12 @@ unicode_script: devanagari
 <div class="audioEmbed"  caption="" src="https://archive
 .org/download/meghadUta-dhvaniH/pUrva-meghaH-vv-2017-09-05-05_37_54.mp3"></div>
 
-- विश्वासवचनम् [अत्र](https://archive.org/details/meghadUta-dhvaniH)।
+- विश्वासवचनम् [अत्र](https://archive.org/details/meghadUta-dhvaniH)।  
 - व्याख्या [ऽत्र](https://archive.org/stream/in.ernet.dli.2015.485232/2015.485232.Kalidasa-Meghaduta#page/n59/mode/1up)।  
 
 ## उत्कण्ठितो यक्षः।  
 
-[अत्र](https://www.youtube.com/watch?v=BiH6VB7-zSc&index=1&list=PL63uIhJxWbghkj7cHPjtc1ShQpjvaBdCc) खल्वेतच्छ्रोतव्यम्।
+[अत्र](https://www.youtube.com/watch?v=BiH6VB7-zSc&index=1&list=PL63uIhJxWbghkj7cHPjtc1ShQpjvaBdCc) खल्वेतच्छ्रोतव्यम्।  
 
 <div class="audioEmbed" caption="वेदभूमिपाठः" src="https://archive .org/download/meghadUta-mUlam-vedabhoomi.org/Pm01-10.mp3"></div>
 
