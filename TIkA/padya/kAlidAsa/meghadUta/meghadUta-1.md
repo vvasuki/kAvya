@@ -15,7 +15,7 @@ unicode_script: devanagari
 
 [अत्र](https://www.youtube.com/watch?v=BiH6VB7-zSc&index=1&list=PL63uIhJxWbghkj7cHPjtc1ShQpjvaBdCc) खल्वेतच्छ्रोतव्यम्।  
 
-<div class="audioEmbed" caption="वेदभूमिपाठः" src="https://archive .org/download/meghadUta-mUlam-vedabhoomi.org/Pm01-10.mp3"></div>
+<div class="audioEmbed" caption="वेदभूमिपाठः" src="https://archive.org/download/meghadUta-mUlam-vedabhoomi.org/Pm01-10.mp3"></div>
 
 कश्चित्कान्ताविरहगुरुणा स्वाधिकारात्प्रमत्तः    
 शापेनास्तंगमितमहिमा वर्षभोग्येण भर्तुः  ।  
@@ -72,7 +72,7 @@ unicode_script: devanagari
 गर्भाधानक्षणपरिचयान्नूनमाबद्धमालाः  
 सेविष्यन्ते नयनसुभगं खे भवन्तं बलाकाः  ॥ १.१० ॥
 
-<div class="audioEmbed" caption="वेदभूमिपाठः" src="https://archive .org/download/meghadUta-mUlam-vedabhoomi.org/Pm11-20.mp3"></div>
+<div class="audioEmbed" caption="वेदभूमिपाठः" src="https://archive.org/download/meghadUta-mUlam-vedabhoomi.org/Pm11-20.mp3"></div>
 
 [उच्छिलीन्ध्रा = उत्कदली, पथि साधु-पाथेयम् भोजनम्]  
 
@@ -141,7 +141,7 @@ unicode_script: devanagari
 अन्तःसारं घन तुलयितुं नानिलः शक्ष्यति त्वां  
 रिक्तः सर्वो भवति हि लघुः पूर्णता गौरवाय  ॥ १.२० ॥
 
-<div class="audioEmbed" caption="वेदभूमिपाठः" src="https://archive .org/download/meghadUta-mUlam-vedabhoomi.org/Pm21-30.mp3"></div>  
+<div class="audioEmbed" caption="वेदभूमिपाठः" src="https://archive.org/download/meghadUta-mUlam-vedabhoomi.org/Pm21-30.mp3"></div>  
 
 ## मतङ्गज-तोषः  
 [नीपम् = स्थलकदम्बकुसुमम्, कच्छम् = जलप्रायदेशः, अनूपः, सारङ्गा = गजा अपि]  
@@ -214,7 +214,7 @@ unicode_script: devanagari
 सौभाग्यं ते सुभग विरहावस्थया व्यञ्जयन्ती  
 कार्श्यं येन त्यजति विधिना स त्वयैवोपपाद्यः  ॥ १.३० ॥
 
-<div class="audioEmbed" caption="वेदभूमिपाठः" src="https://archive .org/download/meghadUta-mUlam-vedabhoomi.org/Pm31-40.mp3"></div>  
+<div class="audioEmbed" caption="वेदभूमिपाठः" src="https://archive.org/download/meghadUta-mUlam-vedabhoomi.org/Pm31-40.mp3"></div>  
 
 ## अवन्ती-प्राप्तिः  
 प्राप्यावन्तीनुदयनकथाकोविदग्रामवृद्धान्    
@@ -281,7 +281,7 @@ unicode_script: devanagari
 सौदामन्या कनक-निकषस्निग्धया दर्शयोर्वीं  
 तोयोत्सर्गस्तनितमुखरो मा च भूर्विक्लवास्+++(भीरवः)+++ ताः  ॥ १.४० ॥
 
-<div class="audioEmbed" caption="वेदभूमिपाठः" src="https://archive .org/download/meghadUta-mUlam-vedabhoomi.org/Pm41-50.mp3"></div>
+<div class="audioEmbed" caption="वेदभूमिपाठः" src="https://archive.org/download/meghadUta-mUlam-vedabhoomi.org/Pm41-50.mp3"></div>
 
 ## निर्गतिः  
 
@@ -350,7 +350,7 @@ unicode_script: devanagari
 कुन्द+++(=श्वेतपुष्प)+++-क्षेपानुग-मधुकर-श्रीमुषाम् आत्मबिम्बं  
 पात्रीकुर्वन् दशपुरवधूनेत्रकौतूहलानाम्  ॥ १.५० ॥  
 
-<div class="audioEmbed" caption="वेदभूमिपाठः" src="https://archive .org/download/meghadUta-mUlam-vedabhoomi.org/Pm51-63.mp3"></div>
+<div class="audioEmbed" caption="वेदभूमिपाठः" src="https://archive.org/download/meghadUta-mUlam-vedabhoomi.org/Pm51-63.mp3"></div>
 
 ## ब्रह्मावर्त-गतिः  
 [प्रधनपिशुनम् = युद्धसूचकम्]  
