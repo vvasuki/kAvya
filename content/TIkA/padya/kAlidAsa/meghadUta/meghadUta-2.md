@@ -4,7 +4,7 @@ unicode_script: devanagari
 
 ---
 
-<div class="audioEmbed" caption="वेदभूमिपाठः" src="https://archive .org/download/meghadUta-mUlam-vedabhoomi.org/Um1-10.mp3"></div>
+<div class="audioEmbed" caption="वेदभूमिपाठः" src="https://archive.org/download/meghadUta-mUlam-vedabhoomi.org/Um1-10.mp3"></div>
 
  विद्युत्वन्तं ललितवनिताः सेन्द्रचापं सचित्राः
  सङ्गीताय प्रहतमुरजाः स्निग्धगम्भीरघोषम् ।  
@@ -66,7 +66,7 @@ unicode_script: devanagari
  सभ्रूभङ्गप्रहितनयनैः कामिलक्ष्येष्वमोघैः
  तस्यारम्भश्चतुरवनिताविभ्रमैरेव सिद्धः ॥ ७४॥
 
- <div class="audioEmbed" caption="वेदभूमिपाठः" src="https://archive .org/download/meghadUta-mUlam-vedabhoomi.org/Um11-20.mp3"></div>
+ <div class="audioEmbed" caption="वेदभूमिपाठः" src="https://archive.org/download/meghadUta-mUlam-vedabhoomi.org/Um11-20.mp3"></div>
 
  वासश्चित्रं मधु नयनयोर्विभ्रमादेशदक्षं
  पुष्पोभ्देदं सह किसलयैर्भूषणानां विकल्पान् ।  
@@ -118,7 +118,7 @@ unicode_script: devanagari
  गाढोत्कण्ठा गुरुषु दिवसेष्वेषु गच्छत्सु बालां
  जातां मन्ये शिशिरमथितां पद्मिनीं वान्यरूपाम् ॥ ८४॥
 
-<div class="audioEmbed" caption="वेदभूमिपाठः" src="https://archive .org/download/meghadUta-mUlam-vedabhoomi.org/Um21-30.mp3"></div>
+<div class="audioEmbed" caption="वेदभूमिपाठः" src="https://archive.org/download/meghadUta-mUlam-vedabhoomi.org/Um21-30.mp3"></div>
 
  नूनं तस्याः प्रबलरुदितोच्छूननेत्रं प्रियाया
  निःष्वासानामशिशिरतया भिन्नवर्णाधरोष्ठम् ।  
@@ -170,7 +170,7 @@ unicode_script: devanagari
  त्वामप्यस्रं नवजलमयं मोचयिष्यत्यवश्यं
  प्रायः सर्वो भवति करुणावृत्तिरार्द्रान्तरात्मा ॥ ९४॥
 
- <div class="audioEmbed" caption="वेदभूमिपाठः" src="https://archive .org/download/meghadUta-mUlam-vedabhoomi.org/Um31-40.mp3"></div>
+ <div class="audioEmbed" caption="वेदभूमिपाठः" src="https://archive.org/download/meghadUta-mUlam-vedabhoomi.org/Um31-40.mp3"></div>
 
  जाने सख्यास्तव मयि मनः संभ्र्तस्नेहमस्माद्
  इत्थंभूतां प्रथमविरहे तामहं तर्कयामि ।  
@@ -222,7 +222,7 @@ unicode_script: devanagari
  सोऽतिक्रान्तः श्रवणविषयं लोचनाभ्यामदृश्यः
  त्वामुत्कण्ठाविरचितपदं मन्मुखेनेदमाह ॥ १०४॥
 
- <div class="audioEmbed" caption="वेदभूमिपाठः" src="https://archive .org/download/meghadUta-mUlam-vedabhoomi.org/Um41-52.mp3"></div>
+ <div class="audioEmbed" caption="वेदभूमिपाठः" src="https://archive.org/download/meghadUta-mUlam-vedabhoomi.org/Um41-52.mp3"></div>
 
  श्यामास्वङ्गं चकितहरिणीप्रेक्षणे दृष्टिपातं
  वक्त्रच्छायां शशिनि शिखिनां बर्हभारेषु केशान् ।  
