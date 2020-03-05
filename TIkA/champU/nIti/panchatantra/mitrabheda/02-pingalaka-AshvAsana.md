@@ -28,3 +28,13 @@ unicode_script: devanagari
 <div class="js_include" url="../upadeshAH/sevA/bhRtya-mahattva.md"  newLevelForH1="3" includeTitle="true"> </div>  
 
 <div class="js_include" url="../upadeshAH/sevA/sat-bhRtya-laxaNa.md"  newLevelForH1="3" includeTitle="true"> </div>  
+
+तथा शृगालोऽयमिति मन्यमानेन ममोपरि स्वामिना यद्यवज्ञा क्रियते तदप्ययुक्तम् । उक्तं च यतः
+
+<div class="js_include" url="../upadeshAH/sevA/bhRtya-mahattva.md"  newLevelForH1="3" includeTitle="true"> </div>
+
+पिङ्गलक आह भवत्वेवं तावत् । असमर्थः समर्थो वा चिरन्तनस्त्वमस्माकं मन्त्रिपुत्रः । तद्विश्रब्धं ब्रूहि यत्किञ्चिद्वक्तुकामः ।
+
+दमनक आह देव जिज्ञाप्यं किञ्चिदस्ति ।
+
+पिङ्गलक आह तन्निवेदयाभिप्रेतम् ।

@@ -1,3 +1,7 @@
+---
+title: पूर्णः पाठः
+unicode_script: devanagari
+---
 पञ्चतन्त्रम्
 
 कथामुखम्
