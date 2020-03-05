@@ -1,5 +1,5 @@
 ---
-title: कृष्णसर्पकथा
+title: धर्मबुद्धिकथा
 unicode_script: devanagari
 
 practice_weight: 0

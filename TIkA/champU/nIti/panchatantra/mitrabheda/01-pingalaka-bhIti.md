@@ -23,11 +23,11 @@ practice_weight: 0
 
 अथ तस्य करटकदमनकनामानौ द्वौ शृगालौ मन्त्रिपुत्रौ भ्रष्टाधिकारौ सदानुयायिनावास्ताम् । तौ च परस्परं मन्त्रयतः ।  
 तत्र दमनकोऽब्रवीत् -  
-भद्र करटक अयं तावदस्मत्स्वामी पिङ्गलक उदकग्रहणार्थं यमुनाकच्छमवतीर्य स्थितः । स किंनिमित्तं पिपासाकुलोऽपि निवृत्त्य व्यूहरचनां विधाय दौर्मनस्येनाभिभूतोऽत्र वटतले स्थितः । 
+भद्र करटक अयं तावदस्मत्स्वामी पिङ्गलक उदकग्रहणार्थं यमुनाकच्छमवतीर्य स्थितः । स किंनिमित्तं पिपासाकुलोऽपि निवृत्त्य व्यूहरचनां विधाय दौर्मनस्येनाभिभूतोऽत्र वटतले स्थितः ।
 
 करटक आह -  
 भद्र किमावयोरनेन व्यापारेण । उक्तञ्च यतः -
-<div class="js_include" url="../upakathAH/kIlotpATi-vAnara.md"  newLevelForH1="3" includeTitle="true"> </div>  
+<div class="js_include" url="../upakathAH/01-01_kIlotpATi-vAnara.md"  newLevelForH1="3" includeTitle="true"> </div>  
 आवयोर्भक्षितशेष आहारोऽस्त्येव । तत् किमनेन व्यापारेण ।
 
 दमनक आह - "तत् किं भवानाहारार्थी केवलमेव । तन्न युक्तम् ।"
@@ -44,38 +44,38 @@ practice_weight: 0
 
 करटक आह - अथ भवान्किं कर्तुमनाः ?
 
-सोऽब्रवीत् - अद्यास्मत्स्वामी पिङ्गलको भीतो भीतपरिवारश्च वर्तते । तदेनं गत्वा भयकारणं विज्ञाय सन्धि-विग्रह-याना-ऽऽसन-संश्रय-द्वैधीभावानाम् एकतमेन संविधास्ये । 
+सोऽब्रवीत् - अद्यास्मत्स्वामी पिङ्गलको भीतो भीतपरिवारश्च वर्तते । तदेनं गत्वा भयकारणं विज्ञाय सन्धि-विग्रह-याना-ऽऽसन-संश्रय-द्वैधीभावानाम् एकतमेन संविधास्ये ।
 
 करटक आह - कथं वेत्ति भवान् यद् भयाविष्टो ऽयं स्वामी ?
 
 सोऽब्रवीत् - ज्ञेयं किमत्र ।
 
-<div class="js_include" url="../upadeshAH/ingitajna.md"  newLevelForH1="3" includeTitle="true"> </div> 
+<div class="js_include" url="../upadeshAH/ingitajna.md"  newLevelForH1="3" includeTitle="true"> </div>
 
-तदद्यैनं भयाकुलं प्राप्य स्वबुद्धिप्रभावेन निर्भयं कृत्वा वशीकृत्य च निजां साचिव्यपदवीं समासादयिष्यामि । 
+तदद्यैनं भयाकुलं प्राप्य स्वबुद्धिप्रभावेन निर्भयं कृत्वा वशीकृत्य च निजां साचिव्यपदवीं समासादयिष्यामि ।
 
-करटक आह - अनभिज्ञो भवान् सेवाधर्मस्य । तत्कथमेनं वशीकरिष्यसि । 
+करटक आह - अनभिज्ञो भवान् सेवाधर्मस्य । तत्कथमेनं वशीकरिष्यसि ।
 
-सोऽब्रवीत् - कथमहं सेवानभिज्ञः । मया हि तातोत्सङ्गे क्रीडता ऽभ्यागतसाधूनां नीतिशास्त्रं पठतां यच्छ्रुतं सेवाधर्मस्य सारं, तद् हृदि स्थापितम् । 
+सोऽब्रवीत् - कथमहं सेवानभिज्ञः । मया हि तातोत्सङ्गे क्रीडता ऽभ्यागतसाधूनां नीतिशास्त्रं पठतां यच्छ्रुतं सेवाधर्मस्य सारं, तद् हृदि स्थापितम् ।
 
 श्रूयतां तच्चेदम् -
 
-<div class="js_include" url="../upadeshAH/sevA/sevA-nIti.md"  newLevelForH1="3" includeTitle="true"> </div> 
+<div class="js_include" url="../upadeshAH/sevA/sevA-nIti.md"  newLevelForH1="3" includeTitle="true"> </div>
 
 करटक आह - अथ भवांस्तत्र गत्वा किं तावत्प्रथमं
 वक्ष्यति तत्तावदुच्यताम् ।
 
 दमनक आह -
 
-<div class="js_include" url="../upadeshAH/mantra/vAk-paTutA.md"  newLevelForH1="3" includeTitle="true"> </div> 
+<div class="js_include" url="../upadeshAH/mantra/vAk-paTutA.md"  newLevelForH1="3" includeTitle="true"> </div>
 
 करटक आह -
 
-<div class="js_include" url="../upadeshAH/sevA/sevA-kAThinya.md"  newLevelForH1="3" includeTitle="true"> </div> 
+<div class="js_include" url="../upadeshAH/sevA/sevA-kAThinya.md"  newLevelForH1="3" includeTitle="true"> </div>
 
 दमनक आह - सत्यमेतत्परम् । किं तु -
 
-<div class="js_include" url="../upadeshAH/sevA/svAmi-vashIkaraNa.md"  newLevelForH1="3" includeTitle="true"> </div> 
+<div class="js_include" url="../upadeshAH/sevA/svAmi-vashIkaraNa.md"  newLevelForH1="3" includeTitle="true"> </div>
 
 करटक आह - यद्येवमभिमतं तर्हि शिवास्ते पन्थानः
 सन्तु । यथाभिलषितमनुष्ठीयताम् । सोऽपि प्रणम्य
