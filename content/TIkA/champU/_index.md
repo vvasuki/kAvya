@@ -1,4 +1,4 @@
 ---
-title: +चम्पू
+title: +चम्पूः
 unicode_script: devanagari
 ---
