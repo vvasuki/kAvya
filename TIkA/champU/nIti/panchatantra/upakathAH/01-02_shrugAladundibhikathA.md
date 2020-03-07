@@ -1,5 +1,5 @@
 ---
-title: शृगालदुन्दुभिकथा
+title: ०१-०२ शृगालदुन्दुभिकथा
 unicode_script: devanagari
 
 practice_weight: 0
