@@ -1,4 +1,4 @@
 ---
-title: २ मित्रसम्प्राप्तिः
+title: १ मित्रभेदः
 unicode_script: devanagari
 ---
