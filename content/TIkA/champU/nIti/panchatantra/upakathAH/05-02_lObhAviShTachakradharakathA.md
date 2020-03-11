@@ -184,3 +184,18 @@ practice_weight: 0
 तथा च
 
 <div class="js_include" url="05-11_andhakakubjakatristanIkathA.md"  newLevelForH1="3" includeTitle="true"> </div>
+
+सुवर्णसिद्धिराहभोः सत्यमेतत् । दैवानुकूलतया सर्वं कल्याणं सम्पद्यते । तथापि पुरुषेण सतां वचनं कार्यम् । पुनरेवमेव वर्तितव्यम् । अथ एवमेव यो वर्तते, स त्वमिव विनश्यति । तथा च
+
+<div class="js_include" url="05-13_bhArunDapakShikathA.md"  newLevelForH1="3" includeTitle="true"> </div>
+
+चक्रधर आह सत्यमेतत् । तद्गच्छ गृहम् । परमेकाकिना न गन्तव्यम् । उक्तं च
+
+एकः स्वादु न भुञ्जीत एकश्चार्थान्न चिन्तयेत् ।  
+एको न गच्छेदध्वानं नैकः सुप्तेषु जागृयात् ॥५.९५॥
+
+अपि च
+
+<div class="js_include" url="05-14_brAhmaNakarkaTakathA.md"  newLevelForH1="3" includeTitle="true"> </div>
+
+एवं श्रुत्वा सुवर्णसिद्धिस्तमनुज्ञाप्य स्वगृहं प्रति निवृत्तः ।  
