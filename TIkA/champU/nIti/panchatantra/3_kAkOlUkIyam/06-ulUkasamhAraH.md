@@ -1,5 +1,5 @@
 ---
-title: ६-०० उलूकसंहारः
+title: ३-०७ उलूकसंहारः
 unicode_script: devanagari
 
 practice_weight: 0

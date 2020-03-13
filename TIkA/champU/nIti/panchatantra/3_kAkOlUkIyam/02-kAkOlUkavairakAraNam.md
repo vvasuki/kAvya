@@ -1,5 +1,5 @@
 ---
-title: ३-०० काकोलूकवैरकारणम्
+title: ३-०३ काकोलूकवैरकारणम्
 unicode_script: devanagari
 
 practice_weight: 0
@@ -58,12 +58,26 @@ practice_weight: 0
 
 तथा च
 
+व्यपदेशेन महतां सिद्दिः सञ्जायते परा ।  
+शशिनो व्यपदेशेन वसन्ति शशकाः सुखम् ॥३.८१॥
+
+पक्षिण ऊचुः कथमेतत्?
+
+स आह
+
 <div class="js_include" url="../upakathAH/03-01_chaturdantanAmagajaH.md"  newLevelForH1="3" includeTitle="true"> </div>
 
 क्षुद्रमलसं कापुरुषं व्यसनिनमकृतज्ञं जीवितकामः ।  
 पृष्ठप्रलपनशीलं स्वामित्वे नाभियोजयेत् ॥३.९०॥
 
 तथा च
+
+क्षुद्रमर्थपतिं प्राप्य न्यायान्वेषणतत्परौ ।  
+उभावपि क्षयं प्राप्तौ पुरा शशकपिञ्जलौ ॥३.९१॥
+
+ते प्रोचुः कथमेतत्?
+
+स आह
 
 <div class="js_include" url="../upakathAH/03-02_shashakapinjalakathA.md"  newLevelForH1="3" includeTitle="true"> </div>
 
