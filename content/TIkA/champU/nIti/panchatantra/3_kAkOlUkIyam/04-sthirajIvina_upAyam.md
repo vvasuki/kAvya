@@ -1,5 +1,5 @@
 ---
-title: ४-०० स्थिरजीविनः उपायम्
+title: ३-०५ स्थिरजीविनः उपायम्
 unicode_script: devanagari
 
 practice_weight: 0

@@ -1,5 +1,5 @@
 ---
-title: २-०० वायसमन्त्रिभिः मन्त्रणम्
+title: ३-०२ वायसमन्त्रिभिः मन्त्रणम्
 unicode_script: devanagari
 
 practice_weight: 0
