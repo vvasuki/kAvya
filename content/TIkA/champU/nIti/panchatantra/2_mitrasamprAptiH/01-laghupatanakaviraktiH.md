@@ -1,5 +1,5 @@
 ---
-title: १-०० लघुपतनकविरक्तिः
+title: २-०२ लघुपतनकविरक्तिः
 unicode_script: devanagari
 
 practice_weight: 0

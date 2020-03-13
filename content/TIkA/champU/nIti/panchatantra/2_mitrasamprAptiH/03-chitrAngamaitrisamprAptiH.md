@@ -1,5 +1,5 @@
 ---
-title: ३-०० चित्राङ्गमैत्रिसम्प्राप्तिः
+title: २-०४ चित्राङ्गमैत्रिसम्प्राप्तिः
 unicode_script: devanagari
 
 practice_weight: 0
