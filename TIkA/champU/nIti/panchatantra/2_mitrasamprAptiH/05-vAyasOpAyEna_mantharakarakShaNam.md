@@ -1,5 +1,5 @@
 ---
-title: ५-०० वायसोपायेन मन्थरकरक्षणम्
+title: २-०६ वायसोपायेन मन्थरकरक्षणम्
 unicode_script: devanagari
 
 practice_weight: 0

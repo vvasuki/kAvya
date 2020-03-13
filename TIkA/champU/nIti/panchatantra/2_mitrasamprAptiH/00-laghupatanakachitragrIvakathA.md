@@ -1,5 +1,5 @@
 ---
-title: १-०० लघुपतनकचित्रग्रीववृत्तान्तः
+title: २-०१ लघुपतनकचित्रग्रीववृत्तान्तः
 unicode_script: devanagari
 
 practice_weight: 0
