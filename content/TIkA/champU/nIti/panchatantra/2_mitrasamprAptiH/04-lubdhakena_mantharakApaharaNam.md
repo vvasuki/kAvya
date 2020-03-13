@@ -1,5 +1,5 @@
 ---
-title: ४-०० लुब्धकेन मन्थरकापहरणम्
+title: २-०५ लुब्धकेन मन्थरकापहरणम्
 unicode_script: devanagari
 
 practice_weight: 0
