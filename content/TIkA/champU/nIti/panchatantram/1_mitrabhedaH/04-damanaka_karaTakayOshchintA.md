@@ -1,5 +1,5 @@
 ---
-title: १-०४ दमनककरटकयोर्चिन्ता
+title: १-०४ दमनककरटकयोश्चिन्ता
 unicode_script: devanagari
 ---
 
