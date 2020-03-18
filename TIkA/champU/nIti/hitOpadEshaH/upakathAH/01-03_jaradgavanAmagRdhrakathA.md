@@ -1,5 +1,5 @@
 ---
-title: ०१-०३ जरद्गवनामा गृध्रकथा
+title: ०१-०३ जरद्गवनामगृध्रकथा
 unicode_script: devanagari
 ---
 
