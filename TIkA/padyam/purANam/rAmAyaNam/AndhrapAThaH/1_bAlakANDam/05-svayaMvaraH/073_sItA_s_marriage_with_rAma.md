@@ -5,7 +5,7 @@ title_english: 073 sItha s marriage with rAma
 ---
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-073-Sita_Rama_Vivahaha.mp3"></div>
 
-यस्मिंस्तु दवसे राजा चक्रे गोदानमुत्तमम्।  
+यस्मिंस्तु दिवसे राजा चक्रे गोदानमुत्तमम्।  
 तस्मिंस्तु दिवसे शूरो युधाजित् समुपेयिवान् ॥ 1.73.1 ॥   
 पुत्रः केकय राजस्य साक्षाद्भरतमातुलः।  
 दृष्ट्वा पृष्ट्वा च कुशलं राजानमिदमब्रवीत् ॥ 1.73.2 ॥   
