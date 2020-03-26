@@ -6,7 +6,7 @@ title_english: 073 Bharata reproaches Kaikeyi in many ways
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-073-Kaikeyee_Nirbhartha_Sanam.mp3"></div>
 
   
-श्रुत्वा तु पितरं वृत्तं भ्रातरौ च विवासितौ।** भरतो दुःखसन्तप्त इदं वचनमब्रवीत् ॥ 2.73.1 ॥   
+श्रुत्वा तु पितरं वृत्तं भ्रातरौ च विवासितौ।\* भरतो दुःखसन्तप्त इदं वचनमब्रवीत् ॥ 2.73.1 ॥   
 किंनु कार्यं हतस्येह मम राज्येन शोचतः।  
 विहीनस्याथ पित्रा च भ्रात्रा पितृसमेन च ॥ 2.73.2 ॥   
 दुःखे मे दुःखमकरोर्व्रणे क्षारमिवादधाः।  
