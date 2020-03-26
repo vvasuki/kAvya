@@ -1,5 +1,5 @@
 ---
-title: भरताय दूतप्रेषणम्
+title: 068 भरताय दूतप्रेषणम्
 title_english: 068 Vasishta instructs messengers to call Bharata and Satrughna
 
 ---

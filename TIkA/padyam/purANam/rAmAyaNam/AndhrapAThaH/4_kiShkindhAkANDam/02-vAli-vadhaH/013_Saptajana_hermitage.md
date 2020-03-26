@@ -1,5 +1,5 @@
 ---
-title: सप्तजनाश्रमवर्णनम्
+title: 013 सप्तजनाश्रमवर्णनम्
 title_english: 013 Saptajana hermitage
 
 ---

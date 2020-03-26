@@ -1,5 +1,5 @@
 ---
-title: निकुम्भेन युद्धभूमिप्रवेशः
+title: 077 निकुम्भेन युद्धभूमिप्रवेशः
 title_english: 077 Kumbha s brother Nikumbha faces the battle
 
 ---

@@ -1,5 +1,5 @@
 ---
-title: रामेण रक्षःसैन्यविनाशः
+title: 093 रामेण रक्षःसैन्यविनाशः
 title_english: 093 Rama destroys the troops of demons
 
 ---

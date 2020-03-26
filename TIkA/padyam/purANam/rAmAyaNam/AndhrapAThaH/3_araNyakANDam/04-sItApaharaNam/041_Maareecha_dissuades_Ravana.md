@@ -1,5 +1,5 @@
 ---
-title: मारीचोपदेशः
+title: 041 मारीचोपदेशः
 title_english: 041 Maareecha dissuades Ravana
 
 ---

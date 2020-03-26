@@ -1,5 +1,5 @@
 ---
-title: रामेण कुम्भकर्णबलश्रवणम्
+title: 061 रामेण कुम्भकर्णबलश्रवणम्
 title_english: 061 Rama enquires about Kumbhakarna
 
 ---

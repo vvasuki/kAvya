@@ -1,5 +1,5 @@
 ---
-title: पादुकाप्रदानम्
+title: 112 पादुकाप्रदानम्
 title_english: 112 The sages requests Bharata to accept Rama s words
 
 ---

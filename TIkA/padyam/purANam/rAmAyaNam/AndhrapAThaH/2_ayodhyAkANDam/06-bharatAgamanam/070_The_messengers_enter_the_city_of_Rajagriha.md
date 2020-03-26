@@ -1,5 +1,5 @@
 ---
-title: भरतस्य निशाक्रमणम्
+title: 070 भरतस्य निशाक्रमणम्
 title_english: 070 The messengers enter the city of Rajagriha
 
 ---

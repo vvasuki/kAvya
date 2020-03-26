@@ -1,5 +1,5 @@
 ---
-title: सीतायाः प्राणत्यागनिश्चयः
+title: 026 सीतायाः प्राणत्यागनिश्चयः
 title_english: 026 Seetha decides to give up life
 
 ---

@@ -1,5 +1,5 @@
 ---
-title: नरान्तकवधः
+title: 069 नरान्तकवधः
 title_english: 069 Death of Narantaka
 
 ---

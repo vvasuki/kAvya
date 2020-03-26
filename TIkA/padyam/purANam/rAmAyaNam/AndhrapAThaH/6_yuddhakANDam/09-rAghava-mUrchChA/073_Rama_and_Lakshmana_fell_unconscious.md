@@ -1,5 +1,5 @@
 ---
-title: राम-लक्ष्मणमूर्छावर्णनम्
+title: 073 राम-लक्ष्मणमूर्छावर्णनम्
 title_english: 073 Rama and Lakshmana fell unconscious
 
 ---

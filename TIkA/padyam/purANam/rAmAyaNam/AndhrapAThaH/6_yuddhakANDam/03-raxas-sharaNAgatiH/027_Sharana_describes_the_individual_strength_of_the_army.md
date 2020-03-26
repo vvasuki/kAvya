@@ -1,5 +1,5 @@
 ---
-title: शरणेन कपिसैन्यवर्णनम्
+title: 027 शरणेन कपिसैन्यवर्णनम्
 title_english: 027 Sharana describes the individual strength of the army
 
 ---

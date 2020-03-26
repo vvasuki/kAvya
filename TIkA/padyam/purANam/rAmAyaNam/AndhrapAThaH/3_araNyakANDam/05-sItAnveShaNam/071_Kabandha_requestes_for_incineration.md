@@ -1,5 +1,5 @@
 ---
-title: कबन्धेन स्ववृत्तान्तकथनम्
+title: 071 कबन्धेन स्ववृत्तान्तकथनम्
 title_english: 071 Kabandha requestes for incineration
 
 ---

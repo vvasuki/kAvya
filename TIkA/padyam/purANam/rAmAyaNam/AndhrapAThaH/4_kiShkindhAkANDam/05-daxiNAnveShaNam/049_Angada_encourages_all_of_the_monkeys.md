@@ -1,5 +1,5 @@
 ---
-title: लोपामुद्रायाः सप्तपर्णवने सीतान्वेषणम्
+title: 049 लोपामुद्रायाः सप्तपर्णवने सीतान्वेषणम्
 title_english: 049 Angada encourages all of the monkeys
 
 ---

@@ -1,5 +1,5 @@
 ---
-title: प्रतीचीं प्रति सुषेणप्रेषणम्
+title: 042 प्रतीचीं प्रति सुषेणप्रेषणम्
 title_english: 042 Sugreeva sends troops to west side
 
 ---

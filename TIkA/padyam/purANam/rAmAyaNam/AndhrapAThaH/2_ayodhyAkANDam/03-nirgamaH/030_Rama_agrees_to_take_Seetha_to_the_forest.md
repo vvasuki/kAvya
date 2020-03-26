@@ -1,5 +1,5 @@
 ---
-title: वनगमनानुज्ञा
+title: 030 वनगमनानुज्ञा
 title_english: 030 Rama agrees to take Seetha to the forest
 
 ---

@@ -1,5 +1,5 @@
 ---
-title: त्रिजटया सीतासमाश्वासनम्
+title: 048 त्रिजटया सीतासमाश्वासनम्
 title_english: 048 Trijata reassures Seetha
 
 ---

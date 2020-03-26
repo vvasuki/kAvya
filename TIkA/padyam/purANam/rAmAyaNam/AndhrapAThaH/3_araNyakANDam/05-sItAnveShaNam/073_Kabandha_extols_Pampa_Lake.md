@@ -1,5 +1,5 @@
 ---
-title: सुग्रीवास्थानमार्गदर्शनम्
+title: 073 सुग्रीवास्थानमार्गदर्शनम्
 title_english: 073 Kabandha extols Pampa Lake
 
 ---

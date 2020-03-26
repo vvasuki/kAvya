@@ -1,5 +1,5 @@
 ---
-title: जटायुषा सीतावृत्तान्तकथनम्
+title: 067 जटायुषा सीतावृत्तान्तकथनम्
 title_english: 067 Rama spots wing clipped Jataayu
 
 ---

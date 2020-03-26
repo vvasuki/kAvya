@@ -1,5 +1,5 @@
 ---
-title: सम्पातिना नूतनपक्षप्राप्तिः
+title: 063 सम्पातिना नूतनपक्षप्राप्तिः
 title_english: 063 Sampaati gets new wings and flew away
 
 ---
