@@ -1,5 +1,5 @@
 ---
-title: राम-सुतीक्ष्णसंवादः
+title: 007 राम-सुतीक्ष्णसंवादः
 title_english: 007 Hermitage of Sage Suteekshna
 
 ---

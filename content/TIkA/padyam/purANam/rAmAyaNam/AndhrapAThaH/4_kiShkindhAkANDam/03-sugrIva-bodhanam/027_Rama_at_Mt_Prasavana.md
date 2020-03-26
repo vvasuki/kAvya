@@ -1,5 +1,5 @@
 ---
-title: रामेण प्रस्रवणगिरिनिवासः
+title: 027 रामेण प्रस्रवणगिरिनिवासः
 title_english: 027 Rama at Mt Prasavana
 
 ---

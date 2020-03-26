@@ -1,5 +1,5 @@
 ---
-title: रावणस्य कपिनायकविवरणश्रवणेच्छा
+title: 026 रावणस्य कपिनायकविवरणश्रवणेच्छा
 title_english: 026 Ravana enquires about the various monkey leaders
 
 ---

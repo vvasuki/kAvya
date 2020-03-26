@@ -1,5 +1,5 @@
 ---
-title: सीतादुर्वचनात्-लक्ष्मणनिर्गमनम्
+title: 045 सीतादुर्वचनात्-लक्ष्मणनिर्गमनम्
 title_english: 045 Seetha rebukes Lakshmana
 
 ---

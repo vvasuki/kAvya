@@ -1,5 +1,5 @@
 ---
-title: रामस्य कुशलप्रश्नः
+title: 100 रामस्य कुशलप्रश्नः
 title_english: 100 Rama enquires his father s welfare with Bharata
 
 ---

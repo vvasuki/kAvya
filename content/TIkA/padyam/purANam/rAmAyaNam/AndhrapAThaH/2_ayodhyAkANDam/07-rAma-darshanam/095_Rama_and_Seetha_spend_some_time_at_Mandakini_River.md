@@ -1,5 +1,5 @@
 ---
-title: मन्दाकिनीसौन्दर्यम्-अधिकापातः
+title: 095 मन्दाकिनीसौन्दर्यम्-अधिकापातः
 title_english: 095 Rama and Seetha spend some time at Mandakini River
 
 ---

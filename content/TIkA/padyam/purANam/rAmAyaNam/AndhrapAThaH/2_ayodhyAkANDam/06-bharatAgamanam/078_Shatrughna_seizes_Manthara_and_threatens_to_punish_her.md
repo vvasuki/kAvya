@@ -1,5 +1,5 @@
 ---
-title: मन्थराशासनम्
+title: 078 मन्थराशासनम्
 title_english: 078 Shatrughna seizes Manthara and threatens to punish her
 
 ---

@@ -1,5 +1,5 @@
 ---
-title: अभिषेकार्थं जनोल्लासः
+title: 006 अभिषेकार्थं जनोल्लासः
 title_english: 006 Joy of a city
 
 ---

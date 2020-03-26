@@ -1,5 +1,5 @@
 ---
-title: दण्डकवननिष्क्रमणम्
+title: 008 दण्डकवननिष्क्रमणम्
 title_english: 008 Dialogue with Sage Suteekshna
 
 ---

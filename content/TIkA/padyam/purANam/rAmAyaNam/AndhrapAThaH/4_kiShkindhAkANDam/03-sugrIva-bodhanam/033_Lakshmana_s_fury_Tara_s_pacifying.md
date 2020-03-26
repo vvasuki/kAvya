@@ -1,5 +1,5 @@
 ---
-title: तारया लक्ष्मणप्रसाधनम्
+title: 033 तारया लक्ष्मणप्रसाधनम्
 title_english: 033 Lakshmana s fury Tara s pacifying
 
 ---

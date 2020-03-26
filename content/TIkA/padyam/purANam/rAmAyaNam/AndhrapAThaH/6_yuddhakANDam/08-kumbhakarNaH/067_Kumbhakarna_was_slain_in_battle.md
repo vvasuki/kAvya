@@ -1,5 +1,5 @@
 ---
-title: कुम्भकर्णवधः
+title: 067 कुम्भकर्णवधः
 title_english: 067 Kumbhakarna was slain in battle
 
 ---

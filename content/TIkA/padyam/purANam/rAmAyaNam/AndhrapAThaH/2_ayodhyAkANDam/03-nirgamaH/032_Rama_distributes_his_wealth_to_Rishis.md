@@ -1,5 +1,5 @@
 ---
-title: लक्ष्मणाय नमनम्
+title: 032 लक्ष्मणाय नमनम्
 title_english: 032 Rama distributes his wealth to Rishis
 
 ---

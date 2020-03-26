@@ -1,5 +1,5 @@
 ---
-title: रामेण वालिवधनिश्चयः
+title: 008 रामेण वालिवधनिश्चयः
 title_english: 008 The tale of enmity between Vali and Sugreeva
 
 ---

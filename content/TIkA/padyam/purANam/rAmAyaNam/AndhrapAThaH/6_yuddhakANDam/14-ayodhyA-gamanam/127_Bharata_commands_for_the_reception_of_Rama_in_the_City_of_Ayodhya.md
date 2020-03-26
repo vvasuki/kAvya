@@ -1,5 +1,5 @@
 ---
-title: नन्दिग्रामे भरतप्रतीक्षा
+title: 127 नन्दिग्रामे भरतप्रतीक्षा
 title_english: 127 Bharata commands for the reception of Rama in the City of Ayodhya
 
 ---

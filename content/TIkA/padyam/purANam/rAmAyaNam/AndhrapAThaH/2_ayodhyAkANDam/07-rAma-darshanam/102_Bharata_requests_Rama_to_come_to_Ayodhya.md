@@ -1,5 +1,5 @@
 ---
-title: निवापाञ्जलिदानम्
+title: 102 निवापाञ्जलिदानम्
 title_english: 102 Bharata requests Rama to come to Ayodhya
 
 ---

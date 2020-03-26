@@ -1,5 +1,5 @@
 ---
-title: हनुमता त्रिशिरवधः
+title: 070 हनुमता त्रिशिरवधः
 title_english: 070 Hanuma kills Trishira
 
 ---

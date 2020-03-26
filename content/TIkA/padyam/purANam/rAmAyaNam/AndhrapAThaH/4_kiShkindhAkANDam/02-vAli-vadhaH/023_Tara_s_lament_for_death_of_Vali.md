@@ -1,5 +1,5 @@
 ---
-title: ताराशोकः
+title: 023 ताराशोकः
 title_english: 023 Tara s lament for death of Vali
 
 ---

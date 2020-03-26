@@ -1,5 +1,5 @@
 ---
-title: शोकमग्ना-अयोध्या
+title: 048 शोकमग्ना-अयोध्या
 title_english: 048 Rama s departure for the forest
 
 ---

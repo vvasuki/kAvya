@@ -1,5 +1,5 @@
 ---
-title: प्रायोपवेशनिश्चयः
+title: 053 प्रायोपवेशनिश्चयः
 title_english: 053 Angada proposes fast unto death
 
 ---

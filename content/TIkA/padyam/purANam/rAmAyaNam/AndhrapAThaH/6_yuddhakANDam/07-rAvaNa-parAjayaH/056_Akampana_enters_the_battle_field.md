@@ -1,5 +1,5 @@
 ---
-title: अकम्पनेन युद्धभूमिप्रवेशः
+title: 056 अकम्पनेन युद्धभूमिप्रवेशः
 title_english: 056 Akampana enters the battle field
 
 ---

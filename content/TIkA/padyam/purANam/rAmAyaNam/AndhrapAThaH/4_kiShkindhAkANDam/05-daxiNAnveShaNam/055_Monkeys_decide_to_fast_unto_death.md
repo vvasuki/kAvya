@@ -1,5 +1,5 @@
 ---
-title: वानरकृतशीघ्रान्वेषणनिश्चयः
+title: 055 वानरकृतशीघ्रान्वेषणनिश्चयः
 title_english: 055 Monkeys decide to fast unto death
 
 ---

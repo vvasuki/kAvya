@@ -1,5 +1,5 @@
 ---
-title: गङ्गातीरे गुहसमागमः
+title: 050 गङ्गातीरे गुहसमागमः
 title_english: 050 Rama bids farewell to his birth place
 
 ---

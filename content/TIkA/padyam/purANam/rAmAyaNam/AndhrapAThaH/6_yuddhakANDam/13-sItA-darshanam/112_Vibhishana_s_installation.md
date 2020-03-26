@@ -1,5 +1,5 @@
 ---
-title: विभीषणस्य पट्टाभिषेकः
+title: 112 विभीषणस्य पट्टाभिषेकः
 title_english: 112 Vibhishana s installation
 
 ---
