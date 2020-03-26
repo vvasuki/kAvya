@@ -1,5 +1,5 @@
 ---
-title: 101 Hanuma brings mountain with life giving herbs
+title: हनुमता सञ्जीविनीपर्वतानयनम्
 title_english: 101 Hanuma brings mountain with life giving herbs
 
 ---

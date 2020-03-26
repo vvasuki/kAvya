@@ -1,5 +1,5 @@
 ---
-title: 059 Dasaratha falls unconscious
+title: दशरथविलापः
 title_english: 059 Dasaratha falls unconscious
 
 ---

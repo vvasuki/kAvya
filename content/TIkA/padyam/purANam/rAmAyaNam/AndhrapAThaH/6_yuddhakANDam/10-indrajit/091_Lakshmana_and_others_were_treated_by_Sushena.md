@@ -1,5 +1,5 @@
 ---
-title: 091 Lakshmana and others were treated by Sushena
+title: सुषेणेन लक्ष्मणादिसेवा
 title_english: 091 Lakshmana and others were treated by Sushena
 
 ---

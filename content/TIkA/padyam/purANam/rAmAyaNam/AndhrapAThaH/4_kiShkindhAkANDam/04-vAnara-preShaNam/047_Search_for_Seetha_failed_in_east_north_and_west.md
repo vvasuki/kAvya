@@ -1,5 +1,5 @@
 ---
-title: 047 Search for Seetha failed in east north and west
+title: त्रिदिशात् वानरप्रत्यागमनम्
 title_english: 047 Search for Seetha failed in east north and west
 
 ---

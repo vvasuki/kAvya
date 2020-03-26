@@ -1,5 +1,5 @@
 ---
-title: 010 Sri Rama s reply to Seetha
+title: रामेण क्षात्रधर्मनिरूपणम्
 title_english: 010 Sri Rama s reply to Seetha
 
 ---

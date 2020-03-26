@@ -1,5 +1,5 @@
 ---
-title: 039 Maareecha further advises Ravana
+title: सहाय्यकरणनिराकरणम्
 title_english: 039 Maareecha further advises Ravana
 
 ---

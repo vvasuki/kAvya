@@ -1,5 +1,5 @@
 ---
-title: 100 Ravana runs away from the battle field
+title: रावणस्य युद्धपलायनम्
 title_english: 100 Ravana runs away from the battle field
 
 ---

@@ -1,5 +1,5 @@
 ---
-title: 037 Seetha was both delighted and depressed
+title: अङ्गुलीयकं दृष्ट्वा सीतामोदनम्
 title_english: 037 Seetha was both delighted and depressed
 
 ---

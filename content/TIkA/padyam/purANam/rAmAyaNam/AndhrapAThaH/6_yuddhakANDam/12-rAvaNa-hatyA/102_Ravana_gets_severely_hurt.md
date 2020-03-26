@@ -1,5 +1,5 @@
 ---
-title: 102 Ravana gets severely hurt
+title: रामास्त्राहतो रावणः
 title_english: 102 Ravana gets severely hurt
 
 ---

@@ -1,5 +1,5 @@
 ---
-title: 054 Seetha drops jewellery at Sugreeva
+title: भूषणप्रक्षेपणम्-लङ्काप्रवेशं च
 title_english: 054 Seetha drops jewellery at Sugreeva
 
 ---

@@ -1,5 +1,5 @@
 ---
-title: 075 Bharata and Satrughna go to Kausalya s palace
+title: कौसल्या-भरतसंवादः
 title_english: 075 Bharata and Satrughna go to Kausalya s palace
 
 ---

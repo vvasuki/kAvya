@@ -1,5 +1,5 @@
 ---
-title: 004 Lakshmana s narration to Hanuma
+title: राम-लक्ष्मणयोः सुग्रीवान्तिके नयनम्
 title_english: 004 Lakshmana s narration to Hanuma
 
 ---

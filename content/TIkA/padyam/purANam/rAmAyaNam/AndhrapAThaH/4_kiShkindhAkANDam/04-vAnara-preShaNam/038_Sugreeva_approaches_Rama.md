@@ -1,5 +1,5 @@
 ---
-title: 038 Sugreeva approaches Rama
+title: राम-सुग्रीवसंवादः
 title_english: 038 Sugreeva approaches Rama
 
 ---

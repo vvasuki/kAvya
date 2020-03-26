@@ -1,5 +1,5 @@
 ---
-title: 075 The battle resumes
+title: युद्धवर्णनम्
 title_english: 075 The battle resumes
 
 ---

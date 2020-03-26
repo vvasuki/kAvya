@@ -1,5 +1,5 @@
 ---
-title: 017 Vali s questioning Rama s propriety
+title: वालिकृतरामनिन्दा
 title_english: 017 Vali s questioning Rama s propriety
 
 ---

@@ -1,5 +1,5 @@
 ---
-title: 058 Vibhishana explains the prowess of Prahasta
+title: विभीषणेन प्रहस्तबलवर्णनम्
 title_english: 058 Vibhishana explains the prowess of Prahasta
 
 ---

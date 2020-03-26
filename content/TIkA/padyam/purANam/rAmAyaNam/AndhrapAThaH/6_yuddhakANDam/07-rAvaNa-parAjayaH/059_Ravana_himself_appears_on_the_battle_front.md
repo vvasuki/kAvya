@@ -1,5 +1,5 @@
 ---
-title: 059 Ravana himself appears on the battle front
+title: रावणेन युद्धभूमिप्रवेशः
 title_english: 059 Ravana himself appears on the battle front
 
 ---

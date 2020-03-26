@@ -1,5 +1,5 @@
 ---
-title: 063 Dasaratha narrates his sin to Kausalya
+title: दशरथेन पूर्वकृतबालवधकथनम्
 title_english: 063 Dasaratha narrates his sin to Kausalya
 
 ---

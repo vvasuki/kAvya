@@ -1,5 +1,5 @@
 ---
-title: 002 Confrontation with Viraadha
+title: विराधेन सीतापहरणम्
 title_english: 002 Confrontation with Viraadha
 
 ---

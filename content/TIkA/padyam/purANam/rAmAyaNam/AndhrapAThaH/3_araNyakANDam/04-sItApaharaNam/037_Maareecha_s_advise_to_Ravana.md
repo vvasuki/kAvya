@@ -1,5 +1,5 @@
 ---
-title: 037 Maareecha s advise to Ravana
+title: मारीचकृतरावणबोधः
 title_english: 037 Maareecha s advise to Ravana
 
 ---

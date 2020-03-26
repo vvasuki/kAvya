@@ -1,5 +1,5 @@
 ---
-title: 044 Indrajit comes back in an invisible form
+title: इन्द्रजिता अदृश्यरूपेण युद्धरङ्गागमनम्
 title_english: 044 Indrajit comes back in an invisible form
 
 ---

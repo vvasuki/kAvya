@@ -1,5 +1,5 @@
 ---
-title: 110 All the consorts of Ravana lament
+title: रावणसम्बधिभिः शोकः
 title_english: 110 All the consorts of Ravana lament
 
 ---

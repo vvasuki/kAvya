@@ -1,5 +1,5 @@
 ---
-title: 001 Rama appreciates Hanuma and embraces him
+title: रामेण हनुमत्कार्यश्लाघनम्
 title_english: 001 Rama appreciates Hanuma and embraces him
 
 ---

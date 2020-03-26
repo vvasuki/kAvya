@@ -1,5 +1,5 @@
 ---
-title: 079 The king makers request Bharata to take over Ayodhya kingdom
+title: भरतं प्रति मन्त्रिमन्त्रणा
 title_english: 079 The king makers request Bharata to take over Ayodhya kingdom
 
 ---

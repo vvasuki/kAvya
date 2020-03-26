@@ -1,5 +1,5 @@
 ---
-title: 040 Rama s departure from Ayodhya
+title: जनाक्रोशः
 title_english: 040 Rama s departure from Ayodhya
 
 ---

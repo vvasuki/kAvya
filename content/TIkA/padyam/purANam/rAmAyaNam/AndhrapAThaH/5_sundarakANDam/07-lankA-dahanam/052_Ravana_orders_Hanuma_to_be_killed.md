@@ -1,5 +1,5 @@
 ---
-title: 052 Ravana orders Hanuma to be killed
+title: हनुमद्वधाय रावणादेशः
 title_english: 052 Ravana orders Hanuma to be killed
 
 ---

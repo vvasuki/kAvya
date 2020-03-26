@@ -1,5 +1,5 @@
 ---
-title: 014 Sri Rama s Contact with Jatayu
+title: जटायुषः वृत्तान्तः
 title_english: 014 Sri Rama s Contact with Jatayu
 
 ---

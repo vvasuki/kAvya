@@ -1,5 +1,5 @@
 ---
-title: 017 Surpanakha s entry into legend
+title: शूर्पणखा-आगमनम्
 title_english: 017 Surpanakha s entry into legend
 
 ---

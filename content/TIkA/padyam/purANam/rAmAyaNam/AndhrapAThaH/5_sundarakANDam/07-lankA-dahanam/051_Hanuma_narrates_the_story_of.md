@@ -1,5 +1,5 @@
 ---
-title: 051 Hanuma narrates the story of
+title: हनुमता रामकथानिरूपणम्
 title_english: 051 Hanuma narrates the story of
 
 ---

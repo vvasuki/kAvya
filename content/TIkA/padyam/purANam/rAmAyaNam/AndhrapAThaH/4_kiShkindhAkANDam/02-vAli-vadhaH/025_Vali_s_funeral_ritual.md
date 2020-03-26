@@ -1,5 +1,5 @@
 ---
-title: 025 Vali s funeral ritual
+title: रामसान्त्वनम्
 title_english: 025 Vali s funeral ritual
 
 ---

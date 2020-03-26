@@ -1,5 +1,5 @@
 ---
-title: 026 Sugreeva s coronation
+title: अङ्गदयौवराज्याभिषेकः
 title_english: 026 Sugreeva s coronation
 
 ---

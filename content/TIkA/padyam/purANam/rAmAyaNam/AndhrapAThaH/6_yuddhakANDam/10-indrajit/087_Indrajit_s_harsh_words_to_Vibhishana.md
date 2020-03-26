@@ -1,5 +1,5 @@
 ---
-title: 087 Indrajit s harsh words to Vibhishana
+title: इन्द्रजिता विभीषणभर्त्सनम्
 title_english: 087 Indrajit s harsh words to Vibhishana
 
 ---

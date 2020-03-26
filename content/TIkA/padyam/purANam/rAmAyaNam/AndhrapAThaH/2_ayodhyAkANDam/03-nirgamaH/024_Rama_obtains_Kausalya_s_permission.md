@@ -1,5 +1,5 @@
 ---
-title: 024 Rama obtains Kausalya s permission
+title: रामं प्रति कौसल्योपदेशः
 title_english: 024 Rama obtains Kausalya s permission
 
 ---

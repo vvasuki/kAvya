@@ -1,5 +1,5 @@
 ---
-title: 033 Rama pays respects to his father at departure
+title: पितृदर्शनगमनम्
 title_english: 033 Rama pays respects to his father at departure
 
 ---

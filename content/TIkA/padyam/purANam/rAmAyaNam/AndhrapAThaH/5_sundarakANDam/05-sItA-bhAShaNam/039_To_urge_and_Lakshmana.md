@@ -1,5 +1,5 @@
 ---
-title: 039 To urge and Lakshmana
+title: सीतया चूडामणिप्रदानम्
 title_english: 039 To urge and Lakshmana
 
 ---

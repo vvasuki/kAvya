@@ -1,5 +1,5 @@
 ---
-title: 070 Kabandha s overlong arms are cut off
+title: राम-कबन्धयुद्धम्
 title_english: 070 Kabandha s overlong arms are cut off
 
 ---

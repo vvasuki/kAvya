@@ -1,5 +1,5 @@
 ---
-title: 081 Bharata with Shatrughna enters the assembly
+title: राजसभागमनम्
 title_english: 081 Bharata with Shatrughna enters the assembly
 
 ---

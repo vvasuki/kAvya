@@ -1,5 +1,5 @@
 ---
-title: 022 Khara s army marches to Rama
+title: खरस्य युद्धसिद्धता
 title_english: 022 Khara s army marches to Rama
 
 ---

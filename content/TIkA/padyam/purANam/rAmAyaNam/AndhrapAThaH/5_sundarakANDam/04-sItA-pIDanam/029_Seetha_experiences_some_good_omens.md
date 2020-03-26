@@ -1,5 +1,5 @@
 ---
-title: 029 Seetha experiences some good omens
+title: सीतया शुभशकुनानुभवः
 title_english: 029 Seetha experiences some good omens
 
 ---

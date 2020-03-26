@@ -1,5 +1,5 @@
 ---
-title: 045 Hanuma kills Prahasta s seven sons
+title: हनुमता प्रहस्तसुतवधः
 title_english: 045 Hanuma kills Prahasta s seven sons
 
 ---

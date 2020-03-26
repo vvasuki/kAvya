@@ -1,5 +1,5 @@
 ---
-title: 053 Seetha denounces Ravana s misdeeds
+title: रावणनिन्दा
 title_english: 053 Seetha denounces Ravana s misdeeds
 
 ---

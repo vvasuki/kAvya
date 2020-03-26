@@ -1,5 +1,5 @@
 ---
-title: 069 Bharata experiences a bad dream
+title: भरतेन दुःस्वप्नदर्शनम्
 title_english: 069 Bharata experiences a bad dream
 
 ---

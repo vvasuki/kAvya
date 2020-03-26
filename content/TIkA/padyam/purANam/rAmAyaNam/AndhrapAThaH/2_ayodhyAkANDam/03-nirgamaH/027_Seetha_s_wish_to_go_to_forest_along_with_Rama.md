@@ -1,5 +1,5 @@
 ---
-title: 027 Seetha s wish to go to forest along with Rama
+title: सीतायाः वनगमननिश्चयः
 title_english: 027 Seetha s wish to go to forest along with Rama
 
 ---

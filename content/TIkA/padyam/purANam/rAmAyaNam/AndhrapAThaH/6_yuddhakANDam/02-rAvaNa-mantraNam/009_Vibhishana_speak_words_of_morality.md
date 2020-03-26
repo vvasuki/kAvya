@@ -1,5 +1,5 @@
 ---
-title: 009 Vibhishana speak words of morality
+title: विभीषणनीतिः
 title_english: 009 Vibhishana speak words of morality
 
 ---

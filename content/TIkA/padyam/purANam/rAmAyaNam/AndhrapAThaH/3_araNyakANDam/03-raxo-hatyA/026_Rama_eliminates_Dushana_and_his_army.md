@@ -1,5 +1,5 @@
 ---
-title: 026 Rama eliminates Dushana and his army
+title: द्षणवधः
 title_english: 026 Rama eliminates Dushana and his army
 
 ---

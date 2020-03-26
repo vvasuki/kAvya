@@ -1,5 +1,5 @@
 ---
-title: 044 Rama eliminates Maareecha
+title: मारीचवधः
 title_english: 044 Rama eliminates Maareecha
 
 ---

@@ -1,5 +1,5 @@
 ---
-title: 096 Rama hears a gigantic clamour of an army
+title: भरतविषये रामलक्ष्मणसंवादः
 title_english: 096 Rama hears a gigantic clamour of an army
 
 ---

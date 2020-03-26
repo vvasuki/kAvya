@@ -1,5 +1,5 @@
 ---
-title: 023 Rama explains to Lakshmana the various portents
+title: रामेण शकुनवर्णनम्
 title_english: 023 Rama explains to Lakshmana the various portents
 
 ---

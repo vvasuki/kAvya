@@ -1,5 +1,5 @@
 ---
-title: 049 Vibhishana approaches Rama
+title: राम-विभीषणसंवादः
 title_english: 049 Vibhishana approaches Rama
 
 ---

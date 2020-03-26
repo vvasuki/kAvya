@@ -1,5 +1,5 @@
 ---
-title: 124 Rama lands at Sage Bharadwaja hermitage
+title: भरद्वाजाश्रमागमनम्
 title_english: 124 Rama lands at Sage Bharadwaja hermitage
 
 ---

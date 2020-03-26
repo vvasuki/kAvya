@@ -1,5 +1,5 @@
 ---
-title: 032 Hanuma s advise to Sugreeva
+title: हनुमता सुग्रीवबोधनम्
 title_english: 032 Hanuma s advise to Sugreeva
 
 ---

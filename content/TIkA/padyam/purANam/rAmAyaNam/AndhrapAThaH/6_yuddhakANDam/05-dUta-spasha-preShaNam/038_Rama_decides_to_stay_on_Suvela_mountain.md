@@ -1,5 +1,5 @@
 ---
-title: 038 Rama decides to stay on Suvela mountain
+title: रामेण सुवेलपर्वतनिवासनिश्चयः
 title_english: 038 Rama decides to stay on Suvela mountain
 
 ---

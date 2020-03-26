@@ -1,5 +1,5 @@
 ---
-title: 052 Dhumraksha along with army attacks the monkeys
+title: धूम्नाक्षेण आक्रमणम्
 title_english: 052 Dhumraksha along with army attacks the monkeys
 
 ---

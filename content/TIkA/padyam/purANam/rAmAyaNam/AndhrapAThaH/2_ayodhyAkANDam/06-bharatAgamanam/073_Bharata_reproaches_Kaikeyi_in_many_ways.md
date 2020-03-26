@@ -1,5 +1,5 @@
 ---
-title: 073 Bharata reproaches Kaikeyi in many ways
+title: कैकेयीनिर्भर्त्सनम्
 title_english: 073 Bharata reproaches Kaikeyi in many ways
 
 ---

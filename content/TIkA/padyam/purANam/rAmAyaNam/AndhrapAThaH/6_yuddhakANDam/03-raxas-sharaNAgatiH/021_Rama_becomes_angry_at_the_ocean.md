@@ -1,5 +1,5 @@
 ---
-title: 021 Rama becomes angry at the ocean
+title: रामेण समुद्रक्रोधः
 title_english: 021 Rama becomes angry at the ocean
 
 ---

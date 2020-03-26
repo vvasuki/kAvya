@@ -1,5 +1,5 @@
 ---
-title: 068 Jataayu infoms about Ravana and dies
+title: राम-जटायुसंवादः
 title_english: 068 Jataayu infoms about Ravana and dies
 
 ---

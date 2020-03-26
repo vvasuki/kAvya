@@ -1,5 +1,5 @@
 ---
-title: 081 Indrajit places illusory live image of Seetha
+title: इन्द्रजिता युद्धरङ्गे मायासीताकृतिस्थपनम्
 title_english: 081 Indrajit places illusory live image of Seetha
 
 ---

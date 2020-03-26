@@ -1,5 +1,5 @@
 ---
-title: 127 Bharata commands for the reception of Rama in the City of Ayodhya
+title: नन्दिग्रामे भरतप्रतीक्षा
 title_english: 127 Bharata commands for the reception of Rama in the City of Ayodhya
 
 ---

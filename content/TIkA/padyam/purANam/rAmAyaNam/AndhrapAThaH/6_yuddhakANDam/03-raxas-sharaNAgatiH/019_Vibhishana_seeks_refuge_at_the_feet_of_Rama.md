@@ -1,5 +1,5 @@
 ---
-title: 019 Vibhishana seeks refuge at the feet of Rama
+title: विभीषणस्य रामपादशरणगमनम्
 title_english: 019 Vibhishana seeks refuge at the feet of Rama
 
 ---

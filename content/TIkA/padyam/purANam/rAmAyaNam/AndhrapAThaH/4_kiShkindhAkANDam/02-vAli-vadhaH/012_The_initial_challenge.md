@@ -1,5 +1,5 @@
 ---
-title: 012 The initial challenge
+title: रामकृतसप्ततालच्छेदनम्
 title_english: 012 The initial challenge
 
 ---

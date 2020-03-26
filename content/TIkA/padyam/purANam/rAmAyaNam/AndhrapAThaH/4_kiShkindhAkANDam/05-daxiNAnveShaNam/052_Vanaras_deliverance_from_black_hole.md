@@ -1,5 +1,5 @@
 ---
-title: 052 Vanaras deliverance from black hole
+title: वानरैः स्वगमनहेतुकथनम्
 title_english: 052 Vanaras deliverance from black hole
 
 ---

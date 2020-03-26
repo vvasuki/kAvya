@@ -1,5 +1,5 @@
 ---
-title: 035 Ravana proceeds to Mareecha
+title: मारीचं प्रति पुनः रावणागमनम्
 title_english: 035 Ravana proceeds to Mareecha
 
 ---

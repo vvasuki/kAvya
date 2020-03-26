@@ -1,5 +1,5 @@
 ---
-title: 020 Kausalya s grief
+title: कौसल्याविलापः
 title_english: 020 Kausalya s grief
 
 ---

@@ -1,5 +1,5 @@
 ---
-title: 001 Rama The Hero
+title: रामगुणवर्णनम्
 title_english: 001 Rama The Hero
 
 ---

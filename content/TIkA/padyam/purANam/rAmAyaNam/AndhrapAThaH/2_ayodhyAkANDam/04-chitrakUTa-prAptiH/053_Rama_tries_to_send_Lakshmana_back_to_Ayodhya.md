@@ -1,5 +1,5 @@
 ---
-title: 053 Rama tries to send Lakshmana back to Ayodhya
+title: राम-लक्ष्मणसंवादः
 title_english: 053 Rama tries to send Lakshmana back to Ayodhya
 
 ---

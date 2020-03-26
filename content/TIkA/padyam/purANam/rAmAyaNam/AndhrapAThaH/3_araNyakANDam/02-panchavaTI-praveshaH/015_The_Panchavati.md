@@ -1,5 +1,5 @@
 ---
-title: 015 The Panchavati
+title: पञ्चवट्यां पर्णशालानिर्माणम्
 title_english: 015 The Panchavati
 
 ---

@@ -1,5 +1,5 @@
 ---
-title: 029 Khara s fight with Rama
+title: खरनिर्भर्त्सनम्
 title_english: 029 Khara s fight with Rama
 
 ---

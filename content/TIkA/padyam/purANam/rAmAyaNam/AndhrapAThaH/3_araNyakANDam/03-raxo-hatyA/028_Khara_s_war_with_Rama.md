@@ -1,5 +1,5 @@
 ---
-title: 028 Khara s war with Rama
+title: राम-खरयुद्धम्
 title_english: 028 Khara s war with Rama
 
 ---

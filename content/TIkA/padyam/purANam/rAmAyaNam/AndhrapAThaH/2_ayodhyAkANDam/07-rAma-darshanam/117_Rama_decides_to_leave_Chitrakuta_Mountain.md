@@ -1,5 +1,5 @@
 ---
-title: 117 Rama decides to leave Chitrakuta Mountain
+title: अत्र्याश्रमगमनम्
 title_english: 117 Rama decides to leave Chitrakuta Mountain
 
 ---

@@ -1,5 +1,5 @@
 ---
-title: 055 Ravana entices Seetha to marry him
+title: सीतां प्रति रावणदर्पोक्तिः
 title_english: 055 Ravana entices Seetha to marry him
 
 ---

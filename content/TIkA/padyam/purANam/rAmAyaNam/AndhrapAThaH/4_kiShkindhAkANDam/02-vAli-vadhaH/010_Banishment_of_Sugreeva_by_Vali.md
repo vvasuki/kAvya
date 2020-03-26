@@ -1,5 +1,5 @@
 ---
-title: 010 Banishment of Sugreeva by Vali
+title: वालिना सुग्रीवनिर्भर्त्सनम्
 title_english: 010 Banishment of Sugreeva by Vali
 
 ---

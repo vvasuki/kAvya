@@ -1,5 +1,5 @@
 ---
-title: 006 Ravana calls a meetings of his ministers
+title: रावण-तन्मन्त्रिसंवादः
 title_english: 006 Ravana calls a meetings of his ministers
 
 ---

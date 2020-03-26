@@ -1,5 +1,5 @@
 ---
-title: 027 Elimination of Trishira
+title: त्रिशिरो वधः
 title_english: 027 Elimination of Trishira
 
 ---

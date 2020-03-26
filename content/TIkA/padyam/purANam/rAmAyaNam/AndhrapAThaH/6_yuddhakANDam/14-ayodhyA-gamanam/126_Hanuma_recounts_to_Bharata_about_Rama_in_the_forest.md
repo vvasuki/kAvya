@@ -1,5 +1,5 @@
 ---
-title: 126 Hanuma recounts to Bharata about Rama in the forest
+title: हनुमता रामागमनसन्देशः
 title_english: 126 Hanuma recounts to Bharata about Rama in the forest
 
 ---

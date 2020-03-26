@@ -1,5 +1,5 @@
 ---
-title: 037 Kaikeyi offers tree bark to Seetha to wear
+title: रामादिभिः चीरपरिधानम्
 title_english: 037 Kaikeyi offers tree bark to Seetha to wear
 
 ---

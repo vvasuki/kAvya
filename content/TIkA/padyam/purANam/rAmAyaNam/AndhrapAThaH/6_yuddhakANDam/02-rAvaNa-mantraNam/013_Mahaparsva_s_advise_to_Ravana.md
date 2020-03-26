@@ -1,5 +1,5 @@
 ---
-title: 013 Mahaparsva s advise to Ravana
+title: रावण-महापार्श्वसंवादः
 title_english: 013 Mahaparsva s advise to Ravana
 
 ---

@@ -1,5 +1,5 @@
 ---
-title: 057 Angada informs their plight to Sampaati
+title: अङ्गदेन स्वकष्टनिरूपणम्
 title_english: 057 Angada informs their plight to Sampaati
 
 ---

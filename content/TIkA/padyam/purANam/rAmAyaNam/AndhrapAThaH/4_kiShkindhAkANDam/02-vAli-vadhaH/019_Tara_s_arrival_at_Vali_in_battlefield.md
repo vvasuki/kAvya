@@ -1,5 +1,5 @@
 ---
-title: 019 Tara s arrival at Vali in battlefield
+title: तारागमनम्
 title_english: 019 Tara s arrival at Vali in battlefield
 
 ---

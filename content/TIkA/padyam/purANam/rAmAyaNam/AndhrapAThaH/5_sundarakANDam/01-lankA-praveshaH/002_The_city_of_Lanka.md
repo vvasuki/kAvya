@@ -1,5 +1,5 @@
 ---
-title: 002 The city of Lanka
+title: लङ्कापुरीवर्णनम्
 title_english: 002 The city of Lanka
 
 ---

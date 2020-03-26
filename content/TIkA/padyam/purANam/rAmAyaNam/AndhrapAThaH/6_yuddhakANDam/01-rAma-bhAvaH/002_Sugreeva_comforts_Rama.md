@@ -1,5 +1,5 @@
 ---
-title: 002 Sugreeva comforts Rama
+title: राम-सुग्रीवसंवादः
 title_english: 002 Sugreeva comforts Rama
 
 ---

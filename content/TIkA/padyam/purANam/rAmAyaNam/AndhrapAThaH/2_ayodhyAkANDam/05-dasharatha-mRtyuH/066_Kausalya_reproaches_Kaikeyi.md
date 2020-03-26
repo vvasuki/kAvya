@@ -1,5 +1,5 @@
 ---
-title: 066 Kausalya reproaches Kaikeyi
+title: राजशरीरस्य तैलकटाहे निक्षेपः
 title_english: 066 Kausalya reproaches Kaikeyi
 
 ---

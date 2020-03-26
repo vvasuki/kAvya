@@ -1,5 +1,5 @@
 ---
-title: 044 Rama gives ring to Hanuma
+title: रामेण मुद्रिकाप्रदानम्
 title_english: 044 Rama gives ring to Hanuma
 
 ---

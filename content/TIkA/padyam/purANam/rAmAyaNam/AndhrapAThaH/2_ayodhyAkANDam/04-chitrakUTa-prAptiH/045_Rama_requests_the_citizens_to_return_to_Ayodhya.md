@@ -1,5 +1,5 @@
 ---
-title: 045 Rama requests the citizens to return to Ayodhya
+title: तमसातीरगमनम्
 title_english: 045 Rama requests the citizens to return to Ayodhya
 
 ---

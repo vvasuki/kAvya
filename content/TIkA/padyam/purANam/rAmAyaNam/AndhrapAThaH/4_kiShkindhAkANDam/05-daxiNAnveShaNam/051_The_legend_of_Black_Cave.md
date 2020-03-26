@@ -1,5 +1,5 @@
 ---
-title: 051 The legend of Black Cave
+title: स्वयम्प्रभावृत्तान्तकथनम्
 title_english: 051 The legend of Black Cave
 
 ---
