@@ -1,5 +1,5 @@
 ---
-title: 004 Curse of Viradha
+title: विराधवधः
 title_english: 004 Curse of Viradha
 
 ---

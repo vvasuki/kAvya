@@ -1,5 +1,5 @@
 ---
-title: 051 Guha requests Lakshmana to take rest
+title: गुह-लक्ष्मणसंवादः
 title_english: 051 Guha requests Lakshmana to take rest
 
 ---

@@ -1,5 +1,5 @@
 ---
-title: 035 Seetha asks Sarama about Ravana s decision
+title: सरमया रावणनिर्धारकथनम्
 title_english: 035 Seetha asks Sarama about Ravana s decision
 
 ---

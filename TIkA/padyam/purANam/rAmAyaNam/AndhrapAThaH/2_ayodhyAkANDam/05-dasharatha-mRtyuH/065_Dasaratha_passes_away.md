@@ -1,5 +1,5 @@
 ---
-title: 065 Dasaratha passes away
+title: अन्तःपुरशोकः
 title_english: 065 Dasaratha passes away
 
 ---

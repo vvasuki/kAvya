@@ -1,5 +1,5 @@
 ---
-title: 082 Bharata refuses to rob the throne from Rama
+title: रामानयनाय भरतप्रस्थानम्
 title_english: 082 Bharata refuses to rob the throne from Rama
 
 ---

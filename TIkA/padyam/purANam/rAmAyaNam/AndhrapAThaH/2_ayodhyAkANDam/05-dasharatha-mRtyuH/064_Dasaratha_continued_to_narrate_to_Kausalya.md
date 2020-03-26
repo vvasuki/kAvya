@@ -1,5 +1,5 @@
 ---
-title: 064 Dasaratha continued to narrate to Kausalya
+title: दशरथमृतिः
 title_english: 064 Dasaratha continued to narrate to Kausalya
 
 ---

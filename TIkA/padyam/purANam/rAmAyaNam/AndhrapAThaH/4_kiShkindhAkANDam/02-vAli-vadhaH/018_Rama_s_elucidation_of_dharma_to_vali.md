@@ -1,5 +1,5 @@
 ---
-title: 018 Rama s elucidation of dharma to vali
+title: रामेण वालिवधसमर्थनम्
 title_english: 018 Rama s elucidation of dharma to vali
 
 ---

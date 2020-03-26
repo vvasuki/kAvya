@@ -1,5 +1,5 @@
 ---
-title: 034 Rama consoles Dasaratha
+title: दशरथमूर्च्छा
 title_english: 034 Rama consoles Dasaratha
 
 ---

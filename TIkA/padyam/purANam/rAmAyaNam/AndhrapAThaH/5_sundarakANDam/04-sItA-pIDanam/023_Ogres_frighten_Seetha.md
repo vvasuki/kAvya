@@ -1,5 +1,5 @@
 ---
-title: 023 Ogres frighten Seetha
+title: राक्षसीकृतसीताभीषणम्
 title_english: 023 Ogres frighten Seetha
 
 ---

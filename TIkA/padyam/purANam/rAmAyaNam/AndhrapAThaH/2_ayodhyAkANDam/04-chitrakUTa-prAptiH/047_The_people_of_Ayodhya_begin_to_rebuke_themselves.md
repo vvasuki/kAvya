@@ -1,5 +1,5 @@
 ---
-title: 047 The people of Ayodhya begin to rebuke themselves
+title: पौरप्रत्यागमनम्
 title_english: 047 The people of Ayodhya begin to rebuke themselves
 
 ---

@@ -1,5 +1,5 @@
 ---
-title: 116 Seetha s taunting reply to Rama
+title: सीतारामसंवादः
 title_english: 116 Seetha s taunting reply to Rama
 
 ---

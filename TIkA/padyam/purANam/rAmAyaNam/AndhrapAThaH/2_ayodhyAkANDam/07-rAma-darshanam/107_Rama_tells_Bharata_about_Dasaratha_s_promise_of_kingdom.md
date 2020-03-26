@@ -1,5 +1,5 @@
 ---
-title: 107 Rama tells Bharata about Dasaratha s promise of kingdom
+title: रामस्य पित्राज्ञापालनकथनम्
 title_english: 107 Rama tells Bharata about Dasaratha s promise of kingdom
 
 ---

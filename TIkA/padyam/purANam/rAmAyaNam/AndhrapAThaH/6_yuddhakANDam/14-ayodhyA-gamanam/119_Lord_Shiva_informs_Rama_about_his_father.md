@@ -1,5 +1,5 @@
 ---
-title: 119 Lord Shiva informs Rama about his father
+title: रामेण स्वपितृवार्ताश्रवणम्
 title_english: 119 Lord Shiva informs Rama about his father
 
 ---

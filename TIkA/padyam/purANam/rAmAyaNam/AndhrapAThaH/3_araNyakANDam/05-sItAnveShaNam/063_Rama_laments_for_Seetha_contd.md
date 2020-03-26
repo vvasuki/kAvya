@@ -1,5 +1,5 @@
 ---
-title: 063 Rama laments for Seetha contd
+title: लक्ष्मणेन रामसान्त्वनम्
 title_english: 063 Rama laments for Seetha contd
 
 ---

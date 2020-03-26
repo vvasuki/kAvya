@@ -1,5 +1,5 @@
 ---
-title: 039 Rama mildly admonishes Sugreeva
+title: वानरसेनासङ्ख्यानिवेदनम्
 title_english: 039 Rama mildly admonishes Sugreeva
 
 ---

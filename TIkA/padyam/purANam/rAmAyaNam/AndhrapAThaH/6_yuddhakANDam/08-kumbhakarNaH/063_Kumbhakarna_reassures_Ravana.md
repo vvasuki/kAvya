@@ -1,5 +1,5 @@
 ---
-title: 063 Kumbhakarna reassures Ravana
+title: कुम्भकर्णेन रावणाश्वासनम्
 title_english: 063 Kumbhakarna reassures Ravana
 
 ---

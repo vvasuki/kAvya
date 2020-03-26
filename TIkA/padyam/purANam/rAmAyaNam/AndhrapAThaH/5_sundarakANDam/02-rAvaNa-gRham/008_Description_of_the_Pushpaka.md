@@ -1,5 +1,5 @@
 ---
-title: 008 Description of the Pushpaka
+title: पुष्पकविमानवर्णनम्
 title_english: 008 Description of the Pushpaka
 
 ---

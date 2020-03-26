@@ -1,5 +1,5 @@
 ---
-title: 046 Ravana applauds his son for his daring act
+title: रावणेन इन्द्रजित्प्रशंसनम्
 title_english: 046 Ravana applauds his son for his daring act
 
 ---

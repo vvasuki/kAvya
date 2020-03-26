@@ -1,5 +1,5 @@
 ---
-title: 067 Hanuma asserts his capabilities to leap the ocean
+title: हनुमता सागरोल्लङ्घननिश्चयः
 title_english: 067 Hanuma asserts his capabilities to leap the ocean
 
 ---

@@ -1,5 +1,5 @@
 ---
-title: 065 Kumbhakarna rebukes Mahodara
+title: कुम्भकर्णेन महोदरनिन्दा
 title_english: 065 Kumbhakarna rebukes Mahodara
 
 ---

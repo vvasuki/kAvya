@@ -1,5 +1,5 @@
 ---
-title: 064 Hanuma apprises of the discovery of Seetha
+title: रामेण सीतान्वेषणश्लाघनम्
 title_english: 064 Hanuma apprises of the discovery of Seetha
 
 ---

@@ -1,5 +1,5 @@
 ---
-title: 046 Ravana praises Seetha s beauty
+title: तपस्वीरूपेण रावणागमनम्
 title_english: 046 Ravana praises Seetha s beauty
 
 ---

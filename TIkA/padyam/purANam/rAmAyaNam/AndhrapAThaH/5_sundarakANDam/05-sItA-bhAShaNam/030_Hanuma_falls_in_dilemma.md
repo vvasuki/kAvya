@@ -1,5 +1,5 @@
 ---
-title: 030 Hanuma falls in dilemma
+title: हनुमत्संभ्रमः
 title_english: 030 Hanuma falls in dilemma
 
 ---

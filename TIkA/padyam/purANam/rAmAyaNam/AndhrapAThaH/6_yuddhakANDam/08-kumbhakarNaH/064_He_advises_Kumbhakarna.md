@@ -1,5 +1,5 @@
 ---
-title: 064 He advises Kumbhakarna
+title: रावण-कुम्भकर्णसंवादः
 title_english: 064 He advises Kumbhakarna
 
 ---

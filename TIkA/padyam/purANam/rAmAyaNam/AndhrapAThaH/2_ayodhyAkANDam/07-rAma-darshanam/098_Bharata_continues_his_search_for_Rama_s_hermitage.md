@@ -1,5 +1,5 @@
 ---
-title: 098 Bharata continues his search for Rama s hermitage
+title: भरतेन रामाश्रमगमनम्
 title_english: 098 Bharata continues his search for Rama s hermitage
 
 ---

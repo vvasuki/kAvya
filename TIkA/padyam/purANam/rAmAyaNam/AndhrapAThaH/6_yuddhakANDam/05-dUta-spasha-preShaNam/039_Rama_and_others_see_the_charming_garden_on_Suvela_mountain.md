@@ -1,5 +1,5 @@
 ---
-title: 039 Rama and others see the charming garden on Suvela mountain
+title: रामेण सुवेलपर्वतसौन्दर्यदर्शनम्
 title_english: 039 Rama and others see the charming garden on Suvela mountain
 
 ---

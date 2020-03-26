@@ -1,5 +1,5 @@
 ---
-title: 071 Lakshmana kills Atikaya
+title: लक्ष्मणेन-अतिकायवधः
 title_english: 071 Lakshmana kills Atikaya
 
 ---

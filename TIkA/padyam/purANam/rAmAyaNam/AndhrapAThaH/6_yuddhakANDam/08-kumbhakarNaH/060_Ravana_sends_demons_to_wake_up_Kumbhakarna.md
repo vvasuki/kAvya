@@ -1,5 +1,5 @@
 ---
-title: 060 Ravana sends demons to wake up Kumbhakarna
+title: रावणेन कुम्भकर्णं बोधयितुं प्रयत्नः
 title_english: 060 Ravana sends demons to wake up Kumbhakarna
 
 ---

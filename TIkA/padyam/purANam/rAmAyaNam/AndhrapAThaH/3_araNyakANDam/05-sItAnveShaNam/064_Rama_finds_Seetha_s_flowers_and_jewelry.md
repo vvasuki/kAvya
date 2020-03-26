@@ -1,5 +1,5 @@
 ---
-title: 064 Rama finds Seetha s flowers and jewelry
+title: रामसन्तापः
 title_english: 064 Rama finds Seetha s flowers and jewelry
 
 ---

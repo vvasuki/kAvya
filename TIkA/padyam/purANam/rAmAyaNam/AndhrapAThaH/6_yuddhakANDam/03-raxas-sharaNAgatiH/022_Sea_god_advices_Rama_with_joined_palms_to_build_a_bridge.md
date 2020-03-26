@@ -1,5 +1,5 @@
 ---
-title: 022 Sea god advices Rama with joined palms to build a bridge
+title: सेतुबन्धनम्
 title_english: 022 Sea god advices Rama with joined palms to build a bridge
 
 ---

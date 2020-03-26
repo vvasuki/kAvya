@@ -1,5 +1,5 @@
 ---
-title: 105 Bharata requests Rama to accept the kingdom
+title: रामं प्रति भरतस्य प्रार्थना
 title_english: 105 Bharata requests Rama to accept the kingdom
 
 ---

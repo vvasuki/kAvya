@@ -1,5 +1,5 @@
 ---
-title: 005 Hermitage of Sage Sharabhanga
+title: शरभङ्गस्य अग्निप्रवेशः
 title_english: 005 Hermitage of Sage Sharabhanga
 
 ---

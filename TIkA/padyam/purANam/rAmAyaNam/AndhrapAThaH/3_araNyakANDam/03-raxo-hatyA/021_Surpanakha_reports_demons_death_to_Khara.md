@@ -1,5 +1,5 @@
 ---
-title: 021 Surpanakha reports demons death to Khara
+title: खरान्तिके शूर्पणखाशोकः
 title_english: 021 Surpanakha reports demons death to Khara
 
 ---

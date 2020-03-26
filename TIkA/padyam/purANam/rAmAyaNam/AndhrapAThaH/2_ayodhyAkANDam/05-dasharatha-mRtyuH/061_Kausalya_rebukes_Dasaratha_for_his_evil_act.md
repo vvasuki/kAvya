@@ -1,5 +1,5 @@
 ---
-title: 061 Kausalya rebukes Dasaratha for his evil act
+title: कौसल्याकृतदशरथनिन्दा
 title_english: 061 Kausalya rebukes Dasaratha for his evil act
 
 ---

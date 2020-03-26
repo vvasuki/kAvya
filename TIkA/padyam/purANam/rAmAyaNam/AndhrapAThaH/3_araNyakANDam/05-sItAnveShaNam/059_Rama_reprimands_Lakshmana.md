@@ -1,5 +1,5 @@
 ---
-title: 059 Rama reprimands Lakshmana
+title: लक्ष्मणनिन्दा
 title_english: 059 Rama reprimands Lakshmana
 
 ---

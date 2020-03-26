@@ -1,5 +1,5 @@
 ---
-title: 015 Tara s advice
+title: तारोपदेशः
 title_english: 015 Tara s advice
 
 ---

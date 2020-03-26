@@ -1,5 +1,5 @@
 ---
-title: 065 Monkeys fear to jump the ocean
+title: वानरैः सागरोल्लङ्घनभयम्
 title_english: 065 Monkeys fear to jump the ocean
 
 ---

@@ -1,5 +1,5 @@
 ---
-title: 032 Ravana s pomp and pride
+title: बलस्तुतिः
 title_english: 032 Ravana s pomp and pride
 
 ---

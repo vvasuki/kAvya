@@ -1,5 +1,5 @@
 ---
-title: 047 Seetha s anguish about Rama and Lakshmana
+title: रामलक्ष्मणविषयकसीताशोकवर्णनम्
 title_english: 047 Seetha s anguish about Rama and Lakshmana
 
 ---

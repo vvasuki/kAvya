@@ -1,5 +1,5 @@
 ---
-title: 008 All demons eulogising their strengths
+title: राक्षसैः स्वबलप्रशंसनम्
 title_english: 008 All demons eulogising their strengths
 
 ---

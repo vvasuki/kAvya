@@ -1,5 +1,5 @@
 ---
-title: 116 Rama notices anxiety among the sages who live in the vicinity
+title: चित्रकूटे मुनि-रामसंवादः
 title_english: 116 Rama notices anxiety among the sages who live in the vicinity
 
 ---

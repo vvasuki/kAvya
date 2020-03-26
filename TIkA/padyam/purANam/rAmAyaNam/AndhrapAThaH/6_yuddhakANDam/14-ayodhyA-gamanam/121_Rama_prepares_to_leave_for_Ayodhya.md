@@ -1,5 +1,5 @@
 ---
-title: 121 Rama prepares to leave for Ayodhya
+title: रामेण अयोध्यानिर्वर्तनसिद्धता
 title_english: 121 Rama prepares to leave for Ayodhya
 
 ---

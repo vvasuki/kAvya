@@ -1,5 +1,5 @@
 ---
-title: 019 Surpanakha s reporting to her brother Khara
+title: खराय अङ्गवैरूप्यकथनम्
 title_english: 019 Surpanakha s reporting to her brother Khara
 
 ---

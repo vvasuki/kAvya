@@ -1,5 +1,5 @@
 ---
-title: 017 Rama s arrival at royal court
+title: रामागमनम्
 title_english: 017 Rama s arrival at royal court
 
 ---

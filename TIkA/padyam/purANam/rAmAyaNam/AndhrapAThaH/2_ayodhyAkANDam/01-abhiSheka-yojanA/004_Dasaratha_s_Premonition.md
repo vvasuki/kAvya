@@ -1,5 +1,5 @@
 ---
-title: 004 Dasaratha s Premonition
+title: रामाय दशरथस्योपदेशः
 title_english: 004 Dasaratha s Premonition
 
 ---

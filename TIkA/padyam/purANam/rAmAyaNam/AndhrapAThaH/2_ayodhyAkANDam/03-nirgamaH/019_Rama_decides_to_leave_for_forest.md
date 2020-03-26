@@ -1,5 +1,5 @@
 ---
-title: 019 Rama decides to leave for forest
+title: वनवासप्रतिज्ञा
 title_english: 019 Rama decides to leave for forest
 
 ---

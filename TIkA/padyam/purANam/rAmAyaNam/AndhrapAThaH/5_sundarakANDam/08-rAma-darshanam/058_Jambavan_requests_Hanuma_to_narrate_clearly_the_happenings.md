@@ -1,5 +1,5 @@
 ---
-title: 058 Jambavan requests Hanuma to narrate clearly the happenings
+title: हनुमज्जाम्बवत्संवादः
 title_english: 058 Jambavan requests Hanuma to narrate clearly the happenings
 
 ---

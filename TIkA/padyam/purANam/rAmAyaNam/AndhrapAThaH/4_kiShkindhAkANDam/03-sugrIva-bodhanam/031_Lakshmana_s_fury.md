@@ -1,5 +1,5 @@
 ---
-title: 031 Lakshmana s fury
+title: रामेण लक्ष्मणप्रेषणम्
 title_english: 031 Lakshmana s fury
 
 ---

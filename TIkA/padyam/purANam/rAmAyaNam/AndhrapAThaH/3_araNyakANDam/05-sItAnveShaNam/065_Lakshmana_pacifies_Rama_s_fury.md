@@ -1,5 +1,5 @@
 ---
-title: 065 Lakshmana pacifies Rama s fury
+title: लक्ष्मणक्रोधोपशमनम्
 title_english: 065 Lakshmana pacifies Rama s fury
 
 ---

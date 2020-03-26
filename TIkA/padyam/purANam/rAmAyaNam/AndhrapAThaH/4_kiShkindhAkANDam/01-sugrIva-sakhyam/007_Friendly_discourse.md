@@ -1,5 +1,5 @@
 ---
-title: 007 Friendly discourse
+title: राम-सुग्रीवयोः परस्परं साहाय्यप्रतिज्ञा
 title_english: 007 Friendly discourse
 
 ---

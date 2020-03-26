@@ -1,5 +1,5 @@
 ---
-title: 021 Rama consoles angry Lakshmana
+title: लक्ष्मणस्य वीर्योक्तिः
 title_english: 021 Rama consoles angry Lakshmana
 
 ---

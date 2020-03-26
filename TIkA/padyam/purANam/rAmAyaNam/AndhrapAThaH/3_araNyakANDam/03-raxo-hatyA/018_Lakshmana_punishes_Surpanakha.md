@@ -1,5 +1,5 @@
 ---
-title: 018 Lakshmana punishes Surpanakha
+title: शूर्पणखाशासनम्
 title_english: 018 Lakshmana punishes Surpanakha
 
 ---

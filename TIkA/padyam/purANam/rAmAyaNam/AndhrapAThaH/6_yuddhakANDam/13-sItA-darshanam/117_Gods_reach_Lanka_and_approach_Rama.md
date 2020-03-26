@@ -1,5 +1,5 @@
 ---
-title: 117 Gods reach Lanka and approach Rama
+title: लङ्कां प्रति देवैः आगमनम्
 title_english: 117 Gods reach Lanka and approach Rama
 
 ---

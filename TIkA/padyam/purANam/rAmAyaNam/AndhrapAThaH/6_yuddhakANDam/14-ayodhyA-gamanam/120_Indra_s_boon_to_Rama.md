@@ -1,5 +1,5 @@
 ---
-title: 120 Indra s boon to Rama
+title: इन्द्रेण वरदानम्
 title_english: 120 Indra s boon to Rama
 
 ---

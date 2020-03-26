@@ -1,5 +1,5 @@
 ---
-title: 012 Dasaratha s reaction and Kaikeyi s adamant nature
+title: कैकेय्युपलम्भः
 title_english: 012 Dasaratha s reaction and Kaikeyi s adamant nature
 
 ---

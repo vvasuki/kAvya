@@ -1,5 +1,5 @@
 ---
-title: 059 Sampaati details Angada about Seetha
+title: सम्पातिना सीतावर्णनम्
 title_english: 059 Sampaati details Angada about Seetha
 
 ---

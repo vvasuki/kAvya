@@ -1,5 +1,5 @@
 ---
-title: 075 Rama and Lakshmana arrive at Pampa Lake
+title: राम-लक्ष्मणयोः पम्पादर्शनम्
 title_english: 075 Rama and Lakshmana arrive at Pampa Lake
 
 ---

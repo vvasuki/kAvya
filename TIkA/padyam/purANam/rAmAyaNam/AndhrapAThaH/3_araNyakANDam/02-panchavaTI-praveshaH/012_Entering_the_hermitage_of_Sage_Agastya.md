@@ -1,5 +1,5 @@
 ---
-title: 012 Entering the hermitage of Sage Agastya
+title: अगस्त्यदर्शनम्
 title_english: 012 Entering the hermitage of Sage Agastya
 
 ---

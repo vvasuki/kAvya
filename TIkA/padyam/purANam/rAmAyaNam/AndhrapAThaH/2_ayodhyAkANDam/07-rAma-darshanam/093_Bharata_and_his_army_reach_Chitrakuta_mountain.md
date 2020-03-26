@@ -1,5 +1,5 @@
 ---
-title: 093 Bharata and his army reach Chitrakuta mountain
+title: रामाश्रमदर्शनम्
 title_english: 093 Bharata and his army reach Chitrakuta mountain
 
 ---

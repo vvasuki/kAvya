@@ -1,5 +1,5 @@
 ---
-title: 086 Indrajit enters the battle filed again
+title: इन्द्रजिता पुनर्युद्धभूमिप्रवेशः
 title_english: 086 Indrajit enters the battle filed again
 
 ---

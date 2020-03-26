@@ -1,5 +1,5 @@
 ---
-title: 003 Hanuma meets Sri Rama
+title: हनुमता सुग्रीववृत्तान्तकथनम्
 title_english: 003 Hanuma meets Sri Rama
 
 ---

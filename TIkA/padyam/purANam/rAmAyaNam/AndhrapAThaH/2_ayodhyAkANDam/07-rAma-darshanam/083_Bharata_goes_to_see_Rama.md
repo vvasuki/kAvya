@@ -1,5 +1,5 @@
 ---
-title: 083 Bharata goes to see Rama
+title: शृङ्गिबेरपुरे भरतवासः
 title_english: 083 Bharata goes to see Rama
 
 ---

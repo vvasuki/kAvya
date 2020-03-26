@@ -1,5 +1,5 @@
 ---
-title: 059 Hanuma describes the plight of Seetha to his fellow monkeys
+title: हनुमता सीताशोकवर्णनम्
 title_english: 059 Hanuma describes the plight of Seetha to his fellow monkeys
 
 ---

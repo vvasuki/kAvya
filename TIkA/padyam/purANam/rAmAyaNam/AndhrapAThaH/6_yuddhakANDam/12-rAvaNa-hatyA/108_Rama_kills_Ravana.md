@@ -1,5 +1,5 @@
 ---
-title: 108 Rama kills Ravana
+title: रामेण रावणवधः
 title_english: 108 Rama kills Ravana
 
 ---

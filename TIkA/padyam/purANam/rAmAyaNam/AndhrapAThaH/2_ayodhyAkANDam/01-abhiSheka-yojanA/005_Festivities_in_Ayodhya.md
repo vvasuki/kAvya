@@ -1,5 +1,5 @@
 ---
-title: 005 Festivities in Ayodhya
+title: वसिष्ठकृतव्रतादेशः
 title_english: 005 Festivities in Ayodhya
 
 ---

@@ -1,5 +1,5 @@
 ---
-title: 084 Guha welcomes Bharata with drink of honey and meat
+title: गुह-भरतसंवादः
 title_english: 084 Guha welcomes Bharata with drink of honey and meat
 
 ---

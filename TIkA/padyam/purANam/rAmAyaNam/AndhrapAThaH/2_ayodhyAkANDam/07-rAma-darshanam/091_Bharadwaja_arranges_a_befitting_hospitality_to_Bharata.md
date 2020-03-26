@@ -1,5 +1,5 @@
 ---
-title: 091 Bharadwaja arranges a befitting hospitality to Bharata
+title: भरद्वाजकृतातिथ्यम्
 title_english: 091 Bharadwaja arranges a befitting hospitality to Bharata
 
 ---

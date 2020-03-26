@@ -1,5 +1,5 @@
 ---
-title: 062 Dadhimukha departs to Kishkindha
+title: दधिमुखेन किष्किन्धानिवर्तनम्
 title_english: 062 Dadhimukha departs to Kishkindha
 
 ---

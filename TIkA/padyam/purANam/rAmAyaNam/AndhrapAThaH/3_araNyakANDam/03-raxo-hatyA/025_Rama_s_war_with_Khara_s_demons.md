@@ -1,5 +1,5 @@
 ---
-title: 025 Rama s war with Khara s demons
+title: रामेण खरसैन्यसंहारः
 title_english: 025 Rama s war with Khara s demons
 
 ---

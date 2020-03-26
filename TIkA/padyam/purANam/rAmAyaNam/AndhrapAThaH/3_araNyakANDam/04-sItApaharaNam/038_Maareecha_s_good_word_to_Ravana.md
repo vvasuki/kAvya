@@ -1,5 +1,5 @@
 ---
-title: 038 Maareecha s good word to Ravana
+title: रामगुणवर्णनम्
 title_english: 038 Maareecha s good word to Ravana
 
 ---

@@ -1,5 +1,5 @@
 ---
-title: 076 Sugreeva kills Kumbha
+title: सुग्रीवेण कुम्भवधः
 title_english: 076 Sugreeva kills Kumbha
 
 ---

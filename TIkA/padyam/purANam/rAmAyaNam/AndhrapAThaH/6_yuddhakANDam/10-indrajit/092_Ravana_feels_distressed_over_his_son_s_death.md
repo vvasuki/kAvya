@@ -1,5 +1,5 @@
 ---
-title: 092 Ravana feels distressed over his son s death
+title: रावणेन पुत्रमरणशोकः
 title_english: 092 Ravana feels distressed over his son s death
 
 ---

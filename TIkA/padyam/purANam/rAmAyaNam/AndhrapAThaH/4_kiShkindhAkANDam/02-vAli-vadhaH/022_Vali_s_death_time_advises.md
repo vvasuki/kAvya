@@ -1,5 +1,5 @@
 ---
-title: 022 Vali s death time advises
+title: वालिमरणम्
 title_english: 022 Vali s death time advises
 
 ---

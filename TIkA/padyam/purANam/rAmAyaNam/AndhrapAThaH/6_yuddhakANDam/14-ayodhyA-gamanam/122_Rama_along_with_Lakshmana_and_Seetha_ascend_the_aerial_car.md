@@ -1,5 +1,5 @@
 ---
-title: 122 Rama along with Lakshmana and Seetha ascend the aerial car
+title: पुष्पकविमानेन रामादीनां प्रयाणम्
 title_english: 122 Rama along with Lakshmana and Seetha ascend the aerial car
 
 ---

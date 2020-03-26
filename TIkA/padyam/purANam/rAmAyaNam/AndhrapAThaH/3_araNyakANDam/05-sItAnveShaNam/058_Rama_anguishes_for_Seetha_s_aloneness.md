@@ -1,5 +1,5 @@
 ---
-title: 058 Rama anguishes for Seetha s aloneness
+title: रामशोकः
 title_english: 058 Rama anguishes for Seetha s aloneness
 
 ---

@@ -1,5 +1,5 @@
 ---
-title: 008 Dialogue with Sage Suteekshna
+title: दण्डकवननिष्क्रमणम्
 title_english: 008 Dialogue with Sage Suteekshna
 
 ---

@@ -1,5 +1,5 @@
 ---
-title: 040 Ravana rebuts Maareecha
+title: रावणकृतमारीचनिर्भर्त्सनम्
 title_english: 040 Ravana rebuts Maareecha
 
 ---

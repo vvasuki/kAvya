@@ -1,5 +1,5 @@
 ---
-title: 050 Garuda the King of Birds appears
+title: रामसमीपे गरुडागमनम्
 title_english: 050 Garuda the King of Birds appears
 
 ---

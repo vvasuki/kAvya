@@ -1,5 +1,5 @@
 ---
-title: 074 Hanuma s journey to Himalayas
+title: हनुमता हिमालयप्रयाणम्
 title_english: 074 Hanuma s journey to Himalayas
 
 ---

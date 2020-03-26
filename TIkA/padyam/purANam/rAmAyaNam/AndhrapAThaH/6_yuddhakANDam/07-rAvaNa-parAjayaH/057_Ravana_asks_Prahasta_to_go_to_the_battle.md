@@ -1,5 +1,5 @@
 ---
-title: 057 Ravana asks Prahasta to go to the battle
+title: रावण-प्रहस्तसंवादः
 title_english: 057 Ravana asks Prahasta to go to the battle
 
 ---

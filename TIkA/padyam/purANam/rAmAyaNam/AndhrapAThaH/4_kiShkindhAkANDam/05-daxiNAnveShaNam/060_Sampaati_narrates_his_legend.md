@@ -1,5 +1,5 @@
 ---
-title: 060 Sampaati narrates his legend
+title: सम्पातिना स्वकथानिरूपणम्
 title_english: 060 Sampaati narrates his legend
 
 ---

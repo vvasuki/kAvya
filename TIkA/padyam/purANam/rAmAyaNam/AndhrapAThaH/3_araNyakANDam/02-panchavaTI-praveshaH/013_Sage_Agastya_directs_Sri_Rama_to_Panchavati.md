@@ -1,5 +1,5 @@
 ---
-title: 013 Sage Agastya directs Sri Rama to Panchavati
+title: अगस्त्य-रामसंवादः
 title_english: 013 Sage Agastya directs Sri Rama to Panchavati
 
 ---

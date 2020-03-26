@@ -1,5 +1,5 @@
 ---
-title: 043 The duels arose between the monkeys and demons
+title: रक्षः-कपीनां युद्धम्
 title_english: 043 The duels arose between the monkeys and demons
 
 ---

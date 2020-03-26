@@ -1,5 +1,5 @@
 ---
-title: 006 Approach of Sages and Hermits
+title: रामस्य रक्षोवधप्रतिज्ञा
 title_english: 006 Approach of Sages and Hermits
 
 ---

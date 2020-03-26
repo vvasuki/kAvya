@@ -1,5 +1,5 @@
 ---
-title: 107 Rama and Ravana perform a fierce battle
+title: राम-रावणयोर्भीषणयुद्धः
 title_english: 107 Rama and Ravana perform a fierce battle
 
 ---

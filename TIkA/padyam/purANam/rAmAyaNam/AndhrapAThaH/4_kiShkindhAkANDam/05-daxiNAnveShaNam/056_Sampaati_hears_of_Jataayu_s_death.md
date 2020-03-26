@@ -1,5 +1,5 @@
 ---
-title: 056 Sampaati hears of Jataayu s death
+title: सम्पातिना वानरमुखात् जटायुमृत्युश्रवणम्
 title_english: 056 Sampaati hears of Jataayu s death
 
 ---

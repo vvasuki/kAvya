@@ -1,5 +1,5 @@
 ---
-title: 022 Rama tries to pacify Lakshmana further
+title: दैवप्रभावः
 title_english: 022 Rama tries to pacify Lakshmana further
 
 ---

@@ -1,5 +1,5 @@
 ---
-title: 036 Siddhartha tries to persuade Kaikeyi
+title: सिद्धार्थस्य कैकेय्युपदेशः
 title_english: 036 Siddhartha tries to persuade Kaikeyi
 
 ---
