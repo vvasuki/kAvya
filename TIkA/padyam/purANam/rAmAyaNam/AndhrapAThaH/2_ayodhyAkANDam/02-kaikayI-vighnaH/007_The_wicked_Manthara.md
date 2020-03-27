@@ -1,5 +1,5 @@
 ---
-title: 007 मन्थरामन्त्रणम्
+title: ००७ मन्थरामन्त्रणम्
 title_english: 007 The wicked Manthara
 
 ---

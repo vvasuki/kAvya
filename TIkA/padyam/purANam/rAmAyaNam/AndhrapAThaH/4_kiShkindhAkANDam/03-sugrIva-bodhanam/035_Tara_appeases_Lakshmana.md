@@ -1,5 +1,5 @@
 ---
-title: 035 तारया लक्ष्मणसान्त्वनम्
+title: ०३५ तारया लक्ष्मणसान्त्वनम्
 title_english: 035 Tara appeases Lakshmana
 
 ---

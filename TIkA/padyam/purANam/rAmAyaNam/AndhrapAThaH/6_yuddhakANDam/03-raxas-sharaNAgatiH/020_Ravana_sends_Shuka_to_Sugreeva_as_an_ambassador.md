@@ -1,5 +1,5 @@
 ---
-title: 020 रावणेन स्वामात्यशुकप्रेषणम्
+title: ०२० रावणेन स्वामात्यशुकप्रेषणम्
 title_english: 020 Ravana sends Shuka to Sugreeva as an ambassador
 
 ---

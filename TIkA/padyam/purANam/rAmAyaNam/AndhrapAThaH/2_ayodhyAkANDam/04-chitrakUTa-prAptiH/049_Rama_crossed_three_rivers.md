@@ -1,5 +1,5 @@
 ---
-title: 049 रामादिभिः गोमत्यादिनदीतरणम्
+title: ०४९ रामादिभिः गोमत्यादिनदीतरणम्
 title_english: 049 Rama crossed three rivers
 
 ---

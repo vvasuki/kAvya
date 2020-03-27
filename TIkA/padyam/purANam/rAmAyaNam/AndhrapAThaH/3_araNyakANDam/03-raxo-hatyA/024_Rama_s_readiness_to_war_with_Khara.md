@@ -1,5 +1,5 @@
 ---
-title: 024 रामस्य युद्धोद्योगः
+title: ०२४ रामस्य युद्धोद्योगः
 title_english: 024 Rama s readiness to war with Khara
 
 ---

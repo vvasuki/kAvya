@@ -1,5 +1,5 @@
 ---
-title: 101 दशरथनिर्याणकथनम्
+title: १०१ दशरथनिर्याणकथनम्
 title_english: 101 Bharata informs Rama about Dasaratha s death
 
 ---

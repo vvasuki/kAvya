@@ -1,5 +1,5 @@
 ---
-title: 006 अन्तःपुरवर्णनम्
+title: ००६ अन्तःपुरवर्णनम्
 title_english: 006 Inside the palace
 
 ---

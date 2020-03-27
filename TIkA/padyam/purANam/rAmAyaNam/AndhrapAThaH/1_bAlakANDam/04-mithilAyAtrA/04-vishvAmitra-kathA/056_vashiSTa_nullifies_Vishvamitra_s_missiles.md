@@ -1,9 +1,8 @@
 ---
-title: 056 वसिष्ठ-विश्वामित्र-सङ्घर्षः
+title: ०५६ वसिष्ठ-विश्वामित्र-सङ्घर्षः
 title_english: 056 vashiSTa nullifies Vishvamitra s missiles
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-056-Vasista_Vishvamitra_Sangarshaha_.mp3"></div>
 
 एवमुक्तो वसिष्ठेन विश्वामित्रो महाबलः।  

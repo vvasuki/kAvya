@@ -1,9 +1,8 @@
 ---
-title: 036 उमामाहत्यम्
+title: ०३६ उमामाहत्यम्
 title_english: 036 Legend of Uma and her curse
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-036-Uma_Mahathyam.mp3"></div>
 
 उक्तवाक्ये मुनौ तस्मिन्नुभौ राघवलक्ष्मणौ।  

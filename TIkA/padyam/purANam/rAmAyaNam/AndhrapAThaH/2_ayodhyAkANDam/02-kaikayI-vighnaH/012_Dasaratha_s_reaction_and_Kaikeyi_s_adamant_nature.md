@@ -1,5 +1,5 @@
 ---
-title: 012 कैकेय्युपलम्भः
+title: ०१२ कैकेय्युपलम्भः
 title_english: 012 Dasaratha s reaction and Kaikeyi s adamant nature
 
 ---

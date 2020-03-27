@@ -1,5 +1,5 @@
 ---
-title: 011 अगस्त्यमाहात्म्यम्
+title: ०११ अगस्त्यमाहात्म्यम्
 title_english: 011 Stories of Sages Mandakarani and Agastya
 
 ---

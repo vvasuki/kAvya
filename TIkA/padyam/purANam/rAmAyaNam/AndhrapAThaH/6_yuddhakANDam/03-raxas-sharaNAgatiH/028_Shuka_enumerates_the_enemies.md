@@ -1,5 +1,5 @@
 ---
-title: 028 शुकेन शत्रुसङ्ख्यागणनम्
+title: ०२८ शुकेन शत्रुसङ्ख्यागणनम्
 title_english: 028 Shuka enumerates the enemies
 
 ---

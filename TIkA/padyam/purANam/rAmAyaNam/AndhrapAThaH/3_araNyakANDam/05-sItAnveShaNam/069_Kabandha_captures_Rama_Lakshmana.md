@@ -1,5 +1,5 @@
 ---
-title: 069 अयोमुख्याः कर्णादिछेदः
+title: ०६९ अयोमुख्याः कर्णादिछेदः
 title_english: 069 Kabandha captures Rama Lakshmana
 
 ---

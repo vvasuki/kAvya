@@ -1,5 +1,5 @@
 ---
-title: 068 रावणशोकः
+title: ०६८ रावणशोकः
 title_english: 068 Ravana s grief over the deaths
 
 ---

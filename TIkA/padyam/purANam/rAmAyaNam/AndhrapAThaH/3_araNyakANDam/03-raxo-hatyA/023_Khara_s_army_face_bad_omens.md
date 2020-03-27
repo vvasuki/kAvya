@@ -1,5 +1,5 @@
 ---
-title: 023 खरेणोत्पातदर्शनम्
+title: ०२३ खरेणोत्पातदर्शनम्
 title_english: 023 Khara s army face bad omens
 
 ---

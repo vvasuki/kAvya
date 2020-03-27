@@ -1,5 +1,5 @@
 ---
-title: 048 रावणेन सीतानिर्भर्त्सनम्
+title: ०४८ रावणेन सीतानिर्भर्त्सनम्
 title_english: 048 Ravana tempts Seetha
 
 ---

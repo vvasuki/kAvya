@@ -1,5 +1,5 @@
 ---
-title: 006 रामेण सीता-आभरणदर्शनम्
+title: ००६ रामेण सीता-आभरणदर्शनम्
 title_english: 006 Sugreeva s narration of the abduction
 
 ---

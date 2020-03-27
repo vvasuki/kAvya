@@ -1,9 +1,8 @@
 ---
-title: 015 पुत्रकामेष्टिः रावणवधचिन्ता
+title: ०१५ पुत्रकामेष्टिः रावणवधचिन्ता
 title_english: 015 Rishyashringa officiates putrakAmeShTi ritual for dasharatha
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-015-Putrakaamesti_-_Raavana_Vadhayojanaa.mp3"></div>
 
 मेधावी तु ततो ध्यात्वा स किञ्चिदिदमुत्तरम्।  

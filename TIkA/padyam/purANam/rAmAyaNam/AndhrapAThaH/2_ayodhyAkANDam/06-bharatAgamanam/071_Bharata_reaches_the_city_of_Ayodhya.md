@@ -1,5 +1,5 @@
 ---
-title: 071 अयोध्यागमनम्
+title: ०७१ अयोध्यागमनम्
 title_english: 071 Bharata reaches the city of Ayodhya
 
 ---

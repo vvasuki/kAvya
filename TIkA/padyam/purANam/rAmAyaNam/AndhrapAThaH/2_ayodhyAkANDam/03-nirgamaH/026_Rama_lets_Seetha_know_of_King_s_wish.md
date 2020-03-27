@@ -1,5 +1,5 @@
 ---
-title: 026 सीता-रामयोर्संवादः
+title: ०२६ सीता-रामयोर्संवादः
 title_english: 026 Rama lets Seetha know of King s wish
 
 ---

@@ -1,5 +1,5 @@
 ---
-title: 042 राक्षसीभिः हनुमन्तं प्रति सीताप्रच्छनम्
+title: ०४२ राक्षसीभिः हनुमन्तं प्रति सीताप्रच्छनम्
 title_english: 042 Female demons enquires Seetha about Hanuma
 
 ---

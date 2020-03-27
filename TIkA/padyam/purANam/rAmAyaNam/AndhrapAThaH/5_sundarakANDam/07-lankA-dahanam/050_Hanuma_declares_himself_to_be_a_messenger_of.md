@@ -1,5 +1,5 @@
 ---
-title: 050 हनुमता रामदूतत्वोद्घोषणम्
+title: ०५० हनुमता रामदूतत्वोद्घोषणम्
 title_english: 050 Hanuma declares himself to be a messenger of
 
 ---

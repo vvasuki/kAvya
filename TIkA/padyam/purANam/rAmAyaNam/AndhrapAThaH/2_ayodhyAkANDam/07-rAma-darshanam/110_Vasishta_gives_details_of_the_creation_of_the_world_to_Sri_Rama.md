@@ -1,5 +1,5 @@
 ---
-title: 110 वसिष्ठसूचनम्
+title: ११० वसिष्ठसूचनम्
 title_english: 110 Vasishta gives details of the creation of the world to Sri Rama
 
 ---

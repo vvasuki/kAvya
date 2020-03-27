@@ -1,5 +1,5 @@
 ---
-title: 083 इन्द्रजिता मायासीताकृतिवधः
+title: ०८३ इन्द्रजिता मायासीताकृतिवधः
 title_english: 083 Seetha has been killed by Indrajit
 
 ---

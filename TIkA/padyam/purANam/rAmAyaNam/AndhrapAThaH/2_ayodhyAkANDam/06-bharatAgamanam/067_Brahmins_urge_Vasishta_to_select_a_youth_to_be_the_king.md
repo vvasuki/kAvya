@@ -1,5 +1,5 @@
 ---
-title: 067 अराजकदेशवर्णनम्
+title: ०६७ अराजकदेशवर्णनम्
 title_english: 067 Brahmins urge Vasishta to select a youth to be the king
 
 ---

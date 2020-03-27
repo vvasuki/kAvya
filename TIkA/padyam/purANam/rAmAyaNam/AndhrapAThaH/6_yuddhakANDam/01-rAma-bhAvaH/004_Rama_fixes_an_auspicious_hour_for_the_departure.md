@@ -1,5 +1,5 @@
 ---
-title: 004 रामेण लङ्काप्रस्थाने मुहूर्तनियोजनम्
+title: ००४ रामेण लङ्काप्रस्थाने मुहूर्तनियोजनम्
 title_english: 004 Rama fixes an auspicious hour for the departure
 
 ---

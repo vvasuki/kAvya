@@ -1,5 +1,5 @@
 ---
-title: 024 रामेण शुकनिर्बन्धनाज्ञा
+title: ०२४ रामेण शुकनिर्बन्धनाज्ञा
 title_english: 024 Rama orders for release of Suka
 
 ---

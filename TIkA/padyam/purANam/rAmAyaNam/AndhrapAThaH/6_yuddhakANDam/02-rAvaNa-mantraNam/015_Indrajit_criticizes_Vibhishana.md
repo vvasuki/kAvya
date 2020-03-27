@@ -1,5 +1,5 @@
 ---
-title: 015 इन्द्रजिद्-विभीषणसंवादः
+title: ०१५ इन्द्रजिद्-विभीषणसंवादः
 title_english: 015 Indrajit criticizes Vibhishana
 
 ---

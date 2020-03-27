@@ -1,5 +1,5 @@
 ---
-title: 105 राम-अगस्त्यसंवादः
+title: १०५ राम-अगस्त्यसंवादः
 title_english: 105 Sage Agastya s advice
 
 ---

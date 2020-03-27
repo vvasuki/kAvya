@@ -1,5 +1,5 @@
 ---
-title: 034 लक्ष्मणकृतं सुग्रीवतर्जनम्
+title: ०३४ लक्ष्मणकृतं सुग्रीवतर्जनम्
 title_english: 034 Lakshmana upbraids Sugreeva
 
 ---

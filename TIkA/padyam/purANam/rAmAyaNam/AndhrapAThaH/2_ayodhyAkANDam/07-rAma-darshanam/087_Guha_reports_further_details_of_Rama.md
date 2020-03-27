@@ -1,5 +1,5 @@
 ---
-title: 087 रामचरितप्रस्तावः
+title: ०८७ रामचरितप्रस्तावः
 title_english: 087 Guha reports further details of Rama
 
 ---

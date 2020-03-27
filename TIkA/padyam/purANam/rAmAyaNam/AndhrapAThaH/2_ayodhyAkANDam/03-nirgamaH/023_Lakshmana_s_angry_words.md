@@ -1,5 +1,5 @@
 ---
-title: 023 लक्ष्मणसान्त्वनम्
+title: ०२३ लक्ष्मणसान्त्वनम्
 title_english: 023 Lakshmana s angry words
 
 ---

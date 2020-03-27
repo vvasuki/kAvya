@@ -1,5 +1,5 @@
 ---
-title: 073 कैकेयीनिर्भर्त्सनम्
+title: ०७३ कैकेयीनिर्भर्त्सनम्
 title_english: 073 Bharata reproaches Kaikeyi in many ways
 
 ---

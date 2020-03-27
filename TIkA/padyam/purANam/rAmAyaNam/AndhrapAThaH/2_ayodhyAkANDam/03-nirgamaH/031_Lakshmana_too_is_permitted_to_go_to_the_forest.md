@@ -1,5 +1,5 @@
 ---
-title: 031 लक्ष्मणानुगमनम्
+title: ०३१ लक्ष्मणानुगमनम्
 title_english: 031 Lakshmana too is permitted to go to the forest
 
 ---

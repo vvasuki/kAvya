@@ -1,5 +1,5 @@
 ---
-title: 077 भरत-शत्रुघ्नविलापः
+title: ०७७ भरत-शत्रुघ्नविलापः
 title_english: 077 Bharata and Shatrughna grieve on cremation ground
 
 ---

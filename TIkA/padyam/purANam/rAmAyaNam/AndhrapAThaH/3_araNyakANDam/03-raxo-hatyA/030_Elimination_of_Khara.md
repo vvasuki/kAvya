@@ -1,5 +1,5 @@
 ---
-title: 030 खरवधः
+title: ०३० खरवधः
 title_english: 030 Elimination of Khara
 
 ---

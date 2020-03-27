@@ -1,5 +1,5 @@
 ---
-title: 113 भरतस्य प्रतिनिवर्तनम्
+title: ११३ भरतस्य प्रतिनिवर्तनम्
 title_english: 113 Keeping Rama s sandals on his head Bharata ascends his chariot
 
 ---

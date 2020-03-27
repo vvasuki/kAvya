@@ -1,9 +1,8 @@
 ---
-title: 052 वसिष्ठ-विश्वामित्र-संवादः
+title: ०५२ वसिष्ठ-विश्वामित्र-संवादः
 title_english: 052 he legend of Vishvamitra contd
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-052-_Vasista_Vishvamithrayoh_Samvadhaha_.mp3"></div>
 
 स दृष्ट्वा परमप्रीतो विश्वामित्रो महाबलः।  

@@ -1,5 +1,5 @@
 ---
-title: 114 अयोध्याप्रवेशः
+title: ११४ अयोध्याप्रवेशः
 title_english: 114 Bharata enters Ayodhya city
 
 ---

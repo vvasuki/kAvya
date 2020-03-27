@@ -1,5 +1,5 @@
 ---
-title: 066 रामसमाश्वासनम्
+title: ०६६ रामसमाश्वासनम्
 title_english: 066 Lakshmana s advisory words to Rama
 
 ---

@@ -1,9 +1,8 @@
 ---
-title: 043 गङ्गावतारः
+title: ०४३ गङ्गावतारः
 title_english: 043 River ganga s descent onto earth
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-043-GangavaTharanam.mp3"></div>
 
 देवदेवे गते तस्मिन् सोऽङ्गुष्ठाग्रनिपीडिताम्।  

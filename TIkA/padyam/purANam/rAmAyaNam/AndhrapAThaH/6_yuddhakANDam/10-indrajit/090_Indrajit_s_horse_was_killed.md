@@ -1,5 +1,5 @@
 ---
-title: 090 इन्द्रजिदश्वमरणम्
+title: ०९० इन्द्रजिदश्वमरणम्
 title_english: 090 Indrajit s horse was killed
 
 ---

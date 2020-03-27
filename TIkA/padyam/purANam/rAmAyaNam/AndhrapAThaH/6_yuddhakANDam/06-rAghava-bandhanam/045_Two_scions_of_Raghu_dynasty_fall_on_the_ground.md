@@ -1,5 +1,5 @@
 ---
-title: '045 राघव-इन्द्रजिद्युद्धम् '
+title: '०४५ राघव-इन्द्रजिद्युद्धम् '
 title_english: 045 Two scions of Raghu dynasty fall on the ground
 
 ---

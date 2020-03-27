@@ -1,5 +1,5 @@
 ---
-title: 098 अङ्गदेन महापार्श्ववधः
+title: ०९८ अङ्गदेन महापार्श्ववधः
 title_english: 098 Angada kills Mahaparsva
 
 ---

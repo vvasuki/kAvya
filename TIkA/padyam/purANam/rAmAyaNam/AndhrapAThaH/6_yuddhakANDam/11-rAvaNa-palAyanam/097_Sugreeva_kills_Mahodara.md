@@ -1,5 +1,5 @@
 ---
-title: 097 सुग्रीवेण महोदरवधः
+title: ०९७ सुग्रीवेण महोदरवधः
 title_english: 097 Sugreeva kills Mahodara
 
 ---

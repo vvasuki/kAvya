@@ -1,9 +1,8 @@
 ---
-title: 057 त्रिशङ्कोर् यजनप्रार्थना
+title: ०५७ त्रिशङ्कोर् यजनप्रार्थना
 title_english: 057 The Legend of trishanku
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-057-Thrishamkoryajana_Pradhana.mp3"></div>
 
 ततः सन्तप्तहृदयः स्मरन् निग्रहमात्मनः।  

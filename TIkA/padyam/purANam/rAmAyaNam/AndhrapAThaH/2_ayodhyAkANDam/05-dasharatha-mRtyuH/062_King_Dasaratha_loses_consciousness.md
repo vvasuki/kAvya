@@ -1,5 +1,5 @@
 ---
-title: 062 कौसल्याकृतदशरथसान्त्वनम्
+title: ०६२ कौसल्याकृतदशरथसान्त्वनम्
 title_english: 062 King Dasaratha loses consciousness
 
 ---

@@ -1,5 +1,5 @@
 ---
-title: 047 अक्षकुमारवधः
+title: ०४७ अक्षकुमारवधः
 title_english: 047 Ravana sends his son Aksha
 
 ---

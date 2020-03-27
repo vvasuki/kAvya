@@ -1,5 +1,5 @@
 ---
-title: 069 जनक-दशरथ-संवादः
+title: ०६९ जनक-दशरथ-संवादः
 title_english: 069 dasharatha arrives at mithila
 
 ---

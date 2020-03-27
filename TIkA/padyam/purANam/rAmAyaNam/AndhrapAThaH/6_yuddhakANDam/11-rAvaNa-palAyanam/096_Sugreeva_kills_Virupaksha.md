@@ -1,5 +1,5 @@
 ---
-title: 096 सुग्रीवेण विरूपाक्षवधः
+title: ०९६ सुग्रीवेण विरूपाक्षवधः
 title_english: 096 Sugreeva kills Virupaksha
 
 ---

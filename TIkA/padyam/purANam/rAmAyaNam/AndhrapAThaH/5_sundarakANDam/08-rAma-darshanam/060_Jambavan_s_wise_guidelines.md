@@ -1,5 +1,5 @@
 ---
-title: 060 जाम्बवता मार्गदर्शनम्
+title: ०६० जाम्बवता मार्गदर्शनम्
 title_english: 060 Jambavan s wise guidelines
 
 ---

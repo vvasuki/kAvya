@@ -1,5 +1,5 @@
 ---
-title: 106 राम-मातलिसंवादः
+title: १०६ राम-मातलिसंवादः
 title_english: 106 Rama spoke to Matali
 
 ---

@@ -1,5 +1,5 @@
 ---
-title: 024 रामं प्रति कौसल्योपदेशः
+title: ०२४ रामं प्रति कौसल्योपदेशः
 title_english: 024 Rama obtains Kausalya s permission
 
 ---

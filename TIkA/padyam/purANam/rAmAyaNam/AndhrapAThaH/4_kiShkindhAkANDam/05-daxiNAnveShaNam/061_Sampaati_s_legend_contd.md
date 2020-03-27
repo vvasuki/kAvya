@@ -1,5 +1,5 @@
 ---
-title: 061 सम्पातिना स्वकथानिरूपणम्
+title: ०६१ सम्पातिना स्वकथानिरूपणम्
 title_english: 061 Sampaati s legend contd
 
 ---

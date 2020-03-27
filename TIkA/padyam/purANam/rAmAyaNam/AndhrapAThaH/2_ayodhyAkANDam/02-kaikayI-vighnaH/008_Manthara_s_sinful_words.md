@@ -1,5 +1,5 @@
 ---
-title: 008 मन्थरादुर्बोधः
+title: ००८ मन्थरादुर्बोधः
 title_english: 008 Manthara s sinful words
 
 ---

@@ -1,5 +1,5 @@
 ---
-title: 025 कौसल्याशीर्वचनम्
+title: ०२५ कौसल्याशीर्वचनम्
 title_english: 025 Kausalya bids farewell to Rama
 
 ---

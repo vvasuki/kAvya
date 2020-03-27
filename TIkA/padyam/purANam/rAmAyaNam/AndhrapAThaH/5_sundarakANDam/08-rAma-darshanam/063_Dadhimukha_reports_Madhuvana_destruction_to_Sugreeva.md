@@ -1,5 +1,5 @@
 ---
-title: 063 सुग्रीव-दधिमुखसंवादः
+title: ०६३ सुग्रीव-दधिमुखसंवादः
 title_english: 063 Dadhimukha reports Madhuvana destruction to Sugreeva
 
 ---

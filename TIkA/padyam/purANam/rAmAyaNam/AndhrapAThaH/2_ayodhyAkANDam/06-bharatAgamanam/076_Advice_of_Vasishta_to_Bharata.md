@@ -1,5 +1,5 @@
 ---
-title: 076 दशरथस्य और्ध्वदेहिकम्
+title: ०७६ दशरथस्य और्ध्वदेहिकम्
 title_english: 076 Advice of Vasishta to Bharata
 
 ---

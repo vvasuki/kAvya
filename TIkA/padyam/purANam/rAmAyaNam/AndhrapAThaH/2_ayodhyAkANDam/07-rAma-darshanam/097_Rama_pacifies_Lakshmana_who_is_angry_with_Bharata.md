@@ -1,5 +1,5 @@
 ---
-title: 097 रामेण लक्ष्मणपरिसान्त्वनम्
+title: ०९७ रामेण लक्ष्मणपरिसान्त्वनम्
 title_english: 097 Rama pacifies Lakshmana who is angry with Bharata
 
 ---

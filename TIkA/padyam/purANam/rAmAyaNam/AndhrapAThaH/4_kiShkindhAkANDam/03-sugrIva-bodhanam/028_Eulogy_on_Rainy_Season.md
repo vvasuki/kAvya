@@ -1,5 +1,5 @@
 ---
-title: 028 प्रावृड्वर्णनम्
+title: ०२८ प्रावृड्वर्णनम्
 title_english: 028 Eulogy on Rainy Season
 
 ---

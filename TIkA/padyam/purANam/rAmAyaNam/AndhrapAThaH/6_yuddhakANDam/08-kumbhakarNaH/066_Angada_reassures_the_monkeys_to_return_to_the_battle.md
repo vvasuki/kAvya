@@ -1,5 +1,5 @@
 ---
-title: 066 अङ्गदेन युद्धार्थं कपिप्रोत्साहः
+title: ०६६ अङ्गदेन युद्धार्थं कपिप्रोत्साहः
 title_english: 066 Angada reassures the monkeys to return to the battle
 
 ---

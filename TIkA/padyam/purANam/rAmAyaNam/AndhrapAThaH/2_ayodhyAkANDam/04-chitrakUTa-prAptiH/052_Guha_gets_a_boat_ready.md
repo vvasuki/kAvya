@@ -1,5 +1,5 @@
 ---
-title: 052 गङ्गातरणम्-सुमन्त्रविसर्जनं च
+title: ०५२ गङ्गातरणम्-सुमन्त्रविसर्जनं च
 title_english: 052 Guha gets a boat ready
 
 ---

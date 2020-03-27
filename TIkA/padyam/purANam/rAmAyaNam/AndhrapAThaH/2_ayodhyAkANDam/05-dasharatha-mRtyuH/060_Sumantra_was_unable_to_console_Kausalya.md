@@ -1,5 +1,5 @@
 ---
-title: 060 सुमन्त्रकृतकौसल्यासान्त्वनम्
+title: ०६० सुमन्त्रकृतकौसल्यासान्त्वनम्
 title_english: 060 Sumantra was unable to console Kausalya
 
 ---
