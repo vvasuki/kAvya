@@ -1,5 +1,5 @@
 ---
-title: 009 सुग्रीवेण वैरकारणकथनम्
+title: ००९ सुग्रीवेण वैरकारणकथनम्
 title_english: 009 The strength of Vali
 
 ---

@@ -1,5 +1,5 @@
 ---
-title: 003 अभिषेकसम्भारसङ्ग्रहणम्
+title: ००३ अभिषेकसम्भारसङ्ग्रहणम्
 title_english: 003 Preparing for the Ceremony
 
 ---

@@ -1,10 +1,9 @@
 ---
-title: 019 विश्वामित्रकृत-रामयाचना
+title: ०१९ विश्वामित्रकृत-रामयाचना
 title_english: 019 Sage vishvamitra s arrival to take rAma along with him to guard
   ritual
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-019-Vishvamitrakrutha_Ramayaachana.mp3"></div>
 
   

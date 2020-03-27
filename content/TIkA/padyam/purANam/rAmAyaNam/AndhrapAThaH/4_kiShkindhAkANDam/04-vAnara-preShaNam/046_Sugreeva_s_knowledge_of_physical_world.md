@@ -1,5 +1,5 @@
 ---
-title: 046 दुन्दुभिवृत्तान्तः
+title: ०४६ दुन्दुभिवृत्तान्तः
 title_english: 046 Sugreeva s knowledge of physical world
 
 ---

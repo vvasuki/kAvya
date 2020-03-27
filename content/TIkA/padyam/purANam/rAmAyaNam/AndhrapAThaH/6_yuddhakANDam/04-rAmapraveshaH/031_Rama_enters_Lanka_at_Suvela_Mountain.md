@@ -1,5 +1,5 @@
 ---
-title: 031 रामेण सुवेलपर्वतप्रवेशः
+title: ०३१ रामेण सुवेलपर्वतप्रवेशः
 title_english: 031 Rama enters Lanka at Suvela Mountain
 
 ---

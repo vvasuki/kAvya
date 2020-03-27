@@ -1,5 +1,5 @@
 ---
-title: 086 गुहेन रामवृत्तान्तकथनम्
+title: ०८६ गुहेन रामवृत्तान्तकथनम्
 title_english: 086 Guha narrates Bharata about Rama s stay
 
 ---

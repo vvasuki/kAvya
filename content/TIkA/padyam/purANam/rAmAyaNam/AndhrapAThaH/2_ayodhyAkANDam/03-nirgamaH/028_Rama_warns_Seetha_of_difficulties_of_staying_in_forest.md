@@ -1,5 +1,5 @@
 ---
-title: 028 वनवासदुःखवर्णनम्
+title: ०२८ वनवासदुःखवर्णनम्
 title_english: 028 Rama warns Seetha of difficulties of staying in forest
 
 ---

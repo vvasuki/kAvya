@@ -1,5 +1,5 @@
 ---
-title: 042 मारीचेन स्वर्णमृगरूपधारणम्
+title: ०४२ मारीचेन स्वर्णमृगरूपधारणम्
 title_english: 042 Maareecha turns into Golden Deer
 
 ---

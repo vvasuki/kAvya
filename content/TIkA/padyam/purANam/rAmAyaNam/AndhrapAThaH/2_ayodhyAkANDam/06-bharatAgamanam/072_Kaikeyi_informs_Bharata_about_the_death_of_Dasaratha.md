@@ -1,5 +1,5 @@
 ---
-title: 072 भरतविलापः
+title: ०७२ भरतविलापः
 title_english: 072 Kaikeyi informs Bharata about the death of Dasaratha
 
 ---

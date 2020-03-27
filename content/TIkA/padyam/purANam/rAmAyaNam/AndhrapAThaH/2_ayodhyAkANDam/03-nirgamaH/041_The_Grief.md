@@ -1,5 +1,5 @@
 ---
-title: 041 प्रजाशोकवर्णनम्
+title: ०४१ प्रजाशोकवर्णनम्
 title_english: 041 The Grief
 
 ---

@@ -1,5 +1,5 @@
 ---
-title: 032 हनुमन्तं वीक्ष्य सीतायाः भयम्
+title: ०३२ हनुमन्तं वीक्ष्य सीतायाः भयम्
 title_english: 032 Seetha is shocked to see Hanuma
 
 ---

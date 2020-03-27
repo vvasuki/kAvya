@@ -1,5 +1,5 @@
 ---
-title: 005 राम-सुग्रीवसख्यम्
+title: ००५ राम-सुग्रीवसख्यम्
 title_english: 005 Oath of friendship
 
 ---

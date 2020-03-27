@@ -1,5 +1,5 @@
 ---
-title: 054 हनुमता-अङ्गदोपदेशः
+title: ०५४ हनुमता-अङ्गदोपदेशः
 title_english: 054 Hanuma advises Angada
 
 ---

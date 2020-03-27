@@ -1,5 +1,5 @@
 ---
-title: 014 विभीषणेन रामबाणशक्तिवर्णनम्
+title: ०१४ विभीषणेन रामबाणशक्तिवर्णनम्
 title_english: 014 Vibhishana informs about the power of Rama s arrow
 
 ---

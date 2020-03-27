@@ -1,5 +1,5 @@
 ---
-title: 104 रामकौसल्यादीनां संभाषणम्
+title: १०४ रामकौसल्यादीनां संभाषणम्
 title_english: 104 Vasishta advances to the hermitage of Rama
 
 ---

@@ -1,5 +1,5 @@
 ---
-title: 062 कुम्भकर्णेन रावणान्तःपुरप्रवेशः
+title: ०६२ कुम्भकर्णेन रावणान्तःपुरप्रवेशः
 title_english: 062 Kumbhakarna enters the abode of Ravana
 
 ---

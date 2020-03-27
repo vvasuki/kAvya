@@ -1,5 +1,5 @@
 ---
-title: 024 सीता-राक्षसीसंवादः
+title: ०२४ सीता-राक्षसीसंवादः
 title_english: 024 Seetha s reply to Ogres
 
 ---

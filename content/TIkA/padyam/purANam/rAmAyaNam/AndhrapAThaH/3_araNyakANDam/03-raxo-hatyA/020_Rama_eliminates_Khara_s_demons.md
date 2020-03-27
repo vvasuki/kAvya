@@ -1,5 +1,5 @@
 ---
-title: 020 चतुर्दश खरामात्यवधः
+title: ०२० चतुर्दश खरामात्यवधः
 title_english: 020 Rama eliminates Khara s demons
 
 ---

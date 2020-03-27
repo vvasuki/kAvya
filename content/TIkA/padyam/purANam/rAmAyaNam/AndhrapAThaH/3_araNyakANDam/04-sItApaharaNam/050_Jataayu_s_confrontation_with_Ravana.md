@@ -1,5 +1,5 @@
 ---
-title: 050 जटायुकृतरावणनिरोधः
+title: ०५० जटायुकृतरावणनिरोधः
 title_english: 050 Jataayu s confrontation with Ravana
 
 ---

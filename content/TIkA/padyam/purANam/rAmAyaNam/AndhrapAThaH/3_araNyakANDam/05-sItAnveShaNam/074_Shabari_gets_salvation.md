@@ -1,5 +1,5 @@
 ---
-title: 074 शबरीकथा
+title: ०७४ शबरीकथा
 title_english: 074 Shabari gets salvation
 
 ---

@@ -1,5 +1,5 @@
 ---
-title: 054 भरद्वाजाश्रमगमनम्
+title: ०५४ भरद्वाजाश्रमगमनम्
 title_english: 054 The hermitage of Bharadwaja
 
 ---

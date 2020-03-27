@@ -1,5 +1,5 @@
 ---
-title: 043 स्वर्णमृगग्रहणर्थं रामगमनम्
+title: ०४३ स्वर्णमृगग्रहणर्थं रामगमनम्
 title_english: 043 Lure of the Golden Deer
 
 ---

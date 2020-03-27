@@ -1,5 +1,5 @@
 ---
-title: 025 शुकेन रावणाय रामसैन्यबलवर्णनम्
+title: ०२५ शुकेन रावणाय रामसैन्यबलवर्णनम्
 title_english: 025 Suka explains the strength of the enemy s army to Ravana
 
 ---

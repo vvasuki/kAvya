@@ -1,5 +1,5 @@
 ---
-title: 036 सुग्रीवकृतं लक्ष्मणसमाश्वासनम्
+title: ०३६ सुग्रीवकृतं लक्ष्मणसमाश्वासनम्
 title_english: 036 Sugreeva s apology pacifies Lakshmana
 
 ---

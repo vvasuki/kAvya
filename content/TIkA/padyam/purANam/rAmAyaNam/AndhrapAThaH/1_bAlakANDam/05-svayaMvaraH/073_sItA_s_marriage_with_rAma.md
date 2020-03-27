@@ -1,5 +1,5 @@
 ---
-title: 073 सीतारामविवाहः
+title: ०७३ सीतारामविवाहः
 title_english: 073 sItha s marriage with rAma
 
 ---

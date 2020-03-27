@@ -1,5 +1,5 @@
 ---
-title: 084 विभीषणेन इन्द्रजिद्रहस्यभेदनम्
+title: ०८४ विभीषणेन इन्द्रजिद्रहस्यभेदनम्
 title_english: 084 Vibhishana tells the secret of conjuring trick
 
 ---

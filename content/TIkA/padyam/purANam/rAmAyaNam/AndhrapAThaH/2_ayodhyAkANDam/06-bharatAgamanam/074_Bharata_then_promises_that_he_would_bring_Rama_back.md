@@ -1,5 +1,5 @@
 ---
-title: 074 कैकेयीगर्हणम्
+title: ०७४ कैकेयीगर्हणम्
 title_english: 074 Bharata then promises that he would bring Rama back
 
 ---

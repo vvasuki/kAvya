@@ -1,5 +1,5 @@
 ---
-title: 056 चित्रकूटदर्शनम्
+title: ०५६ चित्रकूटदर्शनम्
 title_english: 056 The Chitrakuta Mountain
 
 ---

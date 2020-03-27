@@ -1,5 +1,5 @@
 ---
-title: 046 पौरान् विहाय रामादीनां गमनम्
+title: ०४६ पौरान् विहाय रामादीनां गमनम्
 title_english: 046 Rama passes the night on the banks of Tamasa river
 
 ---

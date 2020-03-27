@@ -1,5 +1,5 @@
 ---
-title: 060 राम-लक्ष्मणयोः पर्णशाला-आगमनम्
+title: ०६० राम-लक्ष्मणयोः पर्णशाला-आगमनम्
 title_english: 060 Rama laments for Seetha s separation
 
 ---

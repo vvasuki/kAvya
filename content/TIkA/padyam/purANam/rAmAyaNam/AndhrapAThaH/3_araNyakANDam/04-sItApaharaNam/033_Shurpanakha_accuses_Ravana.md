@@ -1,5 +1,5 @@
 ---
-title: 033 रावणनिर्भर्त्सनम्
+title: ०३३ रावणनिर्भर्त्सनम्
 title_english: 033 Shurpanakha accuses Ravana
 
 ---

@@ -1,5 +1,5 @@
 ---
-title: 109 जाबालिमतनिराकरणम्
+title: १०९ जाबालिमतनिराकरणम्
 title_english: 109 Rama refutes the atheistic arguments of Jabali
 
 ---

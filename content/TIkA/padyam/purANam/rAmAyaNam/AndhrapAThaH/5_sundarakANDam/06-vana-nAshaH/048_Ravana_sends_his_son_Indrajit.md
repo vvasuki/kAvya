@@ -1,5 +1,5 @@
 ---
-title: '048 हनुमद्-इन्द्रजिद्युद्धम् '
+title: '०४८ हनुमद्-इन्द्रजिद्युद्धम् '
 title_english: 048 Ravana sends his son Indrajit
 
 ---

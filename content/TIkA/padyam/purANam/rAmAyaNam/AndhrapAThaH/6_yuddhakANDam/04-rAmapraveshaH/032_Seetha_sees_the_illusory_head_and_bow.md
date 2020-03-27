@@ -1,5 +1,5 @@
 ---
-title: 032 रावणेन सीतायाः मायिकरामशिर आदिप्रदर्शनम्
+title: ०३२ रावणेन सीतायाः मायिकरामशिर आदिप्रदर्शनम्
 title_english: 032 Seetha sees the illusory head and bow
 
 ---

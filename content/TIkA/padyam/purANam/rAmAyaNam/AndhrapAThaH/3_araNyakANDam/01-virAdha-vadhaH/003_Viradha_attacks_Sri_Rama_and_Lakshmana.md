@@ -1,5 +1,5 @@
 ---
-title: 003 राम-विराधयुद्धम्
+title: ००३ राम-विराधयुद्धम्
 title_english: 003 Viradha attacks Sri Rama and Lakshmana
 
 ---

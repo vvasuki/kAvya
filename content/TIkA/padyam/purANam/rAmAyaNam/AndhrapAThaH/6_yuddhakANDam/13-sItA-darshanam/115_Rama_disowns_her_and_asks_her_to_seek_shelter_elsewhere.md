@@ -1,5 +1,5 @@
 ---
-title: 115 रामेण सीतातिरस्कारः
+title: ११५ रामेण सीतातिरस्कारः
 title_english: 115 Rama disowns her and asks her to seek shelter elsewhere
 
 ---

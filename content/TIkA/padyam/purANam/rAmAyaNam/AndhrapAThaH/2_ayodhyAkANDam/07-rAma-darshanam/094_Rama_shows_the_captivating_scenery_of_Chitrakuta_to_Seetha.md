@@ -1,5 +1,5 @@
 ---
-title: 094 चित्रकूटे सीतारामसंवादः
+title: ०९४ चित्रकूटे सीतारामसंवादः
 title_english: 094 Rama shows the captivating scenery of Chitrakuta to Seetha
 
 ---

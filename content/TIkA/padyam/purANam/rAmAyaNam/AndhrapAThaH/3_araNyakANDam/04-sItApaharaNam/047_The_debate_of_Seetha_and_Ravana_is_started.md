@@ -1,5 +1,5 @@
 ---
-title: 047 रावणेन स्वैश्वर्यकथनम्
+title: ०४७ रावणेन स्वैश्वर्यकथनम्
 title_english: 047 The debate of Seetha and Ravana is started
 
 ---

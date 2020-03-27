@@ -1,9 +1,8 @@
 ---
-title: 018 रामजन्म
+title: ०१८ रामजन्म
 title_english: 018 Rama Bharata Lakshmana and Shatrughna took births
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-018-Rama_Janma.mp3"></div>
 
 निर्वृत्ते तु क्रतौ तस्मिन् हयमेधे महात्मनः।  

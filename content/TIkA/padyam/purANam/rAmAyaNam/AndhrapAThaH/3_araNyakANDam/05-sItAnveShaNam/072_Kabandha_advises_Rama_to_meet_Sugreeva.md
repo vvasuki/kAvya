@@ -1,5 +1,5 @@
 ---
-title: 072 सीताप्राप्त्युपायकथनम्
+title: ०७२ सीताप्राप्त्युपायकथनम्
 title_english: 072 Kabandha advises Rama to meet Sugreeva
 
 ---

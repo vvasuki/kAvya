@@ -1,5 +1,5 @@
 ---
-title: 118 अग्निदेवेन लङ्कागमनम्
+title: ११८ अग्निदेवेन लङ्कागमनम्
 title_english: 118 The fire god appears in person from the burning pyre
 
 ---

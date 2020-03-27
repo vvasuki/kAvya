@@ -1,5 +1,5 @@
 ---
-title: 042 दशरथविलापः
+title: ०४२ दशरथविलापः
 title_english: 042 Dasaratha feels dejected
 
 ---

@@ -1,5 +1,5 @@
 ---
-title: 024 सुग्रीवविलापः-तारासान्त्वनं च
+title: ०२४ सुग्रीवविलापः-तारासान्त्वनं च
 title_english: 024 Tara Sugreeva s resolve to die with Valii
 
 ---

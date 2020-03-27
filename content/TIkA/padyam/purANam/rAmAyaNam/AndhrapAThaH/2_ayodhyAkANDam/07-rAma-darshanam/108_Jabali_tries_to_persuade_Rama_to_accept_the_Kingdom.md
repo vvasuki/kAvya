@@ -1,5 +1,5 @@
 ---
-title: 108 जाबालेः राजनीतिः
+title: १०८ जाबालेः राजनीतिः
 title_english: 108 Jabali tries to persuade Rama to accept the Kingdom
 
 ---

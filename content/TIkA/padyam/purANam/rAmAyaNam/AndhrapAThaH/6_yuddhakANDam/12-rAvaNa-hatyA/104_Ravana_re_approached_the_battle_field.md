@@ -1,5 +1,5 @@
 ---
-title: 104 रावणस्य पुनरागमनम्
+title: १०४ रावणस्य पुनरागमनम्
 title_english: 104 Ravana re approached the battle field
 
 ---

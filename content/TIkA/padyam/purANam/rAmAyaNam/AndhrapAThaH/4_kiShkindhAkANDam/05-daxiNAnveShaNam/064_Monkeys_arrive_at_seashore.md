@@ -1,5 +1,5 @@
 ---
-title: 064 वानरैः सागरतीरगमनम्
+title: ०६४ वानरैः सागरतीरगमनम्
 title_english: 064 Monkeys arrive at seashore
 
 ---

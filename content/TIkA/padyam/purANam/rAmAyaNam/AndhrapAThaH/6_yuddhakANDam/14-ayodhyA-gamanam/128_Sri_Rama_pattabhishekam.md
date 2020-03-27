@@ -1,5 +1,5 @@
 ---
-title: 128 श्रीरामपट्टाभिषेकः
+title: १२८ श्रीरामपट्टाभिषेकः
 title_english: 128 Sri Rama pattabhishekam
 
 ---

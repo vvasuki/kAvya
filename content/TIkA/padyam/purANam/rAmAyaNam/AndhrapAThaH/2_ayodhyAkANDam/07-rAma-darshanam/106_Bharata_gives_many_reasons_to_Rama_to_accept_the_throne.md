@@ -1,5 +1,5 @@
 ---
-title: 106 राज्यस्वीकारार्थं पुनर्याचना
+title: १०६ राज्यस्वीकारार्थं पुनर्याचना
 title_english: 106 Bharata gives many reasons to Rama to accept the throne
 
 ---

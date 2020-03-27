@@ -1,5 +1,5 @@
 ---
-title: 027 त्रिजटास्वप्नः
+title: ०२७ त्रिजटास्वप्नः
 title_english: 027 Trijata s dream
 
 ---

@@ -1,5 +1,5 @@
 ---
-title: 016 रावणेन विभीषणवचननिराकरणम्
+title: ०१६ रावणेन विभीषणवचननिराकरणम्
 title_english: 016 Ravana refuses to hear the words of Vibhishana
 
 ---

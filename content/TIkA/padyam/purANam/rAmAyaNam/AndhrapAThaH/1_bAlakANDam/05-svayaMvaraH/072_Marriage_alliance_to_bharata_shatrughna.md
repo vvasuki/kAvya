@@ -1,5 +1,5 @@
 ---
-title: 072 कन्यादानं गोदानञ्च
+title: ०७२ कन्यादानं गोदानञ्च
 title_english: 072 Marriage alliance to bharata shatrughna
 
 ---

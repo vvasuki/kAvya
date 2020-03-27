@@ -1,5 +1,5 @@
 ---
-title: 072 रावणेन-अतिकायमरणशोकः
+title: ०७२ रावणेन-अतिकायमरणशोकः
 title_english: 072 Ravana s grief over Atikaya s death
 
 ---

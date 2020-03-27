@@ -1,5 +1,5 @@
 ---
-title: 042 रामेण युद्धादेशः
+title: ०४२ रामेण युद्धादेशः
 title_english: 042 Ravana commands his army to commence combat
 
 ---

@@ -1,5 +1,5 @@
 ---
-title: 043 उदीचीं प्रति शतबलिप्रेषणम्
+title: ०४३ उदीचीं प्रति शतबलिप्रेषणम्
 title_english: 043 Sugreeva sends troops to north
 
 ---

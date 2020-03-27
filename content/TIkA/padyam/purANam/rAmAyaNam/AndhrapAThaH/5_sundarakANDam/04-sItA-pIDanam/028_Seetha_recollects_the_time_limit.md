@@ -1,5 +1,5 @@
 ---
-title: 028 सीतया रावणवाक्यमननम्
+title: ०२८ सीतया रावणवाक्यमननम्
 title_english: 028 Seetha recollects the time limit
 
 ---
