@@ -1,5 +1,5 @@
 ---
-title: +आन्ध्रपाठः
+title: +आन्ध्रद्राविडपाठौ
 unicode_script: devanagari
 
 ---
