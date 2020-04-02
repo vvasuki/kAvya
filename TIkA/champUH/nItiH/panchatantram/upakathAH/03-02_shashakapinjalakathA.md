@@ -1,8 +1,6 @@
 ---
 title: ०३-०२ शशकपिञ्जलकथा
 unicode_script: devanagari
-
-practice_weight: 0
 ---
 
 क्षुद्रमर्थपतिं प्राप्य न्यायान्वेषणतत्परौ ।  

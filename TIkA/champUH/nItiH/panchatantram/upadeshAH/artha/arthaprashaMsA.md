@@ -1,8 +1,6 @@
 ---
 title: अर्थप्रशंसा
 unicode_script: devanagari
-
-practice_weight: 0
 ---
 
 न हि तद्विद्यते किंचिद् यदर्थेन न सिध्यति ।  

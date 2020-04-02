@@ -1,8 +1,6 @@
 ---
 title: ०३-१४ स्वर्णष्ठीवीसिन्धुकपक्षीकथा
 unicode_script: devanagari
-
-practice_weight: 0
 ---
 
 पूर्वं तावदहं मूर्खो द्वितीयः पशुबन्धकः ।  

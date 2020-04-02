@@ -1,8 +1,6 @@
 ---
 title: ०१-०६ वायसदम्पतीकथा
 unicode_script: devanagari
-
-practice_weight: 0
 ---
 
 उपायेन हि यच्छक्यं न तच्छक्यं पराक्रमैः ।  

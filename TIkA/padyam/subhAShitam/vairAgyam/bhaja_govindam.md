@@ -1,7 +1,6 @@
 ---
 title: भज गोविन्दम्
 unicode_script: devanagari
-practice_weight: 0
 ---
 
 भज गोविन्दं भज गोविन्दं  

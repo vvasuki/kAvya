@@ -1,8 +1,6 @@
 ---
 title: ०१-१६ वज्रदंष्ट्रनामसिंहकथा
 unicode_script: devanagari
-
-practice_weight: 0
 ---
 
 परस्य पीडनं कुर्वन् स्वार्थसिद्धिं च पण्डितः ।  

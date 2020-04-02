@@ -1,8 +1,6 @@
 ---
 title: ०३-१५ खरनखरसिंहकथा
 unicode_script: devanagari
-
-practice_weight: 0
 ---
 अनागतं यः कुरुते स शोभते  
 स शोचते यो न करोत्यनागतम् ।  

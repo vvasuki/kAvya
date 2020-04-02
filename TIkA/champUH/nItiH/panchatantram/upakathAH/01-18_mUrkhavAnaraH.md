@@ -1,8 +1,6 @@
 ---
 title: ०१-१८ मूर्खवानरः
 unicode_script: devanagari
-
-practice_weight: 0
 ---
 
 उपदेशो न दातव्यो यादृशे तादृशे नरे ।  

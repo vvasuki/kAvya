@@ -1,8 +1,6 @@
 ---
 title: ०२-०४ सागरदत्तकथा
 unicode_script: devanagari
-
-practice_weight: 0
 ---
 प्राप्तव्यमर्थं लभते मनुष्यो  
 देवोऽपि तं लङ्घयितुं न शक्तः ।  

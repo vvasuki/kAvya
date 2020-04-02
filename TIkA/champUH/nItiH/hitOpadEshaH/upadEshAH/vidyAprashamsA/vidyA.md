@@ -1,8 +1,6 @@
 ---
 title: विद्याप्रशंसा
 unicode_script: devanagari
-
-practice_weight: 0
 ---
 विद्याप्रशंसा
 

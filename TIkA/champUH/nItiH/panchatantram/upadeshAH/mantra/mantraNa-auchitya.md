@@ -1,8 +1,6 @@
 ---
 title: मन्त्रणौचित्यम्
 unicode_script: devanagari
-
-practice_weight: 0
 ---
 
 उक्तञ्च -

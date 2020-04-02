@@ -1,8 +1,6 @@
 ---
 title: सेवानीतिः
 unicode_script: devanagari
-
-practice_weight: 0
 ---
 
 ## सेवामाहत्यम्

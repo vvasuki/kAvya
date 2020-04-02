@@ -1,8 +1,6 @@
 ---
 title:  ०१-०१ कीलोत्पाटी वानरः
 unicode_script: devanagari
-
-practice_weight: 0
 ---
 
 मित्रभेदउपकथा १

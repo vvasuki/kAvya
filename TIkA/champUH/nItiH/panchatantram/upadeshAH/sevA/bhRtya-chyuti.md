@@ -1,8 +1,6 @@
 ---
 title: भृत्यच्युतिः
 unicode_script: devanagari
-
-practice_weight: 0
 ---
 
 

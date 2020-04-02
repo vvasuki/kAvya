@@ -1,8 +1,6 @@
 ---
 title: ०१-०८ भासुरकाख्यसिंहकथा
 unicode_script: devanagari
-
-practice_weight: 0
 ---
 
 यस्य बुद्धिर्बलं तस्य निर्बुद्धेस्तु कुतो बलम् ।  

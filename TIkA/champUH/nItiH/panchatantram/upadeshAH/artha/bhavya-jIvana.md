@@ -1,8 +1,6 @@
 ---
 title: भव्य-जीवनम्
 unicode_script: devanagari
-
-practice_weight: 0
 ---
 
 उक्तञ्च -

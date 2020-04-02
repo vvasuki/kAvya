@@ -1,8 +1,6 @@
 ---
 title: १-०० वर्धमानकयात्रा
 unicode_script: devanagari
-
-practice_weight: 0
 ---
 
 टीका [ऽत्र](https://archive.org/details/PanchatantraSanskritHindi-JpMishra1910)।

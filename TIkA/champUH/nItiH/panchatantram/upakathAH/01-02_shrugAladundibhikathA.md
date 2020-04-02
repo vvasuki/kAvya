@@ -1,8 +1,6 @@
 ---
 title: ०१-०२ शृगालदुन्दुभिकथा
 unicode_script: devanagari
-
-practice_weight: 0
 ---
 
 पूर्वमेव मया ज्ञातं पूर्णमेतद्धि मेदसा ।  

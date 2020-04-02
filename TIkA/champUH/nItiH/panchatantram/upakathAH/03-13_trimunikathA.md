@@ -1,8 +1,6 @@
 ---
 title: ०३-१३ त्रिमुनिकथा
 unicode_script: devanagari
-
-practice_weight: 0
 ---
 
 मुञ्च मुञ्च पतत्येको मा मुञ्चेति द्वितीयकः ।  
