@@ -1,8 +1,6 @@
 ---
 title: ०१-०५ कौलिकरथकारकथा
 unicode_script: devanagari
-
-practice_weight: 0
 ---
 
 सुप्रयुक्तस्य दम्भस्य ब्रह्माप्यन्तं न गच्छति ।  

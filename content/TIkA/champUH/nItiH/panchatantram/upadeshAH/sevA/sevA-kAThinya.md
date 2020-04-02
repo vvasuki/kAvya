@@ -1,8 +1,6 @@
 ---
 title: सेवाकाठिन्यम्
 unicode_script: devanagari
-
-practice_weight: 0
 ---
 
 दुराराध्या हि राजानः  

@@ -1,8 +1,6 @@
 ---
 title: ०१-०३ दन्तिलगोरम्भकथा
 unicode_script: devanagari
-
-practice_weight: 0
 ---
   
 यो न पूजयते गर्वाद्  

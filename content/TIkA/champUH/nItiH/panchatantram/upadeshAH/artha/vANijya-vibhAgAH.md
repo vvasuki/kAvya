@@ -1,8 +1,6 @@
 ---
 title: वाणिज्यविभागाः
 unicode_script: devanagari
-
-practice_weight: 0
 ---
 
 तच्च वाणिज्यं सप्तविधम् अर्थागमाय स्यात् ।  

@@ -1,8 +1,6 @@
 ---
 title: भृत्य-महत्त्वम्
 unicode_script: devanagari
-
-practice_weight: 0
 ---
 
 न विना पार्थिवो भृत्यैर्  

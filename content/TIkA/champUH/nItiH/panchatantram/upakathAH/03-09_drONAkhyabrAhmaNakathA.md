@@ -1,8 +1,6 @@
 ---
 title: ०३-०९ द्रोणाख्यब्राह्मणकथा
 unicode_script: devanagari
-
-practice_weight: 0
 ---
 
 शत्रवोऽपि हितार्थैव विवदन्तः परस्परम् ।  

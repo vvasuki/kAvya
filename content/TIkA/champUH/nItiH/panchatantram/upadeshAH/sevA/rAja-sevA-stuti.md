@@ -1,8 +1,6 @@
 ---
 title: राजसेवास्तुतिः
 unicode_script: devanagari
-
-practice_weight: 0
 ---
 
 अप्रधानः प्रधानः स्यात्  

@@ -1,8 +1,6 @@
 ---
 title: वाक्पटुता
 unicode_script: devanagari
-
-practice_weight: 0
 ---
 
 उत्तराद् उत्तरं वाक्यं  

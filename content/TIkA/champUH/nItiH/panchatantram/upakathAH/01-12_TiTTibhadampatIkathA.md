@@ -1,8 +1,6 @@
 ---
 title: ०१-१२ टिट्टिभदम्पतीकथा
 unicode_script: devanagari
-
-practice_weight: 0
 ---
 
 शत्रोर्विक्रममज्ञात्वा वैरमारभते हि यः ।  

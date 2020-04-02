@@ -1,8 +1,6 @@
 ---
 title: स्वामि-वशीकरणम्
 unicode_script: devanagari
-
-practice_weight: 0
 ---
 
 यस्य यस्य हि यो भावस्  

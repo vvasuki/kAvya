@@ -1,8 +1,6 @@
 ---
 title: ०५-१२ चण्डकर्मानामराक्षसकथा
 unicode_script: devanagari
-
-practice_weight: 0
 ---
 
 पृच्छकेन सदा भाव्यं पुरुषेण विजानता ।  

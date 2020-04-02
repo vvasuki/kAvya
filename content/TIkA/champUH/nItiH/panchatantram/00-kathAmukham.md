@@ -1,8 +1,6 @@
 ---
 title: ०० कथामुखम्
 unicode_script: devanagari
-
-practice_weight: 0
 ---
 
 ## मङ्गलाशासनम्

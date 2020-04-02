@@ -1,8 +1,6 @@
 ---
 title: ०३-०३ मित्रशर्मब्राहमकथा
 unicode_script: devanagari
-
-practice_weight: 0
 ---
 
 बहुबुद्धिसमायुक्ताः सुविज्ञाना बलोत्कटान् ।  

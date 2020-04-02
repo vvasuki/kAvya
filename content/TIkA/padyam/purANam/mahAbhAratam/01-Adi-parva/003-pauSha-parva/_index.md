@@ -1,5 +1,4 @@
 ---
-practice_weight: 0
 title: +००३ पौष-पर्व
 unicode_script: devanagari
 

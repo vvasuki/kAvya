@@ -1,8 +1,6 @@
 ---
 title: ०३-०५ ब्राह्मणसर्पकथा
 unicode_script: devanagari
-
-practice_weight: 0
 ---
 
 कश्चित्क्षुद्रसमाचारः प्राणिनां कालसन्निभः ।  

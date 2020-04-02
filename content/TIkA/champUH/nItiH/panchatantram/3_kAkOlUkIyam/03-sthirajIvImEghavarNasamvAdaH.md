@@ -1,8 +1,6 @@
 ---
 title: ३-०४ स्थिरजीवीमेघवर्णसंवादः
 unicode_script: devanagari
-
-practice_weight: 0
 ---
 मेघवर्ण आह तात ! एवं गतेऽस्माभिः किं क्रियते ?
 

@@ -1,8 +1,6 @@
 ---
 title: ०१-२० कृष्णसर्पकथा
 unicode_script: devanagari
-
-practice_weight: 0
 ---
 
 उपायं चिन्तयेत्प्राज्ञस्तथापायमपि चिन्तयेत् ।  

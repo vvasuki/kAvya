@@ -1,8 +1,6 @@
 ---
 title: ०४-०८ महाधन ईश्वरनामभाण्डपतिकथा
 unicode_script: devanagari
-
-practice_weight: 0
 ---
 
 गर्गो हि पादशौचाल्लघ्वासनदानतो गतः सोमः ।  

@@ -1,8 +1,6 @@
 ---
 title: इङ्गितज्ञाः
 unicode_script: devanagari
-
-practice_weight: 0
 ---
 
 यत उक्तञ्च -

@@ -1,8 +1,6 @@
 ---
 title: ०१-१३ कम्बुग्रीवः कूर्मः
 unicode_script: devanagari
-
-practice_weight: 0
 ---
 
 सुहृदां हितकामानां न करोतीह यो वचः ।  

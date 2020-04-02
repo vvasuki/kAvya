@@ -1,5 +1,4 @@
 ---
-practice_weight: 0
 title: +००१ अनुक्रमणिका-पर्व
 unicode_script: devanagari
 

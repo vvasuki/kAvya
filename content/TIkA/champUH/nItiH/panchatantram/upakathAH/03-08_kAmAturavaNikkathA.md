@@ -1,8 +1,6 @@
 ---
 title: ०३-०८ कामातुरवणिक्कथा
 unicode_script: devanagari
-
-practice_weight: 0
 ---
 
 या ममोद्विजते नित्यं सा ममाद्यावगूहते ।  

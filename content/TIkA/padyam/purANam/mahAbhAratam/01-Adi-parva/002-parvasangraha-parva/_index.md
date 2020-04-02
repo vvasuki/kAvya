@@ -1,5 +1,4 @@
 ---
-practice_weight: 0
 title: +००२ पर्वसङ्ग्रह-पर्व
 unicode_script: devanagari
 

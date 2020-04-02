@@ -1,8 +1,6 @@
 ---
 title: ०५-११ अन्धककुब्जकत्रिस्तनीकथा
 unicode_script: devanagari
-
-practice_weight: 0
 ---
 
 अन्धकः कुब्जकश्चैव त्रिस्तनी राजकन्यका ।  

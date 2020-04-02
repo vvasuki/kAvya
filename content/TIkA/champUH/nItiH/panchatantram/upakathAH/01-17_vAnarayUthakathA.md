@@ -1,8 +1,6 @@
 ---
 title: ०१-१७ वानरयूथकथा
 unicode_script: devanagari
-
-practice_weight: 0
 ---
 
 नानाम्यं नमते दारु नाश्मनि स्यात्क्षुरक्रिया ।  

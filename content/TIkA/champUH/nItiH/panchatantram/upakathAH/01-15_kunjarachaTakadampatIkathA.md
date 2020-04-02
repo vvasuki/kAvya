@@ -1,8 +1,6 @@
 ---
 title: ०१-१५ कुञ्जरचटकदम्पतीकथा
 unicode_script: devanagari
-
-practice_weight: 0
 ---
 
 चटकाकाष्ठकूटेन मक्षिकादर्दुरैस्तथा ।  

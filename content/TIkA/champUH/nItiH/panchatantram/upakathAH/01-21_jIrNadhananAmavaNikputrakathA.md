@@ -1,8 +1,6 @@
 ---
 title: ०१-२१ जीर्णधननामवणिक्पुत्रकथा
 unicode_script: devanagari
-
-practice_weight: 0
 ---
 
 तुलां लोहसहस्रस्य यत्र खादन्ति मूषकाः ।  

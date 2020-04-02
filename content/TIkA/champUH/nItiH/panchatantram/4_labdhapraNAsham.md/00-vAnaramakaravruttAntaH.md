@@ -1,8 +1,6 @@
 ---
 title: ४-०१ वानरमकरवृत्तान्तः
 unicode_script: devanagari
-
-practice_weight: 0
 ---
 अथ लब्धप्रणाशम्
 

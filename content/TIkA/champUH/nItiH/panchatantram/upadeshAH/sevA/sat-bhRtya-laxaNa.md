@@ -1,8 +1,6 @@
 ---
 title: सद्भृत्यलक्षणम्
 unicode_script: devanagari
-
-practice_weight: 0
 ---
 
 यः कृत्वा सुकृतं राज्ञो  

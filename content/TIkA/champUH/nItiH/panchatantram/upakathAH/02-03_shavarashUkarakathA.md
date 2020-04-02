@@ -1,8 +1,6 @@
 ---
 title: ०२-०३ शवरशूकरकथा
 unicode_script: devanagari
-
-practice_weight: 0
 ---
 
 अतितृष्णा न कर्तव्या तृष्णां नैव परित्यजेत् ।  

@@ -1,8 +1,6 @@
 ---
 title: ०५-१३ भारुण्डपक्षिकथा
 unicode_script: devanagari
-
-practice_weight: 0
 ---
 
 एकोदराः पृथग्ग्रीवा अन्यान्यफलभक्षिणः ।  

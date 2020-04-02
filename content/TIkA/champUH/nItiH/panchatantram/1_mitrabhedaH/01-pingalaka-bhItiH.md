@@ -1,8 +1,6 @@
 ---
 title: १-०१ पिङ्गलकभीतिः
 unicode_script: devanagari
-
-practice_weight: 0
 ---
 
 ## सञ्जीवको जीवति

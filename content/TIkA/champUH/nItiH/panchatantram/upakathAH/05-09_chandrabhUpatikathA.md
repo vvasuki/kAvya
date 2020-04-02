@@ -1,8 +1,6 @@
 ---
 title: ०५-०९ चन्द्रभूपतिकथा
 unicode_script: devanagari
-
-practice_weight: 0
 ---
 
 यो लौल्यात्कुरुते नैवोदर्कमवेक्षते ।  

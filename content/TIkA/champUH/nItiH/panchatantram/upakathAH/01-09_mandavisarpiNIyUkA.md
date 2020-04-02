@@ -1,8 +1,6 @@
 ---
 title: ०१-०९ मन्दविसर्पिणीयूकाकथा
 unicode_script: devanagari
-
-practice_weight: 0
 ---
 
 न ह्यविज्ञातशीलस्य प्रदातव्यः प्रतिश्रयः ।  

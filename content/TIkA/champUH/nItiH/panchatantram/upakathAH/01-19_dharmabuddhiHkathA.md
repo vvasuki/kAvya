@@ -1,8 +1,6 @@
 ---
 title: ०१-१९ धर्मबुद्धिकथा
 unicode_script: devanagari
-
-practice_weight: 0
 ---
 
 धर्मबुद्धिः कुबुद्धिश्च द्वावेतौ विदितौ मम ।  

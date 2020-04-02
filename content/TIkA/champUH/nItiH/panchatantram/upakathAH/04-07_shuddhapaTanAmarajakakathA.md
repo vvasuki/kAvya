@@ -1,8 +1,6 @@
 ---
 title: ०४-०७ शुद्धपटनामरजककथा
 unicode_script: devanagari
-
-practice_weight: 0
 ---
 
 सुगुप्तं रक्ष्यमाणोऽपि दर्शयन् दारुणं वपुः ।  
