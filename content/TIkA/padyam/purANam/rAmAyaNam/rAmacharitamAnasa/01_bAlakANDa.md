@@ -604,6 +604,10 @@ unicode_script: devanagari
 सावन-भादव-मास॥19॥  
 
 
+<div class="audioEmbed"  caption="AIR-वाचनम्" src="https://archive
+.org/download/rAmcharitmAnas-AIR/EPI-011 .mp3"></div>
+
+
 चौपाई  
 
 आख+++(क्ष)+++र मधुर मनोहर दोऊ। बरन-बिलोचन, जन-जिय जोऊ॥  
