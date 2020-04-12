@@ -6,7 +6,7 @@ title_english: 046 Ravana praises Seetha s beauty
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-046-Thapasvi_Roopena_Ravana_Agamanam.mp3"></div>
 
 तया परुषमुक्तस्तु कुपितो राघवानुजः।  
-स विकांक्षन् भृशं रामं प्रतस्थे नचिरादिव ॥ 3.46.1 ॥   
+स विकाङ्क्षन् भृशं रामं प्रतस्थे नचिरादिव ॥ 3.46.1 ॥   
 तदासाद्य दशग्रीवः क्षिप्रमन्तरमास्थितः।  
 अभिचक्राम वैदेहीं परिव्राजकरूपधृत् ॥ 3.46.2 ॥   
 वामे चांसेऽवसज्याथ शुभे यष्टिकमण्डलू।  

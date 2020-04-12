@@ -1,5 +1,5 @@
 ---
-title: ०४१ रामेण अङ्गदप्रेषंणम्
+title: ०४१ रामेण अङ्गदप्रेषणम्
 title_english: 041 Rama sends Angada to Ravana
 
 ---

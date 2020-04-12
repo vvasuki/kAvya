@@ -6,7 +6,7 @@ title_english: 094 Rama shows the captivating scenery of Chitrakuta to Seetha
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-094-Chitra_Kute_Rama_Sita_Samvadaha.mp3"></div>
 
 दीर्घकालोषितस्तस्मिन् गिरौ गिरिवनप्रियः।  
-वैदेह्याः प्रियमाकांक्षन् स्वं च चित्तं विलोभयन् ॥ 2.94.1 ॥   
+वैदेह्याः प्रियमाकाङ्क्षन् स्वं च चित्तं विलोभयन् ॥ 2.94.1 ॥   
 अथ दाशरथिश्चित्रं चित्रकूटमदर्शयत्।  
 भार्य्याममरसङ्काशः शचीमिव पुरन्दरः ॥ 2.94.2 ॥   
 न राज्याद्भ्रंशनं भद्रे न सुहृद्भिर्विनाभवः।  
