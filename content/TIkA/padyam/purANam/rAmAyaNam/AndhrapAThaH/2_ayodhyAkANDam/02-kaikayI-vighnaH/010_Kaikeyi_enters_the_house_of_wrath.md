@@ -1,5 +1,5 @@
 ---
-title: ०१० दशरथप्रसादनम्
+title: ०१० दशरथकृतप्रसादनम्
 title_english: 010 Kaikeyi enters the house of wrath
 
 ---
