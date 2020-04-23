@@ -1,4 +1,4 @@
 ---
-title: +मध्यमचरितम्
+title: +०२ मध्यमचरितम्
 unicode_script: devanagari
 ---
