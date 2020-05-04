@@ -102,7 +102,7 @@ unicode_script: devanagari
 
 संजीवक आह कथमेतत्? सोऽब्रवीत्
 
-<div class="js_include" url="../upakathAH/01-03_dantilagOrambhakathA.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upakathAH/01-03_dantilagOrambhakathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
 संजीवक आहभद्र एवमेवैतत् । यद्भवताभिहितं तदेव मया कर्तव्यमिति । एवमभिहिते दमनकस्तमादाय पिङ्गलकसकाशमगमत् । आह चदेव एष मयानीतः स संजीवकः । अधुना देवः प्रमाणम् । संजीवकोऽपि तं सादरं प्रणम्याग्रतः सविनयं स्थितः । पिङ्गलकोऽपि तस्य पीनायतककुद्मतो नखकुलिशालंकृतं दक्षिणपाणिमुपरि दत्त्वा मानपुरःसरमुवाचअपि शिवं भवतः । कुतस्त्वमस्मिन् वने विजने समायातोऽसि ?
 

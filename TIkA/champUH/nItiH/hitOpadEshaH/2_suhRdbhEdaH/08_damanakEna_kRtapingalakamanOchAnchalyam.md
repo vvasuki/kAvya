@@ -164,6 +164,6 @@ unicode_script: devanagari
 
  दमनकः कथयति
 
- <div class="js_include" url="../upakathAH/02-09_TiTTibhadampatIkathA.md"  newLevelForH1="3" includeTitle="true"> </div>
+ <div class="js_include" url="../../upakathAH/02-09_TiTTibhadampatIkathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
  राजाह-कथमसौ ज्ञातव्यो द्रोहबुद्धिरिति ?' । दमनको ब्रूते'यदासौ सदर्पः शृङ्गाग्रप्रहरणाभिमुखश्चकितमिवागच्छति तदा ज्ञास्यति स्वामी ।' एवमुक्त्वा संजीवकसमीपं गतः ।  

@@ -64,7 +64,7 @@ unicode_script: devanagari
 
 करकटः कथयति
 
-<div class="js_include" url="../upakathAH/02-01_kIlAbhihatamarkaTaH.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upakathAH/02-01_kIlAbhihatamarkaTaH/"  newLevelForH1="3" includeTitle="true"> </div>
 
 दमनको ब्रूते तथापि स्वामिचेष्टानिरूपणं सेवकेनावश्यं करणीयम् । करटको ब्रूते सर्वस्मिन्नधिकारे य एव नियुक्तः प्रधानमन्त्री स करोतु । यतोनुजीविना पराधिकारचर्चा सर्वथा न कर्तव्या । पश्य
 
@@ -75,7 +75,7 @@ unicode_script: devanagari
 
 करटको ब्रूते
 
-<div class="js_include" url="../upakathAH/02-02_shwAnagardabhakathA.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upakathAH/02-02_shwAnagardabhakathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
 पश्य, पशूनाम् अन्वेषणम् एवास्मन्नियोगः । स्वनियोगचर्चा क्रियताम् । किन्त्व् अद्य तया चर्चया न प्रयोजनम् । यत आवयोर्भक्षितशेषाहारः प्रचुरोस्ति । दमनकः सरोषम् आ् कथम् आहारार्थी भवान् केवलं राजानं सेवते एतद् अयुक्तम् उक्तं त्वया । यतः
 

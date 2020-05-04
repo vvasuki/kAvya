@@ -45,7 +45,7 @@ unicode_script: devanagari
 
 साब्रवीत्
 
- <div class="js_include" url="01-13_kambugrIvaH_kUrmaH.md"  newLevelForH1="3" includeTitle="true"> </div>
+ <div class="js_include" url="../01-13_kambugrIvaH_kUrmaH/"  newLevelForH1="3" includeTitle="true"> </div>
 
  तथा च
 
@@ -56,7 +56,7 @@ unicode_script: devanagari
 
 साब्रवीत्
 
- <div class="js_include" url="01-14_matsyatrayakathA.md"  newLevelForH1="3" includeTitle="true"> </div>
+ <div class="js_include" url="../01-14_matsyatrayakathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
  तच्छ्रुत्वा टिट्टिभ आह भद्रे, किं मां यद्भविष्यसदृशं सम्भावयसि । तत्पश्य मे बुद्धिप्रभावं यावदेनं दुष्टसमुद्रं स्वचञ्च्वा शोषयामि ।  
 
@@ -116,7 +116,7 @@ unicode_script: devanagari
 
  सा प्राह
 
-<div class="js_include" url="01-15_kunjarachaTakadampatIkathA.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../01-15_kunjarachaTakadampatIkathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
 टिट्टिभ आह भद्रे, एवं भवतु । सुहृद्वर्गसमुदायेन सह समुद्रं शोषयिष्यामि । इति निश्चित्य बकसारसमयूरादीन् समाहूय प्रोवाच भोः पराभूतोऽहं समुद्रेणाण्डकापहरेण । तच्चिन्त्यतामस्य शोषणोपायः ।  
 

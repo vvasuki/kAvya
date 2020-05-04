@@ -15,6 +15,6 @@ unicode_script: devanagari
 
 स कथयति
 
- <div class="js_include" url="../upakathAH/04-09_duShTavanchakAnAm_kathA.md"  newLevelForH1="3" includeTitle="true"> </div>
+ <div class="js_include" url="../../upakathAH/04-09_duShTavanchakAnAm_kathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
  ततस्तृतीयधूर्तवचनं श्रुत्वा, स्वमतिभ्रमं निश्चित्य छागं त्यक्त्वा, ब्राह्मणः स्नात्वा गृहं ययौ । छागश्च तैर्धूर्तैर्नीत्वा भक्षितः । अतोहं ब्रवीमिात्मौपम्येन यो वेत्तीत्य् आदि ।

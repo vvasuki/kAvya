@@ -45,8 +45,8 @@ unicode_script: devanagari
 तेनैवमुक्ता भ्रातरस्तस्य तथा चक्रुः । 	020B  
 स तथा भ्रातॄन्संदिश्य तक्षशिलां प्रत्यभिप्रतस्थे तं च देशं वशे स्थापयामास ॥	020C  
 
-<div class="js_include" url="01-dhaumya-shixA.md"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="01-dhaumya-shixA/"  newLevelForH1="2" includeTitle="true"> </div>  
 
-<div class="js_include" url="02-uttanka-shixA.md"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="02-uttanka-shixA/"  newLevelForH1="2" includeTitle="true"> </div>  
 
-<div class="js_include" url="03-sarpasatrachodanA.md"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="03-sarpasatrachodanA/"  newLevelForH1="2" includeTitle="true"> </div>  

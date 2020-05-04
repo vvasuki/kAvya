@@ -12,7 +12,7 @@ unicode_script: devanagari
 
 दमनकः कथयति
 
-<div class="js_include" url="../upakathAH/02-05_kandarpakEtuparivrAjakakathA.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upakathAH/02-05_kandarpakEtuparivrAjakakathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
 अथ स्वयं कृतोऽयं दोषः । अत्र विलपनं नोचितम् । (क्षणं विमृश्य ।) मित्र! यथाऽनयोः सौहार्द मया कारितं तथा मित्रभेदोऽपि मया कार्यः।  
 
@@ -29,7 +29,7 @@ unicode_script: devanagari
 
 दमनकः कथयति
 
-<div class="js_include" url="../upakathAH/02-06_gOpIjAradvayakathA.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upakathAH/02-06_gOpIjAradvayakathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
 करटको ब्रूते-'अस्त्वेवम्। किंत्वनयोर्महानन्योन्य निसर्गोपजातलेहः कथं भेदयितुं शक्यः ?'
 
@@ -44,6 +44,6 @@ unicode_script: devanagari
 
 दमनकः कथयति
 
-<div class="js_include" url="../upakathAH/02-07_vAyasadampatIkathA.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upakathAH/02-07_vAyasadampatIkathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
 करटको ब्रूते-'यद्येवं तर्हि गच्छ । शिवास्ते सन्तु पन्थानः। 

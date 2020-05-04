@@ -134,7 +134,7 @@ unicode_script: devanagari
 
 सोऽब्रवीत्
 
-<div class="js_include" url="../upakathAH/01-11_madOtkaTasimhakathA.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upakathAH/01-11_madOtkaTasimhakathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
 तद्भद्र, क्षुद्रपरिवारोऽयं ते राजा मया सम्यग्जातः । सतामसेव्यं च । उक्तं च
 
@@ -215,7 +215,7 @@ unicode_script: devanagari
 
 सोऽब्रवीत्
 
-<div class="js_include" url="../upakathAH/01-12_TiTTibhadampatIkathA.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upakathAH/01-12_TiTTibhadampatIkathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
 तदाकर्ण्य सञ्जीवकस्तमेव भूयोऽपि पप्रच्छ भो मित्र ! कथं ज्ञेयो मयासौ दुष्टबुद्धिरिति । इयन्तं कालं यावदुत्तरोत्तरस्नेहेन प्रसादेन चाहं दृष्टः । न कदाचित्तद्विकृतिर्दृष्टा । तत्कथ्यतां येनाहमात्मरक्षार्थं तद्वधायोद्यमं करोमि ।  
 

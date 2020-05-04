@@ -23,7 +23,7 @@ unicode_script: devanagari
 
 मन्त्री कथयति
 
-<div class="js_include" url="../upakathAH/04-01_hamsakUrmayoH_kathA.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upakathAH/04-01_hamsakUrmayoH_kathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
 अथ प्रणिधिर्वकस्तत्रागत्योवाच'देव ! प्रागेव मया निगदितम् । दुर्गशोधनं हि प्रतिक्षणं कर्तव्यमिति । तच्च युष्माभिर्न कृतं तदनवधानस्य फलमनुभूतम् ।  
 दुर्गदाहो मेघवर्णेन वायसेन गृध्रप्रयुक्तेन कृतः ।  
@@ -56,7 +56,7 @@ unicode_script: devanagari
 
 मन्त्री कथयति
 
-<div class="js_include" url="../upakathAH/04-05_munimUShikayOH_kathA.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upakathAH/04-05_munimUShikayOH_kathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
 अपरं च, सुकरमिदमिति न मन्तव्यम् । शृणु,
 
@@ -67,7 +67,7 @@ unicode_script: devanagari
 
 मन्त्री कथयति
 
-<div class="js_include" url="../upakathAH/04-06_atilObhI_bakaH.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upakathAH/04-06_atilObhI_bakaH/"  newLevelForH1="3" includeTitle="true"> </div>
 
 ततश्चित्रवर्णोऽवदत-शृणु तावन्मन्त्रिन् ! मयैतदालोचितमस्ति ।' अत्रावस्थितेन मेघवर्णन राज्ञा यावन्ति वस्तूनि कर्पूरद्वीपस्योत्तमानि तावन्त्यस्माकमुपनेतव्यानि । तेनास्माभिर्महासुखेन विन्ध्याचले स्थातव्यम् ।  
 
@@ -80,7 +80,7 @@ unicode_script: devanagari
 
 मन्त्री कथयति
 
-<div class="js_include" url="../upakathAH/04-07_bhagnabhAnDO_dvijaH.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upakathAH/04-07_bhagnabhAnDO_dvijaH/"  newLevelForH1="3" includeTitle="true"> </div>
 
 ततो राजा रहसि गृध्रमुवाच-'तात ! यथा कर्तव्यं तथोपदिश।'
 
@@ -110,7 +110,7 @@ unicode_script: devanagari
 
 मन्त्री कथयति
 
-<div class="js_include" url="../upakathAH/04-08_sundOpasundakathA.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upakathAH/04-08_sundOpasundakathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
 राजाह-'प्रागेव किं नोक्तं भवद्भिः?। मन्त्री ब्रूते-मद्वचनं किमवसानपर्यन्तं श्रुतं भवद्भिः ? तदापि मम संमत्या नायं विग्रहारम्भः । साधुगुणयुक्तोऽयं हिरण्यगर्भो न विग्राह्यः।  
 
@@ -241,7 +241,7 @@ unicode_script: devanagari
 
  मेघवर्णः कथयति
 
- <div class="js_include" url="../upakathAH/04-09_duShTavanchakAnAm_kathA.md"  newLevelForH1="3" includeTitle="true"> </div>
+ <div class="js_include" url="../../upakathAH/04-09_duShTavanchakAnAm_kathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
  राजाह मेघवर्ण ! कथं शत्रुमध्ये त्वया सुचिरम् उषितम् कथं वा तेषाम् अनुनयः कृतः मेघवर्ण उवाच्देव ! स्वामिकार्यार्थितया स्वप्रयोजनवशाद् वा किं किं न क्रियते पश्य्
 
@@ -257,7 +257,7 @@ unicode_script: devanagari
 
 मेघवर्णः कथयति
 
-<div class="js_include" url="../upakathAH/04-11_mandaviShasarpakathA.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upakathAH/04-11_mandaviShasarpakathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
 देव ! यात्व् इदानीं पुरावृत्ताख्यानकथनं सर्वथा सन्धेयोयं हिरण्यगर्भराजा सन्धीयताम् इति मे मतिः । राजोवाच्कोयं भवतो विचारः यतो जितस्तावद् अयम् अस्माभिः । ततो यद्य् अस्मत् सेवया वसति, तद् आस्ताम् । नो चेद् विगृह्यताम् । अत्रान्तरे जम्बूद्वीपाद् आगत्य शुकेनोक्तंदेव ! सिंहलद्वीपस्य सारसो राजा सम्प्रति जम्बूद्वीपम् आक्रम्यावतिष्ठते । राजा ससम्भ्रमं ब्रूतेकिं किम् शुकः पूर्वोक्तं कथयति । गृध्रः स्वगतम् उवाच्साधु रे चक्रवाक मन्त्रिन् ! साधु ! राजा सकोपम् आहास्तां तावद् अयं गत्वा तम् एव समूलम् उन्मूलयामि ।  
 
@@ -280,7 +280,7 @@ unicode_script: devanagari
 
 दूरदर्शी कथयति
 
-<div class="js_include" url="../upakathAH/04-12_brAhmaNanakulakathA.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upakathAH/04-12_brAhmaNanakulakathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
 अपरं च्
 

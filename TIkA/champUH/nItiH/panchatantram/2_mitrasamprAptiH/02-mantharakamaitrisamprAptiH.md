@@ -37,13 +37,13 @@ unicode_script: devanagari
 
 सोऽब्रवीत्
 
-<div class="js_include" url="../upakathAH/02-01_hiraNyakatAmrachUDakathA.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upakathAH/02-01_hiraNyakatAmrachUDakathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
 काककूर्मौ पृच्छतः कथमेतत्?
 
 हिरण्यक आह
 
-<div class="js_include" url="../upakathAH/02-04_sAgaradattakathA.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upakathAH/02-04_sAgaradattakathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
 तदेतत्सकलं सुखदुःखमनुभूय परं विषादमुपागतोऽनेन मित्रेण त्वत्सकाशमानीतः । तदेतन्मे वैराग्यकारणम् । मन्थरक आह भद्र, भवति सुहृदयमसन्दिग्धं यः क्षुत्क्षामोऽपि शत्रुभूतं त्वां भक्ष्यस्थाने स्थितमेवं पृष्ठमारोप्यानयति न मार्गेऽपि भक्षयति । उक्तं च यतः
 
@@ -113,7 +113,7 @@ unicode_script: devanagari
 
 स आह
 
-<div class="js_include" url="../upakathAH/02-05_sOmilakakathA.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upakathAH/02-05_sOmilakakathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
 गृहमध्यनिखातेन धनेन धनिनो यदि ।  
 भवामः किं न तेनैव धनेन धनिनो वयम् ॥२.१५१॥

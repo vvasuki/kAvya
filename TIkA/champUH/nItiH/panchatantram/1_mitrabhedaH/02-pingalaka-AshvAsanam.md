@@ -24,15 +24,15 @@ unicode_script: devanagari
 
 तथा वयं देवपादानामन्वयागता भृत्या आपत्स्वपि पृष्ठगामिनो, यद्यपि स्वमधिकारं न लभामहे। तथापि देवपादानामेतद् युक्तं न भवति । उक्तञ्च -
 
-<div class="js_include" url="../upadeshAH/sevA/bhRtya-chyuti.md"  newLevelForH1="3" includeTitle="true"> </div>  
+<div class="js_include" url="../../upadeshAH/sevA/bhRtya-chyuti/"  newLevelForH1="3" includeTitle="true"> </div>  
 
-<div class="js_include" url="../upadeshAH/sevA/bhRtya-mahattva.md"  newLevelForH1="3" includeTitle="true"> </div>  
+<div class="js_include" url="../../upadeshAH/sevA/bhRtya-mahattva/"  newLevelForH1="3" includeTitle="true"> </div>  
 
-<div class="js_include" url="../upadeshAH/sevA/sat-bhRtya-laxaNa.md"  newLevelForH1="3" includeTitle="true"> </div>  
+<div class="js_include" url="../../upadeshAH/sevA/sat-bhRtya-laxaNa/"  newLevelForH1="3" includeTitle="true"> </div>  
 
 तथा शृगालोऽयमिति मन्यमानेन ममोपरि स्वामिना यद्यवज्ञा क्रियते तदप्ययुक्तम् । उक्तं च यतः
 
-<div class="js_include" url="../upadeshAH/sevA/bhRtya-mahattva.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upadeshAH/sevA/bhRtya-mahattva/"  newLevelForH1="3" includeTitle="true"> </div>
 
 पिङ्गलक आह भवत्वेवं तावत् । असमर्थः समर्थो वा चिरन्तनस्त्वमस्माकं मन्त्रिपुत्रः । तद्विश्रब्धं ब्रूहि यत्किञ्चिद्वक्तुकामः ।  
 
@@ -111,7 +111,7 @@ unicode_script: devanagari
 
 सोऽब्रवीत्
 
-<div class="js_include" url="../upakathAH/01-02_shrugAladundibhikathA.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upakathAH/01-02_shrugAladundibhikathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
 पिङ्गलक आह भोः पश्यायं मम सर्वोऽपि परिग्रहो भयव्याकुलितमनाः पलायितुमिच्छति । तत्कथमहं धैर्यादवष्टम्भं करोमि ।  
 

@@ -21,7 +21,7 @@ unicode_script: devanagari
 
 दमनकः कथयति
 
-<div class="js_include" url="../upakathAH/02-03_durdAntanAmasimhakathA.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upakathAH/02-03_durdAntanAmasimhakathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
 ततो दमनककरटकौ सञ्जीवकसमीपं गतौ । तत्र करटकस्तरुतले साटोपमुपविष्टः ।  
 
@@ -64,6 +64,6 @@ unicode_script: devanagari
 
 दमनकः कथयति
 
-<div class="js_include" url="../upakathAH/02-04_karAlakuTTinIkathA.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upakathAH/02-04_karAlakuTTinIkathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
 ततः संजीवकम् आनीय दर्शनं कारितवन्तौ । पश्चात् तत्रैव परमप्रीत्या निवसति ।  

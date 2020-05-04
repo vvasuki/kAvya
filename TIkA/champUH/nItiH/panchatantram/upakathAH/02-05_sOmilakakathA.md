@@ -88,7 +88,7 @@ unicode_script: devanagari
 कृपणोऽप्यकुलीनोऽपि सदा संश्रितमानुषैः ।  
 सेव्यते स नरो लोके यस्य स्याद्वित्तसञ्चयः ॥२.१४०॥
 
-<div class="js_include" url="02-06_tIkShNaviShANashrugAlakathA.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../02-06_tIkShNaviShANashrugAlakathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
 पुरुष आह यद्येवं तद्गच्छ भूयोऽपि वर्धमानपुरम् । तत्र द्वौ वणिक्पुत्रौ वसतः । एको गुप्तधनः । द्वितीय उपभुक्तधनः । ततस्तयोः स्वरूपं बुद्ध्वैकस्य वरः प्रार्थनीयः । यदि ते धनेन प्रयोजनमभक्षितेन ततस्त्वामपि गुप्तधनं करोमि । अथवा दत्तभोग्येन धनेन ते प्रयोजनं तदुपभुक्तधनं करोमीति । एवमुक्त्वादर्शनं गतः ।  
 

@@ -24,4 +24,4 @@ unicode_script: devanagari
 
 अत्रान्तरे ब्राह्मणो गृहीतनिर्वापः समायातो यावत्पश्यति तावत्पुत्रशोकोऽभितप्ता ब्राह्मणी प्रलपति भो भो लोभात्मन् ! लोभाभिभूतेन त्वया न कृतं मद्वचः । तदनुभव साम्प्रतं पुत्रमृत्युदुःखवृक्षफलम् । अथवा साध्विदमुच्यते
 
-<div class="js_include" url="05-02_lObhAviShTachakradharakathA.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../05-02_lObhAviShTachakradharakathA/"  newLevelForH1="3" includeTitle="true"> </div>

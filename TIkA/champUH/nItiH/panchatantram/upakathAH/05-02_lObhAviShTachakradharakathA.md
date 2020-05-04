@@ -119,11 +119,11 @@ unicode_script: devanagari
 
 तच्छ्रुत्वासौ तं विगर्हयन्निदमाह भोः ! निषिद्धस्त्वं मयानेकशो न शृणोषि मे वाक्यम् । तत्किं क्रियते ? विद्यावानपि कुलीनोऽपि वस्तुतो बुद्धिरहितोऽसि । अथवा साध्विदमुच्यते
 
-<div class="js_include" url="05-03_simhakArakamUrkhabrAhmaNakathA.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../05-03_simhakArakamUrkhabrAhmaNakathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
 अतः परमुक्तं स सुवर्णसिद्धिना
 
-<div class="js_include" url="05-04_mUrkhapanDitakathA.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../05-04_mUrkhapanDitakathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
 अथ सुवर्णसिद्धिराहयत्त्वं लोकव्यवहारमजानन्मया वार्यमाणोऽपि न स्थितः तत ईदृशीमवस्थातुमुपगतः । अतोऽहं ब्रवीमिअपि शास्त्रेषु कुशलाः इति ।  
 
@@ -139,25 +139,25 @@ unicode_script: devanagari
 
 तथा च
 
-<div class="js_include" url="05-05_matsyamanDUkakathA.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../05-05_matsyamanDUkakathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
 सुवर्णसिद्धिः प्राह यद्यप्येतदस्ति, तथापि मित्रवचनं न लङ्घनीयम् । परं किं क्रियते ? निवारितोऽपि मया न स्थितोऽसि, अतिलौल्यात्विद्याहङ्काराच्च । अथवा साध्विदमुच्यते
 
-<div class="js_include" url="05-06_rAsabhashrugAlakathA.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../05-06_rAsabhashrugAlakathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
 तद्भवानपि मया वार्यमाणोऽपि न स्थितः ।  
 
 तच्छ्रुत्वा चक्रधर आहभो मित्र ! सत्यमेतत् । अथवा साध्विदमुच्यते
 
-<div class="js_include" url="05-07_mantharakaulikakathA.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../05-07_mantharakaulikakathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
 चक्रधर आह भोः ! सत्यमेतत् । सर्वोऽपि जनोऽश्रद्देयामाशापिशाचिकां प्राप्य हास्यपदवीं याति । अथवा साध्विदमुच्यते केनापि
 
-<div class="js_include" url="05-08_sOmasharmapitrukathA.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../05-08_sOmasharmapitrukathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
 सुवर्णसिद्धिराह एवमेतत् । कस्ते दोषः, यतः सर्वोऽपि लोभेन विडम्बितो बाध्यते ? उक्तं च
 
-<div class="js_include" url="05-09_chandrabhUpatikathA.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../05-09_chandrabhUpatikathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
 एवमुक्त्वा भूयोऽपि स चक्रधरमाह भो मित्र ! प्रेषय मां, येन स्वगृहं गच्छामि ।  
 
@@ -168,7 +168,7 @@ unicode_script: devanagari
 
 सुवर्णसिद्धिराह भोः, सत्यमेतद्यदि गम्यस्थाने शक्तिर्भवति । एतत्पुनर्मनुष्याणामगम्यस्थानम् । नास्ति कस्यापि त्वामुन्मोचयितुं शक्तिः अपरं यथा यथा चक्रभ्रमवेदनया तव मुखविकारं पश्यामि तथा तथाहमेतज्जानामि यत्द्राग्गच्छामि मा कश्चिन्ममाप्यनर्थो भवेदिति । यतः
 
-<div class="js_include" url="05-10_vikAlavAnarakathA.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../05-10_vikAlavAnarakathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
 तत्प्रेषय मां येन गृहं गच्छामि । त्वं पुनरनुभुङ्क्ष्वात्र स्थित एव लोभवृक्षफलम् ।  
 
@@ -181,11 +181,11 @@ unicode_script: devanagari
 
 तथा च
 
-<div class="js_include" url="05-11_andhakakubjakatristanIkathA.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../05-11_andhakakubjakatristanIkathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
 सुवर्णसिद्धिराहभोः सत्यमेतत् । दैवानुकूलतया सर्वं कल्याणं सम्पद्यते । तथापि पुरुषेण सतां वचनं कार्यम् । पुनरेवमेव वर्तितव्यम् । अथ एवमेव यो वर्तते, स त्वमिव विनश्यति । तथा च
 
-<div class="js_include" url="05-13_bhArunDapakShikathA.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../05-13_bhArunDapakShikathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
 चक्रधर आह सत्यमेतत् । तद्गच्छ गृहम् । परमेकाकिना न गन्तव्यम् । उक्तं च
 
@@ -194,6 +194,6 @@ unicode_script: devanagari
 
 अपि च
 
-<div class="js_include" url="05-14_brAhmaNakarkaTakathA.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../05-14_brAhmaNakarkaTakathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
 एवं श्रुत्वा सुवर्णसिद्धिस्तमनुज्ञाप्य स्वगृहं प्रति निवृत्तः ।  

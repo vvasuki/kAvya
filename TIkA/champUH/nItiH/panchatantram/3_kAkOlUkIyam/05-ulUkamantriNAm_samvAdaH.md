@@ -23,7 +23,7 @@ unicode_script: devanagari
 
 रक्ताक्षः कथयति
 
-<div class="js_include" url="../upakathAH/03-05_brAhmaNasarpakathA.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upakathAH/03-05_brAhmaNasarpakathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
 तद्
 अस्मिन् हतेऽयत्नादेव राज्यमकण्टकं भवतो भवति ।  
@@ -39,7 +39,7 @@ unicode_script: devanagari
 
 क्रूराक्षः कथयति
 
-<div class="js_include" url="../upakathAH/03-07_kapOtalubdhakakathA.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upakathAH/03-07_kapOtalubdhakakathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
 तच्छ्रुत्वारिमर्दनो दीप्ताक्षं पृष्टवानेवमवस्थिते किं भवान्मन्यते ?
 
@@ -57,7 +57,7 @@ unicode_script: devanagari
 
 दीप्ताक्षः कथयति
 
-<div class="js_include" url="../upakathAH/03-08_kAmAturavaNikkathA.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upakathAH/03-08_kAmAturavaNikkathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
 तस्माच्चौरस्याप्युपकारः श्रेयश्चिन्त्यते किं पुनः शरणागतस्य । अपि चायं तैर्विप्रकृतोऽस्माकमेव पुष्टये भविष्यति तदीयरन्ध्रदर्शनाय चेति अनेन कारणेनायमवध्य इति ।  
 
@@ -72,7 +72,7 @@ unicode_script: devanagari
 
 वक्रनासः कथयति
 
-<div class="js_include" url="../upakathAH/03-09_drONAkhyabrAhmaNakathA.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upakathAH/03-09_drONAkhyabrAhmaNakathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
 अथ तस्य वचनमवधार्यारिमर्दनः पुनरपि प्राकारकर्णमपृच्छत्कथय, किमत्र मन्यते भवान् ?
 
@@ -85,7 +85,7 @@ unicode_script: devanagari
 
 प्राकारकर्णः कथयति
 
-<div class="js_include" url="../upakathAH/03-10_valmIkOdaragatasarpakathA.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upakathAH/03-10_valmIkOdaragatasarpakathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
 तच्च श्रुत्वा स्वयमरिर्दनोऽप्येवं समर्थितवान् । तथा चानुष्ठितम् । दृष्ट्वान्तर्लीनं विहस्य रक्ताक्षः पुनरब्रवीत्कष्टम् । विनाशितोऽयं भवद्भिरन्यायेन स्वामी । उक्तं च
 
@@ -101,7 +101,7 @@ unicode_script: devanagari
 
 रक्ताक्षः कथयति
 
-<div class="js_include" url="../upakathAH/03-11_vIravararathakAratatpatnIkathA.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upakathAH/03-11_vIravararathakAratatpatnIkathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
 तत्सर्वथा मूलोत्खाता वयं विनष्टाः स्मः । सुष्ठु खल्विदमुच्यते
 
@@ -128,7 +128,7 @@ unicode_script: devanagari
 
 रक्ताक्षः कथयति
 
-<div class="js_include" url="../upakathAH/03-11_vIravararathakAratatpatnIkathA.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upakathAH/03-11_vIravararathakAratatpatnIkathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
 तत्सर्वथा मूलोत्खाता वयं विनष्टाः स्मः । सुष्ठु खल्विदमुच्यते
 
@@ -155,7 +155,7 @@ unicode_script: devanagari
 
 रक्ताक्षः कथयति
 
-<div class="js_include" url="../upakathAH/03-12_shAlankAyanarakShitamUShikakathA.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upakathAH/03-12_shAlankAyanarakShitamUShikakathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
 अथ रक्ताक्षवचनमनादृत्य तैः स्ववंशविनाशाय स स्वदुर्गमुपनीतः । नीयमानश्चान्तर्लीनमवहस्य स्थिरजीव्यचिन्तयत्
 
@@ -177,7 +177,7 @@ unicode_script: devanagari
 
 रक्ताक्षः कथयति
 
-<div class="js_include" url="../upakathAH/03-14_swarNaShThIvIsindhukapakShIkathA.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upakathAH/03-14_swarNaShThIvIsindhukapakShIkathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
 अथ ते पुनरपि प्रतिकूलदैवतया हितमपि रक्ताक्षवचनमनादृत्य भूयस्तं प्रभूतमांसादिविविधाहारेण पोषयामासुः । अथ रक्ताक्षः स्ववर्गमाहूय रहः प्रोवाचअहो ! एतावदेवास्मद्भूपतेः कुशलं दुर्गं च । तदुपदिष्टं मया यत्कुलक्रमागतः सचिवोऽभिधत्ते । तद्वयमन्यत्पर्वतदुर्गं सम्प्रति समाश्रयामः । उक्तं च यतः
 
@@ -190,7 +190,7 @@ unicode_script: devanagari
 
 रक्ताक्षः कथयति
 
-<div class="js_include" url="../upakathAH/03-15_kharanakharasimhakathA.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upakathAH/03-15_kharanakharasimhakathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
 तदेवं मत्वा युष्माभिर्मया सह गन्तव्यमिति । एवमभिधायात्मानुयायिपरिवारानुगतो दूरदेशान्तरं रक्ताक्षो जगाम ।  
 

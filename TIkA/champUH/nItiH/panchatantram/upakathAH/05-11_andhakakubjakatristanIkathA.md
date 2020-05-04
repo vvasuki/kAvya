@@ -13,7 +13,7 @@ unicode_script: devanagari
 यः सततं परिपृच्छति शृणोति सन्धारयत्यनिशम् ।  
 तस्य दिवाकरकिरणैर्नलिनीव विवर्धते बुद्धिः ॥५.८७॥
 
-<div class="js_include" url="05-12_chanDakarmAnAmarAkshasakathA.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../05-12_chanDakarmAnAmarAkshasakathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
 अथ तेभ्यस्तच्छ्रुत्वाराजा द्विजानाहूय प्रोवाच भो ब्राह्मणाः ! त्रिस्तनी मे कन्या समुत्पन्ना, तत्किं तस्याः प्रतिविधानमस्ति, न वा ?
 

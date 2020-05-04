@@ -16,7 +16,7 @@ unicode_script: devanagari
 
 कूर्मः कथयति
 
-<div class="js_include" url="../upakathAH/04-02_dUradarshImatsyAnAm_kathA.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upakathAH/04-02_dUradarshImatsyAnAm_kathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
 तद्यथाहमन्यहृदं प्राप्नोमि तथा क्रियताम् ।' हंसावाहतुः-'जलाशयान्तरे प्राप्ते तव कुशलम् , स्थले गच्छतस्ते को विधिः ?' कूर्म आह-'यथाऽहं भवद्भ्यां सहाकाशवम॑ना यामि तथा विधीयताम् ।' हंसौ ब्रतः-कथमुपायः संभवति ?'। कच्छपो वदति-'यवाभ्यां चञ्चधृतं काष्ठखण्डमेकं मया मुखेनावलम्ब्य गन्तव्यम् । युवयोः पक्षबलेन मयापि सुखेन गन्तव्यम् ।'
 
@@ -29,7 +29,7 @@ unicode_script: devanagari
 
 तौ कथयतः
 
-<div class="js_include" url="../upakathAH/04-04_bakasarpanakulAnAm_kathA.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upakathAH/04-04_bakasarpanakulAnAm_kathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
 आवाभ्यां नीयमानं त्वामवलोक्य लोकैः किंचिद्वक्तव्यमेव । तदाकर्ण्य यदि त्वमुत्तरं दास्यसि तदा स्वन्मरणम् । तत्सर्वथाऽत्रैव स्थीयताम्।' कूर्मों वदति-'किमहमप्राज्ञः? नाहमुत्तरं दास्यामि किमपि न वक्तव्यम् । तथानुष्ठिते तथाविधं कूर्ममालोक्य सर्वे गोरचकाः पश्चाद्धावन्ति वदन्ति च ।  
 

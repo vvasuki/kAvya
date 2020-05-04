@@ -29,20 +29,20 @@ unicode_script: devanagari
 अव्यापरेषु व्यापारं यो नरः कर्तुमिच्छति ।  
 स एव निधनं याति कीलोत्पाटीव वानरः ॥१.२१॥
 
-<div class="js_include" url="../upakathAH/01-01_kIlotpATi-vAnara.md"  newLevelForH1="3" includeTitle="true"> </div>  
+<div class="js_include" url="../../upakathAH/01-01_kIlotpATi-vAnara/"  newLevelForH1="3" includeTitle="true"> </div>  
 आवयोर्भक्षितशेष आहारोऽस्त्येव । तत् किमनेन व्यापारेण ।  
 
 दमनक आह - "तत् किं भवानाहारार्थी केवलमेव । तन्न युक्तम् ।"
 
-<div class="js_include" url="../upadeshAH/artha/bhavya-jIvana.md"  newLevelForH1="3" includeTitle="true"> </div>  
+<div class="js_include" url="../../upadeshAH/artha/bhavya-jIvana/"  newLevelForH1="3" includeTitle="true"> </div>  
 
 करटक आह - आवां तावदप्रधानौ तत्किमावयोरनेन व्यापरेण?
 
-<div class="js_include" url="../upadeshAH/mantra/mantraNa-auchitya.md"  newLevelForH1="3" includeTitle="true"> </div>  
+<div class="js_include" url="../../upadeshAH/mantra/mantraNa-auchitya/"  newLevelForH1="3" includeTitle="true"> </div>  
 
 दमनक आह - मा मैवं वद ।  
 
-<div class="js_include" url="../upadeshAH/sevA/rAja-sevA-stuti.md"  newLevelForH1="3" includeTitle="true"> </div>  
+<div class="js_include" url="../../upadeshAH/sevA/rAja-sevA-stuti/"  newLevelForH1="3" includeTitle="true"> </div>  
 
 करटक आह - अथ भवान्किं कर्तुमनाः ?
 
@@ -52,7 +52,7 @@ unicode_script: devanagari
 
 सोऽब्रवीत् - ज्ञेयं किमत्र ।  
 
-<div class="js_include" url="../upadeshAH/ingitajna.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upadeshAH/ingitajna/"  newLevelForH1="3" includeTitle="true"> </div>
 
 तदद्यैनं भयाकुलं प्राप्य स्वबुद्धिप्रभावेन निर्भयं कृत्वा वशीकृत्य च निजां साचिव्यपदवीं समासादयिष्यामि ।  
 
@@ -62,22 +62,22 @@ unicode_script: devanagari
 
 श्रूयतां तच्चेदम् -
 
-<div class="js_include" url="../upadeshAH/sevA/sevA-nIti.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upadeshAH/sevA/sevA-nIti/"  newLevelForH1="3" includeTitle="true"> </div>
 
 करटक आह - अथ भवांस्तत्र गत्वा किं तावत्प्रथमं
 वक्ष्यति तत्तावदुच्यताम् ।  
 
 दमनक आह -
 
-<div class="js_include" url="../upadeshAH/mantra/vAk-paTutA.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upadeshAH/mantra/vAk-paTutA/"  newLevelForH1="3" includeTitle="true"> </div>
 
 करटक आह -
 
-<div class="js_include" url="../upadeshAH/sevA/sevA-kAThinya.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upadeshAH/sevA/sevA-kAThinya/"  newLevelForH1="3" includeTitle="true"> </div>
 
 दमनक आह - सत्यमेतत्परम् । किं तु -
 
-<div class="js_include" url="../upadeshAH/sevA/svAmi-vashIkaraNa.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upadeshAH/sevA/svAmi-vashIkaraNa/"  newLevelForH1="3" includeTitle="true"> </div>
 
 करटक आह - यद्येवमभिमतं तर्हि शिवास्ते पन्थानः
 सन्तु । यथाभिलषितमनुष्ठीयताम् । सोऽपि प्रणम्य

@@ -5,7 +5,7 @@ unicode_script: devanagari
 
 वायसोऽवदत् सखे ! मन्थर ! सविशेषपूजाम् अस्मै विधेहि, यतोयं पुण्यकर्मणां धुरीणः कारुण्यरत्नाकरो हिरण्यकनामा मूषिकराजः । एतस्य गुणस्तुतिं जिह्वासहस्रद्वयेनापि यदि सर्पराजः कदाचित् कर्तुं समर्थः स्यात् इत्युक्त्वा चित्रग्रीवोपाख्यानं वर्णितवान् । ततो मन्थरः सादरं हिरण्यकं सम्पूज्याह भद्र ! आत्मनो निर्जनवनागमनकारणम् आख्यातुम् अर्हसि हिरण्यकोवदत्कथयामि, श्रूयताम् ।  
 
-<div class="js_include" url="../upakathAH/01-04_sanyAsI_cha_mUShikayoH_kathA.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upakathAH/01-04_sanyAsI_cha_mUShikayoH_kathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
 यतः
 
@@ -82,7 +82,7 @@ unicode_script: devanagari
 
 मन्थरः कथयति
 
-<div class="js_include" url="../upakathAH/01-05_mUrkhajambukaH.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upakathAH/01-05_mUrkhajambukaH/"  newLevelForH1="3" includeTitle="true"> </div>
 
 तथा च्
 

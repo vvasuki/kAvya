@@ -88,7 +88,7 @@ unicode_script: devanagari
 
 सोऽब्रवीत्
 
-<div class="js_include" url="../upakathAH/01-09_mandavisarpiNIyUkA.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upakathAH/01-09_mandavisarpiNIyUkA/"  newLevelForH1="3" includeTitle="true"> </div>
 
 एवं ज्ञात्वा त्वयिष वध्यः । नो चेत्त्वां व्यापादयिष्यतीति । उक्तं च
 
@@ -99,7 +99,7 @@ unicode_script: devanagari
 
 सोऽब्रवीत्
 
-<div class="js_include" url="../upakathAH/01-10_chanDaravaH_shrugAlah.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upakathAH/01-10_chanDaravaH_shrugAlah/"  newLevelForH1="3" includeTitle="true"> </div>
 
 तदाकर्ण्य पिङ्गलक आह भो दमनक ! कः प्रत्ययोऽत्र विषये यत्स ममोपरि दुष्टबुद्धिः ।  
 

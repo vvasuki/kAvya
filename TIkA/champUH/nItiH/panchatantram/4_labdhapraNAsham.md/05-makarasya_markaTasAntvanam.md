@@ -12,7 +12,7 @@ unicode_script: devanagari
 
 मकरोऽब्रवीत्
 
-<div class="js_include" url="../upakathAH/04-11_hAlikadampatIkathA.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upakathAH/04-11_hAlikadampatIkathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
 तत्किं करोमि ? किमनेन सह युद्धं करोमि ? किं वा साम्नैव सम्बोध्य गृहान्निःसारयामि ? किं वा भेदं दानं वा करोमि ? अथवामुमेव वानरमित्रं पृच्छामि ? उक्तं च
 
