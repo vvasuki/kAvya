@@ -31,7 +31,7 @@ unicode_script: devanagari
 
 सोऽब्रवीत्
 
-<div class="js_include" url="01-07_bakakulIrakakathA.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../01-07_bakakulIrakakathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
 वायस आह भद्र ! तत्कथय कथं स दुष्टसर्पो वधमुपैष्यति ।  
 

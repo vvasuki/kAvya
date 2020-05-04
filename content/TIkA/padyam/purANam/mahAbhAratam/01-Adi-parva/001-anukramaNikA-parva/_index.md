@@ -97,7 +97,7 @@ unicode_script: devanagari
 भारतस्येतिहासस्य धर्मेणान्वीक्ष्य तां गतिम् ॥ 	040c  
 प्रविश्य योगं ज्ञानेन सोऽपश्यत्सर्वमन्ततः ॥\' 	041ac  
 
-<div class="js_include" url="sRShTikathA.md"  newLevelForH1="3" includeTitle="true"> </div>  
+<div class="js_include" url="sRShTikathA/"  newLevelForH1="3" includeTitle="true"> </div>  
 
 
 इह सर्वमनुक्रान्तमुक्तं ग्रन्थस्य लक्षणम् ।	064a  
@@ -319,7 +319,7 @@ unicode_script: devanagari
 दुर्योधनमतं ज्ञात्वा कर्णस्य शकुनेस्तथा ॥	162c  
 धृतराष्ट्रश्चिरं ध्यात्वा सञ्जयं वाक्यमब्रवीत् ।	163a  
 
-<div class="js_include" url="dhRtarAShTra-vilApaH.md"  newLevelForH1="3" includeTitle="true"> </div>  
+<div class="js_include" url="dhRtarAShTra-vilApaH/"  newLevelForH1="3" includeTitle="true"> </div>  
 
 
 

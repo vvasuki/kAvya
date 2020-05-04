@@ -13,7 +13,7 @@ unicode_script: devanagari
 
 सोऽब्रवीत्
 
-<div class="js_include" url="../upakathAH/03-03_mitrasharmabrAhmaNakathA.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upakathAH/03-03_mitrasharmabrAhmaNakathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
 अथवा साध्विदमुच्यते
 
@@ -29,7 +29,7 @@ unicode_script: devanagari
 
 स्थिरजीवी कथयति
 
-<div class="js_include" url="../upakathAH/03-04_atidarpanAmasarpakathA.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upakathAH/03-04_atidarpanAmasarpakathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
 तदत्रास्ति मे किञ्चिद्वक्तव्यमेव । तदवधार्य यथोक्तमनुष्ठीयताम् ।  
 

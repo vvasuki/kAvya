@@ -87,4 +87,4 @@ unicode_script: devanagari
 
 ते प्रोचुः
 
-<div class="js_include" url="01-20_kriShNasarpakathA.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../01-20_kriShNasarpakathA/"  newLevelForH1="3" includeTitle="true"> </div>

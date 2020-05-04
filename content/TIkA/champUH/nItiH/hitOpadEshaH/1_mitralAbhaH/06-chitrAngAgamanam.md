@@ -23,6 +23,6 @@ unicode_script: devanagari
 
 तद् यथा
 
-<div class="js_include" url="../upakathAH/01-06 karpUratilakO_nAma_hastIkathA.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upakathAH/01-06 karpUratilakO_nAma_hastIkathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
 ततस्तद्धितवचनम् अवधीर्य महता भयेन विमुग्ध इव मन्थरस्स् तज्जलाशयम् उत्सृज्य प्रचलितः । तेपि हिरण्यकादयः स्नेहाद् अनिष्टं शङ्कमानास्तम् अनुजग्मुः ।  

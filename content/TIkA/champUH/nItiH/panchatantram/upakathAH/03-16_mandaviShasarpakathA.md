@@ -35,6 +35,6 @@ unicode_script: devanagari
 
 मन्दविषोऽब्रवीत्
 
-<div class="js_include" url="03-17_dhrutAndhabrAhmaNakathA.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../03-17_dhrutAndhabrAhmaNakathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
 अतोऽहं ब्रवीमिस्कन्धेनापि वहेच्छत्रुम् (२३८) इत्यादि ।  

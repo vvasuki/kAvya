@@ -21,7 +21,7 @@ unicode_script: devanagari
 
 स आह
 
-<div class="js_include" url="../upakathAH/04-01_gangadattapriyadarshanakathA.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upakathAH/04-01_gangadattapriyadarshanakathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
 तद्भो दुष्टजलचर ! अहमपि गङ्गदत्त इव त्वद्गृहे न कथञ्चिदपि यास्यामि ।  
 
@@ -36,7 +36,7 @@ unicode_script: devanagari
 
 वानर आह
 
-<div class="js_include" url="../upakathAH/04-02_karAlakEsarakathA.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upakathAH/04-02_karAlakEsarakathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
 तन्मूर्ख ! कपटं कृतं त्वया । परं युधिष्ठिरेणेव सत्यवचनेन विनाशितम् । अथवा साध्विदमुच्यते
 
@@ -47,7 +47,7 @@ unicode_script: devanagari
 
 स आह
 
-<div class="js_include" url="../upakathAH/04-03_yudhiShThirAkhyakumbhakArakathA.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upakathAH/04-03_yudhiShThirAkhyakumbhakArakathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
 धिङ्मूर्ख ! यत्त्वया स्त्रियोऽर्थ एतत्कार्यमनुष्ठातुमारब्धम् । न हि स्त्रीणां कथञ्चिद्विश्वासमुपगच्छेत् । उक्तं च
 
@@ -58,7 +58,7 @@ unicode_script: devanagari
 
 वानर आह
 
-<div class="js_include" url="../upakathAH/04-05_brAhmaNakathA.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upakathAH/04-05_brAhmaNakathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
 वानरः पुनराह साधु चेदमुपाख्यानकं श्रूयते
 
@@ -69,7 +69,7 @@ unicode_script: devanagari
 
 वानरः कथयति
 
-<div class="js_include" url="../upakathAH/04-06_nandavararuchikathA.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upakathAH/04-06_nandavararuchikathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
 तद्भो दु ट मकर ! त्वमपि नन्दवररुचिवत्स्त्रीवश्यः । ततो भद्र आगतेन त्वया मां प्रति वधोपायप्रयासः प्रारब्धः । परं स्ववाग्दोषेणैव प्रकटीभूतः । अथवा साध्विदमुच्यते
 
@@ -84,7 +84,7 @@ unicode_script: devanagari
 
 वानरः कथयति
 
-<div class="js_include" url="../upakathAH/04-07_shuddhapaTanAmarajakakathA.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upakathAH/04-07_shuddhapaTanAmarajakakathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
 तत्किं श्यामलकवदत्यपमानसहनादर्धचन्द्रदानेन यास्यसि ।  
 
@@ -95,7 +95,7 @@ unicode_script: devanagari
 
 वानर आह
 
-<div class="js_include" url="../upakathAH/04-08_bhAnDapatikathA.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upakathAH/04-08_bhAnDapatikathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
 तत्किमहं रथकारवन्मूर्खो यतः स्वयमपि दृष्ट्वा ते विकारपश्चाद्विश्वसिमि । उक्तं च
 
@@ -106,7 +106,7 @@ unicode_script: devanagari
 
 वानरः कथयति
 
-<div class="js_include" url="../upakathAH/04-09_rathakArakathA.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upakathAH/04-09_rathakArakathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
 तन्मूढ ! दृष्टविकारस्त्वम्, तत्कथं तत्र गृहं गच्छामि । अथवा यन्मां त्वं विश्वासयसि तत्ते दोषो नास्ति, यतीदृशी स्वभावदुष्टा युष्मज्जातिर्या शिष्टसङ्गादपि सौम्यत्वं न याति । अथवा स्वभावोऽयं दुष्टानाम् । उक्तं च
 
@@ -122,7 +122,7 @@ unicode_script: devanagari
 
 वानरोऽब्रवीत्
 
-<div class="js_include" url="../upakathAH/04-10_kAmAturakathA.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upakathAH/04-10_kAmAturakathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
 किं बहुना, तेन च स्त्रीलुब्धेन स्वं सर्वं चौरस्य समर्पितम् । त्वयापि तथानुष्ठितम् ।  
 

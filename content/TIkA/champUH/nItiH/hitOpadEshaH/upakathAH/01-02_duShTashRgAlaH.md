@@ -14,7 +14,7 @@ unicode_script: devanagari
 
 काकः कथयति
 
-<div class="js_include" url="../upakathAH/01-03_jaradgavanAmA_gRdhrakathA.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upakathAH/01-03_jaradgavanAmA_gRdhrakathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
 इत्य् आकर्ण्य स जम्बुकः सकोपम् आह्मृगस्य प्रथमदर्शनदिने भवान् अपि अज्ञातकुलशील एव आसीत् । तत् कथं भवता सह एतस्य स्नेहानुवृत्तिरुत्तरोत्तरं वर्धते अथवा
 

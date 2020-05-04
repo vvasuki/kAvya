@@ -161,7 +161,7 @@ unicode_script: devanagari
 
 मन्त्री कथयति
 
-<div class="js_include" url="../upakathAH/03-06_nIlavarNashRgAlakathA.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upakathAH/03-06_nIlavarNashRgAlakathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
 राजाह'यद्येवं तथापि दृश्यतां तावदयं दूरादागतः। तत्संग्रहे विचार: कार्यः । चक्रो ब्रूते-देव! प्रणिधिः प्रहितो दुर्गश्च सज्जीकृतः। अतः शुकोऽप्यानीय प्रस्थाप्यताम् ।।  
 
@@ -329,7 +329,7 @@ unicode_script: devanagari
 
 राजा कथयति
 
-<div class="js_include" url="../upakathAH/03-07_vIravaranAmasEvakakathA.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upakathAH/03-07_vIravaranAmasEvakakathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
 
 तत्किमागन्तुको जातिमात्रादुष्टः ? तत्राप्युत्तमाधममध्यमाः सन्ति ।  
@@ -351,7 +351,7 @@ unicode_script: devanagari
 
 मन्त्री कथयति
 
-<div class="js_include" url="../upakathAH/03-08_mUrkhanApitaH.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upakathAH/03-08_mUrkhanApitaH/"  newLevelForH1="3" includeTitle="true"> </div>
 
 राजाह
 

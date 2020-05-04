@@ -55,7 +55,7 @@ unicode_script: devanagari
 
 स आह
 
-<div class="js_include" url="02-02_tilachUrNavikrayakathA.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../02-02_tilachUrNavikrayakathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
 एतदुक्त्वा स भूयोऽपि प्राह अथ ज्ञायते तस्य क्रमणमार्गः ।  
 

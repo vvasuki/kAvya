@@ -11,7 +11,7 @@ unicode_script: devanagari
 
 सोऽब्रवीत्
 
-<div class="js_include" url="../upakathAH/04-12_ujwalakarathakArakathA.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upakathAH/04-12_ujwalakarathakArakathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
 अथ तच्छ्रुत्वा मकरः प्राह
 
@@ -35,7 +35,7 @@ unicode_script: devanagari
 
 सोऽब्रवीत्
 
-<div class="js_include" url="../upakathAH/04-13_mahAchaturakAkhyashrugAlakathA.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upakathAH/04-13_mahAchaturakAkhyashrugAlakathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
 सुभिक्षाणि विचित्राणि शिथिलाः पौरयोषितः ।  
 एको दोषो विदेशस्य स्वजातिर्यद्विरुध्यते ॥४.८३॥
@@ -44,7 +44,7 @@ unicode_script: devanagari
 
 वानरोऽब्रवीत्
 
-<div class="js_include" url="../upakathAH/04-14_chitrAnganAmasAramEyakathA.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upakathAH/04-14_chitrAnganAmasAramEyakathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
 सोऽपि मकरस्तदुपदेशं श्रुत्वा कृतमरणनिश्चयो वानरमनुज्ञाप्य स्वाश्रयं गतः । तत्र च तेन स्वगृहप्रविष्टेनाततायिना सह विग्रहं कृत्वा दृढसत्त्वावष्टम्भनाच्च तं व्यापाद्य स्वाश्रयं च लब्ध्वा सुखेन चिरकालमतिष्ठत् । साध्विदमुच्यते
 

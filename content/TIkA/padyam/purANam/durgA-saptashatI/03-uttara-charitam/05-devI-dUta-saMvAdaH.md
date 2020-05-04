@@ -36,7 +36,7 @@ unicode_script: devanagari
 इति कृत्वा मतिं देवा हिमवन्तं नगेश्वरम्।  
 जग्मुस्तत्र ततो देवीं विष्णुमायां प्रतुष्टुवुः॥७॥
 
-<div class="js_include" url="deva-prArthanA.md"  newLevelForH1="3" includeTitle="true"> </div>  
+<div class="js_include" url="../deva-prArthanA/"  newLevelForH1="3" includeTitle="true"> </div>  
 
 
 

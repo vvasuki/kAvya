@@ -10,7 +10,7 @@ unicode_script: devanagari
 
 कपोता ऊचुः कथम् एतत्
 
-<div class="js_include" url="../upakathAH/01-01_kankaNalObhaH.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upakathAH/01-01_kankaNalObhaH/"  newLevelForH1="3" includeTitle="true"> </div>
 
 यतः
 
@@ -194,7 +194,7 @@ unicode_script: devanagari
 
 हिरण्यकः कथयति
 
-<div class="js_include" url="../upakathAH/01-02_duShTashRgAlaH.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upakathAH/01-02_duShTashRgAlaH/"  newLevelForH1="3" includeTitle="true"> </div>
 
 काकः पुनराह
 

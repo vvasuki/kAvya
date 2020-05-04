@@ -28,7 +28,7 @@ unicode_script: devanagari
 
 पक्षिणः कथयन्ति
 
-<div class="js_include" url="../upakathAH/03-03_gajashashakayoH_kathA.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upakathAH/03-03_gajashashakayoH_kathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
 ततो मयोक्तम्-'स एवास्मत्प्रभू राजहंसो महाप्रतापोऽतिसमर्थः। त्रैलोक्यस्यापि प्रभुत्वं तत्र युज्यते, किं पुनाराज्यम्?' इति । तदाऽहं तैः पक्षिभिः 'दुष्ट! कथमस्मद्भूमौ चरसि ?' इत्यभिधाय राज्ञश्चित्रवर्णस्य समीपं नीतः । ततो राज्ञः पुरो मां, प्रदर्श्य तैः प्रणम्योक्तम्-'देव ! अवधीयतामेष दुष्टो बको यदस्मद्देशे चरन्नपि देवपादानधिक्षिपति।' राजाह-'कोऽयम् ? कुतः समायातः ?' । त ऊचुः-'हिरण्यगर्भनाम्नो राजहंसस्यानुचरः कर्पूरद्वीपादागतः?'। अथाहं गृध्रेण मन्त्रिणा पृष्टः–'कस्तत्र मुख्यो मन्त्री ?' इति । मयोक्तम्-'सर्वशास्त्रार्थपारगः सर्वज्ञो नाम चक्रवाकः।' गृध्रो ब्रूते-'युज्यते, स्वदेशजोऽसौ।  
 
@@ -74,7 +74,7 @@ unicode_script: devanagari
 
 शुकः कथयति
 
-<div class="js_include" url="../upakathAH/03-04_kAkahamsayoH_kathA.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upakathAH/03-04_kAkahamsayoH_kathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
 ततो मयोक्तम्-'भ्रातः शुक! किमेवं ब्रवीषि? मां प्रति यथा श्रीमद्देवस्तथा भवानपि ।' शुकेनोक्तम्-'अस्त्वेवम् ।  
 
@@ -94,6 +94,6 @@ unicode_script: devanagari
 
 शुकः कथयति
 
-<div class="js_include" url="../upakathAH/03-05_mandamatirathakArasya_kathA.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upakathAH/03-05_mandamatirathakArasya_kathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
 ततोऽहं तेन राज्ञा यथाव्यवहारं संपूज्य प्रस्थापितः । शुकोऽपि मम पश्चादागच्छनास्ते । एतत्सर्वं परिज्ञाय यथाकर्तव्यमनुसंधीयताम् ।' 

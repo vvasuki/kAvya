@@ -62,7 +62,7 @@ unicode_script: devanagari
 
 स आह
 
-<div class="js_include" url="../upakathAH/01-16_vajradamShtranAmasimhakathA.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upakathAH/01-16_vajradamShtranAmasimhakathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
 अथ दमनके गते सञ्जीवकश्चिन्तयामासअहो किमेतन्मया कृतम् ? यच्छष्पादोऽपि मांसाशितस्तस्यानुगः संवृत्तः । अथवा साध्विदमुच्यते
 
@@ -162,7 +162,7 @@ unicode_script: devanagari
 
 सोऽब्रवीत्
 
-<div class="js_include" url="../upakathAH/01-17_vAnarayUthakathA.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upakathAH/01-17_vAnarayUthakathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
 अन्यच्च
 
@@ -172,7 +172,7 @@ unicode_script: devanagari
 दमनक आह कथमेतत्?
 
 सोऽब्रवीत्
-<div class="js_include" url="../upakathAH/01-18_mUrkhavAnaraH.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upakathAH/01-18_mUrkhavAnaraH/"  newLevelForH1="3" includeTitle="true"> </div>
 
 अहो, साध्विदमुच्यते
 
@@ -183,7 +183,7 @@ unicode_script: devanagari
 
 सोऽब्रवीत्
 
-<div class="js_include" url="../upakathAH/01-19_dharmabuddhiHkathA.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upakathAH/01-19_dharmabuddhiHkathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
 एवं मूढ ! त्वयाप्यपायश्चिन्तितो नोपायः पापबुद्धिवत् । तन्न भवसि त्वं सज्जनः । केवलं पापबुद्धिरसि । ज्ञातो मया स्वामिनः प्राणसन्देहानयनात् । प्रकटीकृतं त्वया स्वयमेवात्मनो दुष्टत्वं कौटिल्यं च । अथवा साध्विदमुच्यते
 
@@ -199,7 +199,7 @@ unicode_script: devanagari
 
 सोऽब्रवीत्
 
-<div class="js_include" url="../upakathAH/01-21_jIrNadhananAmavaNikputrakathA.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upakathAH/01-21_jIrNadhananAmavaNikputrakathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
 तन्मूर्ख ! सञ्जीवकप्रसादमसहमानेन त्वयैतत्कृतम् । अहो साध्विदमुच्यते
 
@@ -222,7 +222,7 @@ unicode_script: devanagari
 
 सोऽब्रवीत्
 
-<div class="js_include" url="../upakathAH/01-22_dhUrtamarkaTaH_prANatyAgI_viprashcha.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upakathAH/01-22_dhUrtamarkaTaH_prANatyAgI_viprashcha/"  newLevelForH1="3" includeTitle="true"> </div>
 
 अथैवं संवदतोः सञ्जीवकः क्षणमेकं पीङ्गलकेन सह युद्धं कृत्वा तस्य खरनखरप्रहाराभिहितो गतासुर्वसुन्धरापीठे निपपात । अथ तं गतासुमवलोक्य पिङ्गलकस्तद्गुणस्मरणार्द्रहृदयः प्रोवाचभोः, अयुक्तं मया पापेन कृतं सञ्जीवकं व्यापादयता । यतो विश्वासघातादन्यन्नास्ति पापतरं कर्म । उक्तं च
 

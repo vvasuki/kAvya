@@ -34,7 +34,7 @@ unicode_script: devanagari
 
 दीर्घमुखः कथयति
 
-<div class="js_include" url="../upakathAH/03-01_duShTamarkaTAH.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upakathAH/03-01_duShTamarkaTAH/"  newLevelForH1="3" includeTitle="true"> </div>
 
 राजोवाच-'ततस्तैः किं कृतम् ?' बकः कथयति-ततस्तैः पक्षिभिः कोपादुक्तम्-'केनासौ राज. हंसो राजा कृतः?' | ततो मयोपजातकोपेनोक्तम्-'युष्मदीयमयूरः केन राजा कृतः ?' एतच्छ्रुत्वा ते सर्वे मां हन्तुमुद्यताः। ततो मयापि स्वविक्रमो दर्शितः।  
 
@@ -57,4 +57,4 @@ unicode_script: devanagari
 
 राजा कथयति
 
-<div class="js_include" url="../upakathAH/03-02_mUrkhagardabhaH.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upakathAH/03-02_mUrkhagardabhaH/"  newLevelForH1="3" includeTitle="true"> </div>

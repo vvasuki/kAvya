@@ -16,7 +16,7 @@ unicode_script: devanagari
 
 प्रत्युत्पन्नमतिः कथयति
 
-<div class="js_include" url="../upakathAH/04-03_ratnaprabhAyAH_kathA.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upakathAH/04-03_ratnaprabhAyAH_kathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
 ततो यद्भविष्येणोक्तम्,
 

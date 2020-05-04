@@ -54,7 +54,7 @@ unicode_script: devanagari
 
 स आह
 
-<div class="js_include" url="02-03_shavarashUkarakathA.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../02-03_shavarashUkarakathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
 स पुनरप्याह ब्राह्मणि, न श्रुतं भवत्या ।  
 

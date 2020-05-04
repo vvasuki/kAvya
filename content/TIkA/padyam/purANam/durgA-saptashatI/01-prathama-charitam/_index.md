@@ -30,7 +30,7 @@ unicode_script: devanagari
 महामायाऽनुभावेन यथा मन्वन्तराऽधिपः।  
 स बभूव महाभागः सावर्णिस् तनयो रवेः॥३॥
 
-<div class="js_include" url="01_rAja-vaishya-vyasanam.md"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="01_rAja-vaishya-vyasanam/"  newLevelForH1="2" includeTitle="true"> </div>  
 
 
 ## महामायापरिचयः
@@ -74,7 +74,7 @@ unicode_script: devanagari
 तुष्टाव योगनिद्रां तामेकाग्रहृदयः स्थितः।  
 विबोधनार्थाय हरेर्हरिनेत्रकृतालयाम्॥७०॥
 
-<div class="js_include" url="../00-pUrvAngam/brahma-stutiH.md"  newLevelForH1="3" includeTitle="true"> </div>  
+<div class="js_include" url="../00-pUrvAngam/brahma-stutiH/"  newLevelForH1="3" includeTitle="true"> </div>  
 
 ## देवीक्रिया
 ऋषिरुवाच॥८८॥

@@ -101,7 +101,7 @@ unicode_script: devanagari
 
 ते धर्माधिकारिणः प्रोचुः
 
-<div class="js_include" url="../upakathAH/05-01_brAhmaNInakulakathA.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upakathAH/05-01_brAhmaNInakulakathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
 इति श्रीविष्णुशर्मविरचिते पञ्चतन्त्रे अपरीक्षितकारकं नाम
 पञ्चमं तन्त्रं समाप्तम्

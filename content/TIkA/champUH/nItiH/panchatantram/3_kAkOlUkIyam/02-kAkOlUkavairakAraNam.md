@@ -63,7 +63,7 @@ unicode_script: devanagari
 
 स आह
 
-<div class="js_include" url="../upakathAH/03-01_chaturdantanAmagajaH.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upakathAH/03-01_chaturdantanAmagajaH/"  newLevelForH1="3" includeTitle="true"> </div>
 
 क्षुद्रमलसं कापुरुषं व्यसनिनमकृतज्ञं जीवितकामः ।  
 पृष्ठप्रलपनशीलं स्वामित्वे नाभियोजयेत् ॥३.९०॥
@@ -77,7 +77,7 @@ unicode_script: devanagari
 
 स आह
 
-<div class="js_include" url="../upakathAH/03-02_shashakapinjalakathA.md"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upakathAH/03-02_shashakapinjalakathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
 भवन्तोऽप्येनं दिवान्धं क्षुद्रमर्थपतिमासाद्य रात्र्यन्धाः सन्तः शशकपिञ्जलमार्गेण यास्यन्ति । एवं ज्ञात्वा यदुचितं तद्विधेयम् । अथ तस्य तद्वचनमाकर्ण्य साध्वनेनाभिहितमित्युक्ता, भूयोऽपि पार्थिवाथं समेत्य मन्त्रयिष्यामहे इति ब्रुवाणाः सर्वे पक्षिणो यथाभिमतं जग्मुः । केवलमवशिष्टो भद्रासनोपविष्टोऽभिषेकाभिमुखो दिवान्धः कृकालिकया सहास्ते । आह चकः कोऽत्र भोः ! किमद्यापि न क्रियते ममाभिषेकः ?
 
