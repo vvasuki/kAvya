@@ -34,11 +34,11 @@ unicode_script: devanagari
 
 दमनक आह - "तत् किं भवानाहारार्थी केवलमेव । तन्न युक्तम् ।"
 
-<div class="js_include" url="../../upadeshAH/artha/bhavya-jIvana/"  newLevelForH1="3" includeTitle="true"> </div>  
+<div class="js_include" url="../../upadeshAH/arthaH/bhavya-jIvana/"  newLevelForH1="3" includeTitle="true"> </div>  
 
 करटक आह - आवां तावदप्रधानौ तत्किमावयोरनेन व्यापरेण?
 
-<div class="js_include" url="../../upadeshAH/mantra/mantraNa-auchitya/"  newLevelForH1="3" includeTitle="true"> </div>  
+<div class="js_include" url="../../upadeshAH/mantraH/mantraNa-auchitya/"  newLevelForH1="3" includeTitle="true"> </div>  
 
 दमनक आह - मा मैवं वद ।  
 
@@ -52,7 +52,7 @@ unicode_script: devanagari
 
 सोऽब्रवीत् - ज्ञेयं किमत्र ।  
 
-<div class="js_include" url="../../upadeshAH/ingitajna/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upadeshAH/arthaH/ingitajnaH/"  newLevelForH1="3" includeTitle="true"> </div>
 
 तदद्यैनं भयाकुलं प्राप्य स्वबुद्धिप्रभावेन निर्भयं कृत्वा वशीकृत्य च निजां साचिव्यपदवीं समासादयिष्यामि ।  
 
@@ -69,7 +69,7 @@ unicode_script: devanagari
 
 दमनक आह -
 
-<div class="js_include" url="../../upadeshAH/mantra/vAk-paTutA/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upadeshAH/mantraH/vAk-paTutA/"  newLevelForH1="3" includeTitle="true"> </div>
 
 करटक आह -
 
