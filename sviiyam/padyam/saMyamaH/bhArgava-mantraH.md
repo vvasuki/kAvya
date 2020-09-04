@@ -5,7 +5,7 @@ unicode_script: devanagari
 ---
 
 [![](https://i.imgur.com/gBBeUoH.jpg)](https://i.imgur.com/gBBeUoH.jpg)  
-कालः \- २०१७ मार्गशीर्षमासः
+कालः \- २०१७ त आरब्धम्
 
 
 भार्गवाग्नेस् स्फुलिङ्गोऽयं पर्वतादौ दरे स्मये।  
