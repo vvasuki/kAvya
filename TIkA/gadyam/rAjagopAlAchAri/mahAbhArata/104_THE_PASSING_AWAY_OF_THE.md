@@ -1,8 +1,7 @@
 +++
-title = "104 THE PASSING AWAY OF THE"
+title = "104 THE PASSING AWAY OF THE THREE"
 
 +++
-THREE
 WHEN Yudhishthira at last gave his
 consent for Dhritarashtra's retirement to
 the forest, Dhritarashtra and Gandhari
