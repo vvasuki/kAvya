@@ -1,18 +1,19 @@
 +++
-title = "106 YUDHISHTHIRA'S FINAL"
+title = "106 YUDHISHTHIRA'S FINAL TRIAL"
 
 +++
-TRIAL
+
 To Hastinapura came the sad tidings of
 the death of Vasudeva and the destruction
 of the Yadavas. When the Pandavas
 received the news, they lost all remaining
 attachment to life on earth.
+
 They
 crowned
 Parikshit,
 son
-ofAbhimanyu, as emperor and the five
+of Abhimanyu, as emperor and the five
 brothers left the city with Draupadi. They
 went out on a pilgrimage, visiting holy
 places and finally reached the Himalayas.
@@ -22,16 +23,19 @@ them climbed the mountain on their last
 pilgrimage. As they toiled up the
 mountain path one by one fell exhausted
 and died.
+
 The youngest succumbed first. Draupadi,
 Sahadeva and Nakula were released from
 the burden of the flesh one after another.
 Then followed Arjuna and then great
 Bhima too.
+
 Yudhishthira saw his dear ones fall and
 die. Yet, serenely he went on not giving
 way to grief, for the light of Truth burned
 bright before him. Yudhishthira knewwhat was shadow and what was
 substance.
+
 The dog still followed Yudhishthira. The
 lesson enforced by the poet in this episode
 of the dog is that dharma is the only
@@ -41,6 +45,7 @@ dog, followed Yudhishthira up the
 wearisome mountain path, when his
 brothers and wife had gone leaving him
 alone.
+
 Finally, when he reached a great height,
 Indra appeared in his chariot.
 "Your brothers and Draupadi have arrived
@@ -53,15 +58,18 @@ Indra's chariot, the dog also climbed up.
 "No, no," said Indra. "There is no place
 for dogs in swarga," and pushed the dog
 away.
+
 "Then there is no room for me either,"
 said Yudhishthira, and refused to enter the
 heavenly chariot if he had to leave his
 faithful companion behind.
+
 Dharma had come to test Yudhishthira's
 loyalty and he was pleased with his son's
 conduct. The dog vanished from sight.
 Yudhishthira reached swarga. There, he
 saw Duryodhana.
+
 The Kuru prince was seated on a beautiful
 throne and he shone with the splendor of
 the sun and around him stood in
@@ -69,6 +77,7 @@ attendance the goddess of heroism and
 other angels. He did not see his brothers
 or anyone else. Yudhishthira was
 astonished.
+
 "Where are my brothers, ye denizens of
 swarga?" asked Yudhishthira. "This man
 of greed, of limited vision, is here. I do
@@ -85,6 +94,7 @@ where are my brothers? I wish to go
 where they are." Saying this Yudhishthira
 averted his eyes from where Duryodhana
 was seated in glory.
+
 Then Narada, the heavenly rishi of
 encyclopedic
 knowledge,
@@ -103,6 +113,7 @@ for hatred. You have arrived here with
 your human body; so it is that you have
 these inappropriate feelings. Discard
 them, son!"
+
 Yudhishthira replied:
 "O sage, Duryodhana, who did not know
 right from wrong, who was a sinner, who
@@ -123,7 +134,7 @@ Abhimanyu. I do not see them here.
 Where are they, who threw their bodies
 into the blazing fire of battle for my sake,
 like ghee in the sacrifice? I do not see any
-of them here. Where are they all? Myplace must be among them. At the close of
+of them here. Where are they all? My place must be among them. At the close of
 the battle, my mother Kunti wanted me to
 offer libations for Karna also. When I
 think of it, even now, grief overwhelms
@@ -138,6 +149,7 @@ I do not wish to be in heaven, for what
 good is it for me to be here, away from
 my brothers? Wherever they may be, that
 me is swarga; not this place!"
+
 The angels, who heard this, replied:
 "O Yudhishthira, if you indeed desire to
 be with them, by all means, you may go at
@@ -148,6 +160,7 @@ Yudhishthira followed him. As they went
 along, it soon became dark and in the
 gathering gloom could be dimly seen
 things weird and revolting.
+
 He waded through slippery slime of blood
 and offal. The path was strewn with
 carrion and bones and dead men's hair.
@@ -162,15 +175,18 @@ everywhere.
 Yudhishthira was horrified and confused.
 A thousand thoughts tortured his mind as
 he proceeded.
+
 "How far have we to go yet on this road?
 Where indeed are my brothers? Tell me,
 my friend," he enquired of the messenger
 in deep anguish.
+
 The messenger quietly replied: "If you so
 desire, we may turn back." The foul odors
 of the place were so sickening that for a
 moment Yudhishthira was minded to go
 back.
+
 But just then, as if divining his intention,
 vaguely familiar voices rose all around in
 loud lamentation. "O Dharmaputra, do not
@@ -186,6 +202,7 @@ stay, be it for ever so short a time. Do not
 go back. While you are here, we enjoy a
 respite in our torture." Thus the voices
 pleaded.
+
 Hearing the loud lamentations that thus
 came from all around him, Yudhishthira
 stood
@@ -207,6 +224,7 @@ Draupadi's sons," and so on, came
 mournful voices from all around, till the
 accumulated pain was more that
 Yudhishthira could bear.
+
 "What sin indeed have these been guilty
 of?" cried he. "Dhritarashtra's son
 Duryodhana, what good deeds did he do
@@ -214,6 +232,7 @@ to sit like Mahendra in heaven, while
 these are in hell? Am I dreaming or am I
 awake? Is my mind deranged? Have I
 gone crazy?"
+
 Overwhelmed by anger, Yudhishthira
 cursed the gods and denounced dharma.
 He turned to the angel attendant and said
@@ -232,6 +251,7 @@ The sinners and their suffering were no
 more to be seen. A fragrant breeze blew as
 Yama, the god of dharma, smiled on his
 son Yudhishthira.
+
 "Wisest of men, this is the third time I
 have tested you. You chose to remain in
 hell for the sake of your brothers. It is
@@ -251,6 +271,7 @@ designed to test you. This is not hell, but
 swarga. Do you not see there Narada
 whose travels cover the three worlds?
 Cease grieving."
+
 Thus said Yama to Dharmaputra, who,
 thereupon, was transfigured. The mortal
 frame was gone and he was a god. With
@@ -261,7 +282,4 @@ his brothers and the sons of Dhritarashtra
 also, serene and free from anger, all
 having attained the state of the gods. In
 this reunion, Yudhishthira at last found
-peace and real happiness.GLOSSARY
-Abhimanyu : Son of Arjuna and Subhadra
-who was married to Uttara, daughter of
-King Virata.
+peace and real happiness.
