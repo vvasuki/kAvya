@@ -35,13 +35,13 @@ Questions - is the tedium caused due to less-interesting parts of the story and 
 ## Some plot comments.  
 
 - General adventure
-    - General plot: The character(s) are repeatedly placed in crisis situations, which they survive with a combination of wits, luck, and possibly special abilities. Often - but not necessarily, the hero(s) are pursuing a certain important objective. Effect on the viewer: The viewer's dopamine system, which seeks novelty is activated repeatedly. Even the adrenaline system responds repeatedly in sympathy with the crises.
+    - General plot:The character(s) are repeatedly placed in crisis situations, which they survive with a combination of wits, luck, and possibly special abilities. Often - but not necessarily, the hero(s) are pursuing a certain important objective.Effect on the viewer: The viewer's dopamine system, which seeks novelty is activated repeatedly. Even the adrenaline system responds repeatedly in sympathy with the crises.
     -   
         
 - Action adventure:
-    - The hero is highly skilled an resourceful in individual combat \- possibly specializing in machines like the airplane or a car. He is often placed in situations where he fights multiple opponents; and he often succeeds with ease. His strategies in combating the adversary can be quite cunning. Even where victory is not obtained easily, he persists defiantly. This defiance is usally at the service of self preservation, serving justice, revenge and such appealing traits. Unlike general advenctures, the hero does not usually resolve crises by solving tough intellectual puzzles.
+    - The hero is highly skilled an resourceful inindividual combat\- possibly specializing in machines like the airplane or a car. He is often placed in situations where he fights multiple opponents; and he often succeeds with ease. His strategies in combating the adversary can be quite cunning. Even where victory is not obtained easily, he persistsdefiantly. This defiance is usally at the service of self preservation, serving justice, revenge and suchappealing traits. Unlike general advenctures, the hero does not usually resolve crises by solving tough intellectual puzzles.
     - Spy subgenre:
-        - How does the field agent redeem himself from a series of tricky situations? Keeping cool, using athleticism, wit, gizmos.
+        - How does the field agent redeem himself from a series of tricky situations?Keeping cool, using athleticism, wit, gizmos.
 - Space exploration:
     - A small team encounters strange interesting situations. It is interesting to see how the various characters interact and deal with them. There may be an overall arc concerning wars and battles.
 
