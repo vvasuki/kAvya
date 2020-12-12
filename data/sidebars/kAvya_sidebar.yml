@@ -11,8 +11,24 @@ contents:
   - title: स्वोपज्ञम्
     contents:
       - url: recdir://sviiyam/
-  - title: Notes Home
-    url: /../notes/
+  - title: सङ्ग्रहान्तरम्
+    contents:
+      - title: ज्यौतिषम्
+        url: ../jyotiSham/
+      - title: संस्कृतम्
+        url: ../sanskrit/
+      - title: संस्कारः
+        url: ../saMskAra/
+      - title: Notes Home
+        url: ../notes/
+      - title: पुराणम्
+        url: ../purANam/
+      - title: मीमांसा
+        url: ../mImAmsA/
+      - title: त्रिपिटकम्
+        url: ../tipiTaka/
+      - title: पाळयः
+        url: ../pALi/
   - title: Vishvas's home page
     url: /../
   - title: Blog
