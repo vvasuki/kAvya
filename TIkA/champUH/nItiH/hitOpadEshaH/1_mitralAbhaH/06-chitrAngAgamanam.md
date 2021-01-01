@@ -18,11 +18,8 @@ unicode_script: devanagari
 अम्भांसि जलजन्तूनां दुर्गं दुर्गनिवासिनाम् ।  
 स्वभूमिः श्वापदादीनां राज्ञां सैन्यं परं बलम् ॥१८६॥
 
-उपायेन हि यच्छक्यं न तच्छक्यं पराक्रमैः ।  
-काकी कनकसूत्रेण कृष्णसर्पम् अघातयत् ॥१८७॥
 
-तद् यथा
 
-<div class="js_include" url="../../upakathAH/01-06 karpUratilakO_nAma_hastIkathA/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upakathAH/01-06_karpUratilakO_nAma_hastinaH_kathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
 ततस्तद्धितवचनम् अवधीर्य महता भयेन विमुग्ध इव मन्थरस्स् तज्जलाशयम् उत्सृज्य प्रचलितः । तेपि हिरण्यकादयः स्नेहाद् अनिष्टं शङ्कमानास्तम् अनुजग्मुः ।  

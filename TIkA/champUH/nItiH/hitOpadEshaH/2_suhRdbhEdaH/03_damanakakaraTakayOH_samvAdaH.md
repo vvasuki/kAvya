@@ -75,7 +75,7 @@ unicode_script: devanagari
 
 करटको ब्रूते
 
-<div class="js_include" url="../../upakathAH/02-02_shwAnagardabhakathA/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upakathAH/02-02_shvAnagardabhakathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
 पश्य, पशूनाम् अन्वेषणम् एवास्मन्नियोगः । स्वनियोगचर्चा क्रियताम् । किन्त्व् अद्य तया चर्चया न प्रयोजनम् । यत आवयोर्भक्षितशेषाहारः प्रचुरोस्ति । दमनकः सरोषम् आ् कथम् आहारार्थी भवान् केवलं राजानं सेवते एतद् अयुक्तम् उक्तं त्वया । यतः
 
