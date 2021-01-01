@@ -187,6 +187,10 @@ unicode_script: devanagari
 
 अपरं च
 
+भक्ष्यभक्षयोः प्रीतिर्विपत्तेः कारणं मतम् ।
+शृगालात् पाशबद्धोसौ मृगः काकेन रक्षितः ॥५५॥
+
+वायसोऽब्रवीत् कथमेतत्? हिरण्यकः कथयति - 
 
 <div class="js_include" url="../../upakathAH/01-02_duShTashRgAlaH/"  newLevelForH1="3" includeTitle="true"> </div>
 
