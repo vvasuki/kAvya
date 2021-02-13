@@ -2,7 +2,7 @@
 title: +शास्त्रम्
 ---
 
-टिप्पणयो [ऽन्यत्र](https://docs.google.com/spreadsheets/d/1_Hokp6dvWReXvQyXpDXi8u-VEqrn0e5ZkspNpZAM7Vc/edit#gid=16) ।
+टिप्पण्यो [ऽन्यत्र](https://docs.google.com/spreadsheets/d/1_Hokp6dvWReXvQyXpDXi8u-VEqrn0e5ZkspNpZAM7Vc/edit#gid=16) ।
 
 ## उत्पत्तिहेतुः
 शक्तिर् निपुणता लोक-शास्त्र-काव्याद्य्-अवेक्षणात्।  
