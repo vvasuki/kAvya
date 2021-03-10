@@ -76,6 +76,10 @@ unicode_script: devanagari
 
 <div class="js_include" url="../../upakathAH/03-04_kAkahamsayoH_kathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
+वर्तककथामपि कथयामि
+
+<div class="js_include" url="../../upakathAH/03-04a_kAkavartakayoH_kathA/"  newLevelForH1="3" includeTitle="true"> </div>
+
 ततो मयोक्तम्-'भ्रातः शुक! किमेवं ब्रवीषि? मां प्रति यथा श्रीमद्देवस्तथा भवानपि ।' शुकेनोक्तम्-'अस्त्वेवम् ।  
 
 किन्तु,
@@ -96,4 +100,4 @@ unicode_script: devanagari
 
 <div class="js_include" url="../../upakathAH/03-05_mandamatirathakArasya_kathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
-ततोऽहं तेन राज्ञा यथाव्यवहारं संपूज्य प्रस्थापितः । शुकोऽपि मम पश्चादागच्छनास्ते । एतत्सर्वं परिज्ञाय यथाकर्तव्यमनुसंधीयताम् ।' 
+ततोऽहं तेन राज्ञा यथाव्यवहारं संपूज्य प्रस्थापितः । शुकोऽपि मम पश्चादागच्छनास्ते । एतत्सर्वं परिज्ञाय यथाकर्तव्यमनुसंधीयताम् ।'
