@@ -8,8 +8,8 @@ unicode_script: devanagari
 तत्र मरकतसदृशानि बालतृणाग्राणि भक्षयन्कतिपयैरहोभिर्हरवृषभ इव पीनः ककुद्मान्बलवांश्च संवृत्तः ।  
 प्रत्यहं वल्मीकशिखराग्राणि शृङ्गाभ्यां विदारयन्गर्जमान आस्ते । साधु चेदमुच्यते -  
 
-अरक्षितं तिष्ठति देवरक्षितं  
-सुरक्षितं देवहतं विनश्यति ।  
+अरक्षितं तिष्ठति दैवरक्षितं  
+सुरक्षितं दैवहतं विनश्यति ।  
 जीवत्यनाथोऽपि वने विसर्जितः  
 कृतप्रयत्नोऽपि गृहे विनश्यति ॥ २०॥ +++(४)+++
 
@@ -36,7 +36,7 @@ unicode_script: devanagari
 
 <div class="js_include" url="../../upadeshAH/arthaH/bhavya-jIvana/"  newLevelForH1="3" includeTitle="true"> </div>  
 
-करटक आह - आवां तावदप्रधानौ तत्किमावयोरनेन व्यापरेण?
+करटक आह - आवां तावदप्रधानौ तत्किमावयोरनेन व्यापारेण?
 
 <div class="js_include" url="../../upadeshAH/mantraH/mantraNa-auchitya/"  newLevelForH1="3" includeTitle="true"> </div>  
 
@@ -52,7 +52,7 @@ unicode_script: devanagari
 
 सोऽब्रवीत् - ज्ञेयं किमत्र ।  
 
-<div class="js_include" url="../../upadeshAH/arthaH/ingitajnaH/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upadeshAH/ingitajnaH/"  newLevelForH1="3" includeTitle="true"> </div>
 
 तदद्यैनं भयाकुलं प्राप्य स्वबुद्धिप्रभावेन निर्भयं कृत्वा वशीकृत्य च निजां साचिव्यपदवीं समासादयिष्यामि ।  
 
