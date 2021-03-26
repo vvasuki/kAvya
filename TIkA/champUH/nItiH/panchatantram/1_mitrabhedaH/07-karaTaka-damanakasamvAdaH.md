@@ -1,5 +1,5 @@
 ---
-title: १-०७ करटकदमनकसंवादः  
+title: १-०७ करटकदमनकयोस् संवादः  
 unicode_script: devanagari
 ---
 
