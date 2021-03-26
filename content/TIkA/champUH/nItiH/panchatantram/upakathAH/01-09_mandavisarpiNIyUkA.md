@@ -1,5 +1,5 @@
 ---
-title: ०१-०९ मन्दविसर्पिणीयूकाकथा
+title: ०१-०९ मन्दविसर्पि-यूका-कथा
 unicode_script: devanagari
 ---
 
