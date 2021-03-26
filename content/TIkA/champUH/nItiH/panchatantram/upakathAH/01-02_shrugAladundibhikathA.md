@@ -1,5 +1,5 @@
 ---
-title: ०१-०२ शृगालदुन्दुभिकथा
+title: ०१-०२ शृगालदुन्दुभि-कथा
 unicode_script: devanagari
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: २-०३ पिङ्गलकदमनकसंवादः
+title: २-०३ पिङ्गलकदमनकयोः संवादः
 unicode_script: devanagari
 ---
 

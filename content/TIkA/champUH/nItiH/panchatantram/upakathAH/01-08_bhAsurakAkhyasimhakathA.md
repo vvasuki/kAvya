@@ -1,5 +1,5 @@
 ---
-title: ०१-०८ भासुरकाख्यसिंहकथा
+title: ०१-०८ भासुरकाख्य-सिंहकथा
 unicode_script: devanagari
 ---
 
