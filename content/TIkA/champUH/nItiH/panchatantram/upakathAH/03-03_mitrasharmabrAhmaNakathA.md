@@ -1,5 +1,5 @@
 ---
-title: ०३-०३ मित्रशर्मब्राहमकथा
+title: ०३-०३ मित्रशर्मब्राह्मणकथा
 unicode_script: devanagari
 ---
 
