@@ -1,6 +1,6 @@
----
-title: +चित्राणि
-unicode_script: devanagari
----
++++
+title = "+इमगेस्"
+unicode_script = "devanagari"
 
++++
 {{< gallery dir="." figureClass="thumbnail">}}
