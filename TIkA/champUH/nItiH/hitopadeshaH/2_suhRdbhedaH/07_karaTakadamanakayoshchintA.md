@@ -12,7 +12,7 @@ unicode_script: devanagari
 
 दमनकः कथयति
 
-<div class="js_include" url="../../upakathAH/02-05_kandarpakEtuparivrAjakakathA/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upakathAH/02-05_kandarpa-ketu-parivrAjaka-kathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
 अतोऽहं ब्रवीमि-"स्वर्णरेखामहं स्पृष्ट्वा" इत्यादि ॥  
 
@@ -31,7 +31,7 @@ unicode_script: devanagari
 
 दमनकः कथयति
 
-<div class="js_include" url="../../upakathAH/02-06_gOpIjAradvayakathA/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upakathAH/02-06_gopIjAradvayakathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
 अतोऽहं ब्रवीमि-"उत्पन्नेष्वपि कार्येषु" इत्यादि ।'
 

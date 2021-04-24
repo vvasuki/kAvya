@@ -15,7 +15,7 @@ unicode_script: devanagari
 
 स कथयति
 
- <div class="js_include" url="../../upakathAH/04-10_madOtkaTasimhakathA/"  newLevelForH1="3" includeTitle="true"> </div>
+ <div class="js_include" url="../../upakathAH/04-10_madotkaTa-simha-kathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
 अतोहं ब्रवीमि "मतिर्दोलायते सत्यम्" इत्य् आदि ।
 

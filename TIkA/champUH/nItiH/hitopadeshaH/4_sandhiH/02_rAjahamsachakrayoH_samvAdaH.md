@@ -58,7 +58,7 @@ unicode_script: devanagari
 
 मन्त्री कथयति
 
-<div class="js_include" url="../../upakathAH/04-05_munimUShikayOH_kathA/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upakathAH/04-05_munimUShikayoH_kathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
 अतोऽहं ब्रवीमि-"नीचः श्लाध्यपदं" इत्यादि ॥  
 
@@ -71,7 +71,7 @@ unicode_script: devanagari
 
 मन्त्री कथयति
 
-<div class="js_include" url="../../upakathAH/04-06_atilObhI_bakaH/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upakathAH/04-06_atilobhI_bakaH/"  newLevelForH1="3" includeTitle="true"> </div>
 
 अतोऽहं ब्रवीमि-"भक्षयित्वा बहन्मत्स्यान्" इत्यादि ॥'
 
@@ -86,7 +86,7 @@ unicode_script: devanagari
 
 मन्त्री कथयति
 
-<div class="js_include" url="../../upakathAH/04-07_bhagnabhAnDO_dvijaH/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upakathAH/04-07_bhagnabhAnDo_dvijaH/"  newLevelForH1="3" includeTitle="true"> </div>
 
 अतोऽहं ब्रवीमि-"अनागतवती चिन्ताम्" इत्यादि ॥
 
@@ -118,7 +118,7 @@ unicode_script: devanagari
 
 मन्त्री कथयति
 
-<div class="js_include" url="../../upakathAH/04-08_sundOpasundakathA/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upakathAH/04-08_sundopasundakathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
 अतोऽहं ब्रवीमि-"संधिमिच्छेत् समेनापि" इत्यादि ॥'  
 

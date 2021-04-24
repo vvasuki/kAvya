@@ -41,7 +41,7 @@ unicode_script: devanagari
 
 राजपुत्रः पृच्छति— कथमेतत्? सा कथयति– +++(सम्पादकटिप्पनी- पुस्तकेऽत्रायमधिकः पाठः । )+++
 
-<div class="js_include" url="../../upakathAH/01-06_karpUratilakO_nAma_hastinaH_kathA/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upakathAH/01-06_karpUratilako_nAma_hastinaH_kathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
 अतोहं ब्रवीमि उपायेन हि यच्छक्यम् इत्यादि ।   
 
