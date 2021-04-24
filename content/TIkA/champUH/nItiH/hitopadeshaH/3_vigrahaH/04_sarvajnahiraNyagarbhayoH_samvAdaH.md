@@ -331,7 +331,7 @@ unicode_script: devanagari
 
 राजा कथयति
 
-<div class="js_include" url="../../upakathAH/03-07_vIravaranAmasEvakakathA/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upakathAH/03-07_vIravaranAmasevaka-kathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
 
 तत्किमागन्तुको जातिमात्रादुष्टः ? तत्राप्युत्तमाधममध्यमाः सन्ति ।  

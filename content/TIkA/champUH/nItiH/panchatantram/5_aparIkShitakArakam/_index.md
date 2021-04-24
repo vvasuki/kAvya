@@ -1,4 +1,5 @@
----
-title: ५ अपरीक्षितकारकम्
-unicode_script: devanagari
----
++++
+title = "+५ अपरीक्षितकारकम्"
+unicode_script = "devanagari"
+
++++
