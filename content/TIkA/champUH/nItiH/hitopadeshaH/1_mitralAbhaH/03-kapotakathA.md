@@ -23,7 +23,7 @@ unicode_script: devanagari
 
 कपोता ऊचुः कथम् एतत्
 
-<div class="js_include" url="../../upakathAH/01-01_kankaNalObhaH/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upakathAH/01-01_kankaNalobhaH/"  newLevelForH1="3" includeTitle="true"> </div>
 
 यतः
 
