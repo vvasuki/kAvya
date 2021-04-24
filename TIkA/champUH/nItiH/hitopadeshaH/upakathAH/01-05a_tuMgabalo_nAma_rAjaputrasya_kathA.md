@@ -41,7 +41,7 @@ unicode_script: devanagari
 
 राजपुत्रः पृच्छति— कथमेतत्? सा कथयति– +++(सम्पादकटिप्पनी- पुस्तकेऽत्रायमधिकः पाठः । )+++
 
-<div class="js_include" url="../../upakathAH/01-06_karpUratilakO_nAma_hastinaH_kathA/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upakathAH/01-06_karpUratilako_nAma_hastinaH_kathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
 
   - ततः कुट्टिन्युपदेशेन तं चारुदत्तनामानं वणिक्पुत्रं स राजपुत्रः सोवकं चकार । ततोऽसौ  तेन सर्वविश्वासकार्येषु नियोजितः ।  

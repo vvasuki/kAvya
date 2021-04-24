@@ -56,7 +56,7 @@ unicode_script: devanagari
 
 मन्त्री कथयति
 
-<div class="js_include" url="../../upakathAH/04-05_munimUShikayOH_kathA/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upakathAH/04-05_munimUShikayoH_kathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
 अपरं च, सुकरमिदमिति न मन्तव्यम् । शृणु,
 
@@ -67,7 +67,7 @@ unicode_script: devanagari
 
 मन्त्री कथयति
 
-<div class="js_include" url="../../upakathAH/04-06_atilObhI_bakaH/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upakathAH/04-06_atilobhI_bakaH/"  newLevelForH1="3" includeTitle="true"> </div>
 
 ततश्चित्रवर्णोऽवदत-शृणु तावन्मन्त्रिन् ! मयैतदालोचितमस्ति ।' अत्रावस्थितेन मेघवर्णन राज्ञा यावन्ति वस्तूनि कर्पूरद्वीपस्योत्तमानि तावन्त्यस्माकमुपनेतव्यानि । तेनास्माभिर्महासुखेन विन्ध्याचले स्थातव्यम् ।  
 
@@ -80,7 +80,7 @@ unicode_script: devanagari
 
 मन्त्री कथयति
 
-<div class="js_include" url="../../upakathAH/04-07_bhagnabhAnDO_dvijaH/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upakathAH/04-07_bhagnabhAnDo_dvijaH/"  newLevelForH1="3" includeTitle="true"> </div>
 
 ततो राजा रहसि गृध्रमुवाच-'तात ! यथा कर्तव्यं तथोपदिश।'
 
@@ -110,7 +110,7 @@ unicode_script: devanagari
 
 मन्त्री कथयति
 
-<div class="js_include" url="../../upakathAH/04-08_sundOpasundakathA/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upakathAH/04-08_sundopasundakathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
 राजाह-'प्रागेव किं नोक्तं भवद्भिः?। मन्त्री ब्रूते-मद्वचनं किमवसानपर्यन्तं श्रुतं भवद्भिः ? तदापि मम संमत्या नायं विग्रहारम्भः । साधुगुणयुक्तोऽयं हिरण्यगर्भो न विग्राह्यः।  
 
