@@ -89,6 +89,8 @@ unicode_script: devanagari
 
 <div class="js_include" url="../../upakathAH/01-05_mUrkhajambukaH/"  newLevelForH1="3" includeTitle="true"> </div>
 
+अतोहं ब्रवीमि कर्तव्यः सञ्चयो नित्यम् इत्य् आदि ।  
+
 तथा च्
 
 यद् ददाति यद् अश्नाति तद् एव धनिनो धनम् ।  

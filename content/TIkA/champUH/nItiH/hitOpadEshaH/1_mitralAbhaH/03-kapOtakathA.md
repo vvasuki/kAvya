@@ -23,7 +23,11 @@ unicode_script: devanagari
 
 कपोता ऊचुः कथम् एतत्
 
+सोऽब्रवीद्
+
 <div class="js_include" url="../../upakathAH/01-01_kankaNalObhaH/"  newLevelForH1="3" includeTitle="true"> </div>
+
+अतोहं ब्रवीमि कङ्कणस्य तु लोभेनेत्य् आदि । अत एव सर्वथाविचारितं कर्म न कर्तव्यम् इति ।
 
 यतः
 
@@ -210,6 +214,7 @@ unicode_script: devanagari
 
 <div class="js_include" url="../../upakathAH/01-02_duShTashRgAlaH/"  newLevelForH1="3" includeTitle="true"> </div>
 
+अतोहं ब्रवीमि भक्ष्यभक्षकयोः प्रीतिरित्य् आदि ।  
 
 काकः पुनराह
 

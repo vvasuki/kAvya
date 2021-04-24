@@ -17,11 +17,13 @@ unicode_script: devanagari
 निरपेक्षो न कर्तव्यो भृत्यै स्वामी कदाचन ।  
 निरपेक्षं प्रभुं कृत्वा भृत्यः स्याद् दधिकर्णवत् ॥८३॥
 
-करटकः पृच्छतिकथम् एतत्
+करटकः पृच्छति कथम् एतत्
 
 दमनकः कथयति
 
 <div class="js_include" url="../../upakathAH/02-03_durdAntanAmasimhakathA/"  newLevelForH1="3" includeTitle="true"> </div>
+
+अतोहं ब्रवीमि "निरपेक्षो न कर्तव्यः" इत्यादि।  
 
 ततो दमनककरटकौ सञ्जीवकसमीपं गतौ । तत्र करटकस्तरुतले साटोपमुपविष्टः ।  
 
@@ -65,5 +67,7 @@ unicode_script: devanagari
 दमनकः कथयति
 
 <div class="js_include" url="../../upakathAH/02-04_karAlakuTTinIkathA/"  newLevelForH1="3" includeTitle="true"> </div>
+
+अतोहं ब्रवीमि शब्दमात्रान् न भेतव्यम् इत्य् आदि ।  
 
 ततः संजीवकम् आनीय दर्शनं कारितवन्तौ । पश्चात् तत्रैव परमप्रीत्या निवसति ।  
