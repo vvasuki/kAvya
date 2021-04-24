@@ -12,7 +12,7 @@ unicode_script: devanagari
 
 दमनकः कथयति
 
-<div class="js_include" url="../../upakathAH/02-05_kandarpaketuparivrAjakakathA/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upakathAH/02-05_kandarpa-ketu-parivrAjaka-kathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
 अथ स्वयं कृतोऽयं दोषः । अत्र विलपनं नोचितम् । (क्षणं विमृश्य ।) मित्र! यथाऽनयोः सौहार्द मया कारितं तथा मित्रभेदोऽपि मया कार्यः।  
 
