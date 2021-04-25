@@ -163,6 +163,8 @@ unicode_script: devanagari
 
 <div class="js_include" url="../../upakathAH/03-06_nIlavarNashRgAlakathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
+अतोऽहं ब्रवीमि-"आत्मपक्षं परित्यज्य' इत्यादि ॥'
+
 राजाह'यद्येवं तथापि दृश्यतां तावदयं दूरादागतः। तत्संग्रहे विचार: कार्यः । चक्रो ब्रूते-देव! प्रणिधिः प्रहितो दुर्गश्च सज्जीकृतः। अतः शुकोऽप्यानीय प्रस्थाप्यताम् ।।  
 
 यतः,
@@ -352,6 +354,8 @@ unicode_script: devanagari
 मन्त्री कथयति
 
 <div class="js_include" url="../../upakathAH/03-08_mUrkhanApitaH/"  newLevelForH1="3" includeTitle="true"> </div>
+
+अतोऽहं ब्रवीमि 'पुण्याल्लब्धं यदेकेन' इत्यादि । 
 
 राजाह
 
@@ -608,4 +612,3 @@ unicode_script: devanagari
 संश्रयन्तु गिरिगह्वरं द्विषः' ॥ १४९ ॥
 
 इति हितोपदेशे विग्रहो नाम तृतीयः कथासंग्रहः समाप्तः ।  
- 

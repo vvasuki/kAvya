@@ -14,6 +14,8 @@ unicode_script: devanagari
 
 <div class="js_include" url="../../upakathAH/02-05_kandarpa-ketu-parivrAjaka-kathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
+अतोऽहं ब्रवीमि-"स्वर्णरेखामहं स्पृष्ट्वा" इत्यादि ॥  
+
 अथ स्वयं कृतोऽयं दोषः । अत्र विलपनं नोचितम् । (क्षणं विमृश्य ।) मित्र! यथाऽनयोः सौहार्द मया कारितं तथा मित्रभेदोऽपि मया कार्यः।  
 
 यतः,
@@ -31,6 +33,8 @@ unicode_script: devanagari
 
 <div class="js_include" url="../../upakathAH/02-06_gopIjAradvayakathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
+अतोऽहं ब्रवीमि-"उत्पन्नेष्वपि कार्येषु" इत्यादि ।'
+
 करटको ब्रूते-'अस्त्वेवम्। किंत्वनयोर्महानन्योन्य निसर्गोपजातलेहः कथं भेदयितुं शक्यः ?'
 
 दमनको ब्रूते-'उपायः क्रियताम् ।  
@@ -46,4 +50,6 @@ unicode_script: devanagari
 
 <div class="js_include" url="../../upakathAH/02-07_vAyasadampatIkathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
-करटको ब्रूते-'यद्येवं तर्हि गच्छ । शिवास्ते सन्तु पन्थानः। 
+अतोऽहं ब्रवीमि-"उपायेन हि यच्छक्यम्" इत्यादि ॥'
+
+करटको ब्रूते-'यद्येवं तर्हि गच्छ । शिवास्ते सन्तु पन्थानः।

@@ -36,6 +36,8 @@ unicode_script: devanagari
 
 <div class="js_include" url="../../upakathAH/03-01_duShTamarkaTAH/"  newLevelForH1="3" includeTitle="true"> </div>
 
+अतोऽहं ब्रवीमि"विद्वानेवोपदेष्टव्यः” इत्यादि ।'  
+
 राजोवाच-'ततस्तैः किं कृतम् ?' बकः कथयति-ततस्तैः पक्षिभिः कोपादुक्तम्-'केनासौ राज. हंसो राजा कृतः?' | ततो मयोपजातकोपेनोक्तम्-'युष्मदीयमयूरः केन राजा कृतः ?' एतच्छ्रुत्वा ते सर्वे मां हन्तुमुद्यताः। ततो मयापि स्वविक्रमो दर्शितः।  
 
 यतः,
@@ -58,3 +60,5 @@ unicode_script: devanagari
 राजा कथयति
 
 <div class="js_include" url="../../upakathAH/03-02_mUrkhagardabhaH/"  newLevelForH1="3" includeTitle="true"> </div>
+
+अतोऽहं ब्रवीमि-"सुचिरं हि चरन्नित्यम्" इत्यादि' ॥  
