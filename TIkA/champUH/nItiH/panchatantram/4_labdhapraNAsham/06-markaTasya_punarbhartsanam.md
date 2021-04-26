@@ -13,6 +13,8 @@ unicode_script: devanagari
 
 <div class="js_include" url="../../upakathAH/04-12_ujwalakarathakArakathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
+अतोऽहं ब्रवीमि सतां वचनमादिष्टम् (७४) इति ।
+
 अथ तच्छ्रुत्वा मकरः प्राह  
   - भद्र -
 
@@ -57,6 +59,8 @@ unicode_script: devanagari
 वानरोऽब्रवीत्
 
 <div class="js_include" url="../../upakathAH/04-14_chitrAnganAmasAramEyakathA/"  newLevelForH1="3" includeTitle="true"> </div>
+
+सुभिक्षाणि विचित्राणि शिथिलाः पौरयोषितः (८३) इति पठति ।  
 
 सोऽपि मकरस्तदुपदेशं श्रुत्वा कृतमरणनिश्चयो वानरमनुज्ञाप्य स्वाश्रयं गतः । तत्र च तेन स्वगृहप्रविष्टेनाततायिना सह विग्रहं कृत्वा दृढसत्त्वावष्टम्भनाच्च तं व्यापाद्य स्वाश्रयं च लब्ध्वा सुखेन चिरकालमतिष्ठत् । साध्विदमुच्यते
 
