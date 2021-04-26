@@ -30,6 +30,9 @@ unicode_script: devanagari
 स एव निधनं याति कीलोत्पाटीव वानरः ॥१.२१॥
 
 <div class="js_include" url="../../upakathAH/01-01_kIlotpATi-vAnara/"  newLevelForH1="3" includeTitle="true"> </div>  
+
+अतोऽहं ब्रवीमि - अव्यापारेषु इति ।
+
 आवयोर्भक्षितशेष आहारोऽस्त्येव । तत् किमनेन व्यापारेण ।  
 
 दमनक आह - "तत् किं भवानाहारार्थी केवलमेव । तन्न युक्तम् ।"

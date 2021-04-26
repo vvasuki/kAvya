@@ -94,6 +94,8 @@ unicode_script: devanagari
 
 <div class="js_include" url="../../upakathAH/01-09_mandavisarpiNIyUkA/"  newLevelForH1="3" includeTitle="true"> </div>
 
+अतोऽहं ब्रवीमि "न ह्यविज्ञातशीलस्य" इति ।  
+
 एवं ज्ञात्वा त्वया एष वध्यः । नो चेत् त्वां व्यापादयिष्यतीति । उक्तं च
 
 त्यक्ताश्चाभ्यन्तरा येन बाह्याश्चाभ्यन्तरीकृताः ।  
@@ -104,6 +106,8 @@ unicode_script: devanagari
 सोऽब्रवीत्
 
 <div class="js_include" url="../../upakathAH/01-10_chanDaravaH_shrugAlah/"  newLevelForH1="3" includeTitle="true"> </div>
+
+अतोऽहं ब्रवीमि "त्यक्ताश्चाभ्यन्तरा येन" इति ।  
 
 तदाकर्ण्य पिङ्गलक आह भो दमनक ! कः प्रत्ययोऽत्र विषये यत्स ममोपरि दुष्टबुद्धिः ।  
 
