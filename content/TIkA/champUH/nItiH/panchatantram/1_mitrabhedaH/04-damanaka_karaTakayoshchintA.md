@@ -28,6 +28,8 @@ unicode_script: devanagari
 
 <div class="js_include" url="../../upakathAH/01-04_devasharmaparivrAjakakathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
+अतोऽहं ब्रवीमि "जम्बूको हुडुयुद्धेन" (१.१७३) इति ।
+
 करटक आह एवंविधे व्यतिकरे किं कर्तव्यमावयोः ?
 
 दमनकोऽब्रवीतेवंविधेऽपि समये मम बुद्धिस्फुरणं भविष्यति, येन सञ्जीवकं प्रभोर्विश्लेषयिष्यामि । उक्तं च, यतः
@@ -63,6 +65,7 @@ unicode_script: devanagari
 सोऽब्रवीत्
 
 <div class="js_include" url="../../upakathAH/01-05_koulikarathakArakathA/"  newLevelForH1="3" includeTitle="true"> </div>
+अतस् तूच्यते "सुगुप्तस्यापि दम्भस्य" (२१८) इति ।  
 
 तच्छ्रुत्वा करटक आह भद्र, अस्त्येवम् । परं तथापि महन्मे भयम् । यतो बुद्धिमान् सञ्जीवको रौद्रश्च सिंहः । यद्यपि ते बुद्धिप्रागल्भ्यं तथापि त्वं पिङ्गलकात्तं वियोजयितुमसमर्थ एव ।  
 
@@ -80,6 +83,8 @@ unicode_script: devanagari
 
 <div class="js_include" url="../../upakathAH/01-06_vAyasadampatikathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
+अतोऽहं ब्रवीमि "उपायेन हि यत्कुर्यात्" इति ।  
+
 तन्न किंचिदिह बुद्धिमतामसाध्यमस्ति । उक्तं च
 
 यस्य बुद्धिर्बलं तस्य निर्बुद्धेस्तु कुतो बलम् ।  
@@ -90,6 +95,8 @@ unicode_script: devanagari
 स आह
 
 <div class="js_include" url="../../upakathAH/01-08_bhAsurakAkhyasimhakathA/"  newLevelForH1="3" includeTitle="true"> </div>
+
+अतोऽहं ब्रवीमि ""यस्य बुद्धिर्बलं तस्य" इति ।  
 
 तद्यदि भवान् कथयति तत्तत्रैव गत्वा तयोः स्वबुद्धिप्रभावेण मैत्रीभेदं करोमि ।  
 

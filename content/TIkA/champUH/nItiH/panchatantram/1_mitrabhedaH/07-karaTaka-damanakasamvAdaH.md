@@ -64,6 +64,8 @@ unicode_script: devanagari
 
 <div class="js_include" url="../../upakathAH/01-16_vajradamShtranAmasimhakathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
+अतोऽहं ब्रवीमि "परस्य पीडनं कुर्वन्" (३९९) इति ।  
+
 अथ दमनके गते सञ्जीवकश्चिन्तयामासअहो किमेतन्मया कृतम् ? यच्छष्पादोऽपि मांसाशितस्तस्यानुगः संवृत्तः । अथवा साध्विदमुच्यते
 
 अगम्यानि पुमान् याति योऽसेव्यांश्च निषेवते ।  
@@ -167,6 +169,8 @@ unicode_script: devanagari
 
 <div class="js_include" url="../../upakathAH/01-17_vAnarayUthakathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
+अतोऽहं ब्रवीमि "नानाम्यं नमते दारु" इत्यादि।
+
   - तथा च  
 उपदेशो हि मूर्खाणां प्रकोपाय न शान्तये ।  
 पयःपानं भजङ्गानां केवलं विषवर्द्धनम् ॥४२०॥ +++(सम्पादकटिप्पनी - पुस्तके इदमधिकम् पद्यम् ।)+++
@@ -180,6 +184,8 @@ unicode_script: devanagari
 
 सोऽब्रवीत्
 <div class="js_include" url="../../upakathAH/01-18_mUrkhavAnaraH/"  newLevelForH1="3" includeTitle="true"> </div>
+
+अतोऽहं ब्रवीमि "उपदेशो न दातव्यः" इति ।  
 
   - तन्मूर्ख! शिक्षापितोऽपि न शिक्षितः त्वम् । अथवा न ते दोषोऽस्ति, यतः साधोः शिक्षा गुणाय सम्पद्यते न असाधोः । उक्तञ्च—  
 
@@ -229,6 +235,8 @@ unicode_script: devanagari
 
 <div class="js_include" url="../../upakathAH/01-21_jIrNadhananAmavaNikputrakathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
+अतोऽहं ब्रवीमि "तुलां लोहसहस्रस्य" इति ।  
+
 तन्मूर्ख ! सञ्जीवकप्रसादमसहमानेन त्वयैतत्कृतम् । अहो साध्विदमुच्यते
 
 प्रायेणात्र कुलान्वितं कुकुलजाः श्रीवल्लभं दुर्भगा
@@ -251,6 +259,9 @@ unicode_script: devanagari
 सोऽब्रवीत्
 
 <div class="js_include" url="../../upakathAH/01-22_dhUrtamarkaTaH_prANatyAgI_viprashcha/"  newLevelForH1="3" includeTitle="true"> </div>
+
+अतोऽहं ब्रवीमि "पण्डितोऽपि वरं शत्रुः" इति ।
+
 
 अथैवं संवदतोः सञ्जीवकः क्षणमेकं पीङ्गलकेन सह युद्धं कृत्वा तस्य खरनखरप्रहाराभिहितो गतासुर्वसुन्धरापीठे निपपात । अथ तं गतासुमवलोक्य पिङ्गलकस्तद्गुणस्मरणार्द्रहृदयः प्रोवाचभोः, अयुक्तं मया पापेन कृतं सञ्जीवकं व्यापादयता । यतो विश्वासघातादन्यन्नास्ति पापतरं कर्म । उक्तं च
 

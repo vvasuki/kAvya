@@ -88,3 +88,5 @@ unicode_script: devanagari
 ते प्रोचुः
 
 <div class="js_include" url="../01-20_kriShNasarpakathA/"  newLevelForH1="3" includeTitle="true"> </div>
+
+अतो वयं ब्रूमः "उपायं चिन्तयेद्" इति ।  
