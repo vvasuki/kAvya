@@ -38,6 +38,8 @@ unicode_script: devanagari
 
 <div class="js_include" url="../../upakathAH/04-02_karAlakEsarakathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
+अतोऽहं ब्रवीमि आगतश्च गतश्चैव इति ।
+
 तन्मूर्ख ! कपटं कृतं त्वया । परं युधिष्ठिरेणेव सत्यवचनेन विनाशितम् । अथवा साध्विदमुच्यते
 
 स्वार्थमुत्सृज्य यो दम्भी सत्यं ब्रूते सुमन्दधीः ।  
@@ -48,6 +50,8 @@ unicode_script: devanagari
 स आह
 
 <div class="js_include" url="../../upakathAH/04-03_yudhiShThirAkhyakumbhakArakathA/"  newLevelForH1="3" includeTitle="true"> </div>
+
+अतोऽहं ब्रवीमि स्वार्थमुत्सृज्य यो दम्भी (३८) इति ।  
 
 धिङ्मूर्ख ! यत्त्वया स्त्रियोऽर्थ एतत्कार्यमनुष्ठातुमारब्धम् । न हि स्त्रीणां कथञ्चिद्विश्वासमुपगच्छेत् । उक्तं च
 
@@ -60,6 +64,8 @@ unicode_script: devanagari
 
 <div class="js_include" url="../../upakathAH/04-05_brAhmaNakathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
+अतोऽहं ब्रवीमि यदर्थे स्वकुलं त्यक्तम् (४४) इति ।  
+
 वानरः पुनराह साधु चेदमुपाख्यानकं श्रूयते
 
 न किं दद्यान्न किं कुर्यात्स्त्रीभिरभ्यर्थितो नरः ।  
@@ -70,6 +76,9 @@ unicode_script: devanagari
 वानरः कथयति
 
 <div class="js_include" url="../../upakathAH/04-06_nandavararuchikathA/"  newLevelForH1="3" includeTitle="true"> </div>
+
+सोऽब्रवीत् न किं दद्यात्(४५) इत्यादि ।
+
 
 तद्भो दुष्टमकर ! त्वमपि नन्दवररुचिवत्स्त्रीवश्यः । ततो भद्र आगतेन त्वया मां प्रति वधोपायप्रयासः प्रारब्धः । परं स्ववाग्दोषेणैव प्रकटीभूतः । अथवा साध्विदमुच्यते
 
@@ -86,6 +95,7 @@ unicode_script: devanagari
 
 <div class="js_include" url="../../upakathAH/04-07_shuddhapaTanAmarajakakathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
+अतोऽहं ब्रवीमि सुगुप्तं रक्ष्यमाणोऽपि (४७) इति ।  
 
 +++(सम्पादकटिप्पनी - इतः अग्रिमः पाठः (०४-०८, ०४-०९, ०४-१०, उपकथाः) पुस्तके न दृश्यन्ते ।)+++
 तत्किं श्यामलकवदत्यपमानसहनादर्धचन्द्रदानेन यास्यसि ।  
@@ -110,6 +120,8 @@ unicode_script: devanagari
 
 <div class="js_include" url="../../upakathAH/04-09_rathakArakathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
+अतोऽहं ब्रवीमि प्रत्यक्षेऽपि कृते पापे (४९) ।  
+
 तन्मूढ ! दृष्टविकारस्त्वम्, तत्कथं तत्र गृहं गच्छामि । अथवा यन्मां त्वं विश्वासयसि तत्ते दोषो नास्ति, यतीदृशी स्वभावदुष्टा युष्मज्जातिर्या शिष्टसङ्गादपि सौम्यत्वं न याति । अथवा स्वभावोऽयं दुष्टानाम् । उक्तं च
 
 सद्भिः सम्बोध्यमानोऽपि दुरात्मा पापपौरुषः ।  
@@ -125,6 +137,9 @@ unicode_script: devanagari
 वानरोऽब्रवीत्
 
 <div class="js_include" url="../../upakathAH/04-10_kAmAturakathA/"  newLevelForH1="3" includeTitle="true"> </div>
+
+अतोऽहं ब्रवीमि या ममोद्विजते इत्यादि ।
+
 
 किं बहुना, तेन च स्त्रीलुब्धेन स्वं सर्वं चौरस्य समर्पितम् । त्वयापि तथानुष्ठितम् ।  
 +++(सम्पादकटिप्पनी- एतावत्पर्यन्तं पाठः पुस्तके न दृश्यते । )+++

@@ -28,6 +28,8 @@ unicode_script: devanagari
 
 <div class="js_include" url="../../upakathAH/03-05_brAhmaNasarpakathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
+अतोऽहं ब्रवीमि "चितिकां दीपितां पश्य" इति ।  
+
 तद्
 अस्मिन् हते यत्नादेव राज्यमकण्टकं भवतो भवति ।  
 
@@ -43,6 +45,8 @@ unicode_script: devanagari
 क्रूराक्षः कथयति
 
 <div class="js_include" url="../../upakathAH/03-07_kapOtalubdhakakathA/"  newLevelForH1="3" includeTitle="true"> </div>
+
+अतोऽहं ब्रवीमि "श्रूयते हि कपोतेन" (१३४) इत्यादि ।  
 
 तच्छ्रुत्वारिमर्दनो दीप्ताक्षं पृष्टवानेवमवस्थिते किं भवान्मन्यते ?
 
@@ -62,6 +66,8 @@ unicode_script: devanagari
 
 <div class="js_include" url="../../upakathAH/03-08_kAmAturavaNikkathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
+तच्छ्रुत्वा चौरोऽप्याह "हर्तव्यं ते न पश्यामि" (१८७) इत्यादि ।
+
 तस्माच्चौरस्याप्युपकारः श्रेयश्चिन्त्यते किं पुनः शरणागतस्य । अपि चायं तैर्विप्रकृतोऽस्माकमेव पुष्टये भविष्यति तदीयरन्ध्रदर्शनाय चेति अनेन कारणेनायमवध्य इति ।  
 
 एतदाकर्ण्यारिमर्दनोऽन्यं सचिवं वक्रनासं पप्रच्छ भद्र ! साम्प्रतमेवं स्थिते किं करणीयमिति ?
@@ -77,6 +83,8 @@ unicode_script: devanagari
 
 <div class="js_include" url="../../upakathAH/03-09_drONAkhyabrAhmaNakathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
+अतोऽहं ब्रवीमि "शत्रवोऽपि हितार्थैव" (१९०) इति ।
+
 अथ तस्य वचनमवधार्यारिमर्दनः पुनरपि प्राकारकर्णमपृच्छत्कथय, किमत्र मन्यते भवान् ?
 
 सोऽब्रवीत् देव ! अवध्य एवायम्, यतो रक्षितेनानेन कदाचित्परस्परप्रीत्या कालः सुखेन गच्छति । उक्तं च
@@ -89,6 +97,8 @@ unicode_script: devanagari
 प्राकारकर्णः कथयति
 
 <div class="js_include" url="../../upakathAH/03-10_valmIkOdaragatasarpakathA/"  newLevelForH1="3" includeTitle="true"> </div>
+
+अतोऽहं ब्रवीमि "परस्परस्य मर्माणि" इति ।  
 
 तच्च श्रुत्वा स्वयमरिर्दनोऽप्येवं समर्थितवान् । तथा चानुष्ठितम् । दृष्ट्वान्तर्लीनं विहस्य रक्ताक्षः पुनरब्रवीत्कष्टम् । विनाशितोऽयं भवद्भिरन्यायेन स्वामी । उक्तं च
 
@@ -105,6 +115,8 @@ unicode_script: devanagari
 रक्ताक्षः कथयति
 
 <div class="js_include" url="../../upakathAH/03-11_vIravararathakAratatpatnIkathA/"  newLevelForH1="3" includeTitle="true"> </div>
+
+अतोऽहं ब्रवीमि "प्रत्यक्षेऽपि कृते पापे" (१९३) इति ।  
 
 तत्सर्वथा मूलोत्खाता वयं विनष्टाः स्मः । सुष्ठु खल्विदमुच्यते
 
@@ -137,6 +149,8 @@ unicode_script: devanagari
 
 <div class="js_include" url="../../upakathAH/03-12a_mUShikakathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
+अतोऽहं ब्रवीमि "सूर्यं भर्तारमुत्सृज्य" इत्यादि ।  
+
 अथ रक्ताक्षवचनमनादृत्य तैः स्ववंशविनाशाय स स्वदुर्गमुपनीतः । नीयमानश्चान्तर्लीनमवहस्य स्थिरजीव्यचिन्तयत्
 
 हन्यतामिति येनोक्तं स्वामिनो हितवादिना ।  
@@ -159,6 +173,8 @@ unicode_script: devanagari
 
 <div class="js_include" url="../../upakathAH/03-13a_swarNaShThIvIsindhukapakShIkathA/"  newLevelForH1="3" includeTitle="true"> </div>
 
+अतोऽहं ब्रवीमि "पूर्वं तावदहं मूर्खः" इति ।
+
 अथ ते पुनरपि प्रतिकूलदैवतया हितमपि रक्ताक्षवचनमनादृत्य भूयस्तं प्रभूतमांसादिविविधाहारेण पोषयामासुः । अथ रक्ताक्षः स्ववर्गमाहूय रहः प्रोवाचअहो ! एतावदेवास्मद्भूपतेः कुशलं दुर्गं च । तदुपदिष्टं मया यत्कुलक्रमागतः सचिवोऽभिधत्ते । तद्वयमन्यत्पर्वतदुर्गं सम्प्रति समाश्रयामः । उक्तं च यतः
 
 अनागतं यः कुरुते स शोभते  
@@ -171,6 +187,8 @@ unicode_script: devanagari
 रक्ताक्षः कथयति
 
 <div class="js_include" url="../../upakathAH/03-14_kharanakharasimhakathA/"  newLevelForH1="3" includeTitle="true"> </div>
+
+शृगालोऽपि पलायमान इमं श्लोकमपठत् "अनागतं यः कुरुते स शोभते" इत्यादि ।
 
 तदेवं मत्वा युष्माभिर्मया सह गन्तव्यमिति । एवमभिधायात्मानुयायिपरिवारानुगतो दूरदेशान्तरं रक्ताक्षो जगाम ।  
 
