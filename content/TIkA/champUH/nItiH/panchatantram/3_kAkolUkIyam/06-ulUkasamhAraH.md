@@ -91,7 +91,9 @@ unicode_script: devanagari
 
 स्थिरजीवी कथयति
 
-<div class="js_include" url="../../upakathAH/03-16_mandaviShasarpakathA/"  newLevelForH1="3" includeTitle="true"> </div>
+<div class="js_include" url="../../upakathAH/03-15_mandaviShasarpakathA/"  newLevelForH1="3" includeTitle="true"> </div>
+
+अतोऽहं ब्रवीमि स्कन्धेनापि वहेच्छत्रुम् (२३८) इत्यादि ।  
 
 अथ राजन् ! यथा मन्दविषेण बुद्धिबलेन मण्डूका निहतास्तथा मयापि सर्वे वैरिणः । साधु चेदमुच्यते
 
