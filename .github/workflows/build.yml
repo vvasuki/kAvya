@@ -23,8 +23,8 @@ jobs:
     - name: Update submodules
       if: ${{ github.event_name != 'pull_request'}}
       run: |
+        git pull --recurse-submodules --depth 1
         echo This is disabled because : fatal: Needed a single revision  See https://github.com/vvasuki/kAvyam/runs/2474621719?check_suite_focus=true
-        echo SKIPPING: git pull --recurse-submodules --depth 1
         echo SKIPPING: git submodule update --remote --recursive
     - name: Setup Hugo
       uses: peaceiris/actions-hugo@v2
