@@ -23,7 +23,7 @@ jobs:
     - name: Update submodules
       if: ${{ github.event_name != 'pull_request'}}
       run: |
-#        git pull --recurse-submodules --depth 1
+        echo SKIPPING: git pull --recurse-submodules --depth 1
         git submodule update --remote --recursive
     - name: Setup Hugo
       uses: peaceiris/actions-hugo@v2
