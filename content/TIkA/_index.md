@@ -1,4 +1,0 @@
----
-title: +टीकाः
-unicode_script: devanagari
----
