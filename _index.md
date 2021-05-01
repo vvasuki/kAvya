@@ -13,4 +13,3 @@ outputs:
 ## Tech details
 ### Building this site
 - This site is built using the hugo static website generator, with the sanskrit-documentation theme; auto-built with wercker, hosted on github.
-
