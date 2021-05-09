@@ -19,6 +19,7 @@ jobs:
       uses: actions/checkout@master
       with:
         submodules: false
+        # Setting true above seems to lead to submodule updation problems.
         fetch-depth: 1
     - name: Update submodules
       if: ${{ github.event_name != 'pull_request'}}
