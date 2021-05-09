@@ -24,8 +24,8 @@ jobs:
       if: ${{ github.event_name != 'pull_request'}}
       run: |
         git pull --recurse-submodules --depth 1
-        cd content; git switch content; git pull; cd ..
-        cd themes/sanskrit-documentation-theme-hugo; git switch master; git pull; cd ../..
+        cd content; git checkout --track origin/content; git pull; cd ..
+        cd themes/sanskrit-documentation-theme-hugo; git git checkout --track origin/master; git pull; cd ../..
         echo This is disabled because : fatal: Needed a single revision  See https://github.com/vvasuki/kAvyam/runs/2474621719?check_suite_focus=true
         echo SKIPPING: git submodule update --remote --recursive
     - name: Setup Hugo
