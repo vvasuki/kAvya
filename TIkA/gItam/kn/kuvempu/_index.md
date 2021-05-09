@@ -1,4 +1,4 @@
 +++
-title = "ಕುವೆಂಪು"
+title = "+ಕುವೆಂಪು"
 unicode_script = "devanagari"
 +++

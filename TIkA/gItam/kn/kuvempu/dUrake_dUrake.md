@@ -1,6 +1,6 @@
 +++  
 title = "ದೂರಕೆ ದೂರಕೆ"  
-unicode_script = "devanagari"  
+unicode_script = "kannada"
 +++  
 ಪಕ್ಷಿಕಾಶಿ : 26. ಗಾನ  
  
