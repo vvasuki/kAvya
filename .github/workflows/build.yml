@@ -24,7 +24,7 @@ jobs:
       if: ${{ github.event_name != 'pull_request'}}
       run: |
         git pull --recurse-submodules --depth 1
-        git submodule foreach "(git checkout $(git config -f $toplevel/.gitmodules submodule.$name.branch || echo master); git pull)&"
+        git submodule update --remote --merge
         echo This is disabled because : fatal: Needed a single revision  See https://github.com/vvasuki/kAvyam/runs/2474621719?check_suite_focus=true
         echo SKIPPING: git submodule update --remote --recursive
     - name: Setup Hugo
