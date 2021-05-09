@@ -29,11 +29,12 @@ jobs:
         git pull --recurse-submodules --depth 1
         git submodule status
         cd content
-        git pull content; 
+        git branch -a
+        git switch content; git pull; 
         cd ..
         
         cd themes/sanskrit-documentation-theme-hugo; 
-        git pull master; 
+        git switch master; git pull; 
         cd ../..
         
         echo This is disabled because : fatal: Needed a single revision  See https://github.com/vvasuki/kAvyam/runs/2474621719?check_suite_focus=true
