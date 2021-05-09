@@ -18,13 +18,18 @@ jobs:
     - name: Checkout
       uses: actions/checkout@master
       with:
-        submodules: true
+        submodules: false
         fetch-depth: 1
     - name: Update submodules
       if: ${{ github.event_name != 'pull_request'}}
       run: |
+        set -o xtrace
+        git submodule update --init --recursive
+        git submodule status
         git pull --recurse-submodules --depth 1
+        git submodule status
         cd content
+        
         git branch -a
         git checkout --track origin/content; git pull; 
         cd ..
