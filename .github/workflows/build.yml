@@ -25,20 +25,7 @@ jobs:
       run: |
         set -o xtrace
         git submodule update --init --recursive
-        git submodule status
-        git pull --recurse-submodules --depth 1
-        git submodule status
-        cd content
-        git branch -a
-        git switch content; git pull; 
-        cd ..
-        
-        cd themes/sanskrit-documentation-theme-hugo; 
-        git switch master; git pull; 
-        cd ../..
-        
-        echo This is disabled because : fatal: Needed a single revision  See https://github.com/vvasuki/kAvyam/runs/2474621719?check_suite_focus=true
-        echo SKIPPING: git submodule update --remote --recursive
+        git submodule update --remote --merge --recursive
     - name: Setup Hugo
       uses: peaceiris/actions-hugo@v2
       with:
