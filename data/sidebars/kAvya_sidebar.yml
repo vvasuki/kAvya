@@ -2,15 +2,7 @@
 
 title: भागाः
 contents:
-  - title: शास्त्रम्
-    contents:
-      - url: recdir://shAstram/
-  - title: टीकाः
-    contents:
-      - url: recdir://TIkA/
-  - title: स्वोपज्ञम्
-    contents:
-      - url: recdir://sviiyam/
+  - url: recdir://
   - title: सङ्ग्रहान्तरम्
     contents:
       - title: ज्यौतिषम्
@@ -31,6 +23,8 @@ contents:
         url: ../mImAMsA/
       - title: त्रिपिटकम्
         url: ../tipiTaka/
+      - title: ಕನ್ನಡ
+        url: ../kannaDa/
       - title: पाळयः
         url: ../pALi/
   - title: Vishvas's home page
