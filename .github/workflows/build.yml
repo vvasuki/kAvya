@@ -18,6 +18,7 @@ jobs:
     - name: Checkout
       uses: actions/checkout@master
       with:
+        ref: master
         submodules: false
         # Setting true above seems to lead to submodule updation problems.
         fetch-depth: 1
