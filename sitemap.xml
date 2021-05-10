@@ -3,10 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://vvasuki.github.io/kAvyam/TIkA/padyam/kn/DVG/</loc>
-  </url>
-  
-  <url>
     <loc>https://vvasuki.github.io/kAvyam/TIkA/nATakam/kAlidAsaH/shAkuntalam/</loc>
   </url>
   
@@ -91,7 +87,7 @@
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/kAvyam/sviiyam/padyam/yAtrA/</loc>
+    <loc>https://vvasuki.github.io/kAvyam/TIkA/padyam/vishvAsaH/yAtrA/</loc>
   </url>
   
   <url>
@@ -111,11 +107,11 @@
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/kAvyam/sviiyam/padyam/yAtrA/images/</loc>
+    <loc>https://vvasuki.github.io/kAvyam/TIkA/padyam/kAlidAsaH/kumArasambhavam/images/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/kAvyam/TIkA/padyam/kAlidAsaH/kumArasambhavam/images/</loc>
+    <loc>https://vvasuki.github.io/kAvyam/TIkA/padyam/vishvAsaH/yAtrA/images/</loc>
   </url>
   
   <url>
@@ -159,10 +155,6 @@
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/kAvyam/sviiyam/padyam/</loc>
-  </url>
-  
-  <url>
     <loc>https://vvasuki.github.io/kAvyam/TIkA/padyam/purANam/</loc>
   </url>
   
@@ -191,11 +183,7 @@
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/kAvyam/sviiyam/gadyam/</loc>
-  </url>
-  
-  <url>
-    <loc>https://vvasuki.github.io/kAvyam/sviiyam/padyam/shRngAraH/</loc>
+    <loc>https://vvasuki.github.io/kAvyam/TIkA/padyam/vishvAsaH/shRngAraH/</loc>
   </url>
   
   <url>
@@ -227,6 +215,10 @@
   </url>
   
   <url>
+    <loc>https://vvasuki.github.io/kAvyam/TIkA/padyam/vishvAsaH/</loc>
+  </url>
+  
+  <url>
     <loc>https://vvasuki.github.io/kAvyam/TIkA/padyam/kathAsaritsAgaraH/12/vetAla-panchavimshatikA/</loc>
   </url>
   
@@ -239,7 +231,7 @@
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/kAvyam/sviiyam/padyam/stotram/</loc>
+    <loc>https://vvasuki.github.io/kAvyam/TIkA/padyam/vishvAsaH/stotram/</loc>
   </url>
   
   <url>
@@ -247,7 +239,7 @@
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/kAvyam/sviiyam/padyam/saMyamaH/</loc>
+    <loc>https://vvasuki.github.io/kAvyam/TIkA/padyam/vishvAsaH/saMyamaH/</loc>
   </url>
   
   <url>
@@ -452,26 +444,6 @@
   
   <url>
     <loc>https://vvasuki.github.io/kAvyam/TIkA/champUH/nItiH/panchatantram/5_aparIkShitakArakam/full/</loc>
-  </url>
-  
-  <url>
-    <loc>https://vvasuki.github.io/kAvyam/TIkA/gItam/kn/</loc>
-  </url>
-  
-  <url>
-    <loc>https://vvasuki.github.io/kAvyam/TIkA/padyam/kn/</loc>
-  </url>
-  
-  <url>
-    <loc>https://vvasuki.github.io/kAvyam/TIkA/gItam/kn/kuvempu/</loc>
-  </url>
-  
-  <url>
-    <loc>https://vvasuki.github.io/kAvyam/TIkA/gItam/kn/gOvina_hADu/</loc>
-  </url>
-  
-  <url>
-    <loc>https://vvasuki.github.io/kAvyam/TIkA/gItam/kn/havyaka-hADugaLu/</loc>
   </url>
   
   <url>
@@ -1075,11 +1047,11 @@
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/kAvyam/sviiyam/padyam/shRngAraH/adbhutA-ChurikA/</loc>
+    <loc>https://vvasuki.github.io/kAvyam/TIkA/padyam/vishvAsaH/shRngAraH/adbhutA-ChurikA/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/kAvyam/sviiyam/padyam/saMyamaH/abhimanyuH/</loc>
+    <loc>https://vvasuki.github.io/kAvyam/TIkA/padyam/vishvAsaH/saMyamaH/abhimanyuH/</loc>
   </url>
   
   <url>
@@ -1095,7 +1067,7 @@
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/kAvyam/sviiyam/padyam/saMyamaH/alaukikAnubhava-sAdhutA/</loc>
+    <loc>https://vvasuki.github.io/kAvyam/TIkA/padyam/vishvAsaH/saMyamaH/alaukikAnubhava-sAdhutA/</loc>
   </url>
   
   <url>
@@ -1103,15 +1075,15 @@
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/kAvyam/sviiyam/padyam/yAtrA/ujjayinI/</loc>
+    <loc>https://vvasuki.github.io/kAvyam/TIkA/padyam/vishvAsaH/yAtrA/ujjayinI/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/kAvyam/sviiyam/padyam/saMyamaH/Rtam/</loc>
+    <loc>https://vvasuki.github.io/kAvyam/TIkA/padyam/vishvAsaH/saMyamaH/Rtam/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/kAvyam/sviiyam/padyam/saMyamaH/kavigarvaH/</loc>
+    <loc>https://vvasuki.github.io/kAvyam/TIkA/padyam/vishvAsaH/saMyamaH/kavigarvaH/</loc>
   </url>
   
   <url>
@@ -1119,23 +1091,23 @@
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/kAvyam/sviiyam/padyam/saMyamaH/krodhaH/</loc>
+    <loc>https://vvasuki.github.io/kAvyam/TIkA/padyam/vishvAsaH/saMyamaH/krodhaH/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/kAvyam/sviiyam/padyam/shRngAraH/padyotsavaH/</loc>
+    <loc>https://vvasuki.github.io/kAvyam/TIkA/padyam/vishvAsaH/shRngAraH/padyotsavaH/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/kAvyam/sviiyam/padyam/stotram/chaNDIpAdaH/</loc>
+    <loc>https://vvasuki.github.io/kAvyam/TIkA/padyam/vishvAsaH/stotram/chaNDIpAdaH/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/kAvyam/sviiyam/padyam/saMyamaH/chamatkAraH/</loc>
+    <loc>https://vvasuki.github.io/kAvyam/TIkA/padyam/vishvAsaH/saMyamaH/chamatkAraH/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/kAvyam/sviiyam/padyam/chitram/</loc>
+    <loc>https://vvasuki.github.io/kAvyam/TIkA/padyam/vishvAsaH/chitram/</loc>
   </url>
   
   <url>
@@ -1151,15 +1123,15 @@
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/kAvyam/sviiyam/padyam/shRngAraH/zebra-rainbow/</loc>
+    <loc>https://vvasuki.github.io/kAvyam/TIkA/padyam/vishvAsaH/shRngAraH/zebra-rainbow/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/kAvyam/sviiyam/padyam/saMyamaH/jIvanAxaramAlA/</loc>
+    <loc>https://vvasuki.github.io/kAvyam/TIkA/padyam/vishvAsaH/saMyamaH/jIvanAxaramAlA/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/kAvyam/sviiyam/padyam/yAtrA/deutchesreich-2015-01/</loc>
+    <loc>https://vvasuki.github.io/kAvyam/TIkA/padyam/vishvAsaH/yAtrA/deutchesreich-2015-01/</loc>
   </url>
   
   <url>
@@ -1171,15 +1143,15 @@
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/kAvyam/sviiyam/padyam/yAtrA/drAviDam/</loc>
+    <loc>https://vvasuki.github.io/kAvyam/TIkA/padyam/vishvAsaH/yAtrA/drAviDam/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/kAvyam/sviiyam/padyam/stotram/nayanashaktiH/</loc>
+    <loc>https://vvasuki.github.io/kAvyam/TIkA/padyam/vishvAsaH/stotram/nayanashaktiH/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/kAvyam/sviiyam/padyam/nava-kAshmIrakaH/</loc>
+    <loc>https://vvasuki.github.io/kAvyam/TIkA/padyam/vishvAsaH/nava-kAshmIrakaH/</loc>
   </url>
   
   <url>
@@ -1187,15 +1159,15 @@
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/kAvyam/sviiyam/padyam/saMyamaH/puShpAxiH/</loc>
+    <loc>https://vvasuki.github.io/kAvyam/TIkA/padyam/vishvAsaH/saMyamaH/puShpAxiH/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/kAvyam/sviiyam/padyam/2013-on-dump/</loc>
+    <loc>https://vvasuki.github.io/kAvyam/TIkA/padyam/vishvAsaH/2013-on-dump/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/kAvyam/sviiyam/padyam/yAtrA/pravaasaH/</loc>
+    <loc>https://vvasuki.github.io/kAvyam/TIkA/padyam/vishvAsaH/yAtrA/pravaasaH/</loc>
   </url>
   
   <url>
@@ -1203,11 +1175,11 @@
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/kAvyam/sviiyam/padyam/saMyamaH/bindu-stutiH/</loc>
+    <loc>https://vvasuki.github.io/kAvyam/TIkA/padyam/vishvAsaH/saMyamaH/bindu-stutiH/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/kAvyam/sviiyam/padyam/saMyamaH/brahmavAkyam/</loc>
+    <loc>https://vvasuki.github.io/kAvyam/TIkA/padyam/vishvAsaH/saMyamaH/brahmavAkyam/</loc>
   </url>
   
   <url>
@@ -1219,7 +1191,7 @@
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/kAvyam/sviiyam/padyam/saMyamaH/bhArgava-mantraH/</loc>
+    <loc>https://vvasuki.github.io/kAvyam/TIkA/padyam/vishvAsaH/saMyamaH/bhArgava-mantraH/</loc>
   </url>
   
   <url>
@@ -1231,11 +1203,11 @@
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/kAvyam/sviiyam/padyam/yAtrA/madhya-floriDA/</loc>
+    <loc>https://vvasuki.github.io/kAvyam/TIkA/padyam/vishvAsaH/yAtrA/madhya-floriDA/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/kAvyam/sviiyam/padyam/saMyamaH/mantraH/</loc>
+    <loc>https://vvasuki.github.io/kAvyam/TIkA/padyam/vishvAsaH/saMyamaH/mantraH/</loc>
   </url>
   
   <url>
@@ -1255,7 +1227,7 @@
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/kAvyam/sviiyam/padyam/saMyamaH/lokottarA-vyApRtiH/</loc>
+    <loc>https://vvasuki.github.io/kAvyam/TIkA/padyam/vishvAsaH/saMyamaH/lokottarA-vyApRtiH/</loc>
   </url>
   
   <url>
@@ -1279,11 +1251,11 @@
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/kAvyam/sviiyam/padyam/saMyamaH/vairAgyam/</loc>
+    <loc>https://vvasuki.github.io/kAvyam/TIkA/padyam/vishvAsaH/saMyamaH/vairAgyam/</loc>
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/kAvyam/sviiyam/padyam/stotram/bhAratam-sharaNam/</loc>
+    <loc>https://vvasuki.github.io/kAvyam/TIkA/padyam/vishvAsaH/stotram/bhAratam-sharaNam/</loc>
   </url>
   
   <url>
@@ -1291,7 +1263,7 @@
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/kAvyam/sviiyam/padyam/saMyamaH/saMskRtam/</loc>
+    <loc>https://vvasuki.github.io/kAvyam/TIkA/padyam/vishvAsaH/saMyamaH/saMskRtam/</loc>
   </url>
   
   <url>
@@ -1299,7 +1271,7 @@
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/kAvyam/sviiyam/padyam/saMyamaH/satsangaH/</loc>
+    <loc>https://vvasuki.github.io/kAvyam/TIkA/padyam/vishvAsaH/saMyamaH/satsangaH/</loc>
   </url>
   
   <url>
@@ -1379,7 +1351,7 @@
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/kAvyam/sviiyam/padyam/yAtrA/siMhapuram/</loc>
+    <loc>https://vvasuki.github.io/kAvyam/TIkA/padyam/vishvAsaH/yAtrA/siMhapuram/</loc>
   </url>
   
   <url>
@@ -1391,7 +1363,7 @@
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/kAvyam/sviiyam/padyam/saMyamaH/skhAlityam/</loc>
+    <loc>https://vvasuki.github.io/kAvyam/TIkA/padyam/vishvAsaH/saMyamaH/skhAlityam/</loc>
   </url>
   
   <url>
@@ -1403,7 +1375,7 @@
   </url>
   
   <url>
-    <loc>https://vvasuki.github.io/kAvyam/sviiyam/padyam/shRngAraH/hemantam/</loc>
+    <loc>https://vvasuki.github.io/kAvyam/TIkA/padyam/vishvAsaH/shRngAraH/hemantam/</loc>
   </url>
   
   <url>
@@ -3224,34 +3196,6 @@
   
   <url>
     <loc>https://vvasuki.github.io/kAvyam/TIkA/padyam/purANam/rAmacharitamAnasa-TIkA/07_uttarakANDa/</loc>
-  </url>
-  
-  <url>
-    <loc>https://vvasuki.github.io/kAvyam/TIkA/padyam/kn/DVG/kaggada_kathe/</loc>
-  </url>
-  
-  <url>
-    <loc>https://vvasuki.github.io/kAvyam/TIkA/gItam/kn/havyaka-hADugaLu/toTTalu-hADu/</loc>
-  </url>
-  
-  <url>
-    <loc>https://vvasuki.github.io/kAvyam/TIkA/gItam/kn/kuvempu/dUrake_dUrake/</loc>
-  </url>
-  
-  <url>
-    <loc>https://vvasuki.github.io/kAvyam/TIkA/padyam/kn/narasiMhAchAr/</loc>
-  </url>
-  
-  <url>
-    <loc>https://vvasuki.github.io/kAvyam/TIkA/padyam/kn/narasiMhAchAr/rangavallI/</loc>
-  </url>
-  
-  <url>
-    <loc>https://vvasuki.github.io/kAvyam/sviiyam/gadyam/rAjA-rAmanu-rAjanu-alla/</loc>
-  </url>
-  
-  <url>
-    <loc>https://vvasuki.github.io/kAvyam/TIkA/padyam/kn/DVG/0/</loc>
   </url>
   
 </urlset>
