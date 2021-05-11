@@ -3,4 +3,8 @@ title: +विश्वासः
 ---
 
 
-मम मुक्तकानि[अन्यत्र](https://docs.google.com/spreadsheet/ccc?key=0Al_QBT-hoqqVdFBKZzVsM3VUREYzVzMxcHhGZDJYdHc#gid=0)वर्तन्ते।
+मम मुक्तकानि [अन्यत्र](https://docs.google.com/spreadsheet/ccc?key=0Al_QBT-hoqqVdFBKZzVsM3VUREYzVzMxcHhGZDJYdHc#gid=0) वर्तन्ते।
+सिन्धोर्गर्भम् अगाद् अधः क्षितिभृतो लिल्ये ऽहिवेश्माविशत्  
+स्तम्भे छन्नम् उवास खर्वम् अकरोद् देहं ममज्जासृजि ।  
+भेजेऽरण्यम् अहीं पपात यमुनातोयेऽभवन् मौनभाग्  
+आरूढस् तुरगं मुरप्रमथनस् त्रस्तः कवेर्माधवात् ॥
