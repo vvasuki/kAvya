@@ -33,7 +33,7 @@ jobs:
         set -o xtrace
         echo "=====${{ steps.changed-files.outputs.all}}======"
         echo "=====${{ steps.changed-files.outputs.all}}======"
-#        git submodule update --init --recursive
+        echo Not doing: git submodule update --init --recursive
         git submodule update --remote --merge --recursive
     - name: Setup Hugo
       id: setup_hugo
