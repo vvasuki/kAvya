@@ -56,17 +56,11 @@ On reference to Mr. M. Ramakrishnakavi as to his opinion about the age
 of the author, he sent me the following note:-
 
 "*Sahityasara* was composed by the end of the
-
 eleventh century, for the date of Vamarasimuni is
-
 determined. He constructed a temple at......... about
-
 10 miles on the northern side of the Tungabhadra near
-
 Kurnool. There are inscriptions one of which presents
-
 the fact that Vamarasi managed the construction of the
-
 temple."
 
 As he had given no reference to the inscriptions to trace them, I
@@ -109,14 +103,8 @@ Director.
 
 
 17-12-52,
-
 **श्रीः**  
-
-## **श्रीनिवासो विजयते ।।**
-
-  
-
-## 
+**श्रीनिवासो विजयते ।।**
 
 ## **परिचयः**
 
@@ -246,34 +234,4 @@ Director.
 क्री.श., ११-१२=१९५२.
 
   
-
-**विषयसूची**(मूलग्रन्थे नास्ति)
-
-{{{1}}}
-
-**सूचीपत्रम्**
-
-[प्रथमप्रकाशः](/wiki/%E0%A4%B8%E0%A4%BE%E0%A4%B9%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A4%BE%E0%A4%B0%E0%A4%83/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%BE%E0%A4%B6%E0%A4%83 "साहित्यसारः/प्रथमप्रकाशः")
-
-[10](/wiki/%E0%A4%AA%E0%A5%83%E0%A4%B7%E0%A5%8D%E0%A4%A0%E0%A4%AE%E0%A5%8D:%E0%A4%B8%E0%A4%BE%E0%A4%B9%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A4%BE%E0%A4%B0%E0%A4%83.pdf/10 "पृष्ठम्:साहित्यसारः.pdf/10")
-
-[द्वितीयप्रकाशः](/wiki/%E0%A4%B8%E0%A4%BE%E0%A4%B9%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A4%BE%E0%A4%B0%E0%A4%83/%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%BE%E0%A4%B6%E0%A4%83 "साहित्यसारः/द्वितीयप्रकाशः")
-
-[20](/wiki/%E0%A4%AA%E0%A5%83%E0%A4%B7%E0%A5%8D%E0%A4%A0%E0%A4%AE%E0%A5%8D:%E0%A4%B8%E0%A4%BE%E0%A4%B9%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A4%BE%E0%A4%B0%E0%A4%83.pdf/20 "पृष्ठम्:साहित्यसारः.pdf/20")
-
-[तृतीयप्रकाशः](/wiki/%E0%A4%B8%E0%A4%BE%E0%A4%B9%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A4%BE%E0%A4%B0%E0%A4%83/%E0%A4%A4%E0%A5%83%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%BE%E0%A4%B6%E0%A4%83 "साहित्यसारः/तृतीयप्रकाशः")
-
-[34](/wiki/%E0%A4%AA%E0%A5%83%E0%A4%B7%E0%A5%8D%E0%A4%A0%E0%A4%AE%E0%A5%8D:%E0%A4%B8%E0%A4%BE%E0%A4%B9%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A4%BE%E0%A4%B0%E0%A4%83.pdf/34 "पृष्ठम्:साहित्यसारः.pdf/34")
-
-[चतुर्थप्रकाशः](/wiki/%E0%A4%B8%E0%A4%BE%E0%A4%B9%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A4%BE%E0%A4%B0%E0%A4%83/%E0%A4%9A%E0%A4%A4%E0%A5%81%E0%A4%B0%E0%A5%8D%E0%A4%A5%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%BE%E0%A4%B6%E0%A4%83 "साहित्यसारः/चतुर्थप्रकाशः")
-
-[41](/wiki/%E0%A4%AA%E0%A5%83%E0%A4%B7%E0%A5%8D%E0%A4%A0%E0%A4%AE%E0%A5%8D:%E0%A4%B8%E0%A4%BE%E0%A4%B9%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A4%BE%E0%A4%B0%E0%A4%83.pdf/41 "पृष्ठम्:साहित्यसारः.pdf/41")
-
-[पञ्चमप्रकाशः](/wiki/%E0%A4%B8%E0%A4%BE%E0%A4%B9%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A4%BE%E0%A4%B0%E0%A4%83/%E0%A4%AA%E0%A4%9E%E0%A5%8D%E0%A4%9A%E0%A4%AE%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%BE%E0%A4%B6%E0%A4%83 "साहित्यसारः/पञ्चमप्रकाशः")
-
-[50](/wiki/%E0%A4%AA%E0%A5%83%E0%A4%B7%E0%A5%8D%E0%A4%A0%E0%A4%AE%E0%A5%8D:%E0%A4%B8%E0%A4%BE%E0%A4%B9%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A4%BE%E0%A4%B0%E0%A4%83.pdf/50 "पृष्ठम्:साहित्यसारः.pdf/50")
-
-[षष्ठप्रकाशः](/wiki/%E0%A4%B8%E0%A4%BE%E0%A4%B9%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A4%BE%E0%A4%B0%E0%A4%83/%E0%A4%B7%E0%A4%B7%E0%A5%8D%E0%A4%A0%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%BE%E0%A4%B6%E0%A4%83 "साहित्यसारः/षष्ठप्रकाशः")
-
-[64](/wiki/%E0%A4%AA%E0%A5%83%E0%A4%B7%E0%A5%8D%E0%A4%A0%E0%A4%AE%E0%A5%8D:%E0%A4%B8%E0%A4%BE%E0%A4%B9%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A4%BE%E0%A4%B0%E0%A4%83.pdf/64 "पृष्ठम्:साहित्यसारः.pdf/64")
 
