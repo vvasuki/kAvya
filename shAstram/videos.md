@@ -8,9 +8,9 @@ title: Videos चलच्चित्राणि
 
 Good videos are less tedious on the eyes than books - though they often significantly sacrifice the ability to relate a man's inner thoughts. Another important motivation is escapism to a pleasenter, more interesting world.
 
-  
 
-### Self-contained videos vs series:
+
+### Self-contained videos vs series
 
 A series of videos (movies or TV series) is akin to a novel, whereas a self-contained video is akin to a short story. The latter allows greater ability to explore issurs, build characters - they tend to be more intellectually satisfying.
 
@@ -18,15 +18,15 @@ Within a TV series (eg: Star trek Voyager), the quality of videos varies. Resour
 
 Within a single video, some scenes stand out, providing an aesthetic peak that can be experienced in isolation.
 
-### About stories about extraordinary people:
+### Stories about extraordinary people
 
 The desire to observe personalities whose greater skills (or character traits or power beyond others) you envy motivates one to experience their stories - how they react in various situations. One experiences a feeling of awe and admiration.
 
-  
+
 
 Questions - is the tedium caused due to less-interesting parts of the story and setting worth it? Is it better to read or experience their cleverness through their works and news reports (eg: scientific literature, art)?
 
-  
+
 
 ## Movies watched with ratings
 
@@ -37,7 +37,7 @@ Questions - is the tedium caused due to less-interesting parts of the story and 
 - General adventure
     - General plot:The character(s) are repeatedly placed in crisis situations, which they survive with a combination of wits, luck, and possibly special abilities. Often - but not necessarily, the hero(s) are pursuing a certain important objective.Effect on the viewer: The viewer's dopamine system, which seeks novelty is activated repeatedly. Even the adrenaline system responds repeatedly in sympathy with the crises.
     -   
-        
+
 - Action adventure:
     - The hero is highly skilled an resourceful inindividual combat\- possibly specializing in machines like the airplane or a car. He is often placed in situations where he fights multiple opponents; and he often succeeds with ease. His strategies in combating the adversary can be quite cunning. Even where victory is not obtained easily, he persistsdefiantly. This defiance is usally at the service of self preservation, serving justice, revenge and suchappealing traits. Unlike general advenctures, the hero does not usually resolve crises by solving tough intellectual puzzles.
     - Spy subgenre:
@@ -45,8 +45,8 @@ Questions - is the tedium caused due to less-interesting parts of the story and 
 - Space exploration:
     - A small team encounters strange interesting situations. It is interesting to see how the various characters interact and deal with them. There may be an overall arc concerning wars and battles.
 
-  
-  
+
+
 
 ## Posters:
 
