@@ -205,4 +205,5 @@ TRIVANDRUM, 1
 18th August 1916
 
 
+{{< figure src="../images/kampaNa-campaign.png" title="" link="https://www.google.com/maps/dir/Anegundi,+Karnataka/Mulbagal,+Karnataka+563131/Chittoor,+Andhra+Pradesh/Virinchipuram,+Tamil+Nadu/Padavedu,+Tamil+Nadu/Kanchipuram,+Tamil+Nadu/Singavaram,+Tamil+Nadu/Srirangam,+Tamil+Nadu/Samayapuram,+Tamil+Nadu/@13.1079755,75.8485624,1131496m/data=!3m2!1e3!4b1!4m56!4m55!1m5!1m1!1s0x3bb77f9a10169ab1:0x72f344d40c669166!2m2!1d76.492455!2d15.35067!1m5!1m1!1s0x3bad8e9792d0a99d:0xd54bacf407594a0!2m2!1d78.3940737!2d13.1666533!1m5!1m1!1s0x3bad5c1a6cca26a1:0xaaadf018b7f72797!2m2!1d79.1003289!2d13.217176!1m5!1m1!1s0x3bad15676139c2cf:0x92de39233d5c6bf1!2m2!1d79.0187661!2d12.9238664!1m5!1m1!1s0x3bad26ad7c95b1c3:0xb2f8c6f4caedab7e!2m2!1d79.1126196!2d12.6599855!1m5!1m1!1s0x3a52c2f7e0c7f12d:0xde5f8682b1cb2a4d!2m2!1d79.6946586!2d12.818456!1m5!1m1!1s0x3a53351d783d7e85:0xc101bfa7de1fbfea!2m2!1d79.4113072!2d12.2806645!1m5!1m1!1s0x3baaf5d38807dbd3:0x6fc3d1a428e19458!2m2!1d78.6997699!2d10.8502661!1m5!1m1!1s0x3baaf730fa88a8cb:0x1599afcc0d3e301!2m2!1d78.7409075!2d10.9193856!3e2" class="thumbnail">}}
 
