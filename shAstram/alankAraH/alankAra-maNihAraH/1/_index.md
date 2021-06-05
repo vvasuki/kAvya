@@ -1,6 +1,7 @@
 +++
 title = "+१"
 unicode_script = "devanagari"
+
 +++
 
 अलङ्कारमणिहारः
@@ -9,18 +10,18 @@ unicode_script = "devanagari"
 
 Government Oriental Library Series Bibliotheca Sanskrita No 51.
 
-**श्रीमद्भिः श्रीकृष्णब्रह्मतन्त्रपरकालसंयमीन्दैः प्रणीतः**  
+**श्रीमद्भिः श्रीकृष्णब्रह्मतन्त्रपरकालसंयमीन्दैः प्रणीतः**
 **प्रथमो भागः**
 
-ALANKARA-MANIHARA  
-BY  
+ALANKARA-MANIHARA
+BY
 **SRI KRISHNA-BRAHMATANTRA PARAKALASWAMIN**
 
 **Part I**
 
 
 
-EDITED BY L. SRINIVASACHARYA  
+EDITED BY L. SRINIVASACHARYA
 Pandit, Government Oriental Library, Mysore
 
 
