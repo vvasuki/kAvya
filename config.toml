@@ -7,7 +7,7 @@ disablePathToLower = true
 
 [params]
   githubEditMePathBase = "https://github.com/vishvAsa/kAvyam/edit/content/"
-  contactLink = "https://github.com/vvasuki/kAvyam/issues/new"
+  contactLink = "https://github.com/vishvAsa/kAvyam/issues/new"
   fullSearchURL = "/full_search"
   env = "production"  
   disqusShortcode = "vvasuki-site"

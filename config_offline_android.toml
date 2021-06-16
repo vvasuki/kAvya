@@ -6,6 +6,6 @@ publishDir = "build_offline_android"
 disablePathToLower = true
 [params]
   githubEditMePathBase = "https://github.com/vishvAsa/kAvyam/edit/master/content/"
-  contactLink = "https://github.com/vvasuki/kAvyam/issues/new"
+  contactLink = "https://github.com/vishvAsa/kAvyam/issues/new"
   env = "production"
   disqusShortcode = "vvasuki-site"
